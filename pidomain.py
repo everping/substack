@@ -1,21 +1,18 @@
-from objects.domain import Domain
+import time
+from search.bing_engine import BingEngine
 
+a = time.time()
 
-class PiDomain:
-    def __init__(self, domain_name):
-        self.domain = Domain(domain_name)
+_domain = "bkav.com"
 
-    def verify(self):
-        pass
+b = BingEngine()
+# while 1:
+subs = b.discover(_domain)
+#     print '.'
 
-    def start(self):
-        enums = [enum(self.domain.url, [], q=sub_domains_queue, silent=silent, verbose=verbose) for enum in
-                 (BaiduEnum,)]
-
-    for enum in enums:
-        enum.discover()
-    for enum in enums:
-        enum.join()
-
-# domain = "bkav.com"
-# pidomain = PiDomain
+# if subs.__len__() != 7:
+for d in subs:
+    print d.domain_name
+    # break  # print b.discover(_domain).__len__()
+b = time.time()
+print b - a
