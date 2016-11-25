@@ -8,7 +8,7 @@ class BingEngine(Engine):
     def __init__(self):
         Engine.__init__(self)
         self.base_url = 'https://www.bing.com/search?q={query}&first={page}'
-        self.max_page = 999999
+        self.max_page = 500
 
     def get_query(self):
         return "domain:%s" % self.base_domain
@@ -33,6 +33,3 @@ class BingEngine(Engine):
             uri = li.find('a')['href']
             domain_name = urlparse(uri).netloc
             self.add(domain_name)
-
-
-

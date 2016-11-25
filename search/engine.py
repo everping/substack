@@ -19,6 +19,9 @@ class Engine:
                 return True
         return False
 
+    def get_name(self):
+        return self.__class__.__name__
+
     def add(self, sub_domain_name):
         """
         Add the sub-domain to the result list
@@ -26,7 +29,9 @@ class Engine:
         self.lock.acquire()
 
         if self.is_existed(sub_domain_name):
+            self.lock.release()
             return
+
         try:
             sub_domain = Domain(sub_domain_name)
             if sub_domain.is_live():
@@ -58,7 +63,8 @@ class Engine:
 
     def extract(self, result_url):
         """
-        Return a list of sub-domain found in response of the result_url
+        Parse the response of the result_url to looking for sub-domain.
+        Then add them to self.sub_domains.
         """
         msg = 'Plugin is not implementing required method extract'
         raise NotImplementedError(msg)
