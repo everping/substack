@@ -1,18 +1,12 @@
-import time
-from search.bing_engine import BingEngine
+from search.engine_factory import EngineFactory
 
-a = time.time()
-
-_domain = "bkav.com"
-
-b = BingEngine()
-# while 1:
-subs = b.discover(_domain)
-#     print '.'
-
-# if subs.__len__() != 7:
-for d in subs:
-    print d.domain_name
-    # break  # print b.discover(_domain).__len__()
-b = time.time()
-print b - a
+engines_name = ['Bing', 'Baidu']
+engines = [EngineFactory.create(engine_name) for engine_name in engines_name]
+domain = "bkav.com"
+for engine in engines:
+    print engine.get_name()
+    print engine.discover(domain).__len__()
+#
+# class PiDomain:
+#     def discover_worker(to_walk):
+#         while len(to_walk)
