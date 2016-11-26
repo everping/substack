@@ -34,6 +34,7 @@ class Engine:
 
         try:
             sub_domain = Domain(sub_domain_name)
+            sub_domain.save_info("found_by", self.get_name())
             if sub_domain.is_live():
                 self.sub_domains.append(sub_domain)
         finally:
@@ -69,12 +70,12 @@ class Engine:
         msg = 'Plugin is not implementing required method extract'
         raise NotImplementedError(msg)
 
-    def discover(self, domain_name):
+    def discover(self, domain):
         """
         This is the main method, it pass domain_name parameter
         and returns a list of the sub-domain found by the search engine
         """
-        self.base_domain = domain_name
+        self.base_domain = domain
         total_pages = self.get_total_page()
 
         threads = []

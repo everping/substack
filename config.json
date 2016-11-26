@@ -1,0 +1,20 @@
+{
+  "target": "bkav.com",
+  "mode": {
+    "discovery": {
+      "active": true,
+      "engines": [
+        "Bing",
+        "Baidu"
+      ]
+    },
+    "brute_force": {
+      "active": false
+    }
+  },
+  "timeout": 300,
+  "request": {
+    "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
+    "proxy": ""
+  }
+}
