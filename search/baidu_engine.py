@@ -1,7 +1,7 @@
-import requests
 from urlparse import urlparse
 from bs4 import BeautifulSoup
 from engine import Engine
+from objects.requester import requester
 
 
 class BaiduEngine(Engine):
@@ -11,23 +11,25 @@ class BaiduEngine(Engine):
         self.max_page = 500
 
     def get_query(self):
-        return "site:%s" % self.base_domain
+        return "site:%s" % self.base_domain.domain_name
 
     def get_page_no(self, seed):
         return 10 * seed
 
     def get_total_page(self):
-        url = self.base_url.format(query=self.get_query(), page=self.max_page)
-        r = requests.get(url)
+        try:
+            url = self.base_url.format(query=self.get_query(), page=self.max_page)
+            content = requester.get_body(url)
 
-        # http://stackoverflow.com/a/25661119/6805843
-        soup = BeautifulSoup(r.text, "html5lib")
-        div_page = soup.find('div', id="page")
-        return int(div_page.find('strong').find_all('span')[1].string)
+            # http://stackoverflow.com/a/25661119/6805843
+            soup = BeautifulSoup(content, "html5lib")
+            div_page = soup.find('div', id="page")
+            return int(div_page.find('strong').find_all('span')[1].string)
+        except AttributeError:
+            return 1
 
     def extract(self, url):
-        r = requests.get(url)
-        content = r.text
+        content = requester.get_body(url)
         soup = BeautifulSoup(content, "html5lib")
         a_tags = soup.find_all('a', class_="c-showurl")
         for a_tag in a_tags:
