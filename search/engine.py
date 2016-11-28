@@ -1,5 +1,5 @@
 import threading
-from objects.domain import Domain
+from data.domain import Domain
 
 
 class Engine:

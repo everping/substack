@@ -1,7 +1,7 @@
 from urlparse import urlparse
 from bs4 import BeautifulSoup
 from engine import Engine
-from objects.requester import requester
+from data.requester import requester
 
 
 class BaiduEngine(Engine):

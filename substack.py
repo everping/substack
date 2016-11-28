@@ -1,6 +1,7 @@
 import time
 from search.engine_factory import EngineFactory
-from objects.domain import Domain
+from data.domain import Domain
+from data.logger import logger
 
 
 class SubStack:
@@ -48,6 +49,7 @@ class SubStack:
             for engine in self.engines:
                 for domain in to_walk:
                     if self.get_discovery_time() > self.timeout:
+                        logger.error("Stop ")
                         break
                     else:
                         engine_result = engine.discover(domain)
@@ -60,7 +62,7 @@ class SubStack:
                 if not self.is_existed(domain):
                     new_domain.append(domain)
                     self.already_walked.append(domain)
-                    print 'New domain found by %s: %s' % (domain.meta_data['found_by'], domain.domain_name)
+                    logger.info('New domain found by %s: %s' % (domain.meta_data['found_by'], domain.domain_name))
 
             to_walk = new_domain
         return self.already_walked
