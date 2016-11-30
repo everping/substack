@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6952e309-1688-45d5-a303-fbbed24e366d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.json" afterPath="$PROJECT_DIR$/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.py" afterPath="$PROJECT_DIR$/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/requester.py" afterPath="$PROJECT_DIR$/data/requester.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/substack.log" afterPath="$PROJECT_DIR$/log/substack.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search/engine.py" afterPath="$PROJECT_DIR$/search/engine.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack.py" afterPath="$PROJECT_DIR$/substack.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <ignored path="pidomain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,8 +56,8 @@
       <file leaf-file-name="baidu_engine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search/baidu_engine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="300">
+              <caret line="24" column="51" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="51" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -75,16 +70,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -113,11 +98,21 @@
       <file leaf-file-name="substack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/substack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="944">
               <caret line="92" column="26" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,10 +127,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requester.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requester.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/requester.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
+            <state relative-caret-position="726">
               <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -202,7 +197,6 @@
         <option value="$PROJECT_DIR$/subdomain/bing_engine.py" />
         <option value="$PROJECT_DIR$/subdomain/engine.py" />
         <option value="$PROJECT_DIR$/pidomain2.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/pidomain.py" />
         <option value="$PROJECT_DIR$/search/engine_factory.py" />
@@ -221,6 +215,7 @@
         <option value="$PROJECT_DIR$/data/requester.py" />
         <option value="$PROJECT_DIR$/tests/vvvv.py" />
         <option value="$PROJECT_DIR$/substack.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -267,24 +262,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="substack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="substack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.12 (C:\Python27\python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1081,12 +1058,12 @@
       <workItem from="1480068103227" duration="3149000" />
       <workItem from="1480071469077" duration="21609000" />
       <workItem from="1480317658120" duration="10751000" />
-      <workItem from="1480389244223" duration="13900000" />
+      <workItem from="1480389244223" duration="14073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130616000" />
+    <option name="totallyTimeSpent" value="130789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1220,14 +1197,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/subdomain/google_engine.py" />
     <entry file="file://$PROJECT_DIR$/subdomain/virustotal_engine.py" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subdomain/dnsdumpster_engine.py" />
     <entry file="file://$PROJECT_DIR$/subdomain/bing_engine.py" />
     <entry file="file://C:/Python27/Lib/multiprocessing/__init__.py">
@@ -1325,16 +1294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search/baidu_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1383,16 +1342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/substack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="92" column="26" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log/substack.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
@@ -1403,11 +1352,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/requester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
+        <state relative-caret-position="726">
           <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/substack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="92" column="26" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/baidu_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
