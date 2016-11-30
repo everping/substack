@@ -38,13 +38,13 @@ class Config(dict):
         request = {
             "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
             "proxy": ""
-        };
+        }
         timeout = 300
         logger = {
             "path": "D:/Everping/Work/Projects/substack/log/substack.log",
             "active": True
         }
-
+        self.save('target', "")
         self.save('mode', mode)
         self.save('timeout', timeout)
         self.save('request', request)
