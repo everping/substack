@@ -1,5 +1,6 @@
 import threading
 from data.domain import Domain
+from data.logger import logger
 
 
 class Engine:
@@ -81,6 +82,7 @@ class Engine:
         threads = []
         for i in xrange(total_pages):
             url = self.base_url.format(query=self.get_query(), page=self.get_page_no(i))
+            logger.info("Requesting to %s" % url)
             thread = threading.Thread(target=self.extract, args=(url,))
 
             threads.append(thread)

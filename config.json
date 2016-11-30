@@ -1,5 +1,5 @@
 {
-  "target": "bkav.com",
+  "target": ["bkav.com"],
   "mode": {
     "discovery": {
       "active": true,

@@ -1,5 +1,6 @@
 import requests
 from config import config
+from logger import logger
 
 
 class Requester:
@@ -20,7 +21,15 @@ class Requester:
         self._proxies = proxies
 
     def get_body(self, url):
-        return requests.get(url, headers=self._headers, proxies=self._proxies).text
+        try:
+            return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+        except requests.exceptions.Timeout:
+            logger.error("It takes a request so long so I must kill it")
+        except Exception as e:
+            logger.error("I don't know why this error occurred, so I log it")
+            logger.error("My URL: %s" % url)
+            logger.error("And trace back exception is bellow")
+            logger.error(e.message)
 
     def _default(self):
         if config.load('request')['proxy'] != "":
