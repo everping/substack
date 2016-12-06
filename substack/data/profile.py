@@ -3,13 +3,10 @@ import codecs
 import os
 
 from substack.data.exceptions import ProfileException
+from substack.data.utils import PROFILE_DIRECTORY, PROFILE_SECTION, EXTENSION
 
 
 class Profile:
-    PROFILE_SECTION = 'profile'
-    EXTENSION = '.pss'
-    PROFILE_DIRECTORY = 'D:\Everping\Work\Projects\substack\profiles'
-
     def __init__(self, profile_name=''):
         self.config = ConfigParser.ConfigParser()
         self.profile_file_name = ''
@@ -37,15 +34,15 @@ class Profile:
         self.profile_file_name = profile_path
 
     def get_profile_path(self, profile_name):
-        if not profile_name.endswith(self.EXTENSION):
-            profile_name += self.EXTENSION
+        if not profile_name.endswith(EXTENSION):
+            profile_name += EXTENSION
 
         if os.path.exists(profile_name):
             return profile_name
 
-        for file_name in os.listdir(self.PROFILE_DIRECTORY):
+        for file_name in os.listdir(PROFILE_DIRECTORY):
             if file_name == profile_name:
-                real_profile_path = os.path.join(self.PROFILE_DIRECTORY, profile_name)
+                real_profile_path = os.path.join(PROFILE_DIRECTORY, profile_name)
                 return real_profile_path
 
     def set_target(self, target):
@@ -133,22 +130,22 @@ class Profile:
         return self.get_option_section('http-settings', option)
 
     def set_name(self, name):
-        if self.PROFILE_SECTION not in self.config.sections():
-            self.config.add_section(self.PROFILE_SECTION)
+        if PROFILE_SECTION not in self.config.sections():
+            self.config.add_section(PROFILE_SECTION)
 
-        self.config.set(self.PROFILE_SECTION, 'name', name)
+        self.config.set(PROFILE_SECTION, 'name', name)
 
     def get_name(self):
-        return self.get_option_section(self.PROFILE_SECTION, 'name')
+        return self.get_option_section(PROFILE_SECTION, 'name')
 
     def set_desc(self, desc):
-        if self.PROFILE_SECTION not in self.config.sections():
-            self.config.add_section(self.PROFILE_SECTION)
+        if PROFILE_SECTION not in self.config.sections():
+            self.config.add_section(PROFILE_SECTION)
 
-        self.config.set(self.PROFILE_SECTION, 'description', desc)
+        self.config.set(PROFILE_SECTION, 'description', desc)
 
     def get_desc(self):
-        return self.get_option_section(self.PROFILE_SECTION, 'description')
+        return self.get_option_section(PROFILE_SECTION, 'description')
 
     def save(self, file_name=''):
         """
@@ -160,11 +157,11 @@ class Profile:
                 raise ProfileException('Error saving profile, profile file name is required.')
             else:
                 # The user's specified a file_name!
-                if not file_name.endswith(self.EXTENSION):
-                    file_name += self.EXTENSION
+                if not file_name.endswith(EXTENSION):
+                    file_name += EXTENSION
 
             if os.path.sep not in file_name:
-                file_name = os.path.join(self.PROFILE_DIRECTORY, 'temp', file_name)
+                file_name = os.path.join(PROFILE_DIRECTORY, 'temp', file_name)
             self.profile_file_name = file_name
 
         try:

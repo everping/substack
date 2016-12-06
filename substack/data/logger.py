@@ -1,4 +1,5 @@
 import logging
+from substack.data.utils import LOG_PATH
 
 
 class Logger:
@@ -7,12 +8,11 @@ class Logger:
     """
 
     def __init__(self):
-        self.log_path = "D:\Everping\Work\Projects\substack\log\substack.log"
         self.logger = logging.getLogger("SubStack")
         self.set_up()
 
     def set_up(self):
-        file_handler = logging.FileHandler(self.log_path)
+        file_handler = logging.FileHandler(LOG_PATH)
         stream_handler = logging.StreamHandler()
         handlers = [file_handler, stream_handler]
         formatter = logging.Formatter('[%(levelname)s] %(asctime)s  %(message)s')
