@@ -3,7 +3,7 @@ import codecs
 import os
 
 from substack.data.exceptions import ProfileException
-from substack.data.utils import PROFILE_DIRECTORY, PROFILE_SECTION, EXTENSION
+from substack.data.utils import PROFILE_DIRECTORY, PROFILE_SECTION, PROFILE_EXTENSION
 
 
 class Profile:
@@ -34,8 +34,8 @@ class Profile:
         self.profile_file_name = profile_path
 
     def get_profile_path(self, profile_name):
-        if not profile_name.endswith(EXTENSION):
-            profile_name += EXTENSION
+        if not profile_name.endswith(PROFILE_EXTENSION):
+            profile_name += PROFILE_EXTENSION
 
         if os.path.exists(profile_name):
             return profile_name
@@ -157,8 +157,8 @@ class Profile:
                 raise ProfileException('Error saving profile, profile file name is required.')
             else:
                 # The user's specified a file_name!
-                if not file_name.endswith(EXTENSION):
-                    file_name += EXTENSION
+                if not file_name.endswith(PROFILE_EXTENSION):
+                    file_name += PROFILE_EXTENSION
 
             if os.path.sep not in file_name:
                 file_name = os.path.join(PROFILE_DIRECTORY, 'temp', file_name)
