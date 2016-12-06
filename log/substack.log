@@ -4377,3 +4377,155 @@ Traceback (most recent call last):
   File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 499, in send
     raise ReadTimeout(e, request=request)
 ReadTimeout: HTTPConnectionPool(host='www.baidu.com', port=80): Read timed out. (read timeout=60)
+[INFO] 2016-12-06 16:46:37,338  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=0
+[INFO] 2016-12-06 16:46:37,437  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=10
+[INFO] 2016-12-06 16:46:37,502  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=20
+[INFO] 2016-12-06 16:46:37,513  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=30
+[INFO] 2016-12-06 16:46:37,522  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=40
+[INFO] 2016-12-06 16:46:37,532  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=50
+[INFO] 2016-12-06 16:46:37,548  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=60
+[INFO] 2016-12-06 16:46:37,559  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=70
+[INFO] 2016-12-06 16:46:37,568  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=80
+[INFO] 2016-12-06 16:46:37,575  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=90
+[INFO] 2016-12-06 16:46:37,588  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=100
+[INFO] 2016-12-06 16:46:37,608  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=110
+[INFO] 2016-12-06 16:46:37,617  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=120
+[INFO] 2016-12-06 16:46:37,625  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=130
+[INFO] 2016-12-06 16:46:37,635  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=140
+[INFO] 2016-12-06 16:46:37,684  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=150
+[INFO] 2016-12-06 16:46:37,713  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=160
+[INFO] 2016-12-06 16:46:37,723  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=170
+[INFO] 2016-12-06 16:46:37,734  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=180
+[INFO] 2016-12-06 16:46:37,746  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=190
+[INFO] 2016-12-06 16:46:37,763  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=200
+[INFO] 2016-12-06 16:46:37,773  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=210
+[INFO] 2016-12-06 16:46:37,783  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=220
+[INFO] 2016-12-06 16:46:37,792  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=230
+[INFO] 2016-12-06 16:46:37,802  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=240
+[INFO] 2016-12-06 16:46:37,811  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=250
+[INFO] 2016-12-06 16:46:37,834  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=260
+[INFO] 2016-12-06 16:46:37,852  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=270
+[INFO] 2016-12-06 16:46:37,871  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=280
+[INFO] 2016-12-06 16:46:37,884  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=290
+[INFO] 2016-12-06 16:46:37,914  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=300
+[INFO] 2016-12-06 16:46:37,921  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=310
+[INFO] 2016-12-06 16:46:37,923  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=320
+[INFO] 2016-12-06 16:46:37,924  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=330
+[INFO] 2016-12-06 16:46:37,937  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=340
+[INFO] 2016-12-06 16:46:37,940  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=350
+[INFO] 2016-12-06 16:46:37,943  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=360
+[INFO] 2016-12-06 16:46:37,947  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=370
+[INFO] 2016-12-06 16:46:37,950  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=380
+[INFO] 2016-12-06 16:46:37,983  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=390
+[INFO] 2016-12-06 16:46:38,000  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=400
+[INFO] 2016-12-06 16:46:38,007  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=410
+[INFO] 2016-12-06 16:46:38,015  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=420
+[INFO] 2016-12-06 16:46:38,022  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=430
+[INFO] 2016-12-06 16:46:38,029  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=440
+[INFO] 2016-12-06 16:46:38,049  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=450
+[INFO] 2016-12-06 16:46:38,055  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=460
+[INFO] 2016-12-06 16:46:38,056  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=470
+[INFO] 2016-12-06 16:46:38,065  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=480
+[INFO] 2016-12-06 16:46:38,068  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=490
+[INFO] 2016-12-06 16:46:38,072  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=500
+[ERROR] 2016-12-06 16:47:37,992  It takes a request so long so I must kill it
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get_body
+    return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 499, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='www.baidu.com', port=80): Read timed out. (read timeout=60)
+[ERROR] 2016-12-06 16:47:38,305  It takes a request so long so I must kill it
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get_body
+    return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 499, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='www.baidu.com', port=80): Read timed out. (read timeout=60)
+[ERROR] 2016-12-06 16:47:38,325  It takes a request so long so I must kill it
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get_body
+    return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 499, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='www.baidu.com', port=80): Read timed out. (read timeout=60)
+[ERROR] 2016-12-06 16:47:38,345  It takes a request so long so I must kill it
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get_body
+    return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 499, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='www.baidu.com', port=80): Read timed out. (read timeout=60)
+[ERROR] 2016-12-06 16:47:38,486  It takes a request so long so I must kill it
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get_body
+    return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 499, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='www.baidu.com', port=80): Read timed out. (read timeout=60)
+[ERROR] 2016-12-06 16:47:38,496  It takes a request so long so I must kill it
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get_body
+    return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 499, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='www.baidu.com', port=80): Read timed out. (read timeout=60)
+[INFO] 2016-12-06 16:47:39,634  Requesting to http://www.baidu.com/s?wd=site:thunderstrike.garena.com&pn=0
+[ERROR] 2016-12-06 16:47:40,785  Stopped since overtime
+[INFO] 2016-12-06 16:47:40,792  New domain found by BingEngine: redeem.thunderstrike.garena.com
+[INFO] 2016-12-06 16:47:40,809  New domain found by BingEngine: landing.lol.garena.com
+[INFO] 2016-12-06 16:47:40,809  New domain found by BingEngine: onlinerewards.lol.garena.com
+[INFO] 2016-12-06 16:47:40,815  New domain found by BingEngine: predict.sgcl.lol.garena.com
+[INFO] 2016-12-06 16:47:40,821  New domain found by BingEngine: fs1.ava.garena.com
+[INFO] 2016-12-06 16:47:40,821  New domain found by BingEngine: captain.ava.garena.com
+[INFO] 2016-12-06 16:47:40,822  New domain found by BingEngine: coupon.ava.garena.com
+[ERROR] 2016-12-06 16:47:40,868  Stopped since overtime
+[ERROR] 2016-12-06 16:47:40,868  Stopped since overtime

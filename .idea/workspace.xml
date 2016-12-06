@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6952e309-1688-45d5-a303-fbbed24e366d" name="Default" comment="Bo sung lop exception de kiem soat cac exeption logic">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profiles/empty.pss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/substack/data/exceptions.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/domain.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/logger.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/requester.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/baidu_engine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/bing_engine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/engine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search/engine_factory.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/logger.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/substack.iml" afterPath="$PROJECT_DIR$/.idea/substack.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="6952e309-1688-45d5-a303-fbbed24e366d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/substack.log" afterPath="$PROJECT_DIR$/log/substack.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/data/__init__.py" afterPath="$PROJECT_DIR$/substack.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/search/__init__.py" afterPath="$PROJECT_DIR$/substack/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/substack.py" afterPath="$PROJECT_DIR$/substack/substack_core.py" />
     </list>
     <ignored path="pidomain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -306,6 +288,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="substack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="substack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="substack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="substack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="substack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="substack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="substack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1060,12 +1074,20 @@
       <workItem from="1480389244223" duration="15995000" />
       <workItem from="1480647499953" duration="4736000" />
       <workItem from="1480663600452" duration="631000" />
-      <workItem from="1480908601765" duration="34323000" />
+      <workItem from="1480908601765" duration="34547000" />
     </task>
+    <task id="LOCAL-00001" summary="I made some big changes, especially I make the Profile class  to control options more effectively">
+      <created>1481017597114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1481017597114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172401000" />
+    <option name="totallyTimeSpent" value="172625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1133,6 +1155,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I made some big changes, especially I make the Profile class  to control options more effectively" />
+    <option name="LAST_COMMIT_MESSAGE" value="I made some big changes, especially I make the Profile class  to control options more effectively" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
