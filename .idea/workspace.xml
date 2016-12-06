@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6952e309-1688-45d5-a303-fbbed24e366d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/substack.log" afterPath="$PROJECT_DIR$/log/substack.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack.py" afterPath="$PROJECT_DIR$/substack.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/data/logger.py" afterPath="$PROJECT_DIR$/substack/data/logger.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/data/profile.py" afterPath="$PROJECT_DIR$/substack/data/profile.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/data/utils.py" afterPath="$PROJECT_DIR$/substack/data/utils.py" />
     </list>
     <ignored path="pidomain.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +21,7 @@
     <SUITE FILE_PATH="coverage/pidomain$engine.coverage" NAME="engine Coverage Results" MODIFIED="1480068705319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search" />
     <SUITE FILE_PATH="coverage/substack$substack.coverage" NAME="substack Coverage Results" MODIFIED="1481016851149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pidomain$google_engine.coverage" NAME="google_engine Coverage Results" MODIFIED="1479209137090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/subdomain" />
-    <SUITE FILE_PATH="coverage/substack$substack__1_.coverage" NAME="substack (1) Coverage Results" MODIFIED="1481018086457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/substack$substack__1_.coverage" NAME="substack (1) Coverage Results" MODIFIED="1481018676407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/substack$vvvv.coverage" NAME="vvvv Coverage Results" MODIFIED="1480493752250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/pidomain$pidomain.coverage" NAME="pidomain Coverage Results" MODIFIED="1480071043286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/substack$baidu_engine.coverage" NAME="baidu_engine Coverage Results" MODIFIED="1480147072553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search" />
@@ -73,8 +69,8 @@
       <file leaf-file-name="substack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/substack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -146,21 +142,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="profile.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/substack/data/profile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+              <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/substack/data/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            <state relative-caret-position="51">
+              <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -235,8 +231,8 @@
         <option value="$PROJECT_DIR$/substack/substack_core.py" />
         <option value="$PROJECT_DIR$/substack.py" />
         <option value="$PROJECT_DIR$/substack/data/logger.py" />
-        <option value="$PROJECT_DIR$/substack/data/profile.py" />
         <option value="$PROJECT_DIR$/substack/data/utils.py" />
+        <option value="$PROJECT_DIR$/substack/data/profile.py" />
       </list>
     </option>
   </component>
@@ -354,7 +350,7 @@
       <recent name="D:\Everping\Work\Projects\pidomain" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.profile">
+  <component name="RunManager" selected="Python.substack (1)">
     <configuration default="false" name="substack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1044,8 +1040,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.profile" />
-        <item index="1" class="java.lang.String" itemvalue="Python.substack (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.substack (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.profile" />
         <item index="2" class="java.lang.String" itemvalue="Python.substack_core" />
         <item index="3" class="java.lang.String" itemvalue="Python.logger" />
         <item index="4" class="java.lang.String" itemvalue="Python.substack" />
@@ -1078,7 +1074,7 @@
       <workItem from="1480389244223" duration="15995000" />
       <workItem from="1480647499953" duration="4736000" />
       <workItem from="1480663600452" duration="631000" />
-      <workItem from="1480908601765" duration="35507000" />
+      <workItem from="1480908601765" duration="35575000" />
     </task>
     <task id="LOCAL-00001" summary="I made some big changes, especially I make the Profile class  to control options more effectively">
       <created>1481017597114</created>
@@ -1091,7 +1087,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173585000" />
+    <option name="totallyTimeSpent" value="173653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1478,26 +1474,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/substack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/substack/data/profile.py">
+    <entry file="file://$PROJECT_DIR$/substack/data/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+        <state relative-caret-position="51">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/substack/data/utils.py">
+    <entry file="file://$PROJECT_DIR$/substack/data/profile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="105">
+          <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
           <folding />
         </state>
       </provider>
