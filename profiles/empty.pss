@@ -1,8 +1,8 @@
-[search.BingEngine]
+[search.BingPlugin]
 
-[search.BaiduEngine]
+[search.BaiduPlugin]
 
-[port.MxToolboxEngine]
+[port.MxToolboxPlugin]
 
 [http-settings]
 proxy = 

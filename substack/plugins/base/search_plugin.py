@@ -2,12 +2,12 @@ import threading
 
 from substack.data.logger import logger
 from substack.data.domain import Domain
-from substack.plugins.base.engine import Engine
+from substack.plugins.base.plugin import Plugin
 
 
-class SearchEngine(Engine):
+class SearchPlugin(Plugin):
     def __init__(self):
-        Engine.__init__(self)
+        Plugin.__init__(self)
         self.sub_domains = []
         self.base_domain = None
         self.max_page = None

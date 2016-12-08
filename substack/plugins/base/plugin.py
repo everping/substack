@@ -1,4 +1,4 @@
-class Engine:
+class Plugin:
     def __init__(self):
         self.requester = None
         self.base_url = None
