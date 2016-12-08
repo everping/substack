@@ -161,7 +161,7 @@ class Profile:
                     file_name += PROFILE_EXTENSION
 
             if os.path.sep not in file_name:
-                file_name = os.path.join(PROFILE_DIRECTORY, 'temp', file_name)
+                file_name = os.path.join(PROFILE_DIRECTORY, file_name)
             self.profile_file_name = file_name
 
         try:

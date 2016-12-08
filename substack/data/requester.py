@@ -22,11 +22,20 @@ class Requester:
     def set_proxy(self, proxies):
         self._proxies = proxies
 
-    def get_body(self, url):
+    def get(self, url):
         try:
-            return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60).text
+            return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60)
         except requests.exceptions.Timeout:
             raise RequesterException("It takes a request so long so I must kill it")
         except:
             msg = "I don't know why this error occurred, so I log it\nMy URL: %s"
             raise RequesterException(msg % url)
+
+    def post(self, url, data=None):
+        try:
+            return requests.get(url, headers=self._headers, proxies=self._proxies, data=data, timeout=60)
+        except requests.exceptions.Timeout:
+            raise RequesterException("It takes a request so long so I must kill it")
+        except:
+            msg = "I don't know why this error occurred, so I log it\nMy URL: %s"
+        raise RequesterException(msg % url)

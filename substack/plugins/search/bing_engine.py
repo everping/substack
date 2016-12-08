@@ -1,11 +1,13 @@
 from urlparse import urlparse
+
 from bs4 import BeautifulSoup
-from engine import Engine
+
+from substack.plugins.base.search_engine import SearchEngine
 
 
-class BingEngine(Engine):
+class BingEngine(SearchEngine):
     def __init__(self):
-        Engine.__init__(self)
+        SearchEngine.__init__(self)
         self.base_url = 'https://www.bing.com/search?q={query}&first={page}'
         self.max_page = 500
 
@@ -18,13 +20,13 @@ class BingEngine(Engine):
     def get_total_page(self):
         try:
             url = self.base_url.format(query=self.get_query(), page=self.max_page)
-            content = self.requester.get_body(url)
+            content = self.requester.get(url).text
             return int(BeautifulSoup(content, "lxml").find('a', class_="sb_pagS").string)
         except AttributeError:
             return 1
 
     def extract(self, url):
-        content = self.requester.get_body(url)
+        content = self.requester.get(url).text
         soup = BeautifulSoup(content, "lxml")
         ul = soup.find_all("li", class_="b_algo")
         for li in ul:

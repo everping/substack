@@ -3,6 +3,11 @@ from substack.plugins.search.baidu_engine import BaiduEngine
 
 
 class EngineFactory():
+    def __init__(self):
+        pass
+
+
+
     @staticmethod
     def create(engine_name, requester=None):
         engine = None

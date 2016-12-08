@@ -1,11 +1,12 @@
 from urlparse import urlparse
 from bs4 import BeautifulSoup
-from engine import Engine
+
+from substack.plugins.base.search_engine import SearchEngine
 
 
-class BaiduEngine(Engine):
+class BaiduEngine(SearchEngine):
     def __init__(self):
-        Engine.__init__(self)
+        SearchEngine.__init__(self)
         self.base_url = 'http://www.baidu.com/s?wd={query}&pn={page}'
         self.max_page = 500
 
@@ -18,7 +19,7 @@ class BaiduEngine(Engine):
     def get_total_page(self):
         try:
             url = self.base_url.format(query=self.get_query(), page=self.max_page)
-            content = self.requester.get_body(url)
+            content = self.requester.get(url).text
 
             # http://stackoverflow.com/a/25661119/6805843
             soup = BeautifulSoup(content, "html5lib")
@@ -28,7 +29,7 @@ class BaiduEngine(Engine):
             return 1
 
     def extract(self, url):
-        content = self.requester.get_body(url)
+        content = self.requester.get(url).text
         soup = BeautifulSoup(content, "html5lib")
         a_tags = soup.find_all('a', class_="c-showurl")
         for a_tag in a_tags:
