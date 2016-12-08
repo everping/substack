@@ -1,10 +1,10 @@
 from substack.data.logger import logger
-from substack.plugins.base.engine import Engine
+from substack.plugins.base.plugin import Plugin
 
 
-class PortEngine(Engine):
+class PortPlugin(Plugin):
     def __init__(self):
-        Engine.__init__(self)
+        Plugin.__init__(self)
 
     def get_type(self):
         return "port"

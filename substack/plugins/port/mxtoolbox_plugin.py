@@ -1,11 +1,11 @@
 import json
-from substack.plugins.base.port_engine import PortEngine
+from substack.plugins.base.port_plugin import PortPlugin
 from bs4 import BeautifulSoup
 
 
-class MxToolboxEngine(PortEngine):
+class MxToolboxPlugin(PortPlugin):
     def __init__(self):
-        PortEngine.__init__(self)
+        PortPlugin.__init__(self)
         self.base_url = "http://mxtoolbox.com/Public/Lookup.aspx/DoLookup2"
         self.post_data = {"inputText": "scan:{host}", "resultIndex": 3}
 

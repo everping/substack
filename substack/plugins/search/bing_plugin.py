@@ -2,12 +2,12 @@ from urlparse import urlparse
 
 from bs4 import BeautifulSoup
 
-from substack.plugins.base.search_engine import SearchEngine
+from substack.plugins.base.search_plugin import SearchPlugin
 
 
-class BingEngine(SearchEngine):
+class BingEngine(SearchPlugin):
     def __init__(self):
-        SearchEngine.__init__(self)
+        SearchPlugin.__init__(self)
         self.base_url = 'https://www.bing.com/search?q={query}&first={page}'
         self.max_page = 500
 
