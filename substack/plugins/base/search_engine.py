@@ -2,19 +2,19 @@ import threading
 
 from substack.data.logger import logger
 from substack.data.domain import Domain
+from substack.plugins.base.engine import Engine
 
 
-class Engine:
+class SearchEngine(Engine):
     def __init__(self):
+        Engine.__init__(self)
         self.sub_domains = []
-        self.base_url = None
         self.base_domain = None
         self.max_page = None
         self.lock = threading.Lock()
-        self.requester = None
 
-    def set_requester(self, requester):
-        self.requester = requester
+    def get_type(self):
+        return "search"
 
     def is_existed(self, sub_domain_name):
         """
@@ -24,9 +24,6 @@ class Engine:
             if domain.domain_name == sub_domain_name:
                 return True
         return False
-
-    def get_name(self):
-        return self.__class__.__name__
 
     def add(self, sub_domain_name):
         """

@@ -1,4 +1,4 @@
-from substack_core.data.profile import Profile
+from substack.data.profile import Profile
 
 
 profile = Profile()
@@ -6,6 +6,7 @@ profile = Profile()
 # profile.set_target("bkav.com, garena.com")
 
 profile.set_enabled_plugins('search', ['BingEngine', 'BaiduEngine'])
+profile.set_enabled_plugins('port', ['MxToolboxEngine'])
 
 http_settings = {
     "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",

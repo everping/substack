@@ -4,6 +4,7 @@ from substack.data.domain import Domain
 from substack.data.logger import logger
 from substack.data.requester import Requester
 from substack.plugins.search.engine_factory import EngineFactory
+from substack.plugins.port.mxtoolbox_engine import MxToolboxEngine
 
 
 class SubStack:
@@ -44,10 +45,12 @@ class SubStack:
         return diff
 
     def discover_and_brute_force(self):
+        logger.info("Start finding sub-domains of %s" % self.profile.get_target())
+
         targets = [Domain(domain_name) for domain_name in self.profile.get_target()]
 
-        for engine_name in self.profile.get_enabled_plugins("search"):
-            self.engines.append(EngineFactory.create(engine_name, self.make_requester()))
+        for search_engine_name in self.profile.get_enabled_plugins("search"):
+            self.engines.append(EngineFactory.create(search_engine_name, self.make_requester()))
 
         discovered_list = self.discover(targets)
         return discovered_list
@@ -78,7 +81,23 @@ class SubStack:
             to_walk = new_domain
         return self.already_walked
 
+    def setup_engine(self):
+        for search_engine_name in self.profile.get_enabled_plugins("search"):
+            self.engines.append(EngineFactory.create(search_engine_name, self.make_requester()))
+
+
+    def scan_port(self, domains):
+        already_scanned = []
+        m = MxToolboxEngine()
+        for domain in domains:
+            if domain.ip not in already_scanned:
+                m.scan(domain)
+                already_scanned.append(domain.ip)
+
     def start(self):
-        logger.info("Start discovering sub-domains of %s" % self.profile.get_target())
         self.start_time = time.time()
-        self.discover_and_brute_force()
+        sub_domains = self.discover_and_brute_force()
+        open_ports = self.scan_port(sub_domains)
+
+
+
