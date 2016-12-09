@@ -1,5 +1,5 @@
 import logging
-from substack.data.utils import LOG_PATH
+from substack.helper.utils import LOG_PATH
 
 
 class Logger:

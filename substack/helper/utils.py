@@ -1,16 +1,9 @@
-import os
+from os import pardir
+from os.path import abspath, join, dirname, realpath
 
-
-def get_root_dir():
-    pwd = os.path.dirname(os.path.realpath(__file__))
-    print pwd
-    print  os.path.abspath(os.path.join(pwd, os.pardir, os.pardir))
-
-get_root_dir()
-
-# PROFILE_SECTION = 'profile'
-# PROFILE_EXTENSION = '.pss'
-#
-# PROFILE_DIRECTORY = os.path.join(get_root_dir(), 'profiles')
-# PLUGIN_DIRECTORY = os.path.join(get_root_dir(), 'substack', 'plugins')
-# LOG_PATH = os.path.join(get_root_dir(), 'log', 'substack.log')
+PROFILE_SECTION = 'profile'
+PROFILE_EXTENSION = '.pss'
+ROOT_DIRECTORY = abspath(join(dirname(realpath(__file__)), pardir, pardir))
+PROFILE_DIRECTORY = join(ROOT_DIRECTORY, 'profiles')
+PLUGIN_DIRECTORY = join(ROOT_DIRECTORY, 'substack', 'plugins')
+LOG_PATH = join(ROOT_DIRECTORY, 'log', 'substack.log')

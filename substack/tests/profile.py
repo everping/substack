@@ -1,5 +1,5 @@
 from substack.data.profile import Profile
-
+from substack.helper.utils import LOG_PATH
 
 profile = Profile()
 
@@ -16,7 +16,7 @@ http_settings = {
 misc_settings = {
     "max_discovery_time": 300,
     "silent": False,
-    "log_path": "D:/Everping/Work/Projects/substack/log/substack.log",
+    "log_path": LOG_PATH,
 }
 
 profile.set_http_settings(http_settings)
