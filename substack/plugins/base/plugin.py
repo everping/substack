@@ -7,7 +7,7 @@ class Plugin:
         return self.__class__.__name__
 
     def get_type(self):
-        return 'engine'
+        return 'plugin'
 
     def set_requester(self, requester):
         self.requester = requester

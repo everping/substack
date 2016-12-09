@@ -24,7 +24,7 @@ class Requester:
 
     def get(self, url):
         try:
-            return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60)
+            return requests.get(url, headers=self._headers, proxies=self._proxies)
         except requests.exceptions.Timeout:
             raise RequesterException("It takes a request so long so I must kill it")
         except:
