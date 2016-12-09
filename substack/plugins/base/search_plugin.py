@@ -37,7 +37,7 @@ class SearchPlugin(Plugin):
 
         try:
             sub_domain = Domain(sub_domain_name)
-            sub_domain.save_info("found_by", self.get_name())
+            sub_domain.save_info("domain_found_by", self.get_name())
             if sub_domain.is_live():
                 self.sub_domains.append(sub_domain)
         finally:

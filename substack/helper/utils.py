@@ -7,3 +7,4 @@ ROOT_DIRECTORY = abspath(join(dirname(realpath(__file__)), pardir, pardir))
 PROFILE_DIRECTORY = join(ROOT_DIRECTORY, 'profiles')
 PLUGIN_DIRECTORY = join(ROOT_DIRECTORY, 'substack', 'plugins')
 LOG_PATH = join(ROOT_DIRECTORY, 'log', 'substack.log')
+

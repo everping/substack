@@ -1,4 +1,4 @@
-import os
-dir_path = os.path.dirname(os.path.realpath(__file__))
+d = {"zz": []}
 
-print dir_path
+
+print "zza" in d
