@@ -5955,3 +5955,1005 @@ ConnectionError: ('Connection aborted.', BadStatusLine("''",))
 [INFO] 2016-12-09 17:47:56,428  security.bkav.com (103.237.99.119) open ports: 80
 [INFO] 2016-12-09 17:48:23,611  mobile2.bkav.com (103.237.97.2) open ports: 80, 443
 [INFO] 2016-12-09 17:48:49,806  ios.bkav.com (123.30.245.120) open ports: 80, 81, 443, 53, 9000
+[INFO] 2016-12-09 18:07:04,960  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-09 18:07:05,770  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-09 18:07:05,770  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-09 18:07:07,605  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-09 18:07:08,154  New domain was found by BingPlugin: security.bkav.com
+[INFO] 2016-12-09 18:07:08,155  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-09 18:07:08,155  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-09 18:07:08,155  New domain was found by BingPlugin: www.bkav.com
+[INFO] 2016-12-09 18:07:08,155  New domain was found by BingPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-09 18:07:08,155  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-09 18:07:08,558  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-09 18:07:09,411  Requesting to https://www.bing.com/search?q=domain:mobile2.bkav.com&first=1
+[INFO] 2016-12-09 18:07:10,282  Requesting to https://www.bing.com/search?q=domain:btm.bkav.com&first=1
+[INFO] 2016-12-09 18:07:11,127  Requesting to https://www.bing.com/search?q=domain:www.bkav.com&first=1
+[INFO] 2016-12-09 18:07:12,073  Requesting to https://www.bing.com/search?q=domain:www.smarthome.bkav.com&first=1
+[INFO] 2016-12-09 18:07:12,957  Requesting to https://www.bing.com/search?q=domain:ios.bkav.com&first=1
+[INFO] 2016-12-09 18:07:13,946  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-09 18:07:13,947  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-09 18:07:13,947  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-09 18:07:15,043  Requesting to http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=0
+[INFO] 2016-12-09 18:07:15,684  Requesting to http://www.baidu.com/s?wd=site:btm.bkav.com&pn=0
+[INFO] 2016-12-09 18:07:16,551  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-09 18:07:16,552  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-09 18:07:16,553  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-09 18:07:16,555  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-09 18:07:16,558  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-09 18:07:16,559  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-09 18:07:16,562  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-09 18:07:16,563  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-09 18:07:16,565  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-09 18:07:16,568  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=90
+[INFO] 2016-12-09 18:07:18,638  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-09 18:07:18,638  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-09 18:07:18,640  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-09 18:07:18,641  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-09 18:07:18,644  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-09 18:07:18,644  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-09 18:07:20,006  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-09 18:07:20,348  Start finding open ports
+[INFO] 2016-12-09 18:07:50,571  bkav.com (123.30.245.109) open ports: 80, 443
+[INFO] 2016-12-09 18:08:12,270  security.bkav.com (103.237.99.119) open ports: 80
+[INFO] 2016-12-09 18:08:47,526  mobile2.bkav.com (103.237.97.2) open ports: 80, 443
+[INFO] 2016-12-09 18:09:16,302  btm.bkav.com (103.237.99.246) open ports: 80, 443
+[INFO] 2016-12-09 18:09:16,302  www.bkav.com (123.30.245.109) open ports: 80, 443
+[INFO] 2016-12-09 18:09:28,717  Start finding sub-domains of ['garena.com']
+[INFO] 2016-12-09 18:09:29,713  Requesting to https://www.bing.com/search?q=domain:garena.com&first=1
+[INFO] 2016-12-09 18:09:29,714  Requesting to https://www.bing.com/search?q=domain:garena.com&first=8
+[INFO] 2016-12-09 18:09:29,716  Requesting to https://www.bing.com/search?q=domain:garena.com&first=18
+[INFO] 2016-12-09 18:09:29,717  Requesting to https://www.bing.com/search?q=domain:garena.com&first=28
+[INFO] 2016-12-09 18:09:29,720  Requesting to https://www.bing.com/search?q=domain:garena.com&first=38
+[INFO] 2016-12-09 18:09:29,723  Requesting to https://www.bing.com/search?q=domain:garena.com&first=48
+[INFO] 2016-12-09 18:09:29,724  Requesting to https://www.bing.com/search?q=domain:garena.com&first=58
+[INFO] 2016-12-09 18:09:29,727  Requesting to https://www.bing.com/search?q=domain:garena.com&first=68
+[INFO] 2016-12-09 18:09:29,730  Requesting to https://www.bing.com/search?q=domain:garena.com&first=78
+[INFO] 2016-12-09 18:09:29,733  Requesting to https://www.bing.com/search?q=domain:garena.com&first=88
+[INFO] 2016-12-09 18:09:29,734  Requesting to https://www.bing.com/search?q=domain:garena.com&first=98
+[INFO] 2016-12-09 18:09:29,739  Requesting to https://www.bing.com/search?q=domain:garena.com&first=108
+[INFO] 2016-12-09 18:09:29,740  Requesting to https://www.bing.com/search?q=domain:garena.com&first=118
+[INFO] 2016-12-09 18:09:37,803  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=0
+[INFO] 2016-12-09 18:09:37,805  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=10
+[INFO] 2016-12-09 18:09:37,805  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=20
+[INFO] 2016-12-09 18:09:37,808  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=30
+[INFO] 2016-12-09 18:09:37,809  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=40
+[INFO] 2016-12-09 18:09:37,811  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=50
+[INFO] 2016-12-09 18:09:37,812  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=60
+[INFO] 2016-12-09 18:09:37,815  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=70
+[INFO] 2016-12-09 18:09:37,825  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=80
+[INFO] 2016-12-09 18:09:37,826  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=90
+[INFO] 2016-12-09 18:09:37,829  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=100
+[INFO] 2016-12-09 18:09:37,832  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=110
+[INFO] 2016-12-09 18:09:37,835  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=120
+[INFO] 2016-12-09 18:09:37,838  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=130
+[INFO] 2016-12-09 18:09:37,862  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=140
+[INFO] 2016-12-09 18:09:37,872  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=150
+[INFO] 2016-12-09 18:09:37,875  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=160
+[INFO] 2016-12-09 18:09:37,877  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=170
+[INFO] 2016-12-09 18:09:37,885  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=180
+[INFO] 2016-12-09 18:09:37,895  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=190
+[INFO] 2016-12-09 18:09:37,901  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=200
+[INFO] 2016-12-09 18:09:37,901  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=210
+[INFO] 2016-12-09 18:09:37,904  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=220
+[INFO] 2016-12-09 18:09:37,913  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=230
+[INFO] 2016-12-09 18:09:37,914  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=240
+[INFO] 2016-12-09 18:09:37,917  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=250
+[INFO] 2016-12-09 18:09:37,921  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=260
+[INFO] 2016-12-09 18:09:37,923  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=270
+[INFO] 2016-12-09 18:09:37,924  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=280
+[INFO] 2016-12-09 18:09:37,927  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=290
+[INFO] 2016-12-09 18:09:37,934  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=300
+[INFO] 2016-12-09 18:09:37,970  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=310
+[INFO] 2016-12-09 18:09:37,976  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=320
+[INFO] 2016-12-09 18:09:37,976  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=330
+[INFO] 2016-12-09 18:09:37,979  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=340
+[INFO] 2016-12-09 18:09:37,982  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=350
+[INFO] 2016-12-09 18:09:37,984  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=360
+[INFO] 2016-12-09 18:09:37,986  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=370
+[INFO] 2016-12-09 18:09:37,989  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=380
+[INFO] 2016-12-09 18:09:37,992  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=390
+[INFO] 2016-12-09 18:09:38,003  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=400
+[INFO] 2016-12-09 18:09:38,006  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=410
+[INFO] 2016-12-09 18:09:38,017  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=420
+[INFO] 2016-12-09 18:09:38,026  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=430
+[INFO] 2016-12-09 18:09:38,038  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=440
+[INFO] 2016-12-09 18:09:38,039  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=450
+[INFO] 2016-12-09 18:09:38,042  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=460
+[INFO] 2016-12-09 18:09:38,046  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=470
+[INFO] 2016-12-09 18:09:38,052  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=480
+[INFO] 2016-12-09 18:09:38,055  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=490
+[INFO] 2016-12-09 18:09:38,069  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=500
+[ERROR] 2016-12-09 18:09:38,726  I don't know why this error occurred, so I log it
+My URL: http://www.baidu.com/s?wd=site:garena.com&pn=410
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get
+    return requests.get(url, headers=self._headers, proxies=self._proxies)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+[INFO] 2016-12-09 18:09:47,282  www.smarthome.bkav.com (103.237.99.24) open ports: 80, 443
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: intl.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: lol.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: dailytask.lol.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: pb.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: t.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: alphacup.ava.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: sso.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: headshot.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: pickem.lol.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: buyrp.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: event.poe.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: www.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: gcms2.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: fo3.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: forum.pb.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: forum.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: mobile.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: beta-launch.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: web.poe.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: changename.garena.com
+[INFO] 2016-12-09 18:09:49,302  New domain was found by BingPlugin: dailylogin.ava.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: ranking.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: pbic.pb.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: shop.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: support.lol.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: fs2.ava.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: level.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: forum.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: mycl.lol.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: beta.lol.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: security.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: lolachievements.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: corporate.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: golddragon.ava.garena.com
+[INFO] 2016-12-09 18:09:49,303  New domain was found by BingPlugin: forum.hon.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: pay.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: reset2ndpass.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: shop.pb.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: career.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: lunar.ava.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: championship.ava.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: kakibolaclash.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: gcl.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: thunderstrike.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: gpl.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: carnival.garena.com
+[INFO] 2016-12-09 18:09:49,305  New domain was found by BingPlugin: gcg.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: redeem.pb.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: honredeem.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: clan.intl.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: iwcavote.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: design.ava.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: tour.hon.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: live.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: sgcl.lol.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: about.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: dqmsl.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: fs5.ava.garena.com
+[INFO] 2016-12-09 18:09:49,306  New domain was found by BingPlugin: dthero.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: esports.ava.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: teemorookiecup.lol.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: poe.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: esports.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: weekendcup.lol.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: mission.pb.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: forum.ava.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: premium.ava.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: luckybox.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: hon.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: account.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: forum.lol.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: coupon.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,308  New domain was found by BingPlugin: energy.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BingPlugin: engineering.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BingPlugin: ava.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BingPlugin: tlc.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BingPlugin: kbm.fo3.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BingPlugin: welcome.ava.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BingPlugin: login813.ava.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BingPlugin: borrow.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: fs3.ava.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: email.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: freeday.ava.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: gas.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: dominion.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: forum.poe.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: fs4.ava.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: web.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: mshl.hon.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: forum.sng.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: iow.lol.garena.com
+[INFO] 2016-12-09 18:09:49,309  New domain was found by BaiduPlugin: thesmackdown.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: gplplayoffs.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: shop.ava.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: gca.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: cny2015.poe.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: us.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: fbcallback.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: sng.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: plus.garena.com
+[INFO] 2016-12-09 18:09:49,311  New domain was found by BaiduPlugin: thhon.garena.com
+[INFO] 2016-12-09 18:09:49,766  Requesting to https://www.bing.com/search?q=domain:intl.garena.com&first=1
+[INFO] 2016-12-09 18:09:50,694  Requesting to https://www.bing.com/search?q=domain:lol.garena.com&first=1
+[INFO] 2016-12-09 18:09:50,694  Requesting to https://www.bing.com/search?q=domain:lol.garena.com&first=8
+[INFO] 2016-12-09 18:09:50,698  Requesting to https://www.bing.com/search?q=domain:lol.garena.com&first=18
+[INFO] 2016-12-09 18:09:51,792  Requesting to https://www.bing.com/search?q=domain:dailytask.lol.garena.com&first=1
+[INFO] 2016-12-09 18:09:52,832  Requesting to https://www.bing.com/search?q=domain:pb.garena.com&first=1
+[INFO] 2016-12-09 18:09:53,826  Requesting to https://www.bing.com/search?q=domain:t.garena.com&first=1
+[INFO] 2016-12-09 18:09:54,944  Requesting to https://www.bing.com/search?q=domain:alphacup.ava.garena.com&first=1
+[INFO] 2016-12-09 18:09:55,948  Requesting to https://www.bing.com/search?q=domain:sso.garena.com&first=1
+[INFO] 2016-12-09 18:09:56,881  Requesting to https://www.bing.com/search?q=domain:headshot.garena.com&first=1
+[INFO] 2016-12-09 18:09:57,841  Requesting to https://www.bing.com/search?q=domain:pickem.lol.garena.com&first=1
+[INFO] 2016-12-09 18:09:58,970  Requesting to https://www.bing.com/search?q=domain:buyrp.garena.com&first=1
+[INFO] 2016-12-09 18:09:59,914  Requesting to https://www.bing.com/search?q=domain:event.poe.garena.com&first=1
+[INFO] 2016-12-09 18:10:00,971  Requesting to https://www.bing.com/search?q=domain:www.garena.com&first=1
+[INFO] 2016-12-09 18:10:01,924  Requesting to https://www.bing.com/search?q=domain:gcms2.garena.com&first=1
+[INFO] 2016-12-09 18:10:02,901  Requesting to https://www.bing.com/search?q=domain:fo3.garena.com&first=1
+[INFO] 2016-12-09 18:10:02,903  Requesting to https://www.bing.com/search?q=domain:fo3.garena.com&first=8
+[INFO] 2016-12-09 18:10:04,013  Requesting to https://www.bing.com/search?q=domain:forum.pb.garena.com&first=1
+[INFO] 2016-12-09 18:10:04,937  Requesting to https://www.bing.com/search?q=domain:forum.garena.com&first=1
+[INFO] 2016-12-09 18:10:06,007  Requesting to https://www.bing.com/search?q=domain:mobile.garena.com&first=1
+[INFO] 2016-12-09 18:10:06,961  Requesting to https://www.bing.com/search?q=domain:beta-launch.garena.com&first=1
+[INFO] 2016-12-09 18:10:07,997  Requesting to https://www.bing.com/search?q=domain:web.poe.garena.com&first=1
+[INFO] 2016-12-09 18:10:08,983  Requesting to https://www.bing.com/search?q=domain:changename.garena.com&first=1
+[INFO] 2016-12-09 18:10:09,927  Requesting to https://www.bing.com/search?q=domain:dailylogin.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:10,842  Requesting to https://www.bing.com/search?q=domain:ranking.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:10:11,821  Requesting to https://www.bing.com/search?q=domain:pbic.pb.garena.com&first=1
+[INFO] 2016-12-09 18:10:12,765  Requesting to https://www.bing.com/search?q=domain:shop.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:10:13,744  Requesting to https://www.bing.com/search?q=domain:support.lol.garena.com&first=1
+[INFO] 2016-12-09 18:10:14,706  Requesting to https://www.bing.com/search?q=domain:fs2.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:15,644  Requesting to https://www.bing.com/search?q=domain:level.garena.com&first=1
+[INFO] 2016-12-09 18:10:16,611  Requesting to https://www.bing.com/search?q=domain:forum.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:10:17,575  Requesting to https://www.bing.com/search?q=domain:mycl.lol.garena.com&first=1
+[INFO] 2016-12-09 18:10:17,792  ios.bkav.com (123.30.245.120) open ports: 80, 81, 443, 53, 9000
+[INFO] 2016-12-09 18:10:18,559  Requesting to https://www.bing.com/search?q=domain:beta.lol.garena.com&first=1
+[INFO] 2016-12-09 18:10:19,578  Requesting to https://www.bing.com/search?q=domain:security.garena.com&first=1
+[INFO] 2016-12-09 18:10:20,553  Requesting to https://www.bing.com/search?q=domain:lolachievements.garena.com&first=1
+[INFO] 2016-12-09 18:10:21,493  Requesting to https://www.bing.com/search?q=domain:corporate.garena.com&first=1
+[INFO] 2016-12-09 18:10:22,450  Requesting to https://www.bing.com/search?q=domain:golddragon.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:23,490  Requesting to https://www.bing.com/search?q=domain:forum.hon.garena.com&first=1
+[INFO] 2016-12-09 18:10:24,430  Requesting to https://www.bing.com/search?q=domain:pay.garena.com&first=1
+[INFO] 2016-12-09 18:10:25,391  Requesting to https://www.bing.com/search?q=domain:reset2ndpass.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:10:26,520  Requesting to https://www.bing.com/search?q=domain:shop.pb.garena.com&first=1
+[INFO] 2016-12-09 18:10:27,480  Requesting to https://www.bing.com/search?q=domain:career.garena.com&first=1
+[INFO] 2016-12-09 18:10:28,405  Requesting to https://www.bing.com/search?q=domain:lunar.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:29,454  Requesting to https://www.bing.com/search?q=domain:championship.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:30,411  Requesting to https://www.bing.com/search?q=domain:kakibolaclash.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:10:31,496  Requesting to https://www.bing.com/search?q=domain:gcl.garena.com&first=1
+[INFO] 2016-12-09 18:10:32,500  Requesting to https://www.bing.com/search?q=domain:thunderstrike.garena.com&first=1
+[INFO] 2016-12-09 18:10:33,625  Requesting to https://www.bing.com/search?q=domain:gpl.garena.com&first=1
+[INFO] 2016-12-09 18:10:34,605  Requesting to https://www.bing.com/search?q=domain:carnival.garena.com&first=1
+[INFO] 2016-12-09 18:10:35,598  Requesting to https://www.bing.com/search?q=domain:gcg.garena.com&first=1
+[INFO] 2016-12-09 18:10:36,614  Requesting to https://www.bing.com/search?q=domain:redeem.pb.garena.com&first=1
+[INFO] 2016-12-09 18:10:37,631  Requesting to https://www.bing.com/search?q=domain:honredeem.garena.com&first=1
+[INFO] 2016-12-09 18:10:38,709  Requesting to https://www.bing.com/search?q=domain:clan.intl.garena.com&first=1
+[INFO] 2016-12-09 18:10:39,776  Requesting to https://www.bing.com/search?q=domain:iwcavote.garena.com&first=1
+[INFO] 2016-12-09 18:10:40,801  Requesting to https://www.bing.com/search?q=domain:design.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:41,865  Requesting to https://www.bing.com/search?q=domain:tour.hon.garena.com&first=1
+[INFO] 2016-12-09 18:10:43,003  Requesting to https://www.bing.com/search?q=domain:live.garena.com&first=1
+[INFO] 2016-12-09 18:10:43,963  Requesting to https://www.bing.com/search?q=domain:sgcl.lol.garena.com&first=1
+[INFO] 2016-12-09 18:10:45,095  Requesting to https://www.bing.com/search?q=domain:about.garena.com&first=1
+[INFO] 2016-12-09 18:10:46,065  Requesting to https://www.bing.com/search?q=domain:dqmsl.garena.com&first=1
+[INFO] 2016-12-09 18:10:47,108  Requesting to https://www.bing.com/search?q=domain:fs5.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:48,098  Requesting to https://www.bing.com/search?q=domain:dthero.garena.com&first=1
+[INFO] 2016-12-09 18:10:49,187  Requesting to https://www.bing.com/search?q=domain:esports.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:50,289  Requesting to https://www.bing.com/search?q=domain:teemorookiecup.lol.garena.com&first=1
+[INFO] 2016-12-09 18:10:51,480  Requesting to https://www.bing.com/search?q=domain:poe.garena.com&first=1
+[INFO] 2016-12-09 18:10:52,523  Requesting to https://www.bing.com/search?q=domain:esports.garena.com&first=1
+[INFO] 2016-12-09 18:10:53,473  Requesting to https://www.bing.com/search?q=domain:weekendcup.lol.garena.com&first=1
+[INFO] 2016-12-09 18:10:54,424  Requesting to https://www.bing.com/search?q=domain:mission.pb.garena.com&first=1
+[INFO] 2016-12-09 18:10:55,368  Requesting to https://www.bing.com/search?q=domain:forum.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:56,447  Requesting to https://www.bing.com/search?q=domain:premium.ava.garena.com&first=1
+[INFO] 2016-12-09 18:10:57,510  Requesting to https://www.bing.com/search?q=domain:luckybox.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:10:58,483  Requesting to https://www.bing.com/search?q=domain:hon.garena.com&first=1
+[INFO] 2016-12-09 18:10:59,466  Requesting to https://www.bing.com/search?q=domain:account.garena.com&first=1
+[INFO] 2016-12-09 18:11:00,433  Requesting to https://www.bing.com/search?q=domain:forum.lol.garena.com&first=1
+[INFO] 2016-12-09 18:11:01,371  Requesting to https://www.bing.com/search?q=domain:coupon.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:11:02,345  Requesting to https://www.bing.com/search?q=domain:energy.garena.com&first=1
+[INFO] 2016-12-09 18:11:03,335  Requesting to https://www.bing.com/search?q=domain:engineering.garena.com&first=1
+[INFO] 2016-12-09 18:11:04,306  Requesting to https://www.bing.com/search?q=domain:ava.garena.com&first=1
+[INFO] 2016-12-09 18:11:04,309  Requesting to https://www.bing.com/search?q=domain:ava.garena.com&first=8
+[INFO] 2016-12-09 18:11:04,312  Requesting to https://www.bing.com/search?q=domain:ava.garena.com&first=18
+[INFO] 2016-12-09 18:11:05,740  Requesting to https://www.bing.com/search?q=domain:tlc.garena.com&first=1
+[INFO] 2016-12-09 18:11:06,677  Requesting to https://www.bing.com/search?q=domain:kbm.fo3.garena.com&first=1
+[INFO] 2016-12-09 18:11:07,678  Requesting to https://www.bing.com/search?q=domain:welcome.ava.garena.com&first=1
+[INFO] 2016-12-09 18:11:08,617  Requesting to https://www.bing.com/search?q=domain:login813.ava.garena.com&first=1
+[INFO] 2016-12-09 18:11:09,602  Requesting to https://www.bing.com/search?q=domain:borrow.garena.com&first=1
+[INFO] 2016-12-09 18:11:10,517  Requesting to https://www.bing.com/search?q=domain:fs3.ava.garena.com&first=1
+[INFO] 2016-12-09 18:11:11,503  Requesting to https://www.bing.com/search?q=domain:email.garena.com&first=1
+[INFO] 2016-12-09 18:11:12,538  Requesting to https://www.bing.com/search?q=domain:freeday.ava.garena.com&first=1
+[INFO] 2016-12-09 18:11:13,532  Requesting to https://www.bing.com/search?q=domain:gas.garena.com&first=1
+[INFO] 2016-12-09 18:11:14,415  Requesting to https://www.bing.com/search?q=domain:dominion.garena.com&first=1
+[INFO] 2016-12-09 18:11:15,342  Requesting to https://www.bing.com/search?q=domain:forum.poe.garena.com&first=1
+[INFO] 2016-12-09 18:11:16,253  Requesting to https://www.bing.com/search?q=domain:fs4.ava.garena.com&first=1
+[INFO] 2016-12-09 18:11:17,279  Requesting to https://www.bing.com/search?q=domain:web.garena.com&first=1
+[INFO] 2016-12-09 18:11:18,200  Requesting to https://www.bing.com/search?q=domain:mshl.hon.garena.com&first=1
+[INFO] 2016-12-09 18:11:19,161  Requesting to https://www.bing.com/search?q=domain:forum.sng.garena.com&first=1
+[INFO] 2016-12-09 18:11:20,055  Requesting to https://www.bing.com/search?q=domain:iow.lol.garena.com&first=1
+[INFO] 2016-12-09 18:11:21,007  Requesting to https://www.bing.com/search?q=domain:thesmackdown.garena.com&first=1
+[INFO] 2016-12-09 18:11:21,940  Requesting to https://www.bing.com/search?q=domain:gplplayoffs.garena.com&first=1
+[INFO] 2016-12-09 18:11:22,937  Requesting to https://www.bing.com/search?q=domain:shop.ava.garena.com&first=1
+[INFO] 2016-12-09 18:11:23,875  Requesting to https://www.bing.com/search?q=domain:gca.garena.com&first=1
+[INFO] 2016-12-09 18:11:24,869  Requesting to https://www.bing.com/search?q=domain:cny2015.poe.garena.com&first=1
+[INFO] 2016-12-09 18:11:25,871  Requesting to https://www.bing.com/search?q=domain:us.garena.com&first=1
+[INFO] 2016-12-09 18:11:26,858  Requesting to https://www.bing.com/search?q=domain:fbcallback.garena.com&first=1
+[INFO] 2016-12-09 18:11:27,759  Requesting to https://www.bing.com/search?q=domain:sng.garena.com&first=1
+[INFO] 2016-12-09 18:11:28,779  Requesting to https://www.bing.com/search?q=domain:plus.garena.com&first=1
+[INFO] 2016-12-09 18:11:29,668  Requesting to https://www.bing.com/search?q=domain:thhon.garena.com&first=1
+[INFO] 2016-12-09 18:11:31,019  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=0
+[INFO] 2016-12-09 18:11:31,020  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=10
+[INFO] 2016-12-09 18:11:31,022  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=20
+[INFO] 2016-12-09 18:11:31,023  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=30
+[INFO] 2016-12-09 18:11:31,026  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=40
+[INFO] 2016-12-09 18:11:31,029  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=50
+[INFO] 2016-12-09 18:11:33,138  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=0
+[INFO] 2016-12-09 18:11:33,140  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=10
+[INFO] 2016-12-09 18:11:33,140  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=20
+[INFO] 2016-12-09 18:11:33,141  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=30
+[INFO] 2016-12-09 18:11:33,142  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=40
+[INFO] 2016-12-09 18:11:33,144  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=50
+[INFO] 2016-12-09 18:11:33,147  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=60
+[INFO] 2016-12-09 18:11:33,148  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=70
+[INFO] 2016-12-09 18:11:33,151  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=80
+[INFO] 2016-12-09 18:11:33,154  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=90
+[INFO] 2016-12-09 18:11:33,155  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=100
+[INFO] 2016-12-09 18:11:33,157  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=110
+[INFO] 2016-12-09 18:11:33,158  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=120
+[INFO] 2016-12-09 18:11:33,161  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=130
+[INFO] 2016-12-09 18:11:33,164  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=140
+[INFO] 2016-12-09 18:11:33,165  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=150
+[INFO] 2016-12-09 18:11:33,171  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=160
+[INFO] 2016-12-09 18:11:33,173  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=170
+[INFO] 2016-12-09 18:11:33,174  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=180
+[INFO] 2016-12-09 18:11:33,177  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=190
+[INFO] 2016-12-09 18:11:33,180  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=200
+[INFO] 2016-12-09 18:11:33,181  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=210
+[INFO] 2016-12-09 18:11:33,184  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=220
+[INFO] 2016-12-09 18:11:33,187  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=230
+[INFO] 2016-12-09 18:11:33,188  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=240
+[INFO] 2016-12-09 18:11:33,190  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=250
+[INFO] 2016-12-09 18:11:33,194  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=260
+[INFO] 2016-12-09 18:11:33,196  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=270
+[INFO] 2016-12-09 18:11:33,197  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=280
+[INFO] 2016-12-09 18:11:33,200  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=290
+[INFO] 2016-12-09 18:11:33,201  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=300
+[INFO] 2016-12-09 18:11:33,206  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=310
+[INFO] 2016-12-09 18:11:33,209  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=320
+[INFO] 2016-12-09 18:11:33,211  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=330
+[INFO] 2016-12-09 18:11:33,217  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=340
+[INFO] 2016-12-09 18:11:33,221  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=350
+[INFO] 2016-12-09 18:11:33,223  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=360
+[INFO] 2016-12-09 18:11:33,224  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=370
+[INFO] 2016-12-09 18:11:33,229  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=380
+[INFO] 2016-12-09 18:11:33,232  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=390
+[INFO] 2016-12-09 18:11:33,233  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=400
+[INFO] 2016-12-09 18:11:33,243  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=410
+[INFO] 2016-12-09 18:11:33,246  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=420
+[INFO] 2016-12-09 18:11:33,246  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=430
+[INFO] 2016-12-09 18:11:33,255  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=440
+[INFO] 2016-12-09 18:11:33,259  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=450
+[INFO] 2016-12-09 18:11:33,263  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=460
+[INFO] 2016-12-09 18:11:33,265  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=470
+[INFO] 2016-12-09 18:11:33,266  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=480
+[INFO] 2016-12-09 18:11:33,269  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=490
+[INFO] 2016-12-09 18:11:33,272  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=500
+[INFO] 2016-12-09 18:11:41,588  Requesting to http://www.baidu.com/s?wd=site:dailytask.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:11:42,854  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=0
+[INFO] 2016-12-09 18:11:42,854  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=10
+[INFO] 2016-12-09 18:11:42,855  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=20
+[INFO] 2016-12-09 18:11:42,857  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=30
+[INFO] 2016-12-09 18:11:42,858  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=40
+[INFO] 2016-12-09 18:11:42,861  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=50
+[INFO] 2016-12-09 18:11:42,862  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=60
+[INFO] 2016-12-09 18:11:42,865  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=70
+[INFO] 2016-12-09 18:11:42,867  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=80
+[INFO] 2016-12-09 18:11:42,868  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=90
+[INFO] 2016-12-09 18:11:42,871  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=100
+[INFO] 2016-12-09 18:11:42,874  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=110
+[INFO] 2016-12-09 18:11:42,875  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=120
+[INFO] 2016-12-09 18:11:42,877  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=130
+[INFO] 2016-12-09 18:11:42,878  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=140
+[INFO] 2016-12-09 18:11:42,882  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=150
+[INFO] 2016-12-09 18:11:42,884  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=160
+[INFO] 2016-12-09 18:11:42,887  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=170
+[INFO] 2016-12-09 18:11:42,890  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=180
+[INFO] 2016-12-09 18:11:42,891  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=190
+[INFO] 2016-12-09 18:11:42,894  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=200
+[INFO] 2016-12-09 18:11:42,895  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=210
+[INFO] 2016-12-09 18:11:42,897  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=220
+[INFO] 2016-12-09 18:11:42,898  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=230
+[INFO] 2016-12-09 18:11:42,901  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=240
+[INFO] 2016-12-09 18:11:42,904  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=250
+[INFO] 2016-12-09 18:11:42,907  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=260
+[INFO] 2016-12-09 18:11:42,908  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=270
+[INFO] 2016-12-09 18:11:42,911  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=280
+[INFO] 2016-12-09 18:11:42,913  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=290
+[INFO] 2016-12-09 18:11:42,914  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=300
+[INFO] 2016-12-09 18:11:42,917  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=310
+[INFO] 2016-12-09 18:11:42,918  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=320
+[INFO] 2016-12-09 18:11:42,923  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=330
+[INFO] 2016-12-09 18:11:42,924  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=340
+[INFO] 2016-12-09 18:11:42,931  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=350
+[INFO] 2016-12-09 18:11:42,937  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=360
+[INFO] 2016-12-09 18:11:42,940  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=370
+[INFO] 2016-12-09 18:11:42,944  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=380
+[INFO] 2016-12-09 18:11:42,946  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=390
+[INFO] 2016-12-09 18:11:42,947  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=400
+[INFO] 2016-12-09 18:11:42,950  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=410
+[INFO] 2016-12-09 18:11:42,953  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=420
+[INFO] 2016-12-09 18:11:42,957  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=430
+[INFO] 2016-12-09 18:11:42,960  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=440
+[INFO] 2016-12-09 18:11:42,961  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=450
+[INFO] 2016-12-09 18:11:42,964  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=460
+[INFO] 2016-12-09 18:11:42,976  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=470
+[INFO] 2016-12-09 18:11:42,976  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=480
+[INFO] 2016-12-09 18:11:42,979  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=490
+[INFO] 2016-12-09 18:11:42,980  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=500
+[INFO] 2016-12-09 18:11:51,306  Requesting to http://www.baidu.com/s?wd=site:t.garena.com&pn=0
+[INFO] 2016-12-09 18:11:52,234  Requesting to http://www.baidu.com/s?wd=site:alphacup.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:11:53,075  Requesting to http://www.baidu.com/s?wd=site:sso.garena.com&pn=0
+[INFO] 2016-12-09 18:11:53,918  Requesting to http://www.baidu.com/s?wd=site:headshot.garena.com&pn=0
+[INFO] 2016-12-09 18:11:54,802  Requesting to http://www.baidu.com/s?wd=site:pickem.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:11:55,786  Requesting to http://www.baidu.com/s?wd=site:buyrp.garena.com&pn=0
+[INFO] 2016-12-09 18:11:56,786  Requesting to http://www.baidu.com/s?wd=site:event.poe.garena.com&pn=0
+[INFO] 2016-12-09 18:11:57,822  Requesting to http://www.baidu.com/s?wd=site:www.garena.com&pn=0
+[INFO] 2016-12-09 18:11:58,967  Requesting to http://www.baidu.com/s?wd=site:gcms2.garena.com&pn=0
+[INFO] 2016-12-09 18:12:00,604  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:12:00,605  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=10
+[INFO] 2016-12-09 18:12:00,608  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=20
+[INFO] 2016-12-09 18:12:00,614  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=30
+[INFO] 2016-12-09 18:12:00,618  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=40
+[INFO] 2016-12-09 18:12:00,618  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=50
+[INFO] 2016-12-09 18:12:00,621  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=60
+[INFO] 2016-12-09 18:12:00,622  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=70
+[INFO] 2016-12-09 18:12:00,627  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=80
+[INFO] 2016-12-09 18:12:00,628  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=90
+[INFO] 2016-12-09 18:12:00,631  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=100
+[INFO] 2016-12-09 18:12:00,640  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=110
+[INFO] 2016-12-09 18:12:00,644  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=120
+[INFO] 2016-12-09 18:12:00,650  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=130
+[INFO] 2016-12-09 18:12:00,651  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=140
+[INFO] 2016-12-09 18:12:00,654  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=150
+[INFO] 2016-12-09 18:12:00,655  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=160
+[INFO] 2016-12-09 18:12:00,660  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=170
+[INFO] 2016-12-09 18:12:00,668  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=180
+[INFO] 2016-12-09 18:12:00,670  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=190
+[INFO] 2016-12-09 18:12:00,673  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=200
+[INFO] 2016-12-09 18:12:00,676  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=210
+[INFO] 2016-12-09 18:12:00,678  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=220
+[INFO] 2016-12-09 18:12:00,680  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=230
+[INFO] 2016-12-09 18:12:00,683  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=240
+[INFO] 2016-12-09 18:12:00,700  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=250
+[INFO] 2016-12-09 18:12:00,703  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=260
+[INFO] 2016-12-09 18:12:00,704  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=270
+[INFO] 2016-12-09 18:12:00,706  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=280
+[INFO] 2016-12-09 18:12:00,707  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=290
+[INFO] 2016-12-09 18:12:00,710  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=300
+[INFO] 2016-12-09 18:12:00,723  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=310
+[INFO] 2016-12-09 18:12:00,726  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=320
+[INFO] 2016-12-09 18:12:00,729  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=330
+[INFO] 2016-12-09 18:12:00,730  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=340
+[INFO] 2016-12-09 18:12:00,736  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=350
+[INFO] 2016-12-09 18:12:00,746  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=360
+[INFO] 2016-12-09 18:12:00,750  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=370
+[INFO] 2016-12-09 18:12:00,753  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=380
+[INFO] 2016-12-09 18:12:00,756  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=390
+[INFO] 2016-12-09 18:12:00,760  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=400
+[INFO] 2016-12-09 18:12:00,763  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=410
+[INFO] 2016-12-09 18:12:00,782  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=420
+[INFO] 2016-12-09 18:12:00,789  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=430
+[INFO] 2016-12-09 18:12:00,789  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=440
+[INFO] 2016-12-09 18:12:00,793  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=450
+[INFO] 2016-12-09 18:12:00,796  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=460
+[INFO] 2016-12-09 18:12:00,803  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=470
+[INFO] 2016-12-09 18:12:00,805  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=480
+[INFO] 2016-12-09 18:12:00,809  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=490
+[INFO] 2016-12-09 18:12:00,816  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=500
+[INFO] 2016-12-09 18:12:11,321  Requesting to http://www.baidu.com/s?wd=site:forum.pb.garena.com&pn=0
+[INFO] 2016-12-09 18:12:12,598  Requesting to http://www.baidu.com/s?wd=site:forum.garena.com&pn=0
+[INFO] 2016-12-09 18:12:13,546  Requesting to http://www.baidu.com/s?wd=site:mobile.garena.com&pn=0
+[INFO] 2016-12-09 18:12:14,446  Requesting to http://www.baidu.com/s?wd=site:beta-launch.garena.com&pn=0
+[INFO] 2016-12-09 18:12:15,726  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=0
+[INFO] 2016-12-09 18:12:15,726  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=10
+[INFO] 2016-12-09 18:12:15,727  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=20
+[INFO] 2016-12-09 18:12:15,730  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=30
+[INFO] 2016-12-09 18:12:15,732  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=40
+[INFO] 2016-12-09 18:12:15,734  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=50
+[INFO] 2016-12-09 18:12:15,737  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=60
+[INFO] 2016-12-09 18:12:15,740  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=70
+[INFO] 2016-12-09 18:12:15,743  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=80
+[INFO] 2016-12-09 18:12:15,746  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=90
+[INFO] 2016-12-09 18:12:15,749  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=100
+[INFO] 2016-12-09 18:12:15,752  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=110
+[INFO] 2016-12-09 18:12:15,753  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=120
+[INFO] 2016-12-09 18:12:15,756  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=130
+[INFO] 2016-12-09 18:12:15,759  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=140
+[INFO] 2016-12-09 18:12:15,763  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=150
+[INFO] 2016-12-09 18:12:15,766  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=160
+[INFO] 2016-12-09 18:12:15,769  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=170
+[INFO] 2016-12-09 18:12:15,770  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=180
+[INFO] 2016-12-09 18:12:15,773  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=190
+[INFO] 2016-12-09 18:12:15,776  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=200
+[INFO] 2016-12-09 18:12:15,779  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=210
+[INFO] 2016-12-09 18:12:15,783  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=220
+[INFO] 2016-12-09 18:12:15,793  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=230
+[INFO] 2016-12-09 18:12:15,802  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=240
+[INFO] 2016-12-09 18:12:15,808  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=250
+[INFO] 2016-12-09 18:12:15,818  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=260
+[INFO] 2016-12-09 18:12:15,822  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=270
+[INFO] 2016-12-09 18:12:15,822  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=280
+[INFO] 2016-12-09 18:12:15,826  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=290
+[INFO] 2016-12-09 18:12:15,829  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=300
+[INFO] 2016-12-09 18:12:15,835  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=310
+[INFO] 2016-12-09 18:12:15,838  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=320
+[INFO] 2016-12-09 18:12:15,842  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=330
+[INFO] 2016-12-09 18:12:15,851  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=340
+[INFO] 2016-12-09 18:12:15,852  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=350
+[INFO] 2016-12-09 18:12:15,855  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=360
+[INFO] 2016-12-09 18:12:15,862  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=370
+[INFO] 2016-12-09 18:12:15,869  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=380
+[INFO] 2016-12-09 18:12:15,871  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=390
+[INFO] 2016-12-09 18:12:15,874  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=400
+[INFO] 2016-12-09 18:12:15,875  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=410
+[INFO] 2016-12-09 18:12:15,878  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=420
+[INFO] 2016-12-09 18:12:15,881  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=430
+[INFO] 2016-12-09 18:12:15,884  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=440
+[INFO] 2016-12-09 18:12:15,888  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=450
+[INFO] 2016-12-09 18:12:15,891  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=460
+[INFO] 2016-12-09 18:12:15,901  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=470
+[INFO] 2016-12-09 18:12:15,903  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=480
+[INFO] 2016-12-09 18:12:15,904  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=490
+[INFO] 2016-12-09 18:12:15,907  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=500
+[ERROR] 2016-12-09 18:12:16,290  I don't know why this error occurred, so I log it
+My URL: http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=190
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get
+    return requests.get(url, headers=self._headers, proxies=self._proxies)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+[INFO] 2016-12-09 18:12:25,835  Requesting to http://www.baidu.com/s?wd=site:changename.garena.com&pn=0
+[INFO] 2016-12-09 18:12:26,871  Requesting to http://www.baidu.com/s?wd=site:dailylogin.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:12:27,834  Requesting to http://www.baidu.com/s?wd=site:ranking.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:12:28,766  Requesting to http://www.baidu.com/s?wd=site:pbic.pb.garena.com&pn=0
+[INFO] 2016-12-09 18:12:29,976  Requesting to http://www.baidu.com/s?wd=site:shop.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:12:30,993  Requesting to http://www.baidu.com/s?wd=site:support.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:12:30,993  Requesting to http://www.baidu.com/s?wd=site:support.lol.garena.com&pn=10
+[INFO] 2016-12-09 18:12:32,256  Requesting to http://www.baidu.com/s?wd=site:fs2.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:12:33,140  Requesting to http://www.baidu.com/s?wd=site:level.garena.com&pn=0
+[INFO] 2016-12-09 18:12:34,115  Requesting to http://www.baidu.com/s?wd=site:forum.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:12:35,052  Requesting to http://www.baidu.com/s?wd=site:mycl.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:12:36,237  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:12:36,239  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=10
+[INFO] 2016-12-09 18:12:36,240  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=20
+[INFO] 2016-12-09 18:12:36,240  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=30
+[INFO] 2016-12-09 18:12:36,243  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=40
+[INFO] 2016-12-09 18:12:36,246  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=50
+[INFO] 2016-12-09 18:12:36,249  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=60
+[INFO] 2016-12-09 18:12:36,252  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=70
+[INFO] 2016-12-09 18:12:36,255  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=80
+[INFO] 2016-12-09 18:12:36,257  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=90
+[INFO] 2016-12-09 18:12:38,857  Requesting to http://www.baidu.com/s?wd=site:security.garena.com&pn=0
+[INFO] 2016-12-09 18:12:40,026  Requesting to http://www.baidu.com/s?wd=site:lolachievements.garena.com&pn=0
+[INFO] 2016-12-09 18:12:41,045  Requesting to http://www.baidu.com/s?wd=site:corporate.garena.com&pn=0
+[INFO] 2016-12-09 18:12:42,122  Requesting to http://www.baidu.com/s?wd=site:golddragon.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:12:43,457  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=0
+[INFO] 2016-12-09 18:12:43,457  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=10
+[INFO] 2016-12-09 18:12:43,459  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=20
+[INFO] 2016-12-09 18:12:43,461  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=30
+[INFO] 2016-12-09 18:12:43,463  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=40
+[INFO] 2016-12-09 18:12:43,467  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=50
+[INFO] 2016-12-09 18:12:43,470  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=60
+[INFO] 2016-12-09 18:12:43,473  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=70
+[INFO] 2016-12-09 18:12:43,474  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=80
+[INFO] 2016-12-09 18:12:43,480  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=90
+[INFO] 2016-12-09 18:12:43,483  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=100
+[INFO] 2016-12-09 18:12:43,484  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=110
+[INFO] 2016-12-09 18:12:43,489  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=120
+[INFO] 2016-12-09 18:12:43,493  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=130
+[INFO] 2016-12-09 18:12:43,496  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=140
+[INFO] 2016-12-09 18:12:43,499  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=150
+[INFO] 2016-12-09 18:12:43,502  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=160
+[INFO] 2016-12-09 18:12:43,505  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=170
+[INFO] 2016-12-09 18:12:43,509  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=180
+[INFO] 2016-12-09 18:12:43,515  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=190
+[INFO] 2016-12-09 18:12:43,516  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=200
+[INFO] 2016-12-09 18:12:43,519  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=210
+[INFO] 2016-12-09 18:12:43,522  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=220
+[INFO] 2016-12-09 18:12:43,526  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=230
+[INFO] 2016-12-09 18:12:43,530  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=240
+[INFO] 2016-12-09 18:12:43,535  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=250
+[INFO] 2016-12-09 18:12:43,539  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=260
+[INFO] 2016-12-09 18:12:43,545  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=270
+[INFO] 2016-12-09 18:12:43,551  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=280
+[INFO] 2016-12-09 18:12:43,552  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=290
+[INFO] 2016-12-09 18:12:43,555  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=300
+[INFO] 2016-12-09 18:12:43,568  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=310
+[INFO] 2016-12-09 18:12:43,575  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=320
+[INFO] 2016-12-09 18:12:43,586  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=330
+[INFO] 2016-12-09 18:12:43,598  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=340
+[INFO] 2016-12-09 18:12:43,599  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=350
+[INFO] 2016-12-09 18:12:43,604  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=360
+[INFO] 2016-12-09 18:12:43,608  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=370
+[INFO] 2016-12-09 18:12:43,611  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=380
+[INFO] 2016-12-09 18:12:43,615  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=390
+[INFO] 2016-12-09 18:12:43,619  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=400
+[INFO] 2016-12-09 18:12:43,624  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=410
+[INFO] 2016-12-09 18:12:43,627  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=420
+[INFO] 2016-12-09 18:12:43,630  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=430
+[INFO] 2016-12-09 18:12:43,640  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=440
+[INFO] 2016-12-09 18:12:43,644  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=450
+[INFO] 2016-12-09 18:12:43,645  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=460
+[INFO] 2016-12-09 18:12:43,648  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=470
+[INFO] 2016-12-09 18:12:43,653  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=480
+[INFO] 2016-12-09 18:12:43,655  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=490
+[INFO] 2016-12-09 18:12:43,658  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=500
+[INFO] 2016-12-09 18:12:54,762  Requesting to http://www.baidu.com/s?wd=site:pay.garena.com&pn=0
+[INFO] 2016-12-09 18:12:55,793  Requesting to http://www.baidu.com/s?wd=site:reset2ndpass.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:12:56,775  Requesting to http://www.baidu.com/s?wd=site:shop.pb.garena.com&pn=0
+[INFO] 2016-12-09 18:12:57,588  Requesting to http://www.baidu.com/s?wd=site:career.garena.com&pn=0
+[INFO] 2016-12-09 18:12:58,423  Requesting to http://www.baidu.com/s?wd=site:lunar.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:12:59,305  Requesting to http://www.baidu.com/s?wd=site:championship.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:13:00,164  Requesting to http://www.baidu.com/s?wd=site:kakibolaclash.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:13:01,029  Requesting to http://www.baidu.com/s?wd=site:gcl.garena.com&pn=0
+[INFO] 2016-12-09 18:13:01,920  Requesting to http://www.baidu.com/s?wd=site:thunderstrike.garena.com&pn=0
+[INFO] 2016-12-09 18:13:02,878  Requesting to http://www.baidu.com/s?wd=site:gpl.garena.com&pn=0
+[INFO] 2016-12-09 18:13:03,881  Requesting to http://www.baidu.com/s?wd=site:carnival.garena.com&pn=0
+[INFO] 2016-12-09 18:13:04,821  Requesting to http://www.baidu.com/s?wd=site:gcg.garena.com&pn=0
+[INFO] 2016-12-09 18:13:05,736  Requesting to http://www.baidu.com/s?wd=site:redeem.pb.garena.com&pn=0
+[INFO] 2016-12-09 18:13:06,713  Requesting to http://www.baidu.com/s?wd=site:honredeem.garena.com&pn=0
+[INFO] 2016-12-09 18:13:07,868  Requesting to http://www.baidu.com/s?wd=site:clan.intl.garena.com&pn=0
+[INFO] 2016-12-09 18:13:08,999  Requesting to http://www.baidu.com/s?wd=site:iwcavote.garena.com&pn=0
+[INFO] 2016-12-09 18:13:09,917  Requesting to http://www.baidu.com/s?wd=site:design.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:13:10,956  Requesting to http://www.baidu.com/s?wd=site:tour.hon.garena.com&pn=0
+[INFO] 2016-12-09 18:13:10,956  Requesting to http://www.baidu.com/s?wd=site:tour.hon.garena.com&pn=10
+[INFO] 2016-12-09 18:13:10,957  Requesting to http://www.baidu.com/s?wd=site:tour.hon.garena.com&pn=20
+[INFO] 2016-12-09 18:13:12,404  Requesting to http://www.baidu.com/s?wd=site:live.garena.com&pn=0
+[INFO] 2016-12-09 18:13:13,322  Requesting to http://www.baidu.com/s?wd=site:sgcl.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:13:14,296  Requesting to http://www.baidu.com/s?wd=site:about.garena.com&pn=0
+[INFO] 2016-12-09 18:13:15,267  Requesting to http://www.baidu.com/s?wd=site:dqmsl.garena.com&pn=0
+[INFO] 2016-12-09 18:13:16,286  Requesting to http://www.baidu.com/s?wd=site:fs5.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:13:17,165  Requesting to http://www.baidu.com/s?wd=site:dthero.garena.com&pn=0
+[INFO] 2016-12-09 18:13:18,200  Requesting to http://www.baidu.com/s?wd=site:esports.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:13:19,190  Requesting to http://www.baidu.com/s?wd=site:teemorookiecup.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:13:20,459  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=0
+[INFO] 2016-12-09 18:13:20,460  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=10
+[INFO] 2016-12-09 18:13:20,460  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=20
+[INFO] 2016-12-09 18:13:20,463  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=30
+[INFO] 2016-12-09 18:13:20,464  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=40
+[INFO] 2016-12-09 18:13:20,469  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=50
+[INFO] 2016-12-09 18:13:20,471  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=60
+[INFO] 2016-12-09 18:13:20,473  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=70
+[INFO] 2016-12-09 18:13:20,476  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=80
+[INFO] 2016-12-09 18:13:20,479  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=90
+[INFO] 2016-12-09 18:13:20,482  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=100
+[INFO] 2016-12-09 18:13:20,483  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=110
+[INFO] 2016-12-09 18:13:20,487  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=120
+[INFO] 2016-12-09 18:13:20,490  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=130
+[INFO] 2016-12-09 18:13:20,497  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=140
+[INFO] 2016-12-09 18:13:20,500  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=150
+[INFO] 2016-12-09 18:13:20,503  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=160
+[INFO] 2016-12-09 18:13:20,506  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=170
+[INFO] 2016-12-09 18:13:20,509  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=180
+[INFO] 2016-12-09 18:13:20,510  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=190
+[INFO] 2016-12-09 18:13:20,513  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=200
+[INFO] 2016-12-09 18:13:20,516  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=210
+[INFO] 2016-12-09 18:13:20,520  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=220
+[INFO] 2016-12-09 18:13:20,525  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=230
+[INFO] 2016-12-09 18:13:20,533  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=240
+[INFO] 2016-12-09 18:13:20,543  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=250
+[INFO] 2016-12-09 18:13:20,549  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=260
+[INFO] 2016-12-09 18:13:20,549  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=270
+[INFO] 2016-12-09 18:13:20,553  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=280
+[INFO] 2016-12-09 18:13:20,555  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=290
+[INFO] 2016-12-09 18:13:20,558  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=300
+[INFO] 2016-12-09 18:13:20,561  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=310
+[INFO] 2016-12-09 18:13:20,563  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=320
+[INFO] 2016-12-09 18:13:20,578  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=330
+[INFO] 2016-12-09 18:13:20,581  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=340
+[INFO] 2016-12-09 18:13:20,585  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=350
+[INFO] 2016-12-09 18:13:20,586  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=360
+[INFO] 2016-12-09 18:13:20,588  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=370
+[INFO] 2016-12-09 18:13:20,595  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=380
+[INFO] 2016-12-09 18:13:20,607  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=390
+[INFO] 2016-12-09 18:13:20,608  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=400
+[INFO] 2016-12-09 18:13:20,609  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=410
+[INFO] 2016-12-09 18:13:20,611  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=420
+[INFO] 2016-12-09 18:13:20,614  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=430
+[INFO] 2016-12-09 18:13:20,622  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=440
+[INFO] 2016-12-09 18:13:20,625  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=450
+[INFO] 2016-12-09 18:13:20,628  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=460
+[INFO] 2016-12-09 18:13:20,637  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=470
+[INFO] 2016-12-09 18:13:20,638  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=480
+[INFO] 2016-12-09 18:13:20,641  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=490
+[INFO] 2016-12-09 18:13:20,645  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=500
+[INFO] 2016-12-09 18:13:31,012  Requesting to http://www.baidu.com/s?wd=site:esports.garena.com&pn=0
+[INFO] 2016-12-09 18:13:31,951  Requesting to http://www.baidu.com/s?wd=site:weekendcup.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:13:32,823  Requesting to http://www.baidu.com/s?wd=site:mission.pb.garena.com&pn=0
+[INFO] 2016-12-09 18:13:33,737  Requesting to http://www.baidu.com/s?wd=site:forum.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:13:34,661  Requesting to http://www.baidu.com/s?wd=site:premium.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:13:35,586  Requesting to http://www.baidu.com/s?wd=site:luckybox.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:13:36,835  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=0
+[INFO] 2016-12-09 18:13:36,836  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=10
+[INFO] 2016-12-09 18:13:36,839  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=20
+[INFO] 2016-12-09 18:13:36,848  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=30
+[INFO] 2016-12-09 18:13:36,867  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=40
+[INFO] 2016-12-09 18:13:36,868  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=50
+[INFO] 2016-12-09 18:13:36,871  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=60
+[INFO] 2016-12-09 18:13:36,878  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=70
+[INFO] 2016-12-09 18:13:36,884  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=80
+[INFO] 2016-12-09 18:13:36,887  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=90
+[INFO] 2016-12-09 18:13:36,891  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=100
+[INFO] 2016-12-09 18:13:36,895  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=110
+[INFO] 2016-12-09 18:13:36,898  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=120
+[INFO] 2016-12-09 18:13:36,901  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=130
+[INFO] 2016-12-09 18:13:36,903  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=140
+[INFO] 2016-12-09 18:13:36,910  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=150
+[INFO] 2016-12-09 18:13:36,914  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=160
+[INFO] 2016-12-09 18:13:36,914  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=170
+[INFO] 2016-12-09 18:13:36,917  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=180
+[INFO] 2016-12-09 18:13:36,920  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=190
+[INFO] 2016-12-09 18:13:36,924  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=200
+[INFO] 2016-12-09 18:13:36,928  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=210
+[INFO] 2016-12-09 18:13:36,937  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=220
+[INFO] 2016-12-09 18:13:36,941  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=230
+[INFO] 2016-12-09 18:13:36,948  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=240
+[INFO] 2016-12-09 18:13:36,953  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=250
+[INFO] 2016-12-09 18:13:36,960  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=260
+[INFO] 2016-12-09 18:13:36,967  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=270
+[INFO] 2016-12-09 18:13:36,976  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=280
+[INFO] 2016-12-09 18:13:36,976  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=290
+[INFO] 2016-12-09 18:13:36,982  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=300
+[INFO] 2016-12-09 18:13:36,996  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=310
+[INFO] 2016-12-09 18:13:37,012  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=320
+[INFO] 2016-12-09 18:13:37,016  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=330
+[INFO] 2016-12-09 18:13:37,023  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=340
+[INFO] 2016-12-09 18:13:37,030  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=350
+[INFO] 2016-12-09 18:13:37,046  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=360
+[INFO] 2016-12-09 18:13:37,079  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=370
+[INFO] 2016-12-09 18:13:37,095  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=380
+[INFO] 2016-12-09 18:13:37,098  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=390
+[INFO] 2016-12-09 18:13:37,098  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=400
+[INFO] 2016-12-09 18:13:37,101  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=410
+[INFO] 2016-12-09 18:13:37,104  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=420
+[INFO] 2016-12-09 18:13:37,148  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=430
+[INFO] 2016-12-09 18:13:37,167  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=440
+[INFO] 2016-12-09 18:13:37,174  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=450
+[INFO] 2016-12-09 18:13:37,177  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=460
+[INFO] 2016-12-09 18:13:37,194  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=470
+[INFO] 2016-12-09 18:13:37,194  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=480
+[INFO] 2016-12-09 18:13:37,197  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=490
+[INFO] 2016-12-09 18:13:37,213  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=500
+[INFO] 2016-12-09 18:13:49,987  Requesting to http://www.baidu.com/s?wd=site:account.garena.com&pn=0
+[INFO] 2016-12-09 18:13:51,282  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:13:51,282  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=10
+[INFO] 2016-12-09 18:13:51,283  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=20
+[INFO] 2016-12-09 18:13:51,286  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=30
+[INFO] 2016-12-09 18:13:51,289  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=40
+[INFO] 2016-12-09 18:13:51,292  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=50
+[INFO] 2016-12-09 18:13:51,296  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=60
+[INFO] 2016-12-09 18:13:51,299  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=70
+[INFO] 2016-12-09 18:13:51,302  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=80
+[INFO] 2016-12-09 18:13:51,303  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=90
+[INFO] 2016-12-09 18:13:51,305  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=100
+[INFO] 2016-12-09 18:13:51,309  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=110
+[INFO] 2016-12-09 18:13:51,313  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=120
+[INFO] 2016-12-09 18:13:51,316  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=130
+[INFO] 2016-12-09 18:13:51,319  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=140
+[INFO] 2016-12-09 18:13:51,322  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=150
+[INFO] 2016-12-09 18:13:51,325  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=160
+[INFO] 2016-12-09 18:13:51,328  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=170
+[INFO] 2016-12-09 18:13:51,329  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=180
+[INFO] 2016-12-09 18:13:51,332  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=190
+[INFO] 2016-12-09 18:13:51,335  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=200
+[INFO] 2016-12-09 18:13:51,336  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=210
+[INFO] 2016-12-09 18:13:51,339  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=220
+[INFO] 2016-12-09 18:13:51,344  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=230
+[INFO] 2016-12-09 18:13:51,348  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=240
+[INFO] 2016-12-09 18:13:51,354  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=250
+[INFO] 2016-12-09 18:13:51,355  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=260
+[INFO] 2016-12-09 18:13:51,358  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=270
+[INFO] 2016-12-09 18:13:51,368  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=280
+[INFO] 2016-12-09 18:13:51,380  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=290
+[INFO] 2016-12-09 18:13:51,385  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=300
+[INFO] 2016-12-09 18:13:51,387  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=310
+[INFO] 2016-12-09 18:13:51,411  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=320
+[INFO] 2016-12-09 18:13:51,423  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=330
+[INFO] 2016-12-09 18:13:51,434  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=340
+[INFO] 2016-12-09 18:13:51,437  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=350
+[INFO] 2016-12-09 18:13:51,438  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=360
+[INFO] 2016-12-09 18:13:51,441  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=370
+[INFO] 2016-12-09 18:13:51,447  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=380
+[INFO] 2016-12-09 18:13:51,453  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=390
+[INFO] 2016-12-09 18:13:51,457  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=400
+[INFO] 2016-12-09 18:13:51,466  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=410
+[INFO] 2016-12-09 18:13:51,467  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=420
+[INFO] 2016-12-09 18:13:51,467  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=430
+[INFO] 2016-12-09 18:13:51,470  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=440
+[INFO] 2016-12-09 18:13:51,471  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=450
+[INFO] 2016-12-09 18:13:51,474  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=460
+[INFO] 2016-12-09 18:13:51,480  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=470
+[INFO] 2016-12-09 18:13:51,483  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=480
+[INFO] 2016-12-09 18:13:51,486  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=490
+[INFO] 2016-12-09 18:13:51,496  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=500
+[INFO] 2016-12-09 18:14:04,677  Requesting to http://www.baidu.com/s?wd=site:coupon.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:14:05,681  Requesting to http://www.baidu.com/s?wd=site:energy.garena.com&pn=0
+[INFO] 2016-12-09 18:14:06,710  Requesting to http://www.baidu.com/s?wd=site:engineering.garena.com&pn=0
+[INFO] 2016-12-09 18:14:07,687  Requesting to http://www.baidu.com/s?wd=site:ava.garena.com&pn=0
+[INFO] 2016-12-09 18:14:07,688  Requesting to http://www.baidu.com/s?wd=site:ava.garena.com&pn=10
+[INFO] 2016-12-09 18:14:09,025  Requesting to http://www.baidu.com/s?wd=site:tlc.garena.com&pn=0
+[INFO] 2016-12-09 18:14:09,026  Requesting to http://www.baidu.com/s?wd=site:tlc.garena.com&pn=10
+[INFO] 2016-12-09 18:14:10,305  Requesting to http://www.baidu.com/s?wd=site:kbm.fo3.garena.com&pn=0
+[INFO] 2016-12-09 18:14:11,187  Requesting to http://www.baidu.com/s?wd=site:welcome.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:14:12,075  Requesting to http://www.baidu.com/s?wd=site:login813.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:14:13,078  Requesting to http://www.baidu.com/s?wd=site:borrow.garena.com&pn=0
+[INFO] 2016-12-09 18:14:14,055  Requesting to http://www.baidu.com/s?wd=site:fs3.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:14:15,108  Requesting to http://www.baidu.com/s?wd=site:email.garena.com&pn=0
+[INFO] 2016-12-09 18:14:16,098  Requesting to http://www.baidu.com/s?wd=site:freeday.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:14:17,035  Requesting to http://www.baidu.com/s?wd=site:gas.garena.com&pn=0
+[INFO] 2016-12-09 18:14:18,117  Requesting to http://www.baidu.com/s?wd=site:dominion.garena.com&pn=0
+[INFO] 2016-12-09 18:14:19,108  Requesting to http://www.baidu.com/s?wd=site:forum.poe.garena.com&pn=0
+[INFO] 2016-12-09 18:14:20,197  Requesting to http://www.baidu.com/s?wd=site:fs4.ava.garena.com&pn=0
+[ERROR] 2016-12-09 18:14:20,542  I don't know why this error occurred, so I log it
+My URL: http://www.baidu.com/s?wd=site:fs4.ava.garena.com&pn=0
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get
+    return requests.get(url, headers=self._headers, proxies=self._proxies)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+[INFO] 2016-12-09 18:14:20,967  Requesting to http://www.baidu.com/s?wd=site:web.garena.com&pn=0
+[INFO] 2016-12-09 18:14:21,838  Requesting to http://www.baidu.com/s?wd=site:mshl.hon.garena.com&pn=0
+[INFO] 2016-12-09 18:14:22,729  Requesting to http://www.baidu.com/s?wd=site:forum.sng.garena.com&pn=0
+[INFO] 2016-12-09 18:14:24,134  Requesting to http://www.baidu.com/s?wd=site:iow.lol.garena.com&pn=0
+[INFO] 2016-12-09 18:14:25,256  Requesting to http://www.baidu.com/s?wd=site:thesmackdown.garena.com&pn=0
+[INFO] 2016-12-09 18:14:26,263  Requesting to http://www.baidu.com/s?wd=site:gplplayoffs.garena.com&pn=0
+[INFO] 2016-12-09 18:14:27,144  Requesting to http://www.baidu.com/s?wd=site:shop.ava.garena.com&pn=0
+[INFO] 2016-12-09 18:14:28,108  Requesting to http://www.baidu.com/s?wd=site:gca.garena.com&pn=0
+[ERROR] 2016-12-09 18:14:28,602  Stopped since overtime
+[INFO] 2016-12-09 18:14:28,604  New domain was found by BingPlugin: landing.lol.garena.com
+[INFO] 2016-12-09 18:14:28,604  New domain was found by BingPlugin: onlinerewards.lol.garena.com
+[INFO] 2016-12-09 18:14:28,624  New domain was found by BingPlugin: redeem.thunderstrike.garena.com
+[INFO] 2016-12-09 18:14:28,628  New domain was found by BingPlugin: predict.sgcl.lol.garena.com
+[INFO] 2016-12-09 18:14:28,638  New domain was found by BingPlugin: clan.ava.garena.com
+[INFO] 2016-12-09 18:14:28,638  New domain was found by BingPlugin: coupon.ava.garena.com
+[INFO] 2016-12-09 18:14:28,638  New domain was found by BingPlugin: captain.ava.garena.com
+[INFO] 2016-12-09 18:14:28,638  New domain was found by BingPlugin: fs1.ava.garena.com
+[ERROR] 2016-12-09 18:14:28,750  Stopped since overtime
+[ERROR] 2016-12-09 18:14:28,752  Stopped since overtime
+[INFO] 2016-12-09 18:14:28,752  Start finding open ports
+[INFO] 2016-12-09 18:15:08,321  garena.com (122.11.131.7) open ports: 80, 42, 139, 443, 135
+[INFO] 2016-12-09 18:15:43,153  intl.garena.com (118.69.16.97) open ports: 80, 443, 53
+[INFO] 2016-12-09 18:16:19,101  lol.garena.com (203.117.155.202) open ports: 80, 443
+[INFO] 2016-12-09 18:17:06,430  dailytask.lol.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:17:42,851  pb.garena.com (203.117.155.132) open ports: 80
+[INFO] 2016-12-09 18:18:16,089  t.garena.com (203.117.155.103) open ports: 80
+[INFO] 2016-12-09 18:18:16,089  alphacup.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:18:54,476  sso.garena.com (203.116.173.31) open ports: 80, 443
+[INFO] 2016-12-09 18:18:54,477  headshot.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:18:54,477  pickem.lol.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:19:32,980  buyrp.garena.com (203.117.155.142) open ports: 80, 443
+[INFO] 2016-12-09 18:20:11,197  event.poe.garena.com (203.116.214.170) open ports: 80, 443
+[INFO] 2016-12-09 18:20:11,197  www.garena.com (122.11.131.7) open ports: 80, 42, 139, 443, 135
+[INFO] 2016-12-09 18:20:43,578  gcms2.garena.com (122.11.130.71) open ports: 80, 443
+[INFO] 2016-12-09 18:20:43,578  fo3.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:20:43,578  forum.pb.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:21:22,980  forum.garena.com (103.239.122.116) open ports: 80, 443
+[INFO] 2016-12-09 18:22:03,252  mobile.garena.com (203.117.155.143) open ports: 80, 443
+[INFO] 2016-12-09 18:22:03,252  beta-launch.garena.com (203.117.155.143) open ports: 80, 443
+[INFO] 2016-12-09 18:22:39,296  web.poe.garena.com (23.246.201.124) open ports: 1935, 80, 19, 22, 25, 443
+[INFO] 2016-12-09 18:23:11,122  changename.garena.com (203.117.155.45) open ports: 80
+[INFO] 2016-12-09 18:23:41,484  dailylogin.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:23:41,484  ranking.fo3.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:23:41,484  pbic.pb.garena.com (203.117.155.132) open ports: 80
+[INFO] 2016-12-09 18:24:18,529  shop.fo3.garena.com (203.117.155.141) open ports: 80, 443
+[INFO] 2016-12-09 18:24:53,957  support.lol.garena.com (124.108.152.141) open ports: 80, 443
+[INFO] 2016-12-09 18:24:53,957  fs2.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:25:28,068  level.garena.com (203.117.155.113) open ports: 80
+[INFO] 2016-12-09 18:25:28,068  forum.fo3.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:25:28,068  mycl.lol.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:26:03,823  beta.lol.garena.com (203.117.155.133) open ports: 80, 443
+[INFO] 2016-12-09 18:26:32,993  security.garena.com (203.117.155.46) open ports: 80
+[INFO] 2016-12-09 18:26:32,993  lolachievements.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:26:32,993  corporate.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:26:32,993  golddragon.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:26:32,993  forum.hon.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:27:13,645  pay.garena.com (122.11.131.4) open ports: 80, 443
+[INFO] 2016-12-09 18:27:44,700  reset2ndpass.fo3.garena.com (122.11.131.35) open ports: 80, 21, 22
+[INFO] 2016-12-09 18:27:44,701  shop.pb.garena.com (203.117.155.142) open ports: 80, 443
+[INFO] 2016-12-09 18:28:13,773  career.garena.com (203.117.155.62) open ports: 80
+[INFO] 2016-12-09 18:28:13,773  lunar.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:28:13,773  championship.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:28:13,773  kakibolaclash.fo3.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:28:42,665  gcl.garena.com (203.117.155.134) open ports: 80
+[INFO] 2016-12-09 18:28:42,667  thunderstrike.garena.com (203.117.155.134) open ports: 80
+[INFO] 2016-12-09 18:28:42,667  gpl.garena.com (203.117.155.134) open ports: 80
+[INFO] 2016-12-09 18:28:42,667  carnival.garena.com (203.117.155.133) open ports: 80, 443
+[INFO] 2016-12-09 18:28:42,667  gcg.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:29:11,904  redeem.pb.garena.com (203.117.155.64) open ports: 80, 8899
+[INFO] 2016-12-09 18:29:11,904  honredeem.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:29:41,292  clan.intl.garena.com (203.117.155.52) open ports: 80
+[INFO] 2016-12-09 18:29:41,292  iwcavote.garena.com (203.116.214.170) open ports: 80, 443
+[INFO] 2016-12-09 18:29:41,292  design.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:29:41,292  tour.hon.garena.com (203.117.155.132) open ports: 80
+[INFO] 2016-12-09 18:29:41,292  live.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:29:41,292  sgcl.lol.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:30:20,223  about.garena.com (52.74.174.76) open ports: 80, 443
+[INFO] 2016-12-09 18:30:50,144  dqmsl.garena.com (203.117.155.234) open ports: 80
+[INFO] 2016-12-09 18:30:50,144  fs5.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:30:50,144  dthero.garena.com (203.117.155.134) open ports: 80
+[INFO] 2016-12-09 18:30:50,144  esports.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:30:50,144  teemorookiecup.lol.garena.com (203.117.155.133) open ports: 80, 443
+[INFO] 2016-12-09 18:30:50,144  poe.garena.com (23.246.201.124) open ports: 1935, 80, 19, 22, 25, 443
+[INFO] 2016-12-09 18:31:27,535  esports.garena.com (124.108.152.144) open ports: 80, 443
+[INFO] 2016-12-09 18:31:27,535  weekendcup.lol.garena.com (203.117.155.133) open ports: 80, 443
+[INFO] 2016-12-09 18:31:27,535  mission.pb.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:31:27,535  forum.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:31:27,535  premium.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:31:27,536  luckybox.fo3.garena.com (122.11.131.35) open ports: 80, 21, 22
+[INFO] 2016-12-09 18:31:27,536  hon.garena.com (203.117.155.132) open ports: 80
+[INFO] 2016-12-09 18:31:27,536  account.garena.com (122.11.131.7) open ports: 80, 42, 139, 443, 135
+[INFO] 2016-12-09 18:31:27,536  forum.lol.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:31:27,536  coupon.fo3.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:31:27,536  energy.garena.com (203.117.155.113) open ports: 80
+[INFO] 2016-12-09 18:32:07,414  engineering.garena.com (122.11.131.34) open ports: 80, 443
+[INFO] 2016-12-09 18:32:07,414  ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:32:07,414  tlc.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:32:07,414  kbm.fo3.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:32:07,414  welcome.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:32:07,414  login813.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:32:38,796  borrow.garena.com (203.117.155.55) open ports: 80
+[INFO] 2016-12-09 18:32:38,798  fs3.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:33:19,378  email.garena.com (167.89.125.30) open ports: 80, 42, 139, 443, 135
+[INFO] 2016-12-09 18:33:19,378  freeday.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:33:19,378  gas.garena.com (203.117.155.143) open ports: 80, 443
+[INFO] 2016-12-09 18:33:19,378  dominion.garena.com (203.117.155.134) open ports: 80
+[INFO] 2016-12-09 18:33:52,335  forum.poe.garena.com (203.117.155.127) open ports: 80
+[INFO] 2016-12-09 18:33:52,336  fs4.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:34:27,898  web.garena.com (118.69.16.94) open ports: 80, 443, 53
+[INFO] 2016-12-09 18:34:27,898  mshl.hon.garena.com (203.117.155.132) open ports: 80
+[INFO] 2016-12-09 18:35:07,717  forum.sng.garena.com (174.36.102.38) open ports: 80
+[INFO] 2016-12-09 18:35:07,717  iow.lol.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:35:47,826  thesmackdown.garena.com (203.117.155.171) open ports: 80, 443
+[INFO] 2016-12-09 18:35:47,826  gplplayoffs.garena.com (203.117.155.133) open ports: 80, 443
+[INFO] 2016-12-09 18:35:47,828  shop.ava.garena.com (203.117.155.141) open ports: 80, 443
+[INFO] 2016-12-09 18:35:47,828  gca.garena.com (203.117.155.45) open ports: 80
+[INFO] 2016-12-09 18:35:47,828  cny2015.poe.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:35:47,828  us.garena.com (122.11.131.7) open ports: 80, 42, 139, 443, 135
+[INFO] 2016-12-09 18:35:47,828  fbcallback.garena.com (203.117.155.143) open ports: 80, 443
+[INFO] 2016-12-09 18:36:32,938  sng.garena.com (122.11.131.9) open ports: 80, 443
+[INFO] 2016-12-09 18:36:32,938  plus.garena.com (203.117.155.45) open ports: 80
+[INFO] 2016-12-09 18:36:59,444  thhon.garena.com (111.223.63.87) open ports: 80
+[INFO] 2016-12-09 18:37:42,525  landing.lol.garena.com (122.11.128.19) open ports: 80, 443
+[INFO] 2016-12-09 18:37:42,525  onlinerewards.lol.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:38:18,424  redeem.thunderstrike.garena.com (203.117.155.68) open ports: 80
+[INFO] 2016-12-09 18:38:18,424  predict.sgcl.lol.garena.com (122.11.131.35) open ports: 80, 21, 22
+[INFO] 2016-12-09 18:38:18,424  clan.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:38:18,424  coupon.ava.garena.com (203.117.155.237) open ports: 80
+[INFO] 2016-12-09 18:38:18,424  captain.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-09 18:38:18,426  fs1.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22

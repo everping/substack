@@ -89,7 +89,7 @@ class SubStack:
         return self.already_walked
 
     def find_open_ports(self, domains):
-        logger.info("Start finding open port")
+        logger.info("Start finding open ports")
 
         already_scanned = {}
 
