@@ -5,8 +5,8 @@ profile = Profile()
 
 # profile.set_target("bkav.com, garena.com")
 
-profile.set_enabled_plugins('search', ['BingEngine', 'BaiduEngine'])
-profile.set_enabled_plugins('port', ['MxToolboxEngine'])
+profile.set_enabled_plugins('search', ['BingPlugin', 'BaiduPlugin', 'GooglePlugin'])
+# profile.set_enabled_plugins('port', ['MxToolboxEngine'])
 
 http_settings = {
     "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",

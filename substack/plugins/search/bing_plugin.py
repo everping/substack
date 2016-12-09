@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from substack.plugins.base.search_plugin import SearchPlugin
 
 
-class BingEngine(SearchPlugin):
+class BingPlugin(SearchPlugin):
     def __init__(self):
         SearchPlugin.__init__(self)
         self.base_url = 'https://www.bing.com/search?q={query}&first={page}'

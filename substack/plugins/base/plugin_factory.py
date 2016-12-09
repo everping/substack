@@ -1,14 +1,14 @@
 import importlib
 
 
-class PluginFactory():
+class PluginFactory:
     def __init__(self, plugin_name, plugin_type, requester):
         self.plugin_name = plugin_name
         self.plugin_type = plugin_type
         self.requester = requester
 
     def get_plugin_file_name(self):
-        return self.plugin_name[:-6].lower() + "_engine"
+        return self.plugin_name[:-6].lower() + "_plugin"
 
     def create(self):
         try:
