@@ -2,12 +2,13 @@
 
 [search.BaiduPlugin]
 
+[port.NmapPlugin]
+
 [http-settings]
 proxy = 
 agent = Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
 
 [misc-settings]
-log_path = D:/Everping/Work/Projects/substack/log/substack.log
 max_discovery_time = 300
 silent = False
 

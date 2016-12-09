@@ -54,13 +54,13 @@ class SubStack:
         diff = now - self.start_time
         return diff
 
-    def discover_and_brute_force(self):
+    def find_sub_domains(self):
         logger.info("Start finding sub-domains of %s" % self.profile.get_target())
 
-        discovered_list = self.discover()
+        discovered_list = self.search()
         return discovered_list
 
-    def discover(self):
+    def search(self):
         self.already_walked = self.targets
         to_walk = self.targets
 
@@ -82,22 +82,32 @@ class SubStack:
                 if not self.is_existed(domain):
                     new_domain.append(domain)
                     self.already_walked.append(domain)
-                    logger.info('New domain found by %s: %s' % (domain.meta_data['found_by'], domain.domain_name))
+                    logger.info(
+                        'New domain was found by %s: %s' % (domain.meta_data['domain_found_by'], domain.domain_name))
 
             to_walk = new_domain
         return self.already_walked
 
-    # def scan_port(self, domains):
-    #     already_scanned = []
-    #     m = MxToolboxEngine()
-    #     for domain in domains:
-    #         if domain.ip not in already_scanned:
-    #             m.scan(domain)
-    #             already_scanned.append(domain.ip)
+    def find_open_ports(self, domains):
+        logger.info("Start finding open port")
+
+        already_scanned = {}
+
+        for plugin in self.plugins['port']:
+            for domain in domains:
+                if domain.ip not in already_scanned:
+                    open_ports = plugin.scan(domain)
+                    already_scanned[domain.ip] = open_ports
+                    domain.set_open_ports(open_ports)
+                else:
+                    domain.set_open_ports(already_scanned[domain.ip])
+                logger.info(
+                    "%s (%s) open ports: %s" % (
+                        domain.domain_name, domain.ip, ", ".join([str(port) for port in domain.get_open_ports()])))
 
     def start(self):
         self.start_time = time.time()
         self.init_plugin()
         self.targets = [Domain(domain_name) for domain_name in self.profile.get_target()]
-        sub_domains = self.discover_and_brute_force()
-        # open_ports = self.scan_port(sub_domains)
+        sub_domains = self.find_sub_domains()
+        self.find_open_ports(sub_domains)

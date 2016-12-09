@@ -10,6 +10,16 @@ class Domain:
         self.domain_name = domain_name
         self.ip = self._get_ip()
         self.meta_data = {}
+        self.open_ports = []
+
+    def set_open_ports(self, ports):
+        self.open_ports = ports
+
+    def get_open_ports(self):
+        return self.open_ports
+
+    def get_domain_name(self):
+        return self.domain_name
 
     def _get_ip(self):
         """
@@ -31,3 +41,10 @@ class Domain:
         Add information to meta data field
         """
         self.meta_data[variable_name] = value
+
+    def get_info(self, variable_name):
+        """
+        Get meta data
+        """
+        return self.meta_data[variable_name]
+

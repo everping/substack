@@ -5,8 +5,8 @@ profile = Profile()
 
 # profile.set_target("bkav.com, garena.com")
 
-profile.set_enabled_plugins('search', ['BingPlugin', 'BaiduPlugin', 'GooglePlugin'])
-# profile.set_enabled_plugins('port', ['MxToolboxEngine'])
+profile.set_enabled_plugins('search', ['BingPlugin', 'BaiduPlugin'])
+profile.set_enabled_plugins('port', ['NmapPlugin'])
 
 http_settings = {
     "agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
@@ -16,7 +16,6 @@ http_settings = {
 misc_settings = {
     "max_discovery_time": 300,
     "silent": False,
-    "log_path": LOG_PATH,
 }
 
 profile.set_http_settings(http_settings)

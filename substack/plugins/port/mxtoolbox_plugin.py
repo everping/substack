@@ -7,7 +7,8 @@ class MxToolboxPlugin(PortPlugin):
     def __init__(self):
         PortPlugin.__init__(self)
         self.base_url = "http://mxtoolbox.com/Public/Lookup.aspx/DoLookup2"
-        self.post_data = {"inputText": "scan:{host}", "resultIndex": 3}
+
+
 
     def setup_http(self):
         headers = {
