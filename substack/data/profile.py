@@ -3,7 +3,7 @@ import codecs
 import os
 
 from substack.data.exceptions import ProfileException
-from substack.data.utils import PROFILE_DIRECTORY, PROFILE_SECTION, PROFILE_EXTENSION
+from substack.helper.utils import PROFILE_DIRECTORY, PROFILE_SECTION, PROFILE_EXTENSION
 
 
 class Profile:
