@@ -6957,3 +6957,103 @@ ConnectionError: ('Connection aborted.', BadStatusLine("''",))
 [INFO] 2016-12-09 18:38:18,424  coupon.ava.garena.com (203.117.155.237) open ports: 80
 [INFO] 2016-12-09 18:38:18,424  captain.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
 [INFO] 2016-12-09 18:38:18,426  fs1.ava.garena.com (122.11.131.103) open ports: 80, 443, 21, 22
+[INFO] 2016-12-10 11:10:16,124  Start finding sub-domains of ['garena.com']
+[INFO] 2016-12-10 11:10:17,114  Requesting to https://www.bing.com/search?q=domain:garena.com&first=1
+[INFO] 2016-12-10 11:10:17,114  Requesting to https://www.bing.com/search?q=domain:garena.com&first=8
+[INFO] 2016-12-10 11:10:17,115  Requesting to https://www.bing.com/search?q=domain:garena.com&first=18
+[INFO] 2016-12-10 11:10:17,115  Requesting to https://www.bing.com/search?q=domain:garena.com&first=28
+[INFO] 2016-12-10 11:10:17,118  Requesting to https://www.bing.com/search?q=domain:garena.com&first=38
+[INFO] 2016-12-10 11:10:17,119  Requesting to https://www.bing.com/search?q=domain:garena.com&first=48
+[INFO] 2016-12-10 11:10:17,121  Requesting to https://www.bing.com/search?q=domain:garena.com&first=58
+[INFO] 2016-12-10 11:10:17,124  Requesting to https://www.bing.com/search?q=domain:garena.com&first=68
+[INFO] 2016-12-10 11:10:17,127  Requesting to https://www.bing.com/search?q=domain:garena.com&first=78
+[INFO] 2016-12-10 11:10:17,128  Requesting to https://www.bing.com/search?q=domain:garena.com&first=88
+[INFO] 2016-12-10 11:10:17,131  Requesting to https://www.bing.com/search?q=domain:garena.com&first=98
+[INFO] 2016-12-10 11:10:17,132  Requesting to https://www.bing.com/search?q=domain:garena.com&first=108
+[INFO] 2016-12-10 11:10:17,134  Requesting to https://www.bing.com/search?q=domain:garena.com&first=118
+[INFO] 2016-12-10 11:10:25,848  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-10 11:10:26,674  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-10 11:10:28,085  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-10 11:10:28,085  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=10
+[INFO] 2016-12-10 11:10:28,086  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=20
+[INFO] 2016-12-10 11:10:28,088  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=30
+[INFO] 2016-12-10 11:10:28,089  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=40
+[INFO] 2016-12-10 11:10:28,092  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=50
+[INFO] 2016-12-10 11:11:36,355  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-10 11:11:37,125  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-10 11:11:37,125  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-10 11:11:38,315  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-10 11:11:38,315  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=10
+[INFO] 2016-12-10 11:11:38,318  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=20
+[INFO] 2016-12-10 11:11:38,319  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=30
+[INFO] 2016-12-10 11:11:38,321  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=40
+[INFO] 2016-12-10 11:11:38,322  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=50
+[INFO] 2016-12-10 11:11:40,236  New domain was found by BingPlugin: security.bkav.com
+[INFO] 2016-12-10 11:11:40,236  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-10 11:11:40,236  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-10 11:11:40,236  New domain was found by BingPlugin: www.bkav.com
+[INFO] 2016-12-10 11:11:40,236  New domain was found by BingPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-10 11:11:40,236  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-10 11:11:40,730  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-10 11:11:41,713  Requesting to https://www.bing.com/search?q=domain:btm.bkav.com&first=1
+[INFO] 2016-12-10 11:11:42,711  Requesting to https://www.bing.com/search?q=domain:mobile2.bkav.com&first=1
+[INFO] 2016-12-10 11:11:43,671  Requesting to https://www.bing.com/search?q=domain:www.bkav.com&first=1
+[INFO] 2016-12-10 11:11:44,733  Requesting to https://www.bing.com/search?q=domain:www.smarthome.bkav.com&first=1
+[INFO] 2016-12-10 11:11:45,719  Requesting to https://www.bing.com/search?q=domain:ios.bkav.com&first=1
+[INFO] 2016-12-10 11:11:46,716  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-10 11:11:46,717  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-10 11:11:46,717  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-10 11:11:47,815  Requesting to http://www.baidu.com/s?wd=site:btm.bkav.com&pn=0
+[INFO] 2016-12-10 11:11:48,529  Requesting to http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=0
+[INFO] 2016-12-10 11:11:49,315  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-10 11:11:49,315  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-10 11:11:49,316  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-10 11:11:49,318  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-10 11:11:49,319  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-10 11:11:49,322  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-10 11:11:49,323  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-10 11:11:49,325  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-10 11:11:49,328  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-10 11:11:49,329  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=90
+[INFO] 2016-12-10 11:11:51,494  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-10 11:11:51,494  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-10 11:11:51,496  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-10 11:11:51,499  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-10 11:11:51,500  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-10 11:11:51,502  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-10 11:11:53,051  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-10 11:11:56,186  Start finding open ports
+[INFO] 2016-12-10 11:12:23,944  bkav.com (123.30.245.109) open ports: 80, 443
+[INFO] 2016-12-10 11:12:44,275  security.bkav.com (103.237.99.119) open ports: 80
+[INFO] 2016-12-10 11:13:11,114  btm.bkav.com (103.237.99.246) open ports: 80, 443
+[INFO] 2016-12-10 11:13:37,628  mobile2.bkav.com (103.237.97.2) open ports: 80, 443
+[INFO] 2016-12-10 11:13:37,628  www.bkav.com (123.30.245.109) open ports: 80, 443
+[INFO] 2016-12-10 11:14:03,608  www.smarthome.bkav.com (103.237.99.24) open ports: 80, 443
+[INFO] 2016-12-10 11:14:15,588  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-10 11:14:16,398  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-10 11:14:16,398  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-10 11:14:17,706  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-10 11:14:17,707  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=10
+[INFO] 2016-12-10 11:14:17,707  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=20
+[INFO] 2016-12-10 11:14:17,709  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=30
+[INFO] 2016-12-10 11:14:17,710  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=40
+[INFO] 2016-12-10 11:14:17,711  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=50
+[INFO] 2016-12-10 11:14:19,325  New domain was found by BingPlugin: security.bkav.com
+[INFO] 2016-12-10 11:14:19,325  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-10 11:14:19,325  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-10 11:14:19,325  New domain was found by BingPlugin: www.bkav.com
+[INFO] 2016-12-10 11:14:19,325  New domain was found by BingPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-10 11:14:19,325  New domain was found by BingPlugin: ios.bkav.com
+[INFO] 2016-12-10 11:14:19,743  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-10 11:14:20,507  Requesting to https://www.bing.com/search?q=domain:btm.bkav.com&first=1
+[INFO] 2016-12-10 11:14:21,427  Requesting to https://www.bing.com/search?q=domain:mobile2.bkav.com&first=1
+[INFO] 2016-12-10 11:14:29,809  ios.bkav.com (123.30.245.120) open ports: 80, 81, 443, 53, 9000
+[INFO] 2016-12-10 11:15:19,471  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-10 11:15:20,411  Start finding open ports
+[INFO] 2016-12-10 11:15:48,568  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-10 11:15:49,457  Start finding open ports
+[INFO] 2016-12-10 11:15:50,898  bkav.com (123.30.245.109) open ports: 80, 443
+[INFO] 2016-12-10 11:16:17,714  bkav.com (123.30.245.109) open ports: 80, 443
+[INFO] 2016-12-10 11:16:27,453  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-10 11:20:23,769  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-10 11:20:24,743  Start finding open ports

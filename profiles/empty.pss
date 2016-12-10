@@ -1,6 +1,4 @@
-[search.BingPlugin]
-
-[search.BaiduPlugin]
+[search.GooglePlugin]
 
 [port.NmapPlugin]
 
