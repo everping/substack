@@ -16,11 +16,18 @@ class GooglePlugin(SearchPlugin):
         return seed * 10
 
     def get_total_page(self):
-        url = self.base_url.format(query=self.get_query(), page=self.max_page)
-        content = self.requester.get(url).text  # get all text of this page
-        soup = BeautifulSoup(content, "html5lib")
-        print soup
-        print soup.findAll('td', class_="cur")
+        try:
+            url = self.base_url.format(query=self.get_query(), page=self.max_page)
+            print url
+            content = self.requester.get(url).text  # get all text of this page
+            soup = BeautifulSoup(content, "lxml")
+            tag_a = soup.findAll('a', attrs={'class': 'fl'})
+            print tag_a
+            num_page = tag_a[-1]['aria-label']
+            return int(num_page.split()[1])
+        except:
+            print "somthing was wrong"
+            return 0
 
     def extract(self, url):
         content = self.requester.get(url).text
@@ -28,10 +35,14 @@ class GooglePlugin(SearchPlugin):
         domains = soup.find_all("cite")
 
         for line in domains:
-            url = str(line.string.split()[0])
+            try:
+                url = str(line.string.split()[0])
 
-            if url.startswith("https", 0, 5):
-                self.add(urlparse(url).netloc)
-            else:
-                url = "http://" + url
-                self.add(urlparse(url).netloc)
+                if url.startswith("https", 0, 5):
+                    self.add(urlparse(url).netloc)
+                else:
+                    url = "http://" + url
+                    self.add(urlparse(url).netloc)
+            except:
+                print "somthing was wrong"
+                pass
