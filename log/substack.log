@@ -7057,3 +7057,107 @@ ConnectionError: ('Connection aborted.', BadStatusLine("''",))
 [INFO] 2016-12-10 11:16:27,453  Start finding sub-domains of ['bkav.com']
 [INFO] 2016-12-10 11:20:23,769  Start finding sub-domains of ['bkav.com']
 [INFO] 2016-12-10 11:20:24,743  Start finding open ports
+[INFO] 2016-12-11 15:59:44,815  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-11 15:59:45,868  Requesting to https://www.google.com/search?q=site:bkav.com&start=0
+[INFO] 2016-12-11 15:59:45,877  Requesting to https://www.google.com/search?q=site:bkav.com&start=10
+[INFO] 2016-12-11 15:59:45,878  Requesting to https://www.google.com/search?q=site:bkav.com&start=20
+[INFO] 2016-12-11 15:59:45,881  Requesting to https://www.google.com/search?q=site:bkav.com&start=30
+[INFO] 2016-12-11 15:59:45,885  Requesting to https://www.google.com/search?q=site:bkav.com&start=40
+[INFO] 2016-12-11 15:59:45,898  Requesting to https://www.google.com/search?q=site:bkav.com&start=50
+[INFO] 2016-12-11 15:59:45,903  Requesting to https://www.google.com/search?q=site:bkav.com&start=60
+[INFO] 2016-12-11 15:59:45,907  Requesting to https://www.google.com/search?q=site:bkav.com&start=70
+[INFO] 2016-12-11 15:59:45,913  Requesting to https://www.google.com/search?q=site:bkav.com&start=80
+[INFO] 2016-12-11 15:59:45,917  Requesting to https://www.google.com/search?q=site:bkav.com&start=90
+[INFO] 2016-12-11 15:59:45,923  Requesting to https://www.google.com/search?q=site:bkav.com&start=100
+[INFO] 2016-12-11 15:59:45,938  Requesting to https://www.google.com/search?q=site:bkav.com&start=110
+[INFO] 2016-12-11 15:59:45,940  Requesting to https://www.google.com/search?q=site:bkav.com&start=120
+[INFO] 2016-12-11 15:59:45,953  Requesting to https://www.google.com/search?q=site:bkav.com&start=130
+[INFO] 2016-12-11 15:59:45,956  Requesting to https://www.google.com/search?q=site:bkav.com&start=140
+[INFO] 2016-12-11 15:59:45,960  Requesting to https://www.google.com/search?q=site:bkav.com&start=150
+[INFO] 2016-12-11 15:59:45,960  Requesting to https://www.google.com/search?q=site:bkav.com&start=160
+[INFO] 2016-12-11 15:59:45,973  Requesting to https://www.google.com/search?q=site:bkav.com&start=170
+[INFO] 2016-12-11 15:59:45,979  Requesting to https://www.google.com/search?q=site:bkav.com&start=180
+[INFO] 2016-12-11 15:59:45,980  Requesting to https://www.google.com/search?q=site:bkav.com&start=190
+[INFO] 2016-12-11 15:59:45,986  Requesting to https://www.google.com/search?q=site:bkav.com&start=200
+[INFO] 2016-12-11 15:59:45,989  Requesting to https://www.google.com/search?q=site:bkav.com&start=210
+[INFO] 2016-12-11 15:59:45,999  Requesting to https://www.google.com/search?q=site:bkav.com&start=220
+[INFO] 2016-12-11 15:59:46,003  Requesting to https://www.google.com/search?q=site:bkav.com&start=230
+[INFO] 2016-12-11 15:59:46,006  Requesting to https://www.google.com/search?q=site:bkav.com&start=240
+[INFO] 2016-12-11 15:59:46,009  Requesting to https://www.google.com/search?q=site:bkav.com&start=250
+[INFO] 2016-12-11 15:59:46,013  Requesting to https://www.google.com/search?q=site:bkav.com&start=260
+[INFO] 2016-12-11 15:59:46,023  Requesting to https://www.google.com/search?q=site:bkav.com&start=270
+[INFO] 2016-12-11 15:59:46,029  Requesting to https://www.google.com/search?q=site:bkav.com&start=280
+[INFO] 2016-12-11 15:59:46,032  Requesting to https://www.google.com/search?q=site:bkav.com&start=290
+[INFO] 2016-12-11 15:59:46,038  Requesting to https://www.google.com/search?q=site:bkav.com&start=300
+[INFO] 2016-12-11 15:59:46,039  Requesting to https://www.google.com/search?q=site:bkav.com&start=310
+[INFO] 2016-12-11 15:59:46,042  Requesting to https://www.google.com/search?q=site:bkav.com&start=320
+[INFO] 2016-12-11 15:59:46,055  Requesting to https://www.google.com/search?q=site:bkav.com&start=330
+[INFO] 2016-12-11 15:59:46,058  Requesting to https://www.google.com/search?q=site:bkav.com&start=340
+[INFO] 2016-12-11 15:59:46,059  Requesting to https://www.google.com/search?q=site:bkav.com&start=350
+[INFO] 2016-12-11 15:59:46,065  Requesting to https://www.google.com/search?q=site:bkav.com&start=360
+[INFO] 2016-12-11 15:59:46,068  Requesting to https://www.google.com/search?q=site:bkav.com&start=370
+[INFO] 2016-12-11 15:59:46,079  Requesting to https://www.google.com/search?q=site:bkav.com&start=380
+[INFO] 2016-12-11 15:59:46,085  Requesting to https://www.google.com/search?q=site:bkav.com&start=390
+[INFO] 2016-12-11 15:59:46,088  Requesting to https://www.google.com/search?q=site:bkav.com&start=400
+[INFO] 2016-12-11 16:00:17,734  New domain was found by GooglePlugin: www.smarthome.bkav.com
+[INFO] 2016-12-11 16:00:17,736  New domain was found by GooglePlugin: mobile2.bkav.com
+[INFO] 2016-12-11 16:00:17,736  New domain was found by GooglePlugin: www.bkav.com
+[INFO] 2016-12-11 16:00:17,736  New domain was found by GooglePlugin: security.bkav.com
+[INFO] 2016-12-11 16:00:17,736  New domain was found by GooglePlugin: mail49.bkav.com
+[INFO] 2016-12-11 16:00:17,736  New domain was found by GooglePlugin: ios.bkav.com
+[INFO] 2016-12-11 16:00:17,736  New domain was found by GooglePlugin: btm.bkav.com
+[INFO] 2016-12-11 16:00:17,737  New domain was found by GooglePlugin: mail47.bkav.com
+[INFO] 2016-12-11 16:00:17,740  New domain was found by GooglePlugin: ca.bkav.com
+[INFO] 2016-12-11 16:00:17,740  New domain was found by GooglePlugin: adboard.bkav.com
+[INFO] 2016-12-11 16:00:18,332  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=0
+[INFO] 2016-12-11 16:00:18,335  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=10
+[INFO] 2016-12-11 16:00:18,335  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=20
+[INFO] 2016-12-11 16:00:18,338  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=30
+[INFO] 2016-12-11 16:00:18,341  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=40
+[INFO] 2016-12-11 16:00:18,345  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=50
+[INFO] 2016-12-11 16:00:18,349  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=60
+[INFO] 2016-12-11 16:00:18,354  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=70
+[INFO] 2016-12-11 16:00:18,358  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=80
+[INFO] 2016-12-11 16:00:18,362  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=90
+[INFO] 2016-12-11 16:00:26,480  Requesting to https://www.google.com/search?q=site:mobile2.bkav.com&start=0
+[INFO] 2016-12-11 16:00:27,451  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=0
+[INFO] 2016-12-11 16:00:27,453  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=10
+[INFO] 2016-12-11 16:00:27,454  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=20
+[INFO] 2016-12-11 16:00:27,457  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=30
+[INFO] 2016-12-11 16:00:27,463  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=40
+[INFO] 2016-12-11 16:00:27,467  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=50
+[INFO] 2016-12-11 16:00:27,470  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=60
+[INFO] 2016-12-11 16:00:27,489  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=70
+[INFO] 2016-12-11 16:00:27,493  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=80
+[INFO] 2016-12-11 16:00:27,496  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=90
+[INFO] 2016-12-11 16:00:27,499  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=100
+[INFO] 2016-12-11 16:00:27,500  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=110
+[INFO] 2016-12-11 16:00:27,506  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=120
+[INFO] 2016-12-11 16:00:27,510  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=130
+[INFO] 2016-12-11 16:00:27,532  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=140
+[INFO] 2016-12-11 16:00:27,535  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=150
+[INFO] 2016-12-11 16:00:27,538  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=160
+[INFO] 2016-12-11 16:00:27,539  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=170
+[INFO] 2016-12-11 16:00:27,546  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=180
+[INFO] 2016-12-11 16:00:27,548  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=190
+[INFO] 2016-12-11 16:00:44,328  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=0
+[INFO] 2016-12-11 16:00:44,329  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=10
+[INFO] 2016-12-11 16:00:44,332  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=20
+[INFO] 2016-12-11 16:00:44,335  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=30
+[INFO] 2016-12-11 16:00:44,341  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=40
+[INFO] 2016-12-11 16:00:44,345  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=50
+[INFO] 2016-12-11 16:00:44,348  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=60
+[INFO] 2016-12-11 16:00:44,362  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=70
+[INFO] 2016-12-11 16:00:44,375  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=80
+[INFO] 2016-12-11 16:00:44,378  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=90
+[INFO] 2016-12-11 16:00:44,381  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=100
+[INFO] 2016-12-11 16:00:44,382  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=110
+[INFO] 2016-12-11 16:00:44,385  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=120
+[INFO] 2016-12-11 16:00:54,805  Requesting to https://www.google.com/search?q=site:mail49.bkav.com&start=0
+[INFO] 2016-12-11 16:00:55,641  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=0
+[INFO] 2016-12-11 16:00:55,642  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=10
+[INFO] 2016-12-11 16:00:57,381  Requesting to https://www.google.com/search?q=site:btm.bkav.com&start=0
+[INFO] 2016-12-11 16:00:58,161  Requesting to https://www.google.com/search?q=site:mail47.bkav.com&start=0
+[INFO] 2016-12-11 16:00:59,124  Requesting to https://www.google.com/search?q=site:ca.bkav.com&start=0
+[INFO] 2016-12-11 16:01:00,072  Requesting to https://www.google.com/search?q=site:adboard.bkav.com&start=0
+[INFO] 2016-12-11 16:01:00,556  Start finding open ports
