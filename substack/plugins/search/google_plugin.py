@@ -19,13 +19,23 @@ class GooglePlugin(SearchPlugin):
         try:
             url = self.base_url.format(query=self.get_query(), page=self.max_page)
             content = self.requester.get(url).text
-            soup = BeautifulSoup(content, "lxml")
-            tag_a = soup.findAll('a', attrs={'class': 'fl'})
-            num_page = tag_a[-1]['aria-label']
-            return int(num_page.split()[1])
+            if (self.captcha_handle(content)):
+                soup = BeautifulSoup(content, "html5lib")
+                tag_a = soup.findAll('a', attrs={'class': 'fl'})
+                num_page = tag_a[-1]['aria-label']
+                return int(num_page.split()[1])
+            else:
+                print "captcha detected [google]"
+                return 0
         except:
-            print "somthing was wrong"
+            print "somthing was wrong in get_total_page"
             return 0
+
+    def captcha_handle(self, text):
+        if ("Our systems have detected unusual traffic from your computer network" not in text):
+            return True
+        else:
+            return False
 
     def extract(self, url):
         content = self.requester.get(url).text
@@ -44,5 +54,5 @@ class GooglePlugin(SearchPlugin):
                     url = "http://" + url
                     self.add(urlparse(url).netloc)
             except: 
-                print "somthing was wrong"
+                print "somthing was wrong in extracting domains"
                 pass

@@ -1,5 +1,9 @@
 [search.GooglePlugin]
 
+[search.BaiduPlugin]
+
+[search.BingPlugin]
+
 [port.NmapPlugin]
 
 [http-settings]
