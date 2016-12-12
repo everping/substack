@@ -5,7 +5,7 @@ profile = Profile()
 
 # profile.set_target("bkav.com, garena.com")
 
-profile.set_enabled_plugins('search', ['BingPlugin', 'BaiduPlugin', 'GooglePlugin'])
+profile.set_enabled_plugins('search', ['GooglePlugin'])
 profile.set_enabled_plugins('port', ['NmapPlugin'])
 
 http_settings = {
