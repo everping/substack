@@ -1,5 +1,8 @@
 [search.BaiduPlugin]
 
+[search.BingPlugin]
+
+[search.GooglePlugin]
 
 [port.NmapPlugin]
 
