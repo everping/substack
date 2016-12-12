@@ -1,4 +1,3 @@
-from urlparse import urlparse
 from bs4 import BeautifulSoup
 
 from substack.plugins.base.search_plugin import SearchPlugin
@@ -34,8 +33,5 @@ class BaiduPlugin(SearchPlugin):
         a_tags = soup.find_all('a', class_="c-showurl")
         for a_tag in a_tags:
             my_url = a_tag.string.strip().replace("...", "")
-            if not my_url.startswith("http://") and not my_url.startswith("https://"):
-                my_url = "http://" + my_url
-
-            domain_name = urlparse(my_url).netloc
+            domain_name = self.parse_domain_name(my_url)
             self.add(domain_name)

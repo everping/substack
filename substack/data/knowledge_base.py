@@ -9,7 +9,7 @@ class KnowledgeBase:
         for _domain in self._sub_domains:
             if _domain.ip == domain.ip:
                 for port in ports:
-                    if port not in _domain.get_open_ports:
+                    if port not in _domain.get_open_ports():
                         _domain.add_open_port(port)
 
     def _is_existed_domain(self, sub_domain):

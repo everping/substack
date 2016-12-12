@@ -9314,3 +9314,1769 @@ ConnectionError: HTTPSConnectionPool(host='www.google.com', port=443): Max retri
 [INFO] 2016-12-12 15:38:21,480  www.bkav.com (123.30.245.109) open ports: 
 [INFO] 2016-12-12 15:38:23,588  www.smarthome.bkav.com (103.237.99.24) open ports: 
 [INFO] 2016-12-12 15:38:25,723  ios.bkav.com (123.30.245.120) open ports: 
+[INFO] 2016-12-12 16:49:56,867  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 16:49:58,243  Requesting to https://www.google.com/search?q=site:bkav.com&start=0
+[INFO] 2016-12-12 16:49:58,243  Requesting to https://www.google.com/search?q=site:bkav.com&start=10
+[INFO] 2016-12-12 16:49:58,244  Requesting to https://www.google.com/search?q=site:bkav.com&start=20
+[INFO] 2016-12-12 16:49:58,246  Requesting to https://www.google.com/search?q=site:bkav.com&start=30
+[INFO] 2016-12-12 16:49:58,247  Requesting to https://www.google.com/search?q=site:bkav.com&start=40
+[INFO] 2016-12-12 16:49:58,250  Requesting to https://www.google.com/search?q=site:bkav.com&start=50
+[INFO] 2016-12-12 16:49:58,253  Requesting to https://www.google.com/search?q=site:bkav.com&start=60
+[INFO] 2016-12-12 16:49:58,256  Requesting to https://www.google.com/search?q=site:bkav.com&start=70
+[INFO] 2016-12-12 16:49:58,299  Requesting to https://www.google.com/search?q=site:bkav.com&start=80
+[INFO] 2016-12-12 16:49:58,303  Requesting to https://www.google.com/search?q=site:bkav.com&start=90
+[INFO] 2016-12-12 16:49:58,305  Requesting to https://www.google.com/search?q=site:bkav.com&start=100
+[INFO] 2016-12-12 16:49:58,305  Requesting to https://www.google.com/search?q=site:bkav.com&start=110
+[INFO] 2016-12-12 16:49:58,311  Requesting to https://www.google.com/search?q=site:bkav.com&start=120
+[INFO] 2016-12-12 16:49:58,312  Requesting to https://www.google.com/search?q=site:bkav.com&start=130
+[INFO] 2016-12-12 16:49:58,315  Requesting to https://www.google.com/search?q=site:bkav.com&start=140
+[INFO] 2016-12-12 16:49:58,321  Requesting to https://www.google.com/search?q=site:bkav.com&start=150
+[INFO] 2016-12-12 16:49:58,403  Requesting to https://www.google.com/search?q=site:bkav.com&start=160
+[INFO] 2016-12-12 16:49:58,404  Requesting to https://www.google.com/search?q=site:bkav.com&start=170
+[INFO] 2016-12-12 16:49:58,405  Requesting to https://www.google.com/search?q=site:bkav.com&start=180
+[INFO] 2016-12-12 16:49:58,407  Requesting to https://www.google.com/search?q=site:bkav.com&start=190
+[INFO] 2016-12-12 16:49:58,411  Requesting to https://www.google.com/search?q=site:bkav.com&start=200
+[INFO] 2016-12-12 16:49:58,421  Requesting to https://www.google.com/search?q=site:bkav.com&start=210
+[INFO] 2016-12-12 16:49:58,427  Requesting to https://www.google.com/search?q=site:bkav.com&start=220
+[INFO] 2016-12-12 16:49:58,428  Requesting to https://www.google.com/search?q=site:bkav.com&start=230
+[INFO] 2016-12-12 16:49:58,430  Requesting to https://www.google.com/search?q=site:bkav.com&start=240
+[INFO] 2016-12-12 16:49:58,433  Requesting to https://www.google.com/search?q=site:bkav.com&start=250
+[INFO] 2016-12-12 16:49:58,434  Requesting to https://www.google.com/search?q=site:bkav.com&start=260
+[INFO] 2016-12-12 16:49:58,480  Requesting to https://www.google.com/search?q=site:bkav.com&start=270
+[INFO] 2016-12-12 16:49:58,483  Requesting to https://www.google.com/search?q=site:bkav.com&start=280
+[INFO] 2016-12-12 16:49:58,486  Requesting to https://www.google.com/search?q=site:bkav.com&start=290
+[INFO] 2016-12-12 16:49:58,486  Requesting to https://www.google.com/search?q=site:bkav.com&start=300
+[INFO] 2016-12-12 16:49:58,490  Requesting to https://www.google.com/search?q=site:bkav.com&start=310
+[INFO] 2016-12-12 16:49:58,493  Requesting to https://www.google.com/search?q=site:bkav.com&start=320
+[INFO] 2016-12-12 16:49:58,496  Requesting to https://www.google.com/search?q=site:bkav.com&start=330
+[INFO] 2016-12-12 16:49:58,500  Requesting to https://www.google.com/search?q=site:bkav.com&start=340
+[INFO] 2016-12-12 16:49:58,502  Requesting to https://www.google.com/search?q=site:bkav.com&start=350
+[INFO] 2016-12-12 16:50:10,114  New domain was found by GooglePlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 16:50:10,114  New domain was found by GooglePlugin: mobile2.bkav.com
+[INFO] 2016-12-12 16:50:10,114  New domain was found by GooglePlugin: www.bkav.com
+[INFO] 2016-12-12 16:50:10,114  New domain was found by GooglePlugin: security.bkav.com
+[INFO] 2016-12-12 16:50:10,114  New domain was found by GooglePlugin: mail49.bkav.com
+[INFO] 2016-12-12 16:50:10,114  New domain was found by GooglePlugin: ios.bkav.com
+[INFO] 2016-12-12 16:50:10,115  New domain was found by GooglePlugin: ca.bkav.com
+[INFO] 2016-12-12 16:50:10,115  New domain was found by GooglePlugin: btm.bkav.com
+[INFO] 2016-12-12 16:50:10,115  New domain was found by GooglePlugin: mail47.bkav.com
+[INFO] 2016-12-12 16:50:10,115  New domain was found by GooglePlugin: adboard.bkav.com
+[INFO] 2016-12-12 16:50:10,996  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=0
+[INFO] 2016-12-12 16:50:10,996  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=10
+[INFO] 2016-12-12 16:50:10,997  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=20
+[INFO] 2016-12-12 16:50:10,999  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=30
+[INFO] 2016-12-12 16:50:11,000  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=40
+[INFO] 2016-12-12 16:50:11,003  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=50
+[INFO] 2016-12-12 16:50:11,005  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=60
+[INFO] 2016-12-12 16:50:11,006  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=70
+[INFO] 2016-12-12 16:50:11,009  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=80
+[INFO] 2016-12-12 16:50:11,013  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=90
+[INFO] 2016-12-12 16:50:14,756  Requesting to https://www.google.com/search?q=site:mobile2.bkav.com&start=0
+[INFO] 2016-12-12 16:50:15,801  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=0
+[INFO] 2016-12-12 16:50:15,802  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=10
+[INFO] 2016-12-12 16:50:15,802  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=20
+[INFO] 2016-12-12 16:50:15,803  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=30
+[INFO] 2016-12-12 16:50:15,805  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=40
+[INFO] 2016-12-12 16:50:15,806  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=50
+[INFO] 2016-12-12 16:50:15,809  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=60
+[INFO] 2016-12-12 16:50:15,811  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=70
+[INFO] 2016-12-12 16:50:15,813  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=80
+[INFO] 2016-12-12 16:50:15,815  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=90
+[INFO] 2016-12-12 16:50:15,818  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=100
+[INFO] 2016-12-12 16:50:15,819  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=110
+[INFO] 2016-12-12 16:50:15,822  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=120
+[INFO] 2016-12-12 16:50:15,825  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=130
+[INFO] 2016-12-12 16:50:15,854  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=140
+[INFO] 2016-12-12 16:50:15,855  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=150
+[INFO] 2016-12-12 16:50:15,857  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=160
+[INFO] 2016-12-12 16:50:15,858  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=170
+[INFO] 2016-12-12 16:50:15,861  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=180
+[INFO] 2016-12-12 16:50:15,864  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=190
+[INFO] 2016-12-12 16:50:23,174  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=0
+[INFO] 2016-12-12 16:50:23,174  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=10
+[INFO] 2016-12-12 16:50:23,176  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=20
+[INFO] 2016-12-12 16:50:23,177  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=30
+[INFO] 2016-12-12 16:50:23,178  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=40
+[INFO] 2016-12-12 16:50:23,180  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=50
+[INFO] 2016-12-12 16:50:23,183  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=60
+[INFO] 2016-12-12 16:50:23,184  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=70
+[INFO] 2016-12-12 16:50:23,187  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=80
+[INFO] 2016-12-12 16:50:23,190  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=90
+[INFO] 2016-12-12 16:50:23,191  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=100
+[INFO] 2016-12-12 16:50:23,211  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=110
+[INFO] 2016-12-12 16:50:23,213  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=120
+[INFO] 2016-12-12 16:50:27,960  Requesting to https://www.google.com/search?q=site:mail49.bkav.com&start=0
+[INFO] 2016-12-12 16:50:29,244  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=0
+[INFO] 2016-12-12 16:50:30,979  Requesting to https://www.google.com/search?q=site:ca.bkav.com&start=0
+[INFO] 2016-12-12 16:50:31,865  Requesting to https://www.google.com/search?q=site:btm.bkav.com&start=0
+[INFO] 2016-12-12 16:50:32,776  Requesting to https://www.google.com/search?q=site:mail47.bkav.com&start=0
+[INFO] 2016-12-12 16:50:48,430  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 16:50:49,549  Requesting to https://www.google.com/search?q=site:bkav.com&start=0
+[INFO] 2016-12-12 16:50:49,551  Requesting to https://www.google.com/search?q=site:bkav.com&start=10
+[INFO] 2016-12-12 16:50:49,552  Requesting to https://www.google.com/search?q=site:bkav.com&start=20
+[INFO] 2016-12-12 16:50:49,553  Requesting to https://www.google.com/search?q=site:bkav.com&start=30
+[INFO] 2016-12-12 16:50:49,555  Requesting to https://www.google.com/search?q=site:bkav.com&start=40
+[INFO] 2016-12-12 16:50:49,559  Requesting to https://www.google.com/search?q=site:bkav.com&start=50
+[INFO] 2016-12-12 16:50:49,561  Requesting to https://www.google.com/search?q=site:bkav.com&start=60
+[INFO] 2016-12-12 16:50:49,562  Requesting to https://www.google.com/search?q=site:bkav.com&start=70
+[INFO] 2016-12-12 16:50:49,563  Requesting to https://www.google.com/search?q=site:bkav.com&start=80
+[INFO] 2016-12-12 16:50:49,565  Requesting to https://www.google.com/search?q=site:bkav.com&start=90
+[INFO] 2016-12-12 16:50:49,585  Requesting to https://www.google.com/search?q=site:bkav.com&start=100
+[INFO] 2016-12-12 16:50:49,591  Requesting to https://www.google.com/search?q=site:bkav.com&start=110
+[INFO] 2016-12-12 16:50:49,592  Requesting to https://www.google.com/search?q=site:bkav.com&start=120
+[INFO] 2016-12-12 16:50:49,608  Requesting to https://www.google.com/search?q=site:bkav.com&start=130
+[INFO] 2016-12-12 16:50:49,609  Requesting to https://www.google.com/search?q=site:bkav.com&start=140
+[INFO] 2016-12-12 16:50:49,611  Requesting to https://www.google.com/search?q=site:bkav.com&start=150
+[INFO] 2016-12-12 16:50:49,611  Requesting to https://www.google.com/search?q=site:bkav.com&start=160
+[INFO] 2016-12-12 16:50:49,614  Requesting to https://www.google.com/search?q=site:bkav.com&start=170
+[INFO] 2016-12-12 16:50:49,617  Requesting to https://www.google.com/search?q=site:bkav.com&start=180
+[INFO] 2016-12-12 16:50:49,621  Requesting to https://www.google.com/search?q=site:bkav.com&start=190
+[INFO] 2016-12-12 16:50:49,641  Requesting to https://www.google.com/search?q=site:bkav.com&start=200
+[INFO] 2016-12-12 16:50:49,644  Requesting to https://www.google.com/search?q=site:bkav.com&start=210
+[INFO] 2016-12-12 16:50:49,657  Requesting to https://www.google.com/search?q=site:bkav.com&start=220
+[INFO] 2016-12-12 16:50:49,660  Requesting to https://www.google.com/search?q=site:bkav.com&start=230
+[INFO] 2016-12-12 16:50:49,663  Requesting to https://www.google.com/search?q=site:bkav.com&start=240
+[INFO] 2016-12-12 16:50:49,664  Requesting to https://www.google.com/search?q=site:bkav.com&start=250
+[INFO] 2016-12-12 16:50:49,667  Requesting to https://www.google.com/search?q=site:bkav.com&start=260
+[INFO] 2016-12-12 16:50:49,668  Requesting to https://www.google.com/search?q=site:bkav.com&start=270
+[INFO] 2016-12-12 16:50:49,671  Requesting to https://www.google.com/search?q=site:bkav.com&start=280
+[INFO] 2016-12-12 16:50:49,674  Requesting to https://www.google.com/search?q=site:bkav.com&start=290
+[INFO] 2016-12-12 16:50:49,676  Requesting to https://www.google.com/search?q=site:bkav.com&start=300
+[INFO] 2016-12-12 16:50:49,677  Requesting to https://www.google.com/search?q=site:bkav.com&start=310
+[INFO] 2016-12-12 16:50:49,680  Requesting to https://www.google.com/search?q=site:bkav.com&start=320
+[INFO] 2016-12-12 16:50:49,683  Requesting to https://www.google.com/search?q=site:bkav.com&start=330
+[INFO] 2016-12-12 16:50:49,736  Requesting to https://www.google.com/search?q=site:bkav.com&start=340
+[INFO] 2016-12-12 16:50:49,736  Requesting to https://www.google.com/search?q=site:bkav.com&start=350
+[INFO] 2016-12-12 16:51:01,509  New domain was found by GooglePlugin: btm.bkav.com
+[INFO] 2016-12-12 16:51:01,509  New domain was found by GooglePlugin: mail47.bkav.com
+[INFO] 2016-12-12 16:51:01,509  New domain was found by GooglePlugin: www.bkav.com
+[INFO] 2016-12-12 16:51:01,509  New domain was found by GooglePlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 16:51:01,509  New domain was found by GooglePlugin: security.bkav.com
+[INFO] 2016-12-12 16:51:01,509  New domain was found by GooglePlugin: ca.bkav.com
+[INFO] 2016-12-12 16:51:01,510  New domain was found by GooglePlugin: mobile2.bkav.com
+[INFO] 2016-12-12 16:51:01,510  New domain was found by GooglePlugin: mail49.bkav.com
+[INFO] 2016-12-12 16:51:01,510  New domain was found by GooglePlugin: ios.bkav.com
+[INFO] 2016-12-12 16:51:01,510  New domain was found by GooglePlugin: adboard.bkav.com
+[ERROR] 2016-12-12 16:51:28,849  I don't know why this error occurred, so I log it
+My URL: https://www.google.com/search?q=site:btm.bkav.com&start=500
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get
+    return requests.get(url, headers=self._headers, proxies=self._proxies)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 617, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 177, in resolve_redirects
+    **adapter_kwargs
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 497, in send
+    raise SSLError(e, request=request)
+SSLError: EOF occurred in violation of protocol (_ssl.c:590)
+[INFO] 2016-12-12 16:57:54,701  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 16:57:55,809  Requesting to https://www.google.com/search?q=site:bkav.com&start=0
+[INFO] 2016-12-12 16:57:55,811  Requesting to https://www.google.com/search?q=site:bkav.com&start=10
+[INFO] 2016-12-12 16:57:55,811  Requesting to https://www.google.com/search?q=site:bkav.com&start=20
+[INFO] 2016-12-12 16:57:55,812  Requesting to https://www.google.com/search?q=site:bkav.com&start=30
+[INFO] 2016-12-12 16:57:55,813  Requesting to https://www.google.com/search?q=site:bkav.com&start=40
+[INFO] 2016-12-12 16:57:55,815  Requesting to https://www.google.com/search?q=site:bkav.com&start=50
+[INFO] 2016-12-12 16:57:55,816  Requesting to https://www.google.com/search?q=site:bkav.com&start=60
+[INFO] 2016-12-12 16:57:55,819  Requesting to https://www.google.com/search?q=site:bkav.com&start=70
+[INFO] 2016-12-12 16:57:55,821  Requesting to https://www.google.com/search?q=site:bkav.com&start=80
+[INFO] 2016-12-12 16:57:55,822  Requesting to https://www.google.com/search?q=site:bkav.com&start=90
+[INFO] 2016-12-12 16:57:55,825  Requesting to https://www.google.com/search?q=site:bkav.com&start=100
+[INFO] 2016-12-12 16:57:55,828  Requesting to https://www.google.com/search?q=site:bkav.com&start=110
+[INFO] 2016-12-12 16:57:55,829  Requesting to https://www.google.com/search?q=site:bkav.com&start=120
+[INFO] 2016-12-12 16:57:55,832  Requesting to https://www.google.com/search?q=site:bkav.com&start=130
+[INFO] 2016-12-12 16:57:55,835  Requesting to https://www.google.com/search?q=site:bkav.com&start=140
+[INFO] 2016-12-12 16:57:55,836  Requesting to https://www.google.com/search?q=site:bkav.com&start=150
+[INFO] 2016-12-12 16:57:55,838  Requesting to https://www.google.com/search?q=site:bkav.com&start=160
+[INFO] 2016-12-12 16:57:55,841  Requesting to https://www.google.com/search?q=site:bkav.com&start=170
+[INFO] 2016-12-12 16:57:55,842  Requesting to https://www.google.com/search?q=site:bkav.com&start=180
+[INFO] 2016-12-12 16:57:55,844  Requesting to https://www.google.com/search?q=site:bkav.com&start=190
+[INFO] 2016-12-12 16:57:55,848  Requesting to https://www.google.com/search?q=site:bkav.com&start=200
+[INFO] 2016-12-12 16:57:55,849  Requesting to https://www.google.com/search?q=site:bkav.com&start=210
+[INFO] 2016-12-12 16:57:55,851  Requesting to https://www.google.com/search?q=site:bkav.com&start=220
+[INFO] 2016-12-12 16:57:55,852  Requesting to https://www.google.com/search?q=site:bkav.com&start=230
+[INFO] 2016-12-12 16:57:55,855  Requesting to https://www.google.com/search?q=site:bkav.com&start=240
+[INFO] 2016-12-12 16:57:55,858  Requesting to https://www.google.com/search?q=site:bkav.com&start=250
+[INFO] 2016-12-12 16:57:55,859  Requesting to https://www.google.com/search?q=site:bkav.com&start=260
+[INFO] 2016-12-12 16:57:55,861  Requesting to https://www.google.com/search?q=site:bkav.com&start=270
+[INFO] 2016-12-12 16:57:55,864  Requesting to https://www.google.com/search?q=site:bkav.com&start=280
+[INFO] 2016-12-12 16:57:55,865  Requesting to https://www.google.com/search?q=site:bkav.com&start=290
+[INFO] 2016-12-12 16:57:55,867  Requesting to https://www.google.com/search?q=site:bkav.com&start=300
+[INFO] 2016-12-12 16:57:55,868  Requesting to https://www.google.com/search?q=site:bkav.com&start=310
+[INFO] 2016-12-12 16:57:55,871  Requesting to https://www.google.com/search?q=site:bkav.com&start=320
+[INFO] 2016-12-12 16:57:55,872  Requesting to https://www.google.com/search?q=site:bkav.com&start=330
+[INFO] 2016-12-12 16:57:55,875  Requesting to https://www.google.com/search?q=site:bkav.com&start=340
+[INFO] 2016-12-12 16:57:55,877  Requesting to https://www.google.com/search?q=site:bkav.com&start=350
+[INFO] 2016-12-12 16:57:55,878  Requesting to https://www.google.com/search?q=site:bkav.com&start=360
+[INFO] 2016-12-12 16:57:55,881  Requesting to https://www.google.com/search?q=site:bkav.com&start=370
+[INFO] 2016-12-12 16:57:55,882  Requesting to https://www.google.com/search?q=site:bkav.com&start=380
+[INFO] 2016-12-12 16:57:55,884  Requesting to https://www.google.com/search?q=site:bkav.com&start=390
+[INFO] 2016-12-12 16:57:56,028  Requesting to https://www.google.com/search?q=site:bkav.com&start=400
+[INFO] 2016-12-12 16:58:09,749  New domain was found by GooglePlugin: www.bkav.com
+[INFO] 2016-12-12 16:58:09,749  New domain was found by GooglePlugin: ios.bkav.com
+[INFO] 2016-12-12 16:58:09,749  New domain was found by GooglePlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 16:58:09,749  New domain was found by GooglePlugin: security.bkav.com
+[INFO] 2016-12-12 16:58:09,749  New domain was found by GooglePlugin: btm.bkav.com
+[INFO] 2016-12-12 16:58:09,750  New domain was found by GooglePlugin: mail47.bkav.com
+[INFO] 2016-12-12 16:58:09,750  New domain was found by GooglePlugin: mobile2.bkav.com
+[INFO] 2016-12-12 16:58:09,750  New domain was found by GooglePlugin: mail49.bkav.com
+[INFO] 2016-12-12 16:58:09,750  New domain was found by GooglePlugin: ca.bkav.com
+[INFO] 2016-12-12 16:58:09,750  New domain was found by GooglePlugin: adboard.bkav.com
+[INFO] 2016-12-12 16:58:10,414  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=0
+[INFO] 2016-12-12 16:58:10,415  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=10
+[INFO] 2016-12-12 16:58:10,417  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=20
+[INFO] 2016-12-12 16:58:10,417  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=30
+[INFO] 2016-12-12 16:58:10,420  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=40
+[INFO] 2016-12-12 16:58:10,421  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=50
+[INFO] 2016-12-12 16:58:10,423  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=60
+[INFO] 2016-12-12 16:58:10,424  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=70
+[INFO] 2016-12-12 16:58:10,427  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=80
+[INFO] 2016-12-12 16:58:10,430  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=90
+[INFO] 2016-12-12 16:58:10,433  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=100
+[INFO] 2016-12-12 16:58:10,450  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=110
+[INFO] 2016-12-12 16:58:10,453  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=120
+[INFO] 2016-12-12 16:58:10,456  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=130
+[INFO] 2016-12-12 16:58:10,470  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=140
+[INFO] 2016-12-12 16:58:10,471  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=150
+[INFO] 2016-12-12 16:58:10,473  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=160
+[INFO] 2016-12-12 16:58:10,477  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=170
+[INFO] 2016-12-12 16:58:10,480  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=180
+[INFO] 2016-12-12 16:58:10,483  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=190
+[INFO] 2016-12-12 16:58:10,486  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=200
+[INFO] 2016-12-12 16:58:10,487  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=210
+[INFO] 2016-12-12 16:58:10,497  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=220
+[INFO] 2016-12-12 16:58:10,519  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=230
+[INFO] 2016-12-12 16:58:10,522  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=240
+[INFO] 2016-12-12 16:58:19,263  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=0
+[INFO] 2016-12-12 16:58:19,263  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=10
+[INFO] 2016-12-12 16:58:20,628  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=0
+[INFO] 2016-12-12 16:58:20,631  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=10
+[INFO] 2016-12-12 16:58:20,632  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=20
+[INFO] 2016-12-12 16:58:20,635  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=30
+[INFO] 2016-12-12 16:58:20,638  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=40
+[INFO] 2016-12-12 16:58:20,641  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=50
+[INFO] 2016-12-12 16:58:20,642  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=60
+[INFO] 2016-12-12 16:58:20,644  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=70
+[INFO] 2016-12-12 16:58:20,647  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=80
+[INFO] 2016-12-12 16:58:20,650  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=90
+[INFO] 2016-12-12 16:58:20,653  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=100
+[INFO] 2016-12-12 16:58:20,654  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=110
+[INFO] 2016-12-12 16:58:20,668  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=120
+[INFO] 2016-12-12 16:58:20,671  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=130
+[INFO] 2016-12-12 16:58:25,782  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=0
+[INFO] 2016-12-12 16:58:25,782  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=10
+[INFO] 2016-12-12 16:58:25,785  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=20
+[INFO] 2016-12-12 16:58:25,786  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=30
+[INFO] 2016-12-12 16:58:25,786  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=40
+[INFO] 2016-12-12 16:58:25,789  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=50
+[INFO] 2016-12-12 16:58:25,790  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=60
+[INFO] 2016-12-12 16:58:25,793  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=70
+[INFO] 2016-12-12 16:58:25,796  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=80
+[INFO] 2016-12-12 16:58:25,798  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=90
+[INFO] 2016-12-12 16:58:25,799  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=100
+[INFO] 2016-12-12 16:58:25,803  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=110
+[INFO] 2016-12-12 16:58:25,819  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=120
+[INFO] 2016-12-12 16:58:25,822  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=130
+[INFO] 2016-12-12 16:58:25,825  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=140
+[INFO] 2016-12-12 16:58:25,826  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=150
+[INFO] 2016-12-12 16:58:25,851  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=160
+[INFO] 2016-12-12 16:58:25,855  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=170
+[INFO] 2016-12-12 16:58:32,141  Requesting to https://www.google.com/search?q=site:btm.bkav.com&start=0
+[INFO] 2016-12-12 16:58:33,188  Requesting to https://www.google.com/search?q=site:mail47.bkav.com&start=0
+[INFO] 2016-12-12 16:58:33,999  Requesting to https://www.google.com/search?q=site:mobile2.bkav.com&start=0
+[INFO] 2016-12-12 16:58:34,776  Requesting to https://www.google.com/search?q=site:mail49.bkav.com&start=0
+[INFO] 2016-12-12 16:58:35,664  Requesting to https://www.google.com/search?q=site:ca.bkav.com&start=0
+[INFO] 2016-12-12 16:58:36,513  Requesting to https://www.google.com/search?q=site:adboard.bkav.com&start=0
+[INFO] 2016-12-12 17:11:52,841  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:11:57,480  Google seems block my request
+[INFO] 2016-12-12 17:12:03,733  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:12:27,799  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:12:29,473  I don't know what the hell is going on
+[INFO] 2016-12-12 17:12:36,594  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:12:41,042  I don't know what the hell is going on
+[INFO] 2016-12-12 17:12:47,841  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:13:44,391  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:13:45,269  Google seems blocked my request
+[INFO] 2016-12-12 17:13:49,755  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:13:50,734  Google seems blocked my request
+[INFO] 2016-12-12 17:14:08,999  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:14:10,092  Google seems blocked my request
+[INFO] 2016-12-12 17:14:14,181  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:14:15,223  Google seems blocked my request
+[INFO] 2016-12-12 17:14:23,239  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:15:33,806  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:16:07,697  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:16:08,776  list index out of range
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\plugins\search\google_plugin.py", line 27, in get_total_page
+    num_page = tag_a[-1]['aria-label']
+IndexError: list index out of range
+[INFO] 2016-12-12 17:18:49,364  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:18:50,427  list index out of range
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\plugins\base\search_plugin.py", line 88, in discover
+    total_pages = self.get_total_page()
+  File "D:\Everping\Work\Projects\substack\substack\plugins\search\google_plugin.py", line 26, in get_total_page
+    num_page = tag_a[-1]['aria-label']
+IndexError: list index out of range
+[INFO] 2016-12-12 17:20:47,234  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:20:48,144  list index out of range
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\plugins\base\search_plugin.py", line 89, in discover
+    total_pages = self.get_total_page()
+  File "D:\Everping\Work\Projects\substack\substack\plugins\search\google_plugin.py", line 26, in get_total_page
+    num_page = tag_a[-1]['aria-label']
+IndexError: list index out of range
+[INFO] 2016-12-12 17:23:12,592  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:23:13,825  Requesting to https://www.google.com/search?q=site:bkav.com&start=0
+[INFO] 2016-12-12 17:23:13,825  Requesting to https://www.google.com/search?q=site:bkav.com&start=10
+[INFO] 2016-12-12 17:23:13,826  Requesting to https://www.google.com/search?q=site:bkav.com&start=20
+[INFO] 2016-12-12 17:23:13,828  Requesting to https://www.google.com/search?q=site:bkav.com&start=30
+[INFO] 2016-12-12 17:23:13,829  Requesting to https://www.google.com/search?q=site:bkav.com&start=40
+[INFO] 2016-12-12 17:23:13,832  Requesting to https://www.google.com/search?q=site:bkav.com&start=50
+[INFO] 2016-12-12 17:23:13,834  Requesting to https://www.google.com/search?q=site:bkav.com&start=60
+[INFO] 2016-12-12 17:23:13,835  Requesting to https://www.google.com/search?q=site:bkav.com&start=70
+[INFO] 2016-12-12 17:23:13,838  Requesting to https://www.google.com/search?q=site:bkav.com&start=80
+[INFO] 2016-12-12 17:23:13,842  Requesting to https://www.google.com/search?q=site:bkav.com&start=90
+[INFO] 2016-12-12 17:23:13,857  Requesting to https://www.google.com/search?q=site:bkav.com&start=100
+[INFO] 2016-12-12 17:23:13,861  Requesting to https://www.google.com/search?q=site:bkav.com&start=110
+[INFO] 2016-12-12 17:23:13,862  Requesting to https://www.google.com/search?q=site:bkav.com&start=120
+[INFO] 2016-12-12 17:23:13,881  Requesting to https://www.google.com/search?q=site:bkav.com&start=130
+[INFO] 2016-12-12 17:23:13,888  Requesting to https://www.google.com/search?q=site:bkav.com&start=140
+[INFO] 2016-12-12 17:23:13,890  Requesting to https://www.google.com/search?q=site:bkav.com&start=150
+[INFO] 2016-12-12 17:23:13,891  Requesting to https://www.google.com/search?q=site:bkav.com&start=160
+[INFO] 2016-12-12 17:23:13,892  Requesting to https://www.google.com/search?q=site:bkav.com&start=170
+[INFO] 2016-12-12 17:23:13,894  Requesting to https://www.google.com/search?q=site:bkav.com&start=180
+[INFO] 2016-12-12 17:23:13,895  Requesting to https://www.google.com/search?q=site:bkav.com&start=190
+[INFO] 2016-12-12 17:23:13,926  Requesting to https://www.google.com/search?q=site:bkav.com&start=200
+[INFO] 2016-12-12 17:23:13,927  Requesting to https://www.google.com/search?q=site:bkav.com&start=210
+[INFO] 2016-12-12 17:23:13,927  Requesting to https://www.google.com/search?q=site:bkav.com&start=220
+[INFO] 2016-12-12 17:23:13,928  Requesting to https://www.google.com/search?q=site:bkav.com&start=230
+[INFO] 2016-12-12 17:23:13,933  Requesting to https://www.google.com/search?q=site:bkav.com&start=240
+[INFO] 2016-12-12 17:23:13,934  Requesting to https://www.google.com/search?q=site:bkav.com&start=250
+[INFO] 2016-12-12 17:23:13,937  Requesting to https://www.google.com/search?q=site:bkav.com&start=260
+[INFO] 2016-12-12 17:23:13,943  Requesting to https://www.google.com/search?q=site:bkav.com&start=270
+[INFO] 2016-12-12 17:23:13,948  Requesting to https://www.google.com/search?q=site:bkav.com&start=280
+[INFO] 2016-12-12 17:23:13,950  Requesting to https://www.google.com/search?q=site:bkav.com&start=290
+[INFO] 2016-12-12 17:23:13,951  Requesting to https://www.google.com/search?q=site:bkav.com&start=300
+[INFO] 2016-12-12 17:23:13,956  Requesting to https://www.google.com/search?q=site:bkav.com&start=310
+[INFO] 2016-12-12 17:23:14,026  Requesting to https://www.google.com/search?q=site:bkav.com&start=320
+[INFO] 2016-12-12 17:23:14,026  Requesting to https://www.google.com/search?q=site:bkav.com&start=330
+[INFO] 2016-12-12 17:23:14,028  Requesting to https://www.google.com/search?q=site:bkav.com&start=340
+[INFO] 2016-12-12 17:23:14,029  Requesting to https://www.google.com/search?q=site:bkav.com&start=350
+[INFO] 2016-12-12 17:23:14,032  Requesting to https://www.google.com/search?q=site:bkav.com&start=360
+[INFO] 2016-12-12 17:23:14,035  Requesting to https://www.google.com/search?q=site:bkav.com&start=370
+[INFO] 2016-12-12 17:23:14,036  Requesting to https://www.google.com/search?q=site:bkav.com&start=380
+[INFO] 2016-12-12 17:23:14,039  Requesting to https://www.google.com/search?q=site:bkav.com&start=390
+[INFO] 2016-12-12 17:23:14,042  Requesting to https://www.google.com/search?q=site:bkav.com&start=400
+[INFO] 2016-12-12 17:24:34,489  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:24:36,415  Google seems blocked my request
+[INFO] 2016-12-12 17:25:53,255  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:25:54,533  Google seems blocked my request
+[INFO] 2016-12-12 17:27:31,052  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:27:32,105  Requesting to https://www.google.com/search?q=site:bkav.com&start=0
+[INFO] 2016-12-12 17:27:32,105  Requesting to https://www.google.com/search?q=site:bkav.com&start=10
+[INFO] 2016-12-12 17:27:32,105  Requesting to https://www.google.com/search?q=site:bkav.com&start=20
+[INFO] 2016-12-12 17:27:32,108  Requesting to https://www.google.com/search?q=site:bkav.com&start=30
+[INFO] 2016-12-12 17:27:32,108  Requesting to https://www.google.com/search?q=site:bkav.com&start=40
+[INFO] 2016-12-12 17:27:32,109  Requesting to https://www.google.com/search?q=site:bkav.com&start=50
+[INFO] 2016-12-12 17:27:32,111  Requesting to https://www.google.com/search?q=site:bkav.com&start=60
+[INFO] 2016-12-12 17:27:32,114  Requesting to https://www.google.com/search?q=site:bkav.com&start=70
+[INFO] 2016-12-12 17:27:32,117  Requesting to https://www.google.com/search?q=site:bkav.com&start=80
+[INFO] 2016-12-12 17:27:32,119  Requesting to https://www.google.com/search?q=site:bkav.com&start=90
+[INFO] 2016-12-12 17:27:32,121  Requesting to https://www.google.com/search?q=site:bkav.com&start=100
+[INFO] 2016-12-12 17:27:32,124  Requesting to https://www.google.com/search?q=site:bkav.com&start=110
+[INFO] 2016-12-12 17:27:32,127  Requesting to https://www.google.com/search?q=site:bkav.com&start=120
+[INFO] 2016-12-12 17:27:32,128  Requesting to https://www.google.com/search?q=site:bkav.com&start=130
+[INFO] 2016-12-12 17:27:32,131  Requesting to https://www.google.com/search?q=site:bkav.com&start=140
+[INFO] 2016-12-12 17:27:32,134  Requesting to https://www.google.com/search?q=site:bkav.com&start=150
+[INFO] 2016-12-12 17:27:32,137  Requesting to https://www.google.com/search?q=site:bkav.com&start=160
+[INFO] 2016-12-12 17:27:32,138  Requesting to https://www.google.com/search?q=site:bkav.com&start=170
+[INFO] 2016-12-12 17:27:32,140  Requesting to https://www.google.com/search?q=site:bkav.com&start=180
+[INFO] 2016-12-12 17:27:32,141  Requesting to https://www.google.com/search?q=site:bkav.com&start=190
+[INFO] 2016-12-12 17:27:32,144  Requesting to https://www.google.com/search?q=site:bkav.com&start=200
+[INFO] 2016-12-12 17:27:32,147  Requesting to https://www.google.com/search?q=site:bkav.com&start=210
+[INFO] 2016-12-12 17:27:32,150  Requesting to https://www.google.com/search?q=site:bkav.com&start=220
+[INFO] 2016-12-12 17:27:32,151  Requesting to https://www.google.com/search?q=site:bkav.com&start=230
+[INFO] 2016-12-12 17:27:32,154  Requesting to https://www.google.com/search?q=site:bkav.com&start=240
+[INFO] 2016-12-12 17:27:32,155  Requesting to https://www.google.com/search?q=site:bkav.com&start=250
+[INFO] 2016-12-12 17:27:32,157  Requesting to https://www.google.com/search?q=site:bkav.com&start=260
+[INFO] 2016-12-12 17:27:32,158  Requesting to https://www.google.com/search?q=site:bkav.com&start=270
+[INFO] 2016-12-12 17:27:32,161  Requesting to https://www.google.com/search?q=site:bkav.com&start=280
+[INFO] 2016-12-12 17:27:32,163  Requesting to https://www.google.com/search?q=site:bkav.com&start=290
+[INFO] 2016-12-12 17:27:32,164  Requesting to https://www.google.com/search?q=site:bkav.com&start=300
+[INFO] 2016-12-12 17:27:32,167  Requesting to https://www.google.com/search?q=site:bkav.com&start=310
+[INFO] 2016-12-12 17:27:32,170  Requesting to https://www.google.com/search?q=site:bkav.com&start=320
+[INFO] 2016-12-12 17:27:32,171  Requesting to https://www.google.com/search?q=site:bkav.com&start=330
+[INFO] 2016-12-12 17:27:32,173  Requesting to https://www.google.com/search?q=site:bkav.com&start=340
+[INFO] 2016-12-12 17:27:32,280  Requesting to https://www.google.com/search?q=site:bkav.com&start=350
+[INFO] 2016-12-12 17:27:32,305  Requesting to https://www.google.com/search?q=site:bkav.com&start=360
+[INFO] 2016-12-12 17:27:32,305  Requesting to https://www.google.com/search?q=site:bkav.com&start=370
+[INFO] 2016-12-12 17:27:32,308  Requesting to https://www.google.com/search?q=site:bkav.com&start=380
+[INFO] 2016-12-12 17:27:32,311  Requesting to https://www.google.com/search?q=site:bkav.com&start=390
+[INFO] 2016-12-12 17:27:32,312  Requesting to https://www.google.com/search?q=site:bkav.com&start=400
+[INFO] 2016-12-12 17:27:42,903  New domain was found by GooglePlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:27:42,903  New domain was found by GooglePlugin: mobile2.bkav.com
+[INFO] 2016-12-12 17:27:42,903  New domain was found by GooglePlugin: www.bkav.com
+[INFO] 2016-12-12 17:27:42,903  New domain was found by GooglePlugin: security.bkav.com
+[INFO] 2016-12-12 17:27:42,903  New domain was found by GooglePlugin: mail49.bkav.com
+[INFO] 2016-12-12 17:27:42,903  New domain was found by GooglePlugin: ios.bkav.com
+[INFO] 2016-12-12 17:27:42,904  New domain was found by GooglePlugin: ca.bkav.com
+[INFO] 2016-12-12 17:27:42,904  New domain was found by GooglePlugin: btm.bkav.com
+[INFO] 2016-12-12 17:27:42,904  New domain was found by GooglePlugin: mail47.bkav.com
+[INFO] 2016-12-12 17:27:42,904  New domain was found by GooglePlugin: adboard.bkav.com
+[INFO] 2016-12-12 17:27:43,553  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=0
+[INFO] 2016-12-12 17:27:43,553  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=10
+[INFO] 2016-12-12 17:27:43,555  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=20
+[INFO] 2016-12-12 17:27:43,556  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=30
+[INFO] 2016-12-12 17:27:43,558  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=40
+[INFO] 2016-12-12 17:27:43,559  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=50
+[INFO] 2016-12-12 17:27:43,562  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=60
+[INFO] 2016-12-12 17:27:43,563  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=70
+[INFO] 2016-12-12 17:27:43,565  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=80
+[INFO] 2016-12-12 17:27:43,568  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=90
+[INFO] 2016-12-12 17:27:43,569  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=100
+[INFO] 2016-12-12 17:27:43,572  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=110
+[INFO] 2016-12-12 17:27:43,575  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=120
+[INFO] 2016-12-12 17:27:43,578  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=130
+[INFO] 2016-12-12 17:27:43,579  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=140
+[INFO] 2016-12-12 17:27:47,984  Requesting to https://www.google.com/search?q=site:mobile2.bkav.com&start=0
+[INFO] 2016-12-12 17:27:49,127  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=0
+[INFO] 2016-12-12 17:27:49,128  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=10
+[INFO] 2016-12-12 17:27:49,128  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=20
+[INFO] 2016-12-12 17:27:49,130  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=30
+[INFO] 2016-12-12 17:27:49,131  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=40
+[INFO] 2016-12-12 17:27:49,134  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=50
+[INFO] 2016-12-12 17:27:49,137  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=60
+[INFO] 2016-12-12 17:27:49,140  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=70
+[INFO] 2016-12-12 17:27:49,141  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=80
+[INFO] 2016-12-12 17:27:49,145  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=90
+[INFO] 2016-12-12 17:27:49,148  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=100
+[INFO] 2016-12-12 17:27:49,151  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=110
+[INFO] 2016-12-12 17:27:49,154  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=120
+[INFO] 2016-12-12 17:27:49,155  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=130
+[INFO] 2016-12-12 17:27:49,158  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=140
+[INFO] 2016-12-12 17:27:49,161  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=150
+[INFO] 2016-12-12 17:27:49,163  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=160
+[INFO] 2016-12-12 17:27:49,164  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=170
+[INFO] 2016-12-12 17:27:49,167  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=180
+[INFO] 2016-12-12 17:27:49,167  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=190
+[INFO] 2016-12-12 17:27:49,170  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=200
+[INFO] 2016-12-12 17:27:49,173  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=210
+[INFO] 2016-12-12 17:27:49,174  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=220
+[INFO] 2016-12-12 17:27:49,177  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=230
+[INFO] 2016-12-12 17:27:49,178  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=240
+[INFO] 2016-12-12 17:27:56,134  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=0
+[INFO] 2016-12-12 17:27:56,134  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=10
+[INFO] 2016-12-12 17:27:56,135  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=20
+[INFO] 2016-12-12 17:27:56,137  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=30
+[INFO] 2016-12-12 17:27:56,138  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=40
+[INFO] 2016-12-12 17:27:56,140  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=50
+[INFO] 2016-12-12 17:27:56,141  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=60
+[INFO] 2016-12-12 17:27:56,144  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=70
+[INFO] 2016-12-12 17:27:56,145  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=80
+[INFO] 2016-12-12 17:27:56,148  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=90
+[INFO] 2016-12-12 17:27:56,150  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=100
+[INFO] 2016-12-12 17:27:56,151  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=110
+[INFO] 2016-12-12 17:27:56,154  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=120
+[INFO] 2016-12-12 17:27:56,157  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=130
+[INFO] 2016-12-12 17:27:56,158  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=140
+[INFO] 2016-12-12 17:27:56,161  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=150
+[INFO] 2016-12-12 17:27:56,163  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=160
+[INFO] 2016-12-12 17:27:56,164  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=170
+[INFO] 2016-12-12 17:28:01,322  Requesting to https://www.google.com/search?q=site:mail49.bkav.com&start=0
+[INFO] 2016-12-12 17:28:02,269  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=0
+[INFO] 2016-12-12 17:28:02,270  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=10
+[ERROR] 2016-12-12 17:28:03,740  Google seems blocked my request
+[ERROR] 2016-12-12 17:28:04,440  Google seems blocked my request
+[ERROR] 2016-12-12 17:28:05,118  Google seems blocked my request
+[ERROR] 2016-12-12 17:28:05,694  Google seems blocked my request
+[INFO] 2016-12-12 17:39:21,759  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:39:23,161  Google seems blocked my request
+[INFO] 2016-12-12 17:39:33,040  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:39:34,344  Google seems blocked my request
+[INFO] 2016-12-12 17:41:13,696  Start finding sub-domains of ['bkav.com']
+[ERROR] 2016-12-12 17:41:14,836  Google seems blocked my request
+[INFO] 2016-12-12 17:41:30,384  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:41:31,322  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:41:44,007  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:41:44,009  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:41:44,602  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:41:44,604  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:41:44,604  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:41:44,604  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:41:45,573  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:41:45,575  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:41:45,575  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:41:45,578  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:41:45,578  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:41:45,581  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:41:45,584  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:41:45,586  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:41:45,588  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:42:38,482  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:42:40,845  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:42:52,954  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:42:52,956  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:42:53,538  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:42:53,538  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:42:53,538  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:42:53,538  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:42:56,209  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:42:56,210  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:42:56,210  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:42:56,213  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:42:56,217  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:42:56,220  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:42:56,224  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:42:56,230  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:42:56,233  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:43:45,006  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:43:46,331  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:44:21,144  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:44:21,145  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:44:21,825  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:44:21,825  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:44:21,825  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:44:21,825  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:44:32,028  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:44:32,029  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:44:32,032  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:44:32,035  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:44:32,038  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:44:32,040  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:44:32,045  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:44:32,051  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:44:32,055  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:44:36,836  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:44:37,660  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-12 17:44:37,661  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-12 17:44:37,664  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-12 17:44:37,667  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-12 17:44:37,671  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-12 17:44:37,674  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-12 17:44:37,713  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:44:41,890  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:44:41,891  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:44:42,555  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:44:42,555  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:44:42,555  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:44:42,555  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:44:43,707  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:44:43,707  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:44:43,709  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:44:43,710  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:44:43,711  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:44:43,713  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:44:43,716  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:44:43,720  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:44:43,723  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:45:08,589  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-12 17:45:08,591  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-12 17:45:08,592  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-12 17:45:08,594  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-12 17:45:08,595  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-12 17:45:08,598  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-12 17:45:34,967  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:45:35,301  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:45:35,302  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=10
+[INFO] 2016-12-12 17:45:35,302  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=20
+[INFO] 2016-12-12 17:45:35,302  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=30
+[INFO] 2016-12-12 17:45:35,305  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=40
+[INFO] 2016-12-12 17:45:35,305  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=50
+[INFO] 2016-12-12 17:45:37,709  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:45:37,710  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:45:38,582  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:45:38,582  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:45:38,582  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:45:38,582  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:45:38,940  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:45:38,940  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:45:38,941  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:45:38,944  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:45:38,944  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:45:38,947  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:45:38,948  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:45:38,950  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:45:38,953  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:45:40,907  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-12 17:45:40,907  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-12 17:45:40,907  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-12 17:45:42,134  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-12 17:45:42,134  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-12 17:45:42,135  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-12 17:45:42,138  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-12 17:45:42,140  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-12 17:45:42,141  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-12 17:45:43,460  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-12 17:45:44,398  Requesting to https://www.bing.com/search?q=domain:www.bkav.com&first=1
+[INFO] 2016-12-12 17:45:45,585  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-12 17:45:46,755  Requesting to https://www.bing.com/search?q=domain:www.smarthome.bkav.com&first=1
+[INFO] 2016-12-12 17:45:47,936  Requesting to https://www.bing.com/search?q=domain:ios.bkav.com&first=1
+[INFO] 2016-12-12 17:47:01,923  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:47:02,309  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:47:04,223  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:47:04,224  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:47:04,815  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:47:04,816  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:47:04,816  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:47:04,816  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:47:05,315  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:47:05,315  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:47:05,316  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:47:05,318  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:47:05,319  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:47:05,322  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:47:05,323  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:47:05,325  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:47:05,328  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:51:30,773  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:51:31,776  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:51:33,928  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:51:33,930  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:51:34,884  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:51:34,884  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:51:34,884  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:51:34,884  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:51:34,885  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-12 17:51:34,885  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-12 17:51:34,885  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2016-12-12 17:51:35,928  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:51:35,928  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:51:35,930  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:51:35,930  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:51:35,933  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:51:35,934  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:51:35,937  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:51:35,940  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:51:35,943  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:52:27,803  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:52:37,664  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:52:41,825  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:52:41,825  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:52:42,801  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:52:42,801  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:52:42,801  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:52:42,801  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:52:42,801  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-12 17:52:42,802  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-12 17:52:42,802  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2016-12-12 17:54:36,216  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:54:38,446  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:55:01,848  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:55:01,848  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:55:02,792  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:55:02,792  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:55:02,792  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:55:02,792  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:55:02,792  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-12 17:55:02,792  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-12 17:55:02,792  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2016-12-12 17:55:05,529  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:55:05,530  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:55:05,532  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:55:05,532  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:55:05,535  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:55:05,536  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:55:05,538  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:55:05,539  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:55:05,542  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:55:29,009  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-12 17:55:29,010  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-12 17:55:29,013  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-12 17:55:29,019  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-12 17:55:29,023  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-12 17:55:29,023  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-12 17:55:35,938  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-12 17:55:35,940  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-12 17:55:35,941  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-12 17:56:00,322  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-12 17:56:02,390  Requesting to http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=0
+[INFO] 2016-12-12 17:56:05,266  Requesting to http://www.baidu.com/s?wd=site:btm.bkav.com&pn=0
+[INFO] 2016-12-12 17:56:07,601  Requesting to http://www.baidu.com/s?wd=site:ca.bkav.com&pn=0
+[INFO] 2016-12-12 17:56:08,926  Requesting to https://www.bing.com/search?q=domain:www.bkav.com&first=1
+[INFO] 2016-12-12 17:56:10,135  Requesting to https://www.bing.com/search?q=domain:www.smarthome.bkav.com&first=1
+[INFO] 2016-12-12 17:56:11,308  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-12 17:56:12,500  Requesting to https://www.bing.com/search?q=domain:ios.bkav.com&first=1
+[INFO] 2016-12-12 17:56:13,773  Requesting to https://www.bing.com/search?q=domain:mobile2.bkav.com&first=1
+[INFO] 2016-12-12 17:56:14,959  Requesting to https://www.bing.com/search?q=domain:btm.bkav.com&first=1
+[INFO] 2016-12-12 17:56:16,148  Requesting to https://www.bing.com/search?q=domain:ca.bkav.com&first=1
+[INFO] 2016-12-12 17:58:04,017  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:58:04,453  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:58:06,957  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:58:06,957  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:58:08,140  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:58:08,140  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:58:08,140  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:58:08,140  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:58:08,140  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-12 17:58:08,140  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-12 17:58:08,140  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2016-12-12 17:58:08,822  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:58:08,823  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:58:08,825  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:58:08,825  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:58:08,828  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:58:08,828  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:58:08,831  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:58:08,832  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:58:08,835  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:58:10,789  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-12 17:58:10,789  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-12 17:58:10,790  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-12 17:58:10,792  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-12 17:58:10,793  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-12 17:58:10,796  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-12 17:58:12,569  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-12 17:58:12,569  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-12 17:58:12,569  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-12 17:58:13,885  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-12 17:58:14,678  Requesting to http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=0
+[INFO] 2016-12-12 17:58:15,648  Requesting to http://www.baidu.com/s?wd=site:btm.bkav.com&pn=0
+[INFO] 2016-12-12 17:58:16,691  Requesting to http://www.baidu.com/s?wd=site:ca.bkav.com&pn=0
+[INFO] 2016-12-12 17:58:17,614  Requesting to https://www.bing.com/search?q=domain:www.bkav.com&first=1
+[INFO] 2016-12-12 17:58:18,789  Requesting to https://www.bing.com/search?q=domain:www.smarthome.bkav.com&first=1
+[INFO] 2016-12-12 17:58:19,931  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-12 17:58:21,144  Requesting to https://www.bing.com/search?q=domain:ios.bkav.com&first=1
+[INFO] 2016-12-12 17:58:22,260  Requesting to https://www.bing.com/search?q=domain:mobile2.bkav.com&first=1
+[INFO] 2016-12-12 17:58:23,377  Requesting to https://www.bing.com/search?q=domain:btm.bkav.com&first=1
+[INFO] 2016-12-12 17:58:24,805  Requesting to https://www.bing.com/search?q=domain:ca.bkav.com&first=1
+[INFO] 2016-12-12 17:59:12,825  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 17:59:13,250  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 17:59:15,780  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 17:59:15,782  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[INFO] 2016-12-12 17:59:16,855  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 17:59:16,855  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 17:59:16,855  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 17:59:16,855  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 17:59:16,855  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-12 17:59:16,855  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2016-12-12 17:59:16,855  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-12 17:59:17,328  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 17:59:17,328  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 17:59:17,328  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 17:59:17,331  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 17:59:17,332  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 17:59:17,334  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 17:59:17,335  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 17:59:17,338  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 17:59:17,339  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 17:59:19,303  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-12 17:59:19,305  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-12 17:59:19,306  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-12 17:59:19,309  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-12 17:59:19,309  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-12 17:59:19,312  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-12 17:59:21,099  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-12 17:59:21,099  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-12 17:59:21,101  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-12 17:59:22,210  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-12 17:59:22,990  Requesting to http://www.baidu.com/s?wd=site:btm.bkav.com&pn=0
+[INFO] 2016-12-12 17:59:23,818  Requesting to http://www.baidu.com/s?wd=site:ca.bkav.com&pn=0
+[INFO] 2016-12-12 17:59:24,477  Requesting to http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=0
+[INFO] 2016-12-12 17:59:25,628  Requesting to https://www.bing.com/search?q=domain:www.bkav.com&first=1
+[INFO] 2016-12-12 17:59:27,112  Requesting to https://www.bing.com/search?q=domain:www.smarthome.bkav.com&first=1
+[INFO] 2016-12-12 17:59:28,233  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-12 17:59:29,414  Requesting to https://www.bing.com/search?q=domain:ios.bkav.com&first=1
+[INFO] 2016-12-12 17:59:30,592  Requesting to https://www.bing.com/search?q=domain:btm.bkav.com&first=1
+[INFO] 2016-12-12 17:59:31,875  Requesting to https://www.bing.com/search?q=domain:ca.bkav.com&first=1
+[INFO] 2016-12-12 17:59:33,259  Requesting to https://www.bing.com/search?q=domain:mobile2.bkav.com&first=1
+[INFO] 2016-12-12 18:01:21,914  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-12 18:01:22,457  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[INFO] 2016-12-12 18:01:22,457  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=10
+[INFO] 2016-12-12 18:01:22,457  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=20
+[INFO] 2016-12-12 18:01:22,460  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=30
+[INFO] 2016-12-12 18:01:22,463  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=40
+[INFO] 2016-12-12 18:01:22,464  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=50
+[INFO] 2016-12-12 18:01:24,835  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[INFO] 2016-12-12 18:01:24,836  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=8
+[ERROR] 2016-12-12 18:01:26,346  Google seems blocked my request
+[INFO] 2016-12-12 18:01:26,346  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-12 18:01:26,346  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-12 18:01:26,346  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-12 18:01:26,346  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-12 18:01:26,346  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2016-12-12 18:01:26,346  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2016-12-12 18:01:26,346  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2016-12-12 18:01:26,671  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-12 18:01:26,671  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-12 18:01:26,671  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-12 18:01:26,674  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-12 18:01:26,674  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-12 18:01:26,677  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-12 18:01:26,678  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-12 18:01:26,680  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=70
+[INFO] 2016-12-12 18:01:26,683  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=80
+[INFO] 2016-12-12 18:01:28,601  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-12 18:01:28,602  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-12 18:01:28,604  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-12 18:01:29,586  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-12 18:01:29,588  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-12 18:01:29,588  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-12 18:01:29,589  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-12 18:01:29,592  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-12 18:01:29,592  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=50
+[INFO] 2016-12-12 18:01:30,990  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-12 18:01:31,621  Requesting to http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=0
+[INFO] 2016-12-12 18:01:32,243  Requesting to http://www.baidu.com/s?wd=site:btm.bkav.com&pn=0
+[INFO] 2016-12-12 18:01:32,841  Requesting to http://www.baidu.com/s?wd=site:ca.bkav.com&pn=0
+[INFO] 2016-12-12 18:01:33,733  Requesting to https://www.bing.com/search?q=domain:www.bkav.com&first=1
+[INFO] 2016-12-12 18:01:35,177  Requesting to https://www.bing.com/search?q=domain:security.bkav.com&first=1
+[INFO] 2016-12-12 18:01:36,815  Requesting to https://www.bing.com/search?q=domain:www.smarthome.bkav.com&first=1
+[INFO] 2016-12-12 18:01:38,081  Requesting to https://www.bing.com/search?q=domain:ios.bkav.com&first=1
+[INFO] 2016-12-12 18:01:39,263  Requesting to https://www.bing.com/search?q=domain:mobile2.bkav.com&first=1
+[INFO] 2016-12-12 18:01:40,446  Requesting to https://www.bing.com/search?q=domain:btm.bkav.com&first=1
+[INFO] 2016-12-12 18:01:41,622  Requesting to https://www.bing.com/search?q=domain:ca.bkav.com&first=1
+[ERROR] 2016-12-12 18:01:42,762  Google seems blocked my request
+[ERROR] 2016-12-12 18:01:43,444  Google seems blocked my request
+[ERROR] 2016-12-12 18:01:44,003  Google seems blocked my request
+[ERROR] 2016-12-12 18:01:44,595  Google seems blocked my request
+[ERROR] 2016-12-12 18:01:45,388  Google seems blocked my request
+[ERROR] 2016-12-12 18:01:46,302  Google seems blocked my request
+[ERROR] 2016-12-12 18:01:46,993  Google seems blocked my request
+[INFO] 2016-12-12 18:05:21,894  Start finding sub-domains of ['garena.com']
+[INFO] 2016-12-12 18:05:22,608  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=0
+[INFO] 2016-12-12 18:05:22,608  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=10
+[INFO] 2016-12-12 18:05:22,608  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=20
+[INFO] 2016-12-12 18:05:22,609  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=30
+[INFO] 2016-12-12 18:05:22,611  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=40
+[INFO] 2016-12-12 18:05:22,611  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=50
+[INFO] 2016-12-12 18:05:22,614  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=60
+[INFO] 2016-12-12 18:05:22,617  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=70
+[INFO] 2016-12-12 18:05:22,618  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=80
+[INFO] 2016-12-12 18:05:22,621  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=90
+[INFO] 2016-12-12 18:05:22,622  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=100
+[INFO] 2016-12-12 18:05:22,625  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=110
+[INFO] 2016-12-12 18:05:22,627  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=120
+[INFO] 2016-12-12 18:05:22,628  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=130
+[INFO] 2016-12-12 18:05:22,630  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=140
+[INFO] 2016-12-12 18:05:22,631  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=150
+[INFO] 2016-12-12 18:05:22,635  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=160
+[INFO] 2016-12-12 18:05:22,638  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=170
+[INFO] 2016-12-12 18:05:22,640  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=180
+[INFO] 2016-12-12 18:05:22,641  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=190
+[INFO] 2016-12-12 18:05:22,644  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=200
+[INFO] 2016-12-12 18:05:22,648  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=210
+[INFO] 2016-12-12 18:05:22,651  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=220
+[INFO] 2016-12-12 18:05:22,655  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=230
+[INFO] 2016-12-12 18:05:22,658  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=240
+[INFO] 2016-12-12 18:05:22,661  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=250
+[INFO] 2016-12-12 18:05:22,664  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=260
+[INFO] 2016-12-12 18:05:22,667  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=270
+[INFO] 2016-12-12 18:05:22,671  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=280
+[INFO] 2016-12-12 18:05:22,674  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=290
+[INFO] 2016-12-12 18:05:22,677  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=300
+[INFO] 2016-12-12 18:05:22,678  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=310
+[INFO] 2016-12-12 18:05:22,680  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=320
+[INFO] 2016-12-12 18:05:22,684  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=330
+[INFO] 2016-12-12 18:05:22,700  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=340
+[INFO] 2016-12-12 18:05:22,707  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=350
+[INFO] 2016-12-12 18:05:22,709  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=360
+[INFO] 2016-12-12 18:05:22,710  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=370
+[INFO] 2016-12-12 18:05:22,713  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=380
+[INFO] 2016-12-12 18:05:22,716  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=390
+[INFO] 2016-12-12 18:05:22,726  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=400
+[INFO] 2016-12-12 18:05:22,729  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=410
+[INFO] 2016-12-12 18:05:22,730  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=420
+[INFO] 2016-12-12 18:05:22,740  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=430
+[INFO] 2016-12-12 18:05:22,742  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=440
+[INFO] 2016-12-12 18:05:22,743  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=450
+[INFO] 2016-12-12 18:05:22,743  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=460
+[INFO] 2016-12-12 18:05:22,746  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=470
+[INFO] 2016-12-12 18:05:22,747  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=480
+[INFO] 2016-12-12 18:05:22,763  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=490
+[INFO] 2016-12-12 18:05:22,772  Requesting to http://www.baidu.com/s?wd=site:garena.com&pn=500
+[INFO] 2016-12-12 18:05:38,611  Requesting to https://www.bing.com/search?q=domain:garena.com&first=1
+[INFO] 2016-12-12 18:05:38,611  Requesting to https://www.bing.com/search?q=domain:garena.com&first=8
+[INFO] 2016-12-12 18:05:38,612  Requesting to https://www.bing.com/search?q=domain:garena.com&first=18
+[INFO] 2016-12-12 18:05:38,615  Requesting to https://www.bing.com/search?q=domain:garena.com&first=28
+[INFO] 2016-12-12 18:05:38,617  Requesting to https://www.bing.com/search?q=domain:garena.com&first=38
+[INFO] 2016-12-12 18:05:38,618  Requesting to https://www.bing.com/search?q=domain:garena.com&first=48
+[INFO] 2016-12-12 18:05:38,622  Requesting to https://www.bing.com/search?q=domain:garena.com&first=58
+[INFO] 2016-12-12 18:05:38,625  Requesting to https://www.bing.com/search?q=domain:garena.com&first=68
+[INFO] 2016-12-12 18:05:38,627  Requesting to https://www.bing.com/search?q=domain:garena.com&first=78
+[INFO] 2016-12-12 18:05:38,628  Requesting to https://www.bing.com/search?q=domain:garena.com&first=88
+[INFO] 2016-12-12 18:05:38,630  Requesting to https://www.bing.com/search?q=domain:garena.com&first=98
+[INFO] 2016-12-12 18:05:38,631  Requesting to https://www.bing.com/search?q=domain:garena.com&first=108
+[INFO] 2016-12-12 18:05:38,632  Requesting to https://www.bing.com/search?q=domain:garena.com&first=118
+[ERROR] 2016-12-12 18:05:43,634  Google seems blocked my request
+[INFO] 2016-12-12 18:05:43,634  New domain was found by BaiduPlugin: forum.garena.com
+[INFO] 2016-12-12 18:05:43,634  New domain was found by BaiduPlugin: clan.intl.garena.com
+[INFO] 2016-12-12 18:05:43,634  New domain was found by BaiduPlugin: forum.poe.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: live.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: thunderstrike.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: thesmackdown.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: energy.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: gca.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: cny2015.poe.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: premium.ava.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: fs3.ava.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: email.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: freeday.ava.garena.com
+[INFO] 2016-12-12 18:05:43,635  New domain was found by BaiduPlugin: pbic.pb.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: event.poe.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: forum.ava.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: fs4.ava.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: t.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: gpl.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: www.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: dqmsl.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: forum.hon.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: lol.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: tlc.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: forum.lol.garena.com
+[INFO] 2016-12-12 18:05:43,637  New domain was found by BaiduPlugin: support.lol.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: poe.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: security.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: sng.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: borrow.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: us.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: beta.lol.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: intl.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: mshl.hon.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: level.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: beta-launch.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: hon.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: web.poe.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: mobile.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: plus.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: tour.hon.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: pb.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: fo3.garena.com
+[INFO] 2016-12-12 18:05:43,638  New domain was found by BaiduPlugin: forum.sng.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: esports.ava.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: shop.ava.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: fs5.ava.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: gcg.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: gplplayoffs.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: web.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: gas.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: forum.fo3.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: about.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: shop.pb.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: forum.pb.garena.com
+[INFO] 2016-12-12 18:05:43,640  New domain was found by BaiduPlugin: dailytask.lol.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: pay.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: welcome.ava.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: iow.lol.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: mission.pb.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: changename.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: corporate.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: fbcallback.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: design.ava.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: dominion.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: coupon.fo3.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: dthero.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: alphacup.ava.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: iwcavote.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: shop.fo3.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: pickem.lol.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: thhon.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: luckybox.fo3.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: ava.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: mycl.lol.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: carnival.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BaiduPlugin: honredeem.garena.com
+[INFO] 2016-12-12 18:05:43,641  New domain was found by BingPlugin: championship.ava.garena.com
+[INFO] 2016-12-12 18:05:43,642  New domain was found by BingPlugin: weekendcup.lol.garena.com
+[INFO] 2016-12-12 18:05:43,642  New domain was found by BingPlugin: ranking.fo3.garena.com
+[INFO] 2016-12-12 18:05:43,642  New domain was found by BingPlugin: sgcl.lol.garena.com
+[INFO] 2016-12-12 18:05:43,642  New domain was found by BingPlugin: account.garena.com
+[INFO] 2016-12-12 18:05:43,642  New domain was found by BingPlugin: fs2.ava.garena.com
+[INFO] 2016-12-12 18:05:43,642  New domain was found by BingPlugin: esports.garena.com
+[INFO] 2016-12-12 18:05:43,642  New domain was found by BingPlugin: reset2ndpass.fo3.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: sso.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: teemorookiecup.lol.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: gcms2.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: login813.ava.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: auth.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: redeem.pb.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: redeem.thunderstrike.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: kakibolaclash.fo3.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: lunar.ava.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: headshot.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: lolachievements.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: engineering.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: buyrp.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: career.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: gcl.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: dailylogin.ava.garena.com
+[INFO] 2016-12-12 18:05:43,644  New domain was found by BingPlugin: kbm.fo3.garena.com
+[INFO] 2016-12-12 18:05:44,194  Requesting to http://www.baidu.com/s?wd=site:forum.garena.com&pn=0
+[INFO] 2016-12-12 18:05:45,418  Requesting to http://www.baidu.com/s?wd=site:clan.intl.garena.com&pn=0
+[INFO] 2016-12-12 18:05:46,487  Requesting to http://www.baidu.com/s?wd=site:forum.poe.garena.com&pn=0
+[INFO] 2016-12-12 18:05:47,355  Requesting to http://www.baidu.com/s?wd=site:live.garena.com&pn=0
+[INFO] 2016-12-12 18:05:48,542  Requesting to http://www.baidu.com/s?wd=site:thunderstrike.garena.com&pn=0
+[INFO] 2016-12-12 18:05:49,417  Requesting to http://www.baidu.com/s?wd=site:thesmackdown.garena.com&pn=0
+[INFO] 2016-12-12 18:05:50,934  Requesting to http://www.baidu.com/s?wd=site:energy.garena.com&pn=0
+[INFO] 2016-12-12 18:05:51,903  Requesting to http://www.baidu.com/s?wd=site:gca.garena.com&pn=0
+[INFO] 2016-12-12 18:05:52,993  Requesting to http://www.baidu.com/s?wd=site:cny2015.poe.garena.com&pn=0
+[INFO] 2016-12-12 18:05:53,938  Requesting to http://www.baidu.com/s?wd=site:premium.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:05:54,993  Requesting to http://www.baidu.com/s?wd=site:fs3.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:05:56,155  Requesting to http://www.baidu.com/s?wd=site:email.garena.com&pn=0
+[INFO] 2016-12-12 18:05:57,207  Requesting to http://www.baidu.com/s?wd=site:freeday.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:05:58,130  Requesting to http://www.baidu.com/s?wd=site:pbic.pb.garena.com&pn=0
+[INFO] 2016-12-12 18:05:59,135  Requesting to http://www.baidu.com/s?wd=site:event.poe.garena.com&pn=0
+[INFO] 2016-12-12 18:06:00,140  Requesting to http://www.baidu.com/s?wd=site:forum.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:06:01,394  Requesting to http://www.baidu.com/s?wd=site:fs4.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:06:02,256  Requesting to http://www.baidu.com/s?wd=site:t.garena.com&pn=0
+[INFO] 2016-12-12 18:06:03,378  Requesting to http://www.baidu.com/s?wd=site:gpl.garena.com&pn=0
+[INFO] 2016-12-12 18:06:04,426  Requesting to http://www.baidu.com/s?wd=site:www.garena.com&pn=0
+[INFO] 2016-12-12 18:06:05,496  Requesting to http://www.baidu.com/s?wd=site:dqmsl.garena.com&pn=0
+[INFO] 2016-12-12 18:06:06,882  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=0
+[INFO] 2016-12-12 18:06:06,882  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=10
+[INFO] 2016-12-12 18:06:06,884  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=20
+[INFO] 2016-12-12 18:06:06,887  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=30
+[INFO] 2016-12-12 18:06:06,888  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=40
+[INFO] 2016-12-12 18:06:06,890  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=50
+[INFO] 2016-12-12 18:06:06,892  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=60
+[INFO] 2016-12-12 18:06:06,895  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=70
+[INFO] 2016-12-12 18:06:06,898  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=80
+[INFO] 2016-12-12 18:06:06,900  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=90
+[INFO] 2016-12-12 18:06:06,901  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=100
+[INFO] 2016-12-12 18:06:06,903  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=110
+[INFO] 2016-12-12 18:06:06,904  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=120
+[INFO] 2016-12-12 18:06:06,907  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=130
+[INFO] 2016-12-12 18:06:06,908  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=140
+[INFO] 2016-12-12 18:06:06,911  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=150
+[INFO] 2016-12-12 18:06:06,914  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=160
+[INFO] 2016-12-12 18:06:06,915  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=170
+[INFO] 2016-12-12 18:06:06,917  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=180
+[INFO] 2016-12-12 18:06:06,918  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=190
+[INFO] 2016-12-12 18:06:06,921  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=200
+[INFO] 2016-12-12 18:06:06,923  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=210
+[INFO] 2016-12-12 18:06:06,926  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=220
+[INFO] 2016-12-12 18:06:06,927  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=230
+[INFO] 2016-12-12 18:06:06,930  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=240
+[INFO] 2016-12-12 18:06:06,930  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=250
+[INFO] 2016-12-12 18:06:06,934  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=260
+[INFO] 2016-12-12 18:06:06,934  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=270
+[INFO] 2016-12-12 18:06:06,937  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=280
+[INFO] 2016-12-12 18:06:06,938  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=290
+[INFO] 2016-12-12 18:06:06,940  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=300
+[INFO] 2016-12-12 18:06:06,944  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=310
+[INFO] 2016-12-12 18:06:06,946  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=320
+[INFO] 2016-12-12 18:06:06,947  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=330
+[INFO] 2016-12-12 18:06:06,950  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=340
+[INFO] 2016-12-12 18:06:06,951  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=350
+[INFO] 2016-12-12 18:06:06,953  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=360
+[INFO] 2016-12-12 18:06:06,954  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=370
+[INFO] 2016-12-12 18:06:06,959  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=380
+[INFO] 2016-12-12 18:06:06,960  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=390
+[INFO] 2016-12-12 18:06:06,963  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=400
+[INFO] 2016-12-12 18:06:06,964  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=410
+[INFO] 2016-12-12 18:06:06,967  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=420
+[INFO] 2016-12-12 18:06:06,969  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=430
+[INFO] 2016-12-12 18:06:06,970  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=440
+[INFO] 2016-12-12 18:06:06,979  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=450
+[INFO] 2016-12-12 18:06:06,983  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=460
+[INFO] 2016-12-12 18:06:06,986  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=470
+[INFO] 2016-12-12 18:06:07,016  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=480
+[INFO] 2016-12-12 18:06:07,017  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=490
+[INFO] 2016-12-12 18:06:07,019  Requesting to http://www.baidu.com/s?wd=site:forum.hon.garena.com&pn=500
+[INFO] 2016-12-12 18:06:16,098  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=0
+[INFO] 2016-12-12 18:06:16,098  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=10
+[INFO] 2016-12-12 18:06:16,101  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=20
+[INFO] 2016-12-12 18:06:16,101  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=30
+[INFO] 2016-12-12 18:06:16,104  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=40
+[INFO] 2016-12-12 18:06:16,105  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=50
+[INFO] 2016-12-12 18:06:16,108  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=60
+[INFO] 2016-12-12 18:06:16,108  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=70
+[INFO] 2016-12-12 18:06:16,111  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=80
+[INFO] 2016-12-12 18:06:16,112  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=90
+[INFO] 2016-12-12 18:06:16,117  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=100
+[INFO] 2016-12-12 18:06:16,118  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=110
+[INFO] 2016-12-12 18:06:16,121  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=120
+[INFO] 2016-12-12 18:06:16,125  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=130
+[INFO] 2016-12-12 18:06:16,128  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=140
+[INFO] 2016-12-12 18:06:16,131  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=150
+[INFO] 2016-12-12 18:06:16,134  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=160
+[INFO] 2016-12-12 18:06:16,137  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=170
+[INFO] 2016-12-12 18:06:16,141  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=180
+[INFO] 2016-12-12 18:06:16,144  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=190
+[INFO] 2016-12-12 18:06:16,148  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=200
+[INFO] 2016-12-12 18:06:16,151  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=210
+[INFO] 2016-12-12 18:06:16,154  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=220
+[INFO] 2016-12-12 18:06:16,157  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=230
+[INFO] 2016-12-12 18:06:16,161  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=240
+[INFO] 2016-12-12 18:06:16,163  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=250
+[INFO] 2016-12-12 18:06:16,167  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=260
+[INFO] 2016-12-12 18:06:16,170  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=270
+[INFO] 2016-12-12 18:06:16,173  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=280
+[INFO] 2016-12-12 18:06:16,176  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=290
+[INFO] 2016-12-12 18:06:16,178  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=300
+[INFO] 2016-12-12 18:06:16,181  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=310
+[INFO] 2016-12-12 18:06:16,186  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=320
+[INFO] 2016-12-12 18:06:16,187  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=330
+[INFO] 2016-12-12 18:06:16,190  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=340
+[INFO] 2016-12-12 18:06:16,193  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=350
+[INFO] 2016-12-12 18:06:16,194  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=360
+[INFO] 2016-12-12 18:06:16,201  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=370
+[INFO] 2016-12-12 18:06:16,204  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=380
+[INFO] 2016-12-12 18:06:16,207  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=390
+[INFO] 2016-12-12 18:06:16,210  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=400
+[INFO] 2016-12-12 18:06:16,211  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=410
+[INFO] 2016-12-12 18:06:16,214  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=420
+[INFO] 2016-12-12 18:06:16,217  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=430
+[INFO] 2016-12-12 18:06:16,220  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=440
+[INFO] 2016-12-12 18:06:16,223  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=450
+[INFO] 2016-12-12 18:06:16,224  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=460
+[INFO] 2016-12-12 18:06:16,226  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=470
+[INFO] 2016-12-12 18:06:16,230  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=480
+[INFO] 2016-12-12 18:06:16,232  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=490
+[INFO] 2016-12-12 18:06:16,236  Requesting to http://www.baidu.com/s?wd=site:lol.garena.com&pn=500
+[INFO] 2016-12-12 18:06:24,806  Requesting to http://www.baidu.com/s?wd=site:tlc.garena.com&pn=0
+[INFO] 2016-12-12 18:06:24,806  Requesting to http://www.baidu.com/s?wd=site:tlc.garena.com&pn=10
+[INFO] 2016-12-12 18:06:26,316  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:06:26,316  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=10
+[INFO] 2016-12-12 18:06:26,319  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=20
+[INFO] 2016-12-12 18:06:26,321  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=30
+[INFO] 2016-12-12 18:06:26,322  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=40
+[INFO] 2016-12-12 18:06:26,325  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=50
+[INFO] 2016-12-12 18:06:26,328  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=60
+[INFO] 2016-12-12 18:06:26,332  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=70
+[INFO] 2016-12-12 18:06:26,335  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=80
+[INFO] 2016-12-12 18:06:26,336  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=90
+[INFO] 2016-12-12 18:06:26,341  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=100
+[INFO] 2016-12-12 18:06:26,342  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=110
+[INFO] 2016-12-12 18:06:26,345  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=120
+[INFO] 2016-12-12 18:06:26,346  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=130
+[INFO] 2016-12-12 18:06:26,348  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=140
+[INFO] 2016-12-12 18:06:26,351  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=150
+[INFO] 2016-12-12 18:06:26,352  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=160
+[INFO] 2016-12-12 18:06:26,355  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=170
+[INFO] 2016-12-12 18:06:26,358  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=180
+[INFO] 2016-12-12 18:06:26,359  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=190
+[INFO] 2016-12-12 18:06:26,361  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=200
+[INFO] 2016-12-12 18:06:26,364  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=210
+[INFO] 2016-12-12 18:06:26,365  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=220
+[INFO] 2016-12-12 18:06:26,368  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=230
+[INFO] 2016-12-12 18:06:26,371  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=240
+[INFO] 2016-12-12 18:06:26,374  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=250
+[INFO] 2016-12-12 18:06:26,375  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=260
+[INFO] 2016-12-12 18:06:26,378  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=270
+[INFO] 2016-12-12 18:06:26,381  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=280
+[INFO] 2016-12-12 18:06:26,382  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=290
+[INFO] 2016-12-12 18:06:26,388  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=300
+[INFO] 2016-12-12 18:06:26,391  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=310
+[INFO] 2016-12-12 18:06:26,392  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=320
+[INFO] 2016-12-12 18:06:26,395  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=330
+[INFO] 2016-12-12 18:06:26,401  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=340
+[INFO] 2016-12-12 18:06:26,404  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=350
+[INFO] 2016-12-12 18:06:26,407  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=360
+[INFO] 2016-12-12 18:06:26,408  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=370
+[INFO] 2016-12-12 18:06:26,411  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=380
+[INFO] 2016-12-12 18:06:26,414  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=390
+[INFO] 2016-12-12 18:06:26,415  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=400
+[INFO] 2016-12-12 18:06:26,418  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=410
+[INFO] 2016-12-12 18:06:26,424  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=420
+[INFO] 2016-12-12 18:06:26,428  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=430
+[INFO] 2016-12-12 18:06:26,431  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=440
+[INFO] 2016-12-12 18:06:26,437  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=450
+[INFO] 2016-12-12 18:06:26,444  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=460
+[INFO] 2016-12-12 18:06:26,454  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=470
+[INFO] 2016-12-12 18:06:26,457  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=480
+[INFO] 2016-12-12 18:06:26,457  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=490
+[INFO] 2016-12-12 18:06:26,460  Requesting to http://www.baidu.com/s?wd=site:forum.lol.garena.com&pn=500
+[INFO] 2016-12-12 18:06:34,825  Requesting to http://www.baidu.com/s?wd=site:support.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:06:34,826  Requesting to http://www.baidu.com/s?wd=site:support.lol.garena.com&pn=10
+[INFO] 2016-12-12 18:06:36,717  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=0
+[INFO] 2016-12-12 18:06:36,717  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=10
+[INFO] 2016-12-12 18:06:36,720  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=20
+[INFO] 2016-12-12 18:06:36,720  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=30
+[INFO] 2016-12-12 18:06:36,723  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=40
+[INFO] 2016-12-12 18:06:36,724  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=50
+[INFO] 2016-12-12 18:06:36,726  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=60
+[INFO] 2016-12-12 18:06:36,727  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=70
+[INFO] 2016-12-12 18:06:36,730  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=80
+[INFO] 2016-12-12 18:06:36,733  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=90
+[INFO] 2016-12-12 18:06:36,733  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=100
+[INFO] 2016-12-12 18:06:36,736  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=110
+[INFO] 2016-12-12 18:06:36,737  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=120
+[INFO] 2016-12-12 18:06:36,740  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=130
+[INFO] 2016-12-12 18:06:36,742  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=140
+[INFO] 2016-12-12 18:06:36,743  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=150
+[INFO] 2016-12-12 18:06:36,746  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=160
+[INFO] 2016-12-12 18:06:36,747  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=170
+[INFO] 2016-12-12 18:06:36,750  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=180
+[INFO] 2016-12-12 18:06:36,752  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=190
+[INFO] 2016-12-12 18:06:36,753  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=200
+[INFO] 2016-12-12 18:06:36,756  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=210
+[INFO] 2016-12-12 18:06:36,759  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=220
+[INFO] 2016-12-12 18:06:36,762  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=230
+[INFO] 2016-12-12 18:06:36,763  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=240
+[INFO] 2016-12-12 18:06:36,766  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=250
+[INFO] 2016-12-12 18:06:36,769  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=260
+[INFO] 2016-12-12 18:06:36,773  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=270
+[INFO] 2016-12-12 18:06:36,775  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=280
+[INFO] 2016-12-12 18:06:36,776  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=290
+[INFO] 2016-12-12 18:06:36,779  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=300
+[INFO] 2016-12-12 18:06:36,782  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=310
+[INFO] 2016-12-12 18:06:36,783  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=320
+[INFO] 2016-12-12 18:06:36,789  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=330
+[INFO] 2016-12-12 18:06:36,792  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=340
+[INFO] 2016-12-12 18:06:36,795  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=350
+[INFO] 2016-12-12 18:06:36,882  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=360
+[INFO] 2016-12-12 18:06:36,888  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=370
+[INFO] 2016-12-12 18:06:36,897  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=380
+[INFO] 2016-12-12 18:06:36,898  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=390
+[INFO] 2016-12-12 18:06:36,901  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=400
+[INFO] 2016-12-12 18:06:36,901  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=410
+[INFO] 2016-12-12 18:06:36,904  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=420
+[INFO] 2016-12-12 18:06:36,905  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=430
+[INFO] 2016-12-12 18:06:36,907  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=440
+[INFO] 2016-12-12 18:06:36,910  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=450
+[INFO] 2016-12-12 18:06:36,913  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=460
+[INFO] 2016-12-12 18:06:36,914  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=470
+[INFO] 2016-12-12 18:06:36,917  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=480
+[INFO] 2016-12-12 18:06:36,931  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=490
+[INFO] 2016-12-12 18:06:36,934  Requesting to http://www.baidu.com/s?wd=site:poe.garena.com&pn=500
+[INFO] 2016-12-12 18:06:45,424  Requesting to http://www.baidu.com/s?wd=site:security.garena.com&pn=0
+[INFO] 2016-12-12 18:06:46,756  Requesting to http://www.baidu.com/s?wd=site:sng.garena.com&pn=0
+[INFO] 2016-12-12 18:06:47,884  Requesting to http://www.baidu.com/s?wd=site:borrow.garena.com&pn=0
+[INFO] 2016-12-12 18:06:49,355  Requesting to http://www.baidu.com/s?wd=site:us.garena.com&pn=0
+[INFO] 2016-12-12 18:06:49,357  Requesting to http://www.baidu.com/s?wd=site:us.garena.com&pn=10
+[INFO] 2016-12-12 18:06:50,721  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:06:50,723  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=10
+[INFO] 2016-12-12 18:06:50,724  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=20
+[INFO] 2016-12-12 18:06:50,726  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=30
+[INFO] 2016-12-12 18:06:50,727  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=40
+[INFO] 2016-12-12 18:06:50,729  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=50
+[INFO] 2016-12-12 18:06:50,733  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=60
+[INFO] 2016-12-12 18:06:50,734  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=70
+[INFO] 2016-12-12 18:06:50,736  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=80
+[INFO] 2016-12-12 18:06:50,739  Requesting to http://www.baidu.com/s?wd=site:beta.lol.garena.com&pn=90
+[INFO] 2016-12-12 18:06:53,259  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=0
+[INFO] 2016-12-12 18:06:53,260  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=10
+[INFO] 2016-12-12 18:06:53,262  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=20
+[INFO] 2016-12-12 18:06:53,263  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=30
+[INFO] 2016-12-12 18:06:53,265  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=40
+[INFO] 2016-12-12 18:06:53,266  Requesting to http://www.baidu.com/s?wd=site:intl.garena.com&pn=50
+[INFO] 2016-12-12 18:06:55,056  Requesting to http://www.baidu.com/s?wd=site:mshl.hon.garena.com&pn=0
+[INFO] 2016-12-12 18:06:56,058  Requesting to http://www.baidu.com/s?wd=site:level.garena.com&pn=0
+[INFO] 2016-12-12 18:06:56,907  Requesting to http://www.baidu.com/s?wd=site:beta-launch.garena.com&pn=0
+[INFO] 2016-12-12 18:06:58,334  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=0
+[INFO] 2016-12-12 18:06:58,335  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=10
+[INFO] 2016-12-12 18:06:58,336  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=20
+[INFO] 2016-12-12 18:06:58,338  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=30
+[INFO] 2016-12-12 18:06:58,338  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=40
+[INFO] 2016-12-12 18:06:58,341  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=50
+[INFO] 2016-12-12 18:06:58,342  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=60
+[INFO] 2016-12-12 18:06:58,345  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=70
+[INFO] 2016-12-12 18:06:58,348  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=80
+[INFO] 2016-12-12 18:06:58,351  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=90
+[INFO] 2016-12-12 18:06:58,352  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=100
+[INFO] 2016-12-12 18:06:58,355  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=110
+[INFO] 2016-12-12 18:06:58,357  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=120
+[INFO] 2016-12-12 18:06:58,358  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=130
+[INFO] 2016-12-12 18:06:58,361  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=140
+[INFO] 2016-12-12 18:06:58,365  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=150
+[INFO] 2016-12-12 18:06:58,368  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=160
+[INFO] 2016-12-12 18:06:58,369  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=170
+[INFO] 2016-12-12 18:06:58,371  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=180
+[INFO] 2016-12-12 18:06:58,375  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=190
+[INFO] 2016-12-12 18:06:58,378  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=200
+[INFO] 2016-12-12 18:06:58,380  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=210
+[INFO] 2016-12-12 18:06:58,382  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=220
+[INFO] 2016-12-12 18:06:58,417  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=230
+[INFO] 2016-12-12 18:06:58,424  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=240
+[INFO] 2016-12-12 18:06:58,427  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=250
+[INFO] 2016-12-12 18:06:58,430  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=260
+[INFO] 2016-12-12 18:06:58,431  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=270
+[INFO] 2016-12-12 18:06:58,434  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=280
+[INFO] 2016-12-12 18:06:58,436  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=290
+[INFO] 2016-12-12 18:06:58,437  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=300
+[INFO] 2016-12-12 18:06:58,440  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=310
+[INFO] 2016-12-12 18:06:58,441  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=320
+[INFO] 2016-12-12 18:06:58,444  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=330
+[INFO] 2016-12-12 18:06:58,446  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=340
+[INFO] 2016-12-12 18:06:58,447  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=350
+[INFO] 2016-12-12 18:06:58,450  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=360
+[INFO] 2016-12-12 18:06:58,453  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=370
+[INFO] 2016-12-12 18:06:58,456  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=380
+[INFO] 2016-12-12 18:06:58,460  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=390
+[INFO] 2016-12-12 18:06:58,463  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=400
+[INFO] 2016-12-12 18:06:58,467  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=410
+[INFO] 2016-12-12 18:06:58,473  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=420
+[INFO] 2016-12-12 18:06:58,476  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=430
+[INFO] 2016-12-12 18:06:58,479  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=440
+[INFO] 2016-12-12 18:06:58,480  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=450
+[INFO] 2016-12-12 18:06:58,483  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=460
+[INFO] 2016-12-12 18:06:58,486  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=470
+[INFO] 2016-12-12 18:06:58,487  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=480
+[INFO] 2016-12-12 18:06:58,492  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=490
+[INFO] 2016-12-12 18:06:58,493  Requesting to http://www.baidu.com/s?wd=site:hon.garena.com&pn=500
+[INFO] 2016-12-12 18:07:07,039  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=0
+[INFO] 2016-12-12 18:07:07,040  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=10
+[INFO] 2016-12-12 18:07:07,040  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=20
+[INFO] 2016-12-12 18:07:07,042  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=30
+[INFO] 2016-12-12 18:07:07,043  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=40
+[INFO] 2016-12-12 18:07:07,046  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=50
+[INFO] 2016-12-12 18:07:07,048  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=60
+[INFO] 2016-12-12 18:07:07,049  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=70
+[INFO] 2016-12-12 18:07:07,052  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=80
+[INFO] 2016-12-12 18:07:07,053  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=90
+[INFO] 2016-12-12 18:07:07,055  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=100
+[INFO] 2016-12-12 18:07:07,058  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=110
+[INFO] 2016-12-12 18:07:07,059  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=120
+[INFO] 2016-12-12 18:07:07,062  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=130
+[INFO] 2016-12-12 18:07:07,062  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=140
+[INFO] 2016-12-12 18:07:07,065  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=150
+[INFO] 2016-12-12 18:07:07,069  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=160
+[INFO] 2016-12-12 18:07:07,071  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=170
+[INFO] 2016-12-12 18:07:07,072  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=180
+[INFO] 2016-12-12 18:07:07,075  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=190
+[INFO] 2016-12-12 18:07:07,157  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=200
+[INFO] 2016-12-12 18:07:07,165  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=210
+[INFO] 2016-12-12 18:07:07,168  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=220
+[INFO] 2016-12-12 18:07:07,171  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=230
+[INFO] 2016-12-12 18:07:07,173  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=240
+[INFO] 2016-12-12 18:07:07,174  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=250
+[INFO] 2016-12-12 18:07:07,177  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=260
+[INFO] 2016-12-12 18:07:07,178  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=270
+[INFO] 2016-12-12 18:07:07,181  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=280
+[INFO] 2016-12-12 18:07:07,184  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=290
+[INFO] 2016-12-12 18:07:07,186  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=300
+[INFO] 2016-12-12 18:07:07,188  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=310
+[INFO] 2016-12-12 18:07:07,190  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=320
+[INFO] 2016-12-12 18:07:07,193  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=330
+[INFO] 2016-12-12 18:07:07,194  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=340
+[INFO] 2016-12-12 18:07:07,197  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=350
+[INFO] 2016-12-12 18:07:07,198  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=360
+[INFO] 2016-12-12 18:07:07,200  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=370
+[INFO] 2016-12-12 18:07:07,203  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=380
+[INFO] 2016-12-12 18:07:07,210  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=390
+[INFO] 2016-12-12 18:07:07,213  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=400
+[INFO] 2016-12-12 18:07:07,216  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=410
+[INFO] 2016-12-12 18:07:07,220  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=420
+[INFO] 2016-12-12 18:07:07,223  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=430
+[INFO] 2016-12-12 18:07:07,226  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=440
+[INFO] 2016-12-12 18:07:07,227  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=450
+[INFO] 2016-12-12 18:07:07,230  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=460
+[INFO] 2016-12-12 18:07:07,232  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=470
+[INFO] 2016-12-12 18:07:07,234  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=480
+[INFO] 2016-12-12 18:07:07,236  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=490
+[INFO] 2016-12-12 18:07:07,239  Requesting to http://www.baidu.com/s?wd=site:web.poe.garena.com&pn=500
+[INFO] 2016-12-12 18:07:15,596  Requesting to http://www.baidu.com/s?wd=site:mobile.garena.com&pn=0
+[INFO] 2016-12-12 18:07:16,457  Requesting to http://www.baidu.com/s?wd=site:plus.garena.com&pn=0
+[INFO] 2016-12-12 18:07:17,562  Requesting to http://www.baidu.com/s?wd=site:tour.hon.garena.com&pn=0
+[INFO] 2016-12-12 18:07:17,562  Requesting to http://www.baidu.com/s?wd=site:tour.hon.garena.com&pn=10
+[INFO] 2016-12-12 18:07:17,563  Requesting to http://www.baidu.com/s?wd=site:tour.hon.garena.com&pn=20
+[INFO] 2016-12-12 18:07:19,029  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=0
+[INFO] 2016-12-12 18:07:19,029  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=10
+[INFO] 2016-12-12 18:07:19,030  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=20
+[INFO] 2016-12-12 18:07:19,032  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=30
+[INFO] 2016-12-12 18:07:19,033  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=40
+[INFO] 2016-12-12 18:07:19,036  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=50
+[INFO] 2016-12-12 18:07:19,038  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=60
+[INFO] 2016-12-12 18:07:19,039  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=70
+[INFO] 2016-12-12 18:07:19,042  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=80
+[INFO] 2016-12-12 18:07:19,043  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=90
+[INFO] 2016-12-12 18:07:19,046  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=100
+[INFO] 2016-12-12 18:07:19,046  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=110
+[INFO] 2016-12-12 18:07:19,051  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=120
+[INFO] 2016-12-12 18:07:19,052  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=130
+[INFO] 2016-12-12 18:07:19,055  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=140
+[INFO] 2016-12-12 18:07:19,056  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=150
+[INFO] 2016-12-12 18:07:19,059  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=160
+[INFO] 2016-12-12 18:07:19,061  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=170
+[INFO] 2016-12-12 18:07:19,062  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=180
+[INFO] 2016-12-12 18:07:19,065  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=190
+[INFO] 2016-12-12 18:07:19,066  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=200
+[INFO] 2016-12-12 18:07:19,069  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=210
+[INFO] 2016-12-12 18:07:19,072  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=220
+[INFO] 2016-12-12 18:07:19,075  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=230
+[INFO] 2016-12-12 18:07:19,078  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=240
+[INFO] 2016-12-12 18:07:19,079  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=250
+[INFO] 2016-12-12 18:07:19,082  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=260
+[INFO] 2016-12-12 18:07:19,084  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=270
+[INFO] 2016-12-12 18:07:19,088  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=280
+[INFO] 2016-12-12 18:07:19,091  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=290
+[INFO] 2016-12-12 18:07:19,092  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=300
+[INFO] 2016-12-12 18:07:19,095  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=310
+[INFO] 2016-12-12 18:07:19,096  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=320
+[INFO] 2016-12-12 18:07:19,098  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=330
+[INFO] 2016-12-12 18:07:19,101  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=340
+[INFO] 2016-12-12 18:07:19,102  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=350
+[INFO] 2016-12-12 18:07:19,105  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=360
+[INFO] 2016-12-12 18:07:19,108  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=370
+[INFO] 2016-12-12 18:07:19,109  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=380
+[INFO] 2016-12-12 18:07:19,112  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=390
+[INFO] 2016-12-12 18:07:19,114  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=400
+[INFO] 2016-12-12 18:07:19,125  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=410
+[INFO] 2016-12-12 18:07:19,130  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=420
+[INFO] 2016-12-12 18:07:19,131  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=430
+[INFO] 2016-12-12 18:07:19,131  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=440
+[INFO] 2016-12-12 18:07:19,134  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=450
+[INFO] 2016-12-12 18:07:19,137  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=460
+[INFO] 2016-12-12 18:07:19,140  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=470
+[INFO] 2016-12-12 18:07:19,144  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=480
+[INFO] 2016-12-12 18:07:19,147  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=490
+[INFO] 2016-12-12 18:07:19,150  Requesting to http://www.baidu.com/s?wd=site:pb.garena.com&pn=500
+[INFO] 2016-12-12 18:07:27,683  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:07:27,683  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=10
+[INFO] 2016-12-12 18:07:27,684  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=20
+[INFO] 2016-12-12 18:07:27,686  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=30
+[INFO] 2016-12-12 18:07:27,687  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=40
+[INFO] 2016-12-12 18:07:27,688  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=50
+[INFO] 2016-12-12 18:07:27,690  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=60
+[INFO] 2016-12-12 18:07:27,693  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=70
+[INFO] 2016-12-12 18:07:27,694  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=80
+[INFO] 2016-12-12 18:07:27,696  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=90
+[INFO] 2016-12-12 18:07:27,698  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=100
+[INFO] 2016-12-12 18:07:27,700  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=110
+[INFO] 2016-12-12 18:07:27,701  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=120
+[INFO] 2016-12-12 18:07:27,707  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=130
+[INFO] 2016-12-12 18:07:27,709  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=140
+[INFO] 2016-12-12 18:07:27,710  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=150
+[INFO] 2016-12-12 18:07:27,713  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=160
+[INFO] 2016-12-12 18:07:27,713  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=170
+[INFO] 2016-12-12 18:07:27,716  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=180
+[INFO] 2016-12-12 18:07:27,719  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=190
+[INFO] 2016-12-12 18:07:27,721  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=200
+[INFO] 2016-12-12 18:07:27,723  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=210
+[INFO] 2016-12-12 18:07:27,726  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=220
+[INFO] 2016-12-12 18:07:27,729  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=230
+[INFO] 2016-12-12 18:07:27,732  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=240
+[INFO] 2016-12-12 18:07:27,734  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=250
+[INFO] 2016-12-12 18:07:27,736  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=260
+[INFO] 2016-12-12 18:07:27,740  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=270
+[INFO] 2016-12-12 18:07:27,742  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=280
+[INFO] 2016-12-12 18:07:27,743  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=290
+[INFO] 2016-12-12 18:07:27,746  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=300
+[INFO] 2016-12-12 18:07:27,750  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=310
+[INFO] 2016-12-12 18:07:27,752  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=320
+[INFO] 2016-12-12 18:07:27,756  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=330
+[INFO] 2016-12-12 18:07:27,760  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=340
+[INFO] 2016-12-12 18:07:27,769  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=350
+[INFO] 2016-12-12 18:07:27,772  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=360
+[INFO] 2016-12-12 18:07:27,773  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=370
+[INFO] 2016-12-12 18:07:27,775  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=380
+[INFO] 2016-12-12 18:07:27,776  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=390
+[INFO] 2016-12-12 18:07:27,779  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=400
+[INFO] 2016-12-12 18:07:27,780  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=410
+[INFO] 2016-12-12 18:07:27,782  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=420
+[INFO] 2016-12-12 18:07:27,786  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=430
+[INFO] 2016-12-12 18:07:27,789  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=440
+[INFO] 2016-12-12 18:07:27,790  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=450
+[INFO] 2016-12-12 18:07:27,792  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=460
+[INFO] 2016-12-12 18:07:27,795  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=470
+[INFO] 2016-12-12 18:07:27,796  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=480
+[INFO] 2016-12-12 18:07:27,799  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=490
+[INFO] 2016-12-12 18:07:27,803  Requesting to http://www.baidu.com/s?wd=site:fo3.garena.com&pn=500
+[INFO] 2016-12-12 18:07:36,118  Requesting to http://www.baidu.com/s?wd=site:forum.sng.garena.com&pn=0
+[INFO] 2016-12-12 18:07:36,947  Requesting to http://www.baidu.com/s?wd=site:esports.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:07:37,894  Requesting to http://www.baidu.com/s?wd=site:shop.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:07:38,946  Requesting to http://www.baidu.com/s?wd=site:fs5.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:07:39,894  Requesting to http://www.baidu.com/s?wd=site:gcg.garena.com&pn=0
+[INFO] 2016-12-12 18:07:41,134  Requesting to http://www.baidu.com/s?wd=site:gplplayoffs.garena.com&pn=0
+[INFO] 2016-12-12 18:07:42,071  Requesting to http://www.baidu.com/s?wd=site:web.garena.com&pn=0
+[INFO] 2016-12-12 18:07:42,984  Requesting to http://www.baidu.com/s?wd=site:gas.garena.com&pn=0
+[INFO] 2016-12-12 18:07:44,065  Requesting to http://www.baidu.com/s?wd=site:forum.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:07:45,243  Requesting to http://www.baidu.com/s?wd=site:about.garena.com&pn=0
+[INFO] 2016-12-12 18:07:46,141  Requesting to http://www.baidu.com/s?wd=site:shop.pb.garena.com&pn=0
+[INFO] 2016-12-12 18:07:47,078  Requesting to http://www.baidu.com/s?wd=site:forum.pb.garena.com&pn=0
+[INFO] 2016-12-12 18:07:48,075  Requesting to http://www.baidu.com/s?wd=site:dailytask.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:07:49,596  Requesting to http://www.baidu.com/s?wd=site:pay.garena.com&pn=0
+[INFO] 2016-12-12 18:07:50,657  Requesting to http://www.baidu.com/s?wd=site:welcome.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:07:51,963  Requesting to http://www.baidu.com/s?wd=site:iow.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:07:53,069  Requesting to http://www.baidu.com/s?wd=site:mission.pb.garena.com&pn=0
+[INFO] 2016-12-12 18:07:54,108  Requesting to http://www.baidu.com/s?wd=site:changename.garena.com&pn=0
+[INFO] 2016-12-12 18:07:55,131  Requesting to http://www.baidu.com/s?wd=site:corporate.garena.com&pn=0
+[INFO] 2016-12-12 18:07:56,220  Requesting to http://www.baidu.com/s?wd=site:fbcallback.garena.com&pn=0
+[INFO] 2016-12-12 18:07:57,036  Requesting to http://www.baidu.com/s?wd=site:design.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:07:58,084  Requesting to http://www.baidu.com/s?wd=site:dominion.garena.com&pn=0
+[INFO] 2016-12-12 18:07:59,341  Requesting to http://www.baidu.com/s?wd=site:coupon.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:08:00,552  Requesting to http://www.baidu.com/s?wd=site:dthero.garena.com&pn=0
+[INFO] 2016-12-12 18:08:01,392  Requesting to http://www.baidu.com/s?wd=site:alphacup.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:08:02,494  Requesting to http://www.baidu.com/s?wd=site:iwcavote.garena.com&pn=0
+[INFO] 2016-12-12 18:08:03,394  Requesting to http://www.baidu.com/s?wd=site:shop.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:08:04,440  Requesting to http://www.baidu.com/s?wd=site:pickem.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:08:05,381  Requesting to http://www.baidu.com/s?wd=site:thhon.garena.com&pn=0
+[INFO] 2016-12-12 18:08:06,174  Requesting to http://www.baidu.com/s?wd=site:luckybox.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:08:07,217  Requesting to http://www.baidu.com/s?wd=site:ava.garena.com&pn=0
+[INFO] 2016-12-12 18:08:07,217  Requesting to http://www.baidu.com/s?wd=site:ava.garena.com&pn=10
+[INFO] 2016-12-12 18:08:08,736  Requesting to http://www.baidu.com/s?wd=site:mycl.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:08:09,836  Requesting to http://www.baidu.com/s?wd=site:carnival.garena.com&pn=0
+[INFO] 2016-12-12 18:08:11,095  Requesting to http://www.baidu.com/s?wd=site:honredeem.garena.com&pn=0
+[INFO] 2016-12-12 18:08:12,059  Requesting to http://www.baidu.com/s?wd=site:championship.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:08:12,997  Requesting to http://www.baidu.com/s?wd=site:weekendcup.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:08:13,973  Requesting to http://www.baidu.com/s?wd=site:ranking.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:08:14,780  Requesting to http://www.baidu.com/s?wd=site:sgcl.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:08:15,867  Requesting to http://www.baidu.com/s?wd=site:account.garena.com&pn=0
+[INFO] 2016-12-12 18:08:16,796  Requesting to http://www.baidu.com/s?wd=site:fs2.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:08:17,621  Requesting to http://www.baidu.com/s?wd=site:esports.garena.com&pn=0
+[INFO] 2016-12-12 18:08:18,494  Requesting to http://www.baidu.com/s?wd=site:reset2ndpass.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:08:19,538  Requesting to http://www.baidu.com/s?wd=site:sso.garena.com&pn=0
+[INFO] 2016-12-12 18:08:20,487  Requesting to http://www.baidu.com/s?wd=site:teemorookiecup.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:08:21,414  Requesting to http://www.baidu.com/s?wd=site:gcms2.garena.com&pn=0
+[INFO] 2016-12-12 18:08:22,361  Requesting to http://www.baidu.com/s?wd=site:login813.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:08:23,401  Requesting to http://www.baidu.com/s?wd=site:auth.garena.com&pn=0
+[INFO] 2016-12-12 18:08:27,234  Requesting to http://www.baidu.com/s?wd=site:redeem.pb.garena.com&pn=0
+[INFO] 2016-12-12 18:08:28,351  Requesting to http://www.baidu.com/s?wd=site:redeem.thunderstrike.garena.com&pn=0
+[INFO] 2016-12-12 18:08:29,148  Requesting to http://www.baidu.com/s?wd=site:kakibolaclash.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:08:29,943  Requesting to http://www.baidu.com/s?wd=site:lunar.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:08:30,877  Requesting to http://www.baidu.com/s?wd=site:headshot.garena.com&pn=0
+[INFO] 2016-12-12 18:08:31,747  Requesting to http://www.baidu.com/s?wd=site:lolachievements.garena.com&pn=0
+[INFO] 2016-12-12 18:08:32,618  Requesting to http://www.baidu.com/s?wd=site:engineering.garena.com&pn=0
+[INFO] 2016-12-12 18:08:33,520  Requesting to http://www.baidu.com/s?wd=site:buyrp.garena.com&pn=0
+[INFO] 2016-12-12 18:08:34,378  Requesting to http://www.baidu.com/s?wd=site:career.garena.com&pn=0
+[INFO] 2016-12-12 18:08:35,377  Requesting to http://www.baidu.com/s?wd=site:gcl.garena.com&pn=0
+[INFO] 2016-12-12 18:08:36,519  Requesting to http://www.baidu.com/s?wd=site:dailylogin.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:08:37,667  Requesting to http://www.baidu.com/s?wd=site:kbm.fo3.garena.com&pn=0
+[INFO] 2016-12-12 18:08:38,516  Requesting to https://www.bing.com/search?q=domain:forum.garena.com&first=1
+[INFO] 2016-12-12 18:08:39,648  Requesting to https://www.bing.com/search?q=domain:clan.intl.garena.com&first=1
+[INFO] 2016-12-12 18:08:40,665  Requesting to https://www.bing.com/search?q=domain:forum.poe.garena.com&first=1
+[INFO] 2016-12-12 18:08:41,598  Requesting to https://www.bing.com/search?q=domain:live.garena.com&first=1
+[INFO] 2016-12-12 18:08:42,565  Requesting to https://www.bing.com/search?q=domain:thunderstrike.garena.com&first=1
+[INFO] 2016-12-12 18:08:43,568  Requesting to https://www.bing.com/search?q=domain:thesmackdown.garena.com&first=1
+[INFO] 2016-12-12 18:08:44,573  Requesting to https://www.bing.com/search?q=domain:energy.garena.com&first=1
+[INFO] 2016-12-12 18:08:45,553  Requesting to https://www.bing.com/search?q=domain:gca.garena.com&first=1
+[INFO] 2016-12-12 18:08:46,915  Requesting to https://www.bing.com/search?q=domain:cny2015.poe.garena.com&first=1
+[INFO] 2016-12-12 18:08:47,892  Requesting to https://www.bing.com/search?q=domain:premium.ava.garena.com&first=1
+[INFO] 2016-12-12 18:08:48,940  Requesting to https://www.bing.com/search?q=domain:fs3.ava.garena.com&first=1
+[INFO] 2016-12-12 18:08:49,980  Requesting to https://www.bing.com/search?q=domain:email.garena.com&first=1
+[INFO] 2016-12-12 18:08:51,144  Requesting to https://www.bing.com/search?q=domain:freeday.ava.garena.com&first=1
+[INFO] 2016-12-12 18:08:52,111  Requesting to https://www.bing.com/search?q=domain:pbic.pb.garena.com&first=1
+[INFO] 2016-12-12 18:08:53,094  Requesting to https://www.bing.com/search?q=domain:event.poe.garena.com&first=1
+[INFO] 2016-12-12 18:08:54,088  Requesting to https://www.bing.com/search?q=domain:forum.ava.garena.com&first=1
+[INFO] 2016-12-12 18:08:55,194  Requesting to https://www.bing.com/search?q=domain:fs4.ava.garena.com&first=1
+[INFO] 2016-12-12 18:08:56,223  Requesting to https://www.bing.com/search?q=domain:t.garena.com&first=1
+[INFO] 2016-12-12 18:08:57,242  Requesting to https://www.bing.com/search?q=domain:gpl.garena.com&first=1
+[INFO] 2016-12-12 18:08:58,230  Requesting to https://www.bing.com/search?q=domain:www.garena.com&first=1
+[INFO] 2016-12-12 18:08:59,306  Requesting to https://www.bing.com/search?q=domain:dqmsl.garena.com&first=1
+[INFO] 2016-12-12 18:09:00,301  Requesting to https://www.bing.com/search?q=domain:forum.hon.garena.com&first=1
+[INFO] 2016-12-12 18:09:01,542  Requesting to https://www.bing.com/search?q=domain:lol.garena.com&first=1
+[INFO] 2016-12-12 18:09:01,542  Requesting to https://www.bing.com/search?q=domain:lol.garena.com&first=8
+[INFO] 2016-12-12 18:09:01,545  Requesting to https://www.bing.com/search?q=domain:lol.garena.com&first=18
+[INFO] 2016-12-12 18:09:02,890  Requesting to https://www.bing.com/search?q=domain:tlc.garena.com&first=1
+[INFO] 2016-12-12 18:09:04,328  Requesting to https://www.bing.com/search?q=domain:forum.lol.garena.com&first=1
+[INFO] 2016-12-12 18:09:05,538  Requesting to https://www.bing.com/search?q=domain:support.lol.garena.com&first=1
+[INFO] 2016-12-12 18:09:06,905  Requesting to https://www.bing.com/search?q=domain:poe.garena.com&first=1
+[INFO] 2016-12-12 18:09:08,220  Requesting to https://www.bing.com/search?q=domain:security.garena.com&first=1
+[INFO] 2016-12-12 18:09:09,220  Requesting to https://www.bing.com/search?q=domain:sng.garena.com&first=1
+[INFO] 2016-12-12 18:09:10,240  Requesting to https://www.bing.com/search?q=domain:borrow.garena.com&first=1
+[INFO] 2016-12-12 18:09:11,447  Requesting to https://www.bing.com/search?q=domain:us.garena.com&first=1
+[INFO] 2016-12-12 18:09:12,974  Requesting to https://www.bing.com/search?q=domain:beta.lol.garena.com&first=1
+[INFO] 2016-12-12 18:09:14,351  Requesting to https://www.bing.com/search?q=domain:intl.garena.com&first=1
+[INFO] 2016-12-12 18:09:15,404  Requesting to https://www.bing.com/search?q=domain:mshl.hon.garena.com&first=1
+[INFO] 2016-12-12 18:09:16,578  Requesting to https://www.bing.com/search?q=domain:level.garena.com&first=1
+[INFO] 2016-12-12 18:09:17,563  Requesting to https://www.bing.com/search?q=domain:beta-launch.garena.com&first=1
+[INFO] 2016-12-12 18:09:18,530  Requesting to https://www.bing.com/search?q=domain:hon.garena.com&first=1
+[INFO] 2016-12-12 18:09:19,576  Requesting to https://www.bing.com/search?q=domain:web.poe.garena.com&first=1
+[INFO] 2016-12-12 18:09:20,605  Requesting to https://www.bing.com/search?q=domain:mobile.garena.com&first=1
+[INFO] 2016-12-12 18:09:21,538  Requesting to https://www.bing.com/search?q=domain:plus.garena.com&first=1
+[INFO] 2016-12-12 18:09:22,486  Requesting to https://www.bing.com/search?q=domain:tour.hon.garena.com&first=1
+[INFO] 2016-12-12 18:09:23,503  Requesting to https://www.bing.com/search?q=domain:pb.garena.com&first=1
+[INFO] 2016-12-12 18:09:24,915  Requesting to https://www.bing.com/search?q=domain:fo3.garena.com&first=1
+[INFO] 2016-12-12 18:09:24,917  Requesting to https://www.bing.com/search?q=domain:fo3.garena.com&first=8
+[INFO] 2016-12-12 18:09:26,721  Requesting to https://www.bing.com/search?q=domain:forum.sng.garena.com&first=1
+[INFO] 2016-12-12 18:09:27,849  Requesting to https://www.bing.com/search?q=domain:esports.ava.garena.com&first=1
+[INFO] 2016-12-12 18:09:28,862  Requesting to https://www.bing.com/search?q=domain:shop.ava.garena.com&first=1
+[INFO] 2016-12-12 18:09:29,828  Requesting to https://www.bing.com/search?q=domain:fs5.ava.garena.com&first=1
+[INFO] 2016-12-12 18:09:30,808  Requesting to https://www.bing.com/search?q=domain:gcg.garena.com&first=1
+[INFO] 2016-12-12 18:09:31,766  Requesting to https://www.bing.com/search?q=domain:gplplayoffs.garena.com&first=1
+[INFO] 2016-12-12 18:09:32,684  Requesting to https://www.bing.com/search?q=domain:web.garena.com&first=1
+[INFO] 2016-12-12 18:09:33,661  Requesting to https://www.bing.com/search?q=domain:gas.garena.com&first=1
+[INFO] 2016-12-12 18:09:34,892  Requesting to https://www.bing.com/search?q=domain:forum.fo3.garena.com&first=1
+[INFO] 2016-12-12 18:09:35,848  Requesting to https://www.bing.com/search?q=domain:about.garena.com&first=1
+[INFO] 2016-12-12 18:09:36,854  Requesting to https://www.bing.com/search?q=domain:shop.pb.garena.com&first=1
+[INFO] 2016-12-12 18:09:37,842  Requesting to https://www.bing.com/search?q=domain:forum.pb.garena.com&first=1
+[INFO] 2016-12-12 18:09:38,836  Requesting to https://www.bing.com/search?q=domain:dailytask.lol.garena.com&first=1
+[INFO] 2016-12-12 18:09:39,816  Requesting to https://www.bing.com/search?q=domain:pay.garena.com&first=1
+[INFO] 2016-12-12 18:09:40,834  Requesting to https://www.bing.com/search?q=domain:welcome.ava.garena.com&first=1
+[INFO] 2016-12-12 18:09:42,081  Requesting to https://www.bing.com/search?q=domain:iow.lol.garena.com&first=1
+[INFO] 2016-12-12 18:09:43,049  Requesting to https://www.bing.com/search?q=domain:mission.pb.garena.com&first=1
+[INFO] 2016-12-12 18:09:44,016  Requesting to https://www.bing.com/search?q=domain:changename.garena.com&first=1
+[INFO] 2016-12-12 18:09:44,951  Requesting to https://www.bing.com/search?q=domain:corporate.garena.com&first=1
+[INFO] 2016-12-12 18:09:45,957  Requesting to https://www.bing.com/search?q=domain:fbcallback.garena.com&first=1
+[INFO] 2016-12-12 18:09:47,355  Requesting to https://www.bing.com/search?q=domain:design.ava.garena.com&first=1
+[INFO] 2016-12-12 18:09:48,384  Requesting to https://www.bing.com/search?q=domain:dominion.garena.com&first=1
+[INFO] 2016-12-12 18:09:49,500  Requesting to https://www.bing.com/search?q=domain:coupon.fo3.garena.com&first=1
+[INFO] 2016-12-12 18:09:50,582  Requesting to https://www.bing.com/search?q=domain:dthero.garena.com&first=1
+[INFO] 2016-12-12 18:09:51,743  Requesting to https://www.bing.com/search?q=domain:alphacup.ava.garena.com&first=1
+[INFO] 2016-12-12 18:09:52,759  Requesting to https://www.bing.com/search?q=domain:iwcavote.garena.com&first=1
+[INFO] 2016-12-12 18:09:53,855  Requesting to https://www.bing.com/search?q=domain:shop.fo3.garena.com&first=1
+[INFO] 2016-12-12 18:09:55,255  Requesting to https://www.bing.com/search?q=domain:pickem.lol.garena.com&first=1
+[INFO] 2016-12-12 18:09:56,517  Requesting to https://www.bing.com/search?q=domain:thhon.garena.com&first=1
+[INFO] 2016-12-12 18:09:57,507  Requesting to https://www.bing.com/search?q=domain:luckybox.fo3.garena.com&first=1
+[INFO] 2016-12-12 18:09:59,051  Requesting to https://www.bing.com/search?q=domain:ava.garena.com&first=1
+[INFO] 2016-12-12 18:09:59,052  Requesting to https://www.bing.com/search?q=domain:ava.garena.com&first=8
+[INFO] 2016-12-12 18:09:59,052  Requesting to https://www.bing.com/search?q=domain:ava.garena.com&first=18
+[INFO] 2016-12-12 18:10:00,769  Requesting to https://www.bing.com/search?q=domain:mycl.lol.garena.com&first=1
+[INFO] 2016-12-12 18:10:01,934  Requesting to https://www.bing.com/search?q=domain:carnival.garena.com&first=1
+[INFO] 2016-12-12 18:10:03,009  Requesting to https://www.bing.com/search?q=domain:honredeem.garena.com&first=1
+[INFO] 2016-12-12 18:10:04,061  Requesting to https://www.bing.com/search?q=domain:championship.ava.garena.com&first=1
+[INFO] 2016-12-12 18:10:05,730  Requesting to https://www.bing.com/search?q=domain:weekendcup.lol.garena.com&first=1
+[INFO] 2016-12-12 18:10:06,950  Requesting to https://www.bing.com/search?q=domain:ranking.fo3.garena.com&first=1
+[INFO] 2016-12-12 18:10:07,974  Requesting to https://www.bing.com/search?q=domain:sgcl.lol.garena.com&first=1
+[INFO] 2016-12-12 18:10:09,335  Requesting to https://www.bing.com/search?q=domain:account.garena.com&first=1
+[INFO] 2016-12-12 18:10:11,338  Requesting to https://www.bing.com/search?q=domain:fs2.ava.garena.com&first=1
+[INFO] 2016-12-12 18:10:12,404  Requesting to https://www.bing.com/search?q=domain:esports.garena.com&first=1
+[INFO] 2016-12-12 18:10:13,401  Requesting to https://www.bing.com/search?q=domain:reset2ndpass.fo3.garena.com&first=1
+[INFO] 2016-12-12 18:10:14,358  Requesting to https://www.bing.com/search?q=domain:sso.garena.com&first=1
+[INFO] 2016-12-12 18:10:15,346  Requesting to https://www.bing.com/search?q=domain:teemorookiecup.lol.garena.com&first=1
+[INFO] 2016-12-12 18:10:16,355  Requesting to https://www.bing.com/search?q=domain:gcms2.garena.com&first=1
+[INFO] 2016-12-12 18:10:17,315  Requesting to https://www.bing.com/search?q=domain:login813.ava.garena.com&first=1
+[INFO] 2016-12-12 18:10:18,292  Requesting to https://www.bing.com/search?q=domain:auth.garena.com&first=1
+[INFO] 2016-12-12 18:10:19,308  Requesting to https://www.bing.com/search?q=domain:redeem.pb.garena.com&first=1
+[INFO] 2016-12-12 18:10:20,256  Requesting to https://www.bing.com/search?q=domain:redeem.thunderstrike.garena.com&first=1
+[INFO] 2016-12-12 18:10:21,298  Requesting to https://www.bing.com/search?q=domain:kakibolaclash.fo3.garena.com&first=1
+[INFO] 2016-12-12 18:10:22,743  Requesting to https://www.bing.com/search?q=domain:lunar.ava.garena.com&first=1
+[INFO] 2016-12-12 18:10:23,737  Requesting to https://www.bing.com/search?q=domain:headshot.garena.com&first=1
+[INFO] 2016-12-12 18:10:25,048  Requesting to https://www.bing.com/search?q=domain:lolachievements.garena.com&first=1
+[INFO] 2016-12-12 18:10:26,030  Requesting to https://www.bing.com/search?q=domain:engineering.garena.com&first=1
+[INFO] 2016-12-12 18:10:26,986  Requesting to https://www.bing.com/search?q=domain:buyrp.garena.com&first=1
+[INFO] 2016-12-12 18:10:28,006  Requesting to https://www.bing.com/search?q=domain:career.garena.com&first=1
+[INFO] 2016-12-12 18:10:29,038  Requesting to https://www.bing.com/search?q=domain:gcl.garena.com&first=1
+[INFO] 2016-12-12 18:10:30,371  Requesting to https://www.bing.com/search?q=domain:dailylogin.ava.garena.com&first=1
+[INFO] 2016-12-12 18:10:31,361  Requesting to https://www.bing.com/search?q=domain:kbm.fo3.garena.com&first=1
+[ERROR] 2016-12-12 18:10:32,470  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:33,157  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:33,904  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:34,595  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:35,233  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:36,039  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:36,753  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:37,493  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:38,247  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:38,868  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:39,540  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:40,148  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:40,686  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:41,460  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:42,069  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:42,999  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:43,605  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:44,423  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:44,953  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:45,605  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:46,073  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:46,572  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:47,325  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:48,059  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:48,595  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:49,105  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:49,790  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:50,473  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:51,099  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:51,878  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:52,723  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:53,285  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:53,907  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:54,457  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:54,956  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:55,588  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:56,309  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:57,128  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:57,822  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:58,505  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:59,023  Google seems blocked my request
+[ERROR] 2016-12-12 18:10:59,759  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:00,342  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:01,295  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:02,032  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:02,821  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:03,561  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:04,302  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:04,884  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:05,499  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:06,246  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:06,894  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:07,719  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:08,549  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:09,250  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:09,808  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:10,934  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:11,717  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:12,533  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:13,193  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:13,976  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:14,671  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:15,463  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:16,065  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:17,094  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:17,881  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:18,532  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:19,144  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:19,790  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:20,400  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:20,934  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:21,573  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:22,148  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:22,765  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:23,471  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:24,177  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:25,275  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:25,943  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:26,693  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:27,332  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:27,926  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:28,604  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:29,349  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:30,062  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:30,755  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:31,625  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:32,240  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:33,082  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:34,177  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:34,997  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:36,012  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:37,118  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:37,967  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:38,766  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:39,447  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:40,276  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:41,046  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:41,779  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:42,654  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:43,487  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:44,092  Google seems blocked my request
+[ERROR] 2016-12-12 18:11:44,966  Google seems blocked my request
+[INFO] 2016-12-12 18:11:45,029  New domain was found by BingPlugin: arcanatrials.lol.garena.com
+[INFO] 2016-12-12 18:11:45,029  New domain was found by BingPlugin: onlinerewards.lol.garena.com
+[INFO] 2016-12-12 18:11:45,029  New domain was found by BingPlugin: landing.lol.garena.com
+[INFO] 2016-12-12 18:11:45,082  New domain was found by BingPlugin: golddragon.ava.garena.com
+[INFO] 2016-12-12 18:11:45,082  New domain was found by BingPlugin: clan.ava.garena.com
+[INFO] 2016-12-12 18:11:45,082  New domain was found by BingPlugin: captain.ava.garena.com
+[INFO] 2016-12-12 18:11:45,082  New domain was found by BingPlugin: fs1.ava.garena.com
+[INFO] 2016-12-12 18:11:45,082  New domain was found by BingPlugin: refer.ava.garena.com
+[INFO] 2016-12-12 18:11:45,082  New domain was found by BingPlugin: coupon.ava.garena.com
+[INFO] 2016-12-12 18:11:45,091  New domain was found by BingPlugin: predict.sgcl.lol.garena.com
+[INFO] 2016-12-12 18:11:45,622  Requesting to http://www.baidu.com/s?wd=site:arcanatrials.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:11:46,615  Requesting to http://www.baidu.com/s?wd=site:onlinerewards.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:11:47,463  Requesting to http://www.baidu.com/s?wd=site:landing.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:11:48,546  Requesting to http://www.baidu.com/s?wd=site:golddragon.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:11:49,424  Requesting to http://www.baidu.com/s?wd=site:clan.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:11:50,500  Requesting to http://www.baidu.com/s?wd=site:captain.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:11:51,440  Requesting to http://www.baidu.com/s?wd=site:fs1.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:11:52,371  Requesting to http://www.baidu.com/s?wd=site:refer.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:11:56,168  Requesting to http://www.baidu.com/s?wd=site:coupon.ava.garena.com&pn=0
+[INFO] 2016-12-12 18:11:56,979  Requesting to http://www.baidu.com/s?wd=site:predict.sgcl.lol.garena.com&pn=0
+[INFO] 2016-12-12 18:11:58,170  Requesting to https://www.bing.com/search?q=domain:arcanatrials.lol.garena.com&first=1
+[INFO] 2016-12-12 18:11:59,348  Requesting to https://www.bing.com/search?q=domain:onlinerewards.lol.garena.com&first=1
+[INFO] 2016-12-12 18:12:00,575  Requesting to https://www.bing.com/search?q=domain:landing.lol.garena.com&first=1
+[INFO] 2016-12-12 18:12:01,821  Requesting to https://www.bing.com/search?q=domain:golddragon.ava.garena.com&first=1
+[INFO] 2016-12-12 18:12:03,015  Requesting to https://www.bing.com/search?q=domain:clan.ava.garena.com&first=1
+[INFO] 2016-12-12 18:12:04,265  Requesting to https://www.bing.com/search?q=domain:captain.ava.garena.com&first=1
+[INFO] 2016-12-12 18:12:05,476  Requesting to https://www.bing.com/search?q=domain:fs1.ava.garena.com&first=1
+[INFO] 2016-12-12 18:12:06,684  Requesting to https://www.bing.com/search?q=domain:refer.ava.garena.com&first=1
+[INFO] 2016-12-12 18:12:08,153  Requesting to https://www.bing.com/search?q=domain:coupon.ava.garena.com&first=1
+[INFO] 2016-12-12 18:12:09,519  Requesting to https://www.bing.com/search?q=domain:predict.sgcl.lol.garena.com&first=1
+[ERROR] 2016-12-12 18:12:10,733  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:11,440  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:12,302  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:13,098  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:13,940  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:14,546  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:15,273  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:15,852  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:16,565  Google seems blocked my request
+[ERROR] 2016-12-12 18:12:17,134  Google seems blocked my request

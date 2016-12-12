@@ -8,13 +8,11 @@ class NmapPlugin(PortPlugin):
 
     def real_scan(self, domain):
         nm = nmap.PortScanner()
-        print nm.scan(domain.ip)
-        # host = nm.all_hosts()[0]
-        # protocols = nm[host].all_protocols()
-        # for protocol in protocols:
-        #     ports = nm[host][protocol].keys()
-        #     for port in ports:
-        #         self.add(port)
-        #
-        # return self.open_ports
-        return []
+        nm.scan(domain.ip)
+        host = nm.all_hosts()[0]
+        protocols = nm[host].all_protocols()
+        for protocol in protocols:
+            ports = nm[host][protocol].keys()
+            for port in ports:
+                self.add(port)
+        return self.open_ports

@@ -1,5 +1,3 @@
-from urlparse import urlparse
-
 from bs4 import BeautifulSoup
 
 from substack.plugins.base.search_plugin import SearchPlugin
@@ -30,6 +28,6 @@ class BingPlugin(SearchPlugin):
         soup = BeautifulSoup(content, "lxml")
         ul = soup.find_all("li", class_="b_algo")
         for li in ul:
-            uri = li.find('a')['href']
-            domain_name = urlparse(uri).netloc
+            url = li.find('a')['href']
+            domain_name = self.parse_domain_name(url)
             self.add(domain_name)
