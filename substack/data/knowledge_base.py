@@ -1,35 +1,39 @@
-import threading
-from substack.data.domain import Domain
-
-
 class KnowledgeBase:
     def __init__(self):
-        self.sub_domains = []
-        self._sub_lock = threading.Lock()
+        self._sub_domains = []
 
-    def is_existed(self, sub_domain_name):
+    def add_open_ports(self, domain, ports):
+        """
+        Set open ports for all domain having same IP
+        """
+        for _domain in self._sub_domains:
+            if _domain.ip == domain.ip:
+                for port in ports:
+                    if port not in _domain.get_open_ports:
+                        _domain.add_open_port(port)
+
+    def _is_existed_domain(self, sub_domain):
         """
         Check if this domain exist in result list
         """
-        for domain in self.sub_domains:
-            if domain.domain_name == sub_domain_name:
+        for domain in self._sub_domains:
+            if domain.domain_name == sub_domain.domain_name:
                 return True
         return False
 
-    def add_sub_domain(self, sub_domain_name):
+    def set_sub_domains(self, sub_domains):
+        self._sub_domains = sub_domains
+
+    def get_sub_domains(self):
+        return self._sub_domains
+
+    def add_sub_domain(self, sub_domain):
         """
         Add the sub-domain to the result list
+        If add successfully, return True. Else, return False
         """
-        self._sub_lock.acquire()
 
-        if self.is_existed(sub_domain_name):
-            self._sub_lock.release()
-            return
-
-        try:
-            sub_domain = Domain(sub_domain_name)
-            sub_domain.save_info("domain_found_by", self.get_name())
-            if sub_domain.is_live():
-                self.sub_domains.append(sub_domain)
-        finally:
-            self._sub_lock.release()
+        if not self._is_existed_domain(sub_domain):
+            self._sub_domains.append(sub_domain)
+            return True
+        return False

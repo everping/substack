@@ -7,7 +7,7 @@ class Domain:
     """
 
     def __init__(self, domain_name):
-        self.domain_name = domain_name
+        self.domain_name = domain_name.lower()
         self.ip = self._get_ip()
         self.meta_data = {}
         self.open_ports = []
@@ -18,6 +18,9 @@ class Domain:
     def get_open_ports(self):
         return self.open_ports
 
+    def add_open_port(self, port):
+        self.open_ports.append(port)
+    
     def get_domain_name(self):
         return self.domain_name
 
@@ -47,4 +50,3 @@ class Domain:
         Get meta data
         """
         return self.meta_data[variable_name]
-
