@@ -1,7 +1,8 @@
 import threading
-
+from urlparse import urlparse
 from substack.data.logger import logger
 from substack.data.domain import Domain
+from substack.data.exceptions import PluginException
 from substack.plugins.base.plugin import Plugin
 
 
@@ -72,13 +73,29 @@ class SearchPlugin(Plugin):
         msg = 'Plugin is not implementing required method extract'
         raise NotImplementedError(msg)
 
+    def has_error(self, response):
+        """
+        If a plugin meet any error, it must override this method
+        """
+        return False
+
+    @staticmethod
+    def parse_domain_name(my_url):
+        if not my_url.startswith("http://") and not my_url.startswith("https://"):
+            my_url = "http://" + my_url
+
+        return urlparse(my_url).netloc
+
     def discover(self, domain):
         """
         This is the main method, it pass domain_name parameter
         and returns a list of the sub-domain found by the search engine
         """
         self.base_domain = domain
-        total_pages = self.get_total_page()
+        try:
+            total_pages = self.get_total_page()
+        except Exception as e:
+            raise PluginException(e)
 
         threads = []
         for i in xrange(total_pages):

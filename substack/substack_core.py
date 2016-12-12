@@ -90,4 +90,4 @@ class SubStack:
         self.init_plugin()
         self.targets = [Domain(domain_name) for domain_name in self.profile.get_target()]
         self.find_sub_domains()
-        self.find_open_ports()
+        # self.find_open_ports()

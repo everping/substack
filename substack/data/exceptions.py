@@ -15,6 +15,10 @@ class SubStackException(Exception):
         return self.value
 
 
+class PluginException(SubStackException):
+    pass
+
+
 class ProfileException(SubStackException):
     pass
 
