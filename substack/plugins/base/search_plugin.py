@@ -9,7 +9,6 @@ class SearchPlugin(Plugin):
     def __init__(self):
         Plugin.__init__(self)
         self.sub_domains = []
-        self.base_domain = None
         self.max_page = None
         self.lock = threading.Lock()
 
