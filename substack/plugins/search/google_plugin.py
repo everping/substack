@@ -21,8 +21,12 @@ class GooglePlugin(SearchPlugin):
         if not self.has_error(content):
             soup = BeautifulSoup(content, "html5lib")
             tag_a = soup.findAll('a', attrs={'class': 'fl'})
-            num_page = tag_a[-1]['aria-label']
-            return int(num_page.split()[1])
+            try:
+                num_page = tag_a[-1]['aria-label']
+                return int(num_page.split()[1])
+            except:
+                logger.error("Can not get total_page so return 0")
+                return 0
         else:
             logger.error("Google seems blocked my request")
             return 0

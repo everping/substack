@@ -4,6 +4,7 @@ from substack.data.logger import logger
 from substack.data.domain import Domain
 from substack.data.exceptions import PluginException
 from substack.plugins.base.plugin import Plugin
+from urllib import urllib
 
 
 class SearchPlugin(Plugin):
@@ -85,6 +86,9 @@ class SearchPlugin(Plugin):
             my_url = "http://" + my_url
 
         return urlparse(my_url).netloc
+
+    def urldecode(url):
+        return urllib.unquote(url)
 
     def discover(self, domain):
         """
