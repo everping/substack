@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from substack.data.logger import logger
 from substack.plugins.base.search_plugin import SearchPlugin
-from urlparse import urlparse
 
 class YahooPlugin(SearchPlugin):
 	def __init__(self):
@@ -59,6 +58,6 @@ class YahooPlugin(SearchPlugin):
 			s= line['href'].split("/")[7].split("=")[1]
 			try:
 				url = self.urldecode(s)
-				self.add(self.parse_domain_name(s))
+				self.add(self.parse_domain_name(url))
 			except:
 				print "can not extract domain"
