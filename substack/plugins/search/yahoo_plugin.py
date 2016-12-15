@@ -17,18 +17,17 @@ class YahooPlugin(SearchPlugin):
 
 	def get_total_page(self):
 		max_page_temp = self.max_page
-		loop = 1
-		while (loop == 1):
+		
+		while True:
 			url = self.base_url.format(query = self.get_query(), page = max_page_temp)
 			content = self.requester.get(url).text
-			if self.bot_detected(content):
+			if self.has_error(content):
 				print "To much requests and Yahoo knew"
 				return 0
 			if (("We did not find results for" not in content) or ("Check spelling or type a new query" not in content)):
 				list_seed = []
-				loop = 0
 				soup = BeautifulSoup(content, "html5lib")
-				search_page = soup.find_all(   "a", href=True, title=True, attrs={'class':None})
+				search_page = soup.find_all("a", href=True, title=True, attrs={'class':None})
 				for i in search_page:
 					list_seed.append(int(i.string))
 				current = soup.find("strong")
@@ -44,7 +43,7 @@ class YahooPlugin(SearchPlugin):
 				max_page_temp = max_page_temp - 50
 				print "max_page down to %d since bot can not get any infor about total_page" % (max_page_temp)				
 
-	def bot_detected(self, content):
+	def has_error(self, content):
 		list_sig = ["Yahoo! - 999 Unable to process request at this time -- error 999", "This problem may be due to unusual network activity"]
 		for temp in list_sig:
 			if temp in content:
@@ -60,6 +59,6 @@ class YahooPlugin(SearchPlugin):
 			s= line['href'].split("/")[7].split("=")[1]
 			try:
 				url = self.urldecode(s)
-				self.add(urlparse(url).netloc)
+				self.add(self.parse_domain_name(s))
 			except:
 				print "can not extract domain"
