@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from urlparse import urlparse
-max_page = 0
+max_page = 50
 header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
 
 while True:
