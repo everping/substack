@@ -14422,3 +14422,1081 @@ My URL: https://search.yahoo.com/search?p=site:fs4.ava.garena.com&b=50
 [INFO] 2016-12-15 11:29:59,549  Start finding sub-domains of ['zing.vn']
 [INFO] 2016-12-15 11:30:40,006  Start finding sub-domains of ['zing.vn']
 [INFO] 2016-12-15 11:30:41,128  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 20:34:40,816  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 20:35:06,822  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 20:35:09,424  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 20:35:57,510  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 20:47:36,572  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 20:47:37,269  max_page down to 45
+[INFO] 2016-12-23 20:47:37,825  max_page down to 40
+[INFO] 2016-12-23 20:47:38,509  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=0
+[INFO] 2016-12-23 20:47:38,509  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=1
+[INFO] 2016-12-23 20:47:38,510  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=2
+[INFO] 2016-12-23 20:47:38,512  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=3
+[INFO] 2016-12-23 20:47:38,513  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=4
+[INFO] 2016-12-23 20:47:38,515  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=5
+[INFO] 2016-12-23 20:47:38,516  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=6
+[INFO] 2016-12-23 20:47:38,519  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=7
+[INFO] 2016-12-23 20:47:38,520  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=8
+[INFO] 2016-12-23 20:47:38,523  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=9
+[INFO] 2016-12-23 20:47:38,525  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=10
+[INFO] 2016-12-23 20:47:38,526  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=11
+[INFO] 2016-12-23 20:47:38,529  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=12
+[INFO] 2016-12-23 20:47:38,530  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=13
+[INFO] 2016-12-23 20:47:38,532  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=14
+[INFO] 2016-12-23 20:47:38,535  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=15
+[INFO] 2016-12-23 20:47:38,536  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=16
+[INFO] 2016-12-23 20:47:38,539  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=17
+[INFO] 2016-12-23 20:47:38,542  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=18
+[INFO] 2016-12-23 20:47:38,545  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=19
+[INFO] 2016-12-23 20:47:38,548  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=20
+[INFO] 2016-12-23 20:47:38,552  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=21
+[INFO] 2016-12-23 20:47:38,555  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=22
+[INFO] 2016-12-23 20:47:38,558  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=23
+[INFO] 2016-12-23 20:47:38,559  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=24
+[INFO] 2016-12-23 20:47:38,562  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=25
+[INFO] 2016-12-23 20:47:38,565  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=26
+[INFO] 2016-12-23 20:47:38,568  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=27
+[INFO] 2016-12-23 20:47:38,569  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=28
+[INFO] 2016-12-23 20:47:38,572  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=29
+[INFO] 2016-12-23 20:47:38,575  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=30
+[INFO] 2016-12-23 20:47:38,576  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=31
+[INFO] 2016-12-23 20:47:38,579  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=32
+[INFO] 2016-12-23 20:47:38,582  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=33
+[INFO] 2016-12-23 20:47:38,585  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=34
+[INFO] 2016-12-23 20:47:38,588  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=35
+[INFO] 2016-12-23 20:47:38,592  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=36
+[INFO] 2016-12-23 20:47:38,595  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=37
+[INFO] 2016-12-23 20:47:38,598  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=38
+[INFO] 2016-12-23 20:47:38,601  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=39
+[INFO] 2016-12-23 20:47:38,602  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=40
+[INFO] 2016-12-23 20:47:38,605  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=41
+[INFO] 2016-12-23 20:47:38,611  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=42
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: appstore.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: tv.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: news.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: volam3.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: volam.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: 2s.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: ads.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: me.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: link.apps.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: m.id.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: id.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: mp3.zing.vn
+[INFO] 2016-12-23 20:47:43,990  New domain was found by AskPlugin: open.zing.vn
+[INFO] 2016-12-23 20:47:44,653  max_page down to 45
+[INFO] 2016-12-23 20:47:45,301  max_page down to 40
+[INFO] 2016-12-23 20:47:45,960  max_page down to 35
+[INFO] 2016-12-23 20:47:46,496  max_page down to 30
+[INFO] 2016-12-23 20:47:47,009  max_page down to 25
+[INFO] 2016-12-23 20:47:47,585  max_page down to 20
+[INFO] 2016-12-23 20:47:48,085  max_page down to 15
+[INFO] 2016-12-23 20:47:48,719  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=0
+[INFO] 2016-12-23 20:47:48,720  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=1
+[INFO] 2016-12-23 20:47:48,721  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=2
+[INFO] 2016-12-23 20:47:48,723  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=3
+[INFO] 2016-12-23 20:47:48,723  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=4
+[INFO] 2016-12-23 20:47:48,726  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=5
+[INFO] 2016-12-23 20:47:48,727  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=6
+[INFO] 2016-12-23 20:47:48,730  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=7
+[INFO] 2016-12-23 20:47:48,732  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=8
+[INFO] 2016-12-23 20:47:48,733  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=9
+[INFO] 2016-12-23 20:47:48,736  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=10
+[INFO] 2016-12-23 20:47:48,737  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=11
+[INFO] 2016-12-23 20:47:48,740  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=12
+[INFO] 2016-12-23 20:47:48,743  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=13
+[INFO] 2016-12-23 20:47:48,744  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=14
+[INFO] 2016-12-23 20:47:48,746  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=15
+[INFO] 2016-12-23 20:47:48,750  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=16
+[INFO] 2016-12-23 20:47:48,756  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=17
+[INFO] 2016-12-23 20:47:51,914  max_page down to 45
+[INFO] 2016-12-23 20:47:52,477  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=0
+[INFO] 2016-12-23 20:47:52,479  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=1
+[INFO] 2016-12-23 20:47:52,480  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=2
+[INFO] 2016-12-23 20:47:52,480  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=3
+[INFO] 2016-12-23 20:47:52,482  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=4
+[INFO] 2016-12-23 20:47:52,483  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=5
+[INFO] 2016-12-23 20:47:52,486  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=6
+[INFO] 2016-12-23 20:47:52,487  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=7
+[INFO] 2016-12-23 20:47:52,490  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=8
+[INFO] 2016-12-23 20:47:52,493  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=9
+[INFO] 2016-12-23 20:47:52,500  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=10
+[INFO] 2016-12-23 20:47:52,502  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=11
+[INFO] 2016-12-23 20:47:52,503  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=12
+[INFO] 2016-12-23 20:47:52,505  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=13
+[INFO] 2016-12-23 20:47:52,506  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=14
+[INFO] 2016-12-23 20:47:52,509  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=15
+[INFO] 2016-12-23 20:47:52,510  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=16
+[INFO] 2016-12-23 20:47:52,513  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=17
+[INFO] 2016-12-23 20:47:52,516  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=18
+[INFO] 2016-12-23 20:47:52,517  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=19
+[INFO] 2016-12-23 20:47:52,519  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=20
+[INFO] 2016-12-23 20:47:52,522  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=21
+[INFO] 2016-12-23 20:47:52,523  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=22
+[INFO] 2016-12-23 20:47:52,526  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=23
+[INFO] 2016-12-23 20:47:52,528  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=24
+[INFO] 2016-12-23 20:47:52,530  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=25
+[INFO] 2016-12-23 20:47:52,532  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=26
+[INFO] 2016-12-23 20:47:52,535  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=27
+[INFO] 2016-12-23 20:47:52,536  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=28
+[INFO] 2016-12-23 20:47:52,539  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=29
+[INFO] 2016-12-23 20:47:52,542  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=30
+[INFO] 2016-12-23 20:47:52,543  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=31
+[INFO] 2016-12-23 20:47:52,546  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=32
+[INFO] 2016-12-23 20:47:52,558  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=33
+[INFO] 2016-12-23 20:47:52,562  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=34
+[INFO] 2016-12-23 20:47:52,565  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=35
+[INFO] 2016-12-23 20:47:52,569  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=36
+[INFO] 2016-12-23 20:47:52,572  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=37
+[INFO] 2016-12-23 20:47:52,575  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=38
+[INFO] 2016-12-23 20:47:52,576  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=39
+[INFO] 2016-12-23 20:47:52,578  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=40
+[INFO] 2016-12-23 20:47:52,581  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=41
+[INFO] 2016-12-23 20:47:52,582  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=42
+[INFO] 2016-12-23 20:47:52,585  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=43
+[INFO] 2016-12-23 20:47:52,586  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=44
+[INFO] 2016-12-23 20:47:59,058  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=0
+[INFO] 2016-12-23 20:47:59,059  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=1
+[INFO] 2016-12-23 20:47:59,059  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=2
+[INFO] 2016-12-23 20:47:59,062  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=3
+[INFO] 2016-12-23 20:47:59,062  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=4
+[INFO] 2016-12-23 20:47:59,065  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=5
+[INFO] 2016-12-23 20:47:59,066  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=6
+[INFO] 2016-12-23 20:47:59,069  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=7
+[INFO] 2016-12-23 20:47:59,071  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=8
+[INFO] 2016-12-23 20:47:59,072  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=9
+[INFO] 2016-12-23 20:47:59,073  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=10
+[INFO] 2016-12-23 20:47:59,076  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=11
+[INFO] 2016-12-23 20:47:59,078  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=12
+[INFO] 2016-12-23 20:47:59,081  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=13
+[INFO] 2016-12-23 20:47:59,082  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=14
+[INFO] 2016-12-23 20:47:59,085  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=15
+[INFO] 2016-12-23 20:47:59,086  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=16
+[INFO] 2016-12-23 20:47:59,088  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=17
+[INFO] 2016-12-23 20:47:59,094  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=18
+[INFO] 2016-12-23 20:47:59,095  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=19
+[INFO] 2016-12-23 20:47:59,096  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=20
+[INFO] 2016-12-23 20:47:59,099  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=21
+[INFO] 2016-12-23 20:47:59,101  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=22
+[INFO] 2016-12-23 20:47:59,104  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=23
+[INFO] 2016-12-23 20:47:59,105  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=24
+[INFO] 2016-12-23 20:47:59,108  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=25
+[INFO] 2016-12-23 20:47:59,109  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=26
+[INFO] 2016-12-23 20:47:59,111  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=27
+[INFO] 2016-12-23 20:47:59,115  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=28
+[INFO] 2016-12-23 20:47:59,118  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=29
+[INFO] 2016-12-23 20:47:59,119  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=30
+[INFO] 2016-12-23 20:47:59,122  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=31
+[INFO] 2016-12-23 20:47:59,125  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=32
+[INFO] 2016-12-23 20:47:59,128  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=33
+[INFO] 2016-12-23 20:47:59,130  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=34
+[INFO] 2016-12-23 20:47:59,132  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=35
+[INFO] 2016-12-23 20:47:59,134  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=36
+[INFO] 2016-12-23 20:47:59,138  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=37
+[INFO] 2016-12-23 20:47:59,142  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=38
+[INFO] 2016-12-23 20:47:59,144  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=39
+[INFO] 2016-12-23 20:47:59,147  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=40
+[INFO] 2016-12-23 20:47:59,148  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=41
+[INFO] 2016-12-23 20:47:59,150  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=42
+[INFO] 2016-12-23 20:47:59,153  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=43
+[INFO] 2016-12-23 20:47:59,167  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=44
+[INFO] 2016-12-23 20:47:59,174  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=45
+[INFO] 2016-12-23 20:47:59,176  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=46
+[INFO] 2016-12-23 20:47:59,177  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=47
+[INFO] 2016-12-23 20:47:59,180  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=48
+[INFO] 2016-12-23 20:47:59,181  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=49
+[INFO] 2016-12-23 20:47:59,184  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=50
+[INFO] 2016-12-23 20:47:59,187  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=51
+[INFO] 2016-12-23 20:47:59,190  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=52
+[INFO] 2016-12-23 20:47:59,191  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=53
+[INFO] 2016-12-23 20:47:59,198  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=54
+[INFO] 2016-12-23 20:48:06,628  max_page down to 45
+[INFO] 2016-12-23 20:48:07,092  max_page down to 40
+[INFO] 2016-12-23 20:48:07,786  max_page down to 35
+[INFO] 2016-12-23 20:48:08,267  max_page down to 30
+[INFO] 2016-12-23 20:48:08,687  max_page down to 25
+[INFO] 2016-12-23 20:48:09,105  max_page down to 20
+[INFO] 2016-12-23 20:48:09,500  max_page down to 15
+[INFO] 2016-12-23 20:48:10,023  max_page down to 10
+[INFO] 2016-12-23 20:48:10,526  max_page down to 5
+[INFO] 2016-12-23 20:48:11,065  max_page down to 0
+[INFO] 2016-12-23 20:48:11,520  Requesting to http://www.search.ask.com/web?q=site:volam3.zing.vn&page=0
+[INFO] 2016-12-23 20:48:12,667  max_page down to 45
+[INFO] 2016-12-23 20:48:13,154  max_page down to 40
+[INFO] 2016-12-23 20:48:13,609  max_page down to 35
+[INFO] 2016-12-23 20:48:14,243  max_page down to 30
+[INFO] 2016-12-23 20:48:14,730  max_page down to 25
+[INFO] 2016-12-23 20:48:15,220  max_page down to 20
+[INFO] 2016-12-23 20:48:15,805  max_page down to 15
+[INFO] 2016-12-23 20:48:16,474  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=0
+[INFO] 2016-12-23 20:48:16,476  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=1
+[INFO] 2016-12-23 20:48:16,479  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=2
+[INFO] 2016-12-23 20:48:16,480  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=3
+[INFO] 2016-12-23 20:48:16,482  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=4
+[INFO] 2016-12-23 20:48:16,483  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=5
+[INFO] 2016-12-23 20:48:16,484  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=6
+[INFO] 2016-12-23 20:48:16,486  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=7
+[INFO] 2016-12-23 20:48:16,490  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=8
+[INFO] 2016-12-23 20:48:16,492  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=9
+[INFO] 2016-12-23 20:48:16,493  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=10
+[INFO] 2016-12-23 20:48:16,496  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=11
+[INFO] 2016-12-23 20:48:16,497  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=12
+[INFO] 2016-12-23 20:48:16,500  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=13
+[INFO] 2016-12-23 20:48:16,502  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=14
+[INFO] 2016-12-23 20:48:16,505  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=15
+[INFO] 2016-12-23 20:48:16,506  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=16
+[INFO] 2016-12-23 20:48:19,309  max_page down to 45
+[INFO] 2016-12-23 20:48:19,822  max_page down to 40
+[INFO] 2016-12-23 20:48:20,624  max_page down to 35
+[INFO] 2016-12-23 20:48:21,085  max_page down to 30
+[INFO] 2016-12-23 20:48:21,516  max_page down to 25
+[INFO] 2016-12-23 20:48:22,065  max_page down to 20
+[INFO] 2016-12-23 20:48:22,538  max_page down to 15
+[INFO] 2016-12-23 20:48:22,992  max_page down to 10
+[INFO] 2016-12-23 20:48:23,483  max_page down to 5
+[INFO] 2016-12-23 20:48:23,914  max_page down to 0
+[INFO] 2016-12-23 20:48:24,374  Requesting to http://www.search.ask.com/web?q=site:2s.zing.vn&page=0
+[INFO] 2016-12-23 20:48:25,427  max_page down to 45
+[INFO] 2016-12-23 20:48:25,898  max_page down to 40
+[INFO] 2016-12-23 20:48:26,364  max_page down to 35
+[INFO] 2016-12-23 20:48:26,825  max_page down to 30
+[INFO] 2016-12-23 20:48:27,342  max_page down to 25
+[INFO] 2016-12-23 20:48:27,934  max_page down to 20
+[INFO] 2016-12-23 20:48:28,364  max_page down to 15
+[INFO] 2016-12-23 20:48:28,857  max_page down to 10
+[INFO] 2016-12-23 20:48:29,362  max_page down to 5
+[INFO] 2016-12-23 20:48:29,828  max_page down to 0
+[INFO] 2016-12-23 20:48:30,364  Requesting to http://www.search.ask.com/web?q=site:ads.zing.vn&page=0
+[INFO] 2016-12-23 20:48:31,700  max_page down to 45
+[INFO] 2016-12-23 20:48:32,338  max_page down to 40
+[INFO] 2016-12-23 20:48:33,219  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=0
+[INFO] 2016-12-23 20:48:33,219  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=1
+[INFO] 2016-12-23 20:48:33,220  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=2
+[INFO] 2016-12-23 20:48:33,220  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=3
+[INFO] 2016-12-23 20:48:33,221  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=4
+[INFO] 2016-12-23 20:48:33,223  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=5
+[INFO] 2016-12-23 20:48:33,226  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=6
+[INFO] 2016-12-23 20:48:33,227  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=7
+[INFO] 2016-12-23 20:48:33,230  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=8
+[INFO] 2016-12-23 20:48:33,232  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=9
+[INFO] 2016-12-23 20:48:33,233  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=10
+[INFO] 2016-12-23 20:48:33,234  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=11
+[INFO] 2016-12-23 20:48:33,236  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=12
+[INFO] 2016-12-23 20:48:33,240  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=13
+[INFO] 2016-12-23 20:48:33,242  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=14
+[INFO] 2016-12-23 20:48:33,243  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=15
+[INFO] 2016-12-23 20:48:33,244  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=16
+[INFO] 2016-12-23 20:48:33,246  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=17
+[INFO] 2016-12-23 20:48:33,250  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=18
+[INFO] 2016-12-23 20:48:33,252  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=19
+[INFO] 2016-12-23 20:48:33,255  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=20
+[INFO] 2016-12-23 20:48:33,256  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=21
+[INFO] 2016-12-23 20:48:33,259  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=22
+[INFO] 2016-12-23 20:48:33,262  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=23
+[INFO] 2016-12-23 20:48:33,265  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=24
+[INFO] 2016-12-23 20:48:33,266  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=25
+[INFO] 2016-12-23 20:48:33,269  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=26
+[INFO] 2016-12-23 20:48:33,270  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=27
+[INFO] 2016-12-23 20:48:33,273  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=28
+[INFO] 2016-12-23 20:48:33,276  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=29
+[INFO] 2016-12-23 20:48:33,280  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=30
+[INFO] 2016-12-23 20:48:33,282  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=31
+[INFO] 2016-12-23 20:48:33,286  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=32
+[INFO] 2016-12-23 20:48:33,289  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=33
+[INFO] 2016-12-23 20:48:33,292  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=34
+[INFO] 2016-12-23 20:48:33,295  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=35
+[INFO] 2016-12-23 20:48:33,298  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=36
+[INFO] 2016-12-23 20:48:33,299  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=37
+[INFO] 2016-12-23 20:48:33,302  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=38
+[INFO] 2016-12-23 20:48:33,305  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=39
+[INFO] 2016-12-23 20:48:33,311  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=40
+[INFO] 2016-12-23 20:48:33,313  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=41
+[INFO] 2016-12-23 20:48:39,219  max_page down to 45
+[INFO] 2016-12-23 20:48:39,727  max_page down to 40
+[INFO] 2016-12-23 20:48:40,319  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=0
+[INFO] 2016-12-23 20:48:40,319  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=1
+[INFO] 2016-12-23 20:48:40,321  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=2
+[INFO] 2016-12-23 20:48:40,322  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=3
+[INFO] 2016-12-23 20:48:40,323  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=4
+[INFO] 2016-12-23 20:48:40,325  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=5
+[INFO] 2016-12-23 20:48:40,328  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=6
+[INFO] 2016-12-23 20:48:40,329  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=7
+[INFO] 2016-12-23 20:48:40,332  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=8
+[INFO] 2016-12-23 20:48:40,334  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=9
+[INFO] 2016-12-23 20:48:40,336  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=10
+[INFO] 2016-12-23 20:48:40,338  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=11
+[INFO] 2016-12-23 20:48:40,341  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=12
+[INFO] 2016-12-23 20:48:40,342  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=13
+[INFO] 2016-12-23 20:48:40,344  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=14
+[INFO] 2016-12-23 20:48:40,345  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=15
+[INFO] 2016-12-23 20:48:40,348  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=16
+[INFO] 2016-12-23 20:48:40,351  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=17
+[INFO] 2016-12-23 20:48:40,352  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=18
+[INFO] 2016-12-23 20:48:40,355  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=19
+[INFO] 2016-12-23 20:48:40,358  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=20
+[INFO] 2016-12-23 20:48:40,361  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=21
+[INFO] 2016-12-23 20:48:40,362  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=22
+[INFO] 2016-12-23 20:48:40,365  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=23
+[INFO] 2016-12-23 20:48:40,368  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=24
+[INFO] 2016-12-23 20:48:40,369  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=25
+[INFO] 2016-12-23 20:48:40,371  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=26
+[INFO] 2016-12-23 20:48:40,375  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=27
+[INFO] 2016-12-23 20:48:40,380  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=28
+[INFO] 2016-12-23 20:48:40,382  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=29
+[INFO] 2016-12-23 20:48:40,384  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=30
+[INFO] 2016-12-23 20:48:40,388  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=31
+[INFO] 2016-12-23 20:48:40,391  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=32
+[INFO] 2016-12-23 20:48:40,392  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=33
+[INFO] 2016-12-23 20:48:40,394  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=34
+[INFO] 2016-12-23 20:48:40,400  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=35
+[INFO] 2016-12-23 20:48:40,403  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=36
+[INFO] 2016-12-23 20:48:40,404  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=37
+[INFO] 2016-12-23 20:48:40,407  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=38
+[INFO] 2016-12-23 20:48:40,410  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=39
+[INFO] 2016-12-23 20:48:46,098  max_page down to 45
+[INFO] 2016-12-23 20:48:46,651  max_page down to 40
+[INFO] 2016-12-23 20:48:47,091  max_page down to 35
+[INFO] 2016-12-23 20:48:47,858  max_page down to 30
+[INFO] 2016-12-23 20:48:48,355  max_page down to 25
+[INFO] 2016-12-23 20:48:48,747  max_page down to 20
+[INFO] 2016-12-23 20:48:49,216  max_page down to 15
+[INFO] 2016-12-23 20:48:49,696  max_page down to 10
+[INFO] 2016-12-23 20:48:50,233  max_page down to 5
+[INFO] 2016-12-23 20:48:50,780  max_page down to 0
+[INFO] 2016-12-23 20:48:51,391  Requesting to http://www.search.ask.com/web?q=site:m.id.zing.vn&page=0
+[INFO] 2016-12-23 20:48:52,530  max_page down to 45
+[INFO] 2016-12-23 20:48:53,086  max_page down to 40
+[INFO] 2016-12-23 20:48:53,558  max_page down to 35
+[INFO] 2016-12-23 20:48:54,102  max_page down to 30
+[INFO] 2016-12-23 20:48:54,579  max_page down to 25
+[INFO] 2016-12-23 20:48:55,161  max_page down to 20
+[INFO] 2016-12-23 20:48:55,572  max_page down to 15
+[INFO] 2016-12-23 20:48:56,006  max_page down to 10
+[INFO] 2016-12-23 20:48:56,505  max_page down to 5
+[INFO] 2016-12-23 20:48:57,036  max_page down to 0
+[INFO] 2016-12-23 20:48:57,555  Requesting to http://www.search.ask.com/web?q=site:id.zing.vn&page=0
+[INFO] 2016-12-23 20:48:57,555  Requesting to http://www.search.ask.com/web?q=site:id.zing.vn&page=1
+[INFO] 2016-12-23 20:48:58,993  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=0
+[INFO] 2016-12-23 20:48:58,994  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=1
+[INFO] 2016-12-23 20:48:58,996  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=2
+[INFO] 2016-12-23 20:48:58,996  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=3
+[INFO] 2016-12-23 20:48:58,999  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=4
+[INFO] 2016-12-23 20:48:59,000  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=5
+[INFO] 2016-12-23 20:48:59,002  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=6
+[INFO] 2016-12-23 20:48:59,003  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=7
+[INFO] 2016-12-23 20:48:59,006  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=8
+[INFO] 2016-12-23 20:48:59,007  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=9
+[INFO] 2016-12-23 20:48:59,009  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=10
+[INFO] 2016-12-23 20:48:59,012  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=11
+[INFO] 2016-12-23 20:48:59,013  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=12
+[INFO] 2016-12-23 20:48:59,016  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=13
+[INFO] 2016-12-23 20:48:59,017  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=14
+[INFO] 2016-12-23 20:48:59,019  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=15
+[INFO] 2016-12-23 20:48:59,022  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=16
+[INFO] 2016-12-23 20:48:59,026  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=17
+[INFO] 2016-12-23 20:48:59,028  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=18
+[INFO] 2016-12-23 20:48:59,030  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=19
+[INFO] 2016-12-23 20:48:59,032  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=20
+[INFO] 2016-12-23 20:48:59,035  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=21
+[INFO] 2016-12-23 20:48:59,038  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=22
+[INFO] 2016-12-23 20:48:59,039  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=23
+[INFO] 2016-12-23 20:48:59,042  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=24
+[INFO] 2016-12-23 20:48:59,043  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=25
+[INFO] 2016-12-23 20:48:59,046  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=26
+[INFO] 2016-12-23 20:48:59,046  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=27
+[INFO] 2016-12-23 20:48:59,049  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=28
+[INFO] 2016-12-23 20:48:59,052  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=29
+[INFO] 2016-12-23 20:48:59,053  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=30
+[INFO] 2016-12-23 20:48:59,055  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=31
+[INFO] 2016-12-23 20:48:59,058  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=32
+[INFO] 2016-12-23 20:48:59,059  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=33
+[INFO] 2016-12-23 20:48:59,063  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=34
+[INFO] 2016-12-23 20:48:59,065  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=35
+[INFO] 2016-12-23 20:48:59,069  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=36
+[INFO] 2016-12-23 20:48:59,071  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=37
+[INFO] 2016-12-23 20:48:59,072  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=38
+[INFO] 2016-12-23 20:48:59,075  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=39
+[INFO] 2016-12-23 20:48:59,076  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=40
+[INFO] 2016-12-23 20:48:59,078  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=41
+[INFO] 2016-12-23 20:48:59,079  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=42
+[INFO] 2016-12-23 20:48:59,082  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=43
+[INFO] 2016-12-23 20:48:59,085  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=44
+[INFO] 2016-12-23 20:48:59,095  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=45
+[INFO] 2016-12-23 20:48:59,105  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=46
+[INFO] 2016-12-23 20:48:59,108  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=47
+[INFO] 2016-12-23 20:48:59,112  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=48
+[INFO] 2016-12-23 20:48:59,115  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=49
+[INFO] 2016-12-23 20:49:05,635  max_page down to 45
+[INFO] 2016-12-23 20:49:06,062  max_page down to 40
+[INFO] 2016-12-23 20:49:06,605  max_page down to 35
+[INFO] 2016-12-23 20:49:07,069  max_page down to 30
+[INFO] 2016-12-23 20:49:07,581  max_page down to 25
+[INFO] 2016-12-23 20:49:08,033  max_page down to 20
+[INFO] 2016-12-23 20:49:08,490  max_page down to 15
+[INFO] 2016-12-23 20:49:08,948  max_page down to 10
+[INFO] 2016-12-23 20:49:09,392  max_page down to 5
+[INFO] 2016-12-23 20:49:09,798  max_page down to 0
+[INFO] 2016-12-23 20:49:10,581  Requesting to http://www.search.ask.com/web?q=site:open.zing.vn&page=0
+[INFO] 2016-12-23 20:49:11,167  New domain was found by AskPlugin: 10nam.volam.zing.vn
+[INFO] 2016-12-23 20:49:11,168  New domain was found by AskPlugin: touch.me.zing.vn
+[INFO] 2016-12-23 20:49:11,168  New domain was found by AskPlugin: login.me.zing.vn
+[INFO] 2016-12-23 20:49:11,168  New domain was found by AskPlugin: m3.login.me.zing.vn
+[INFO] 2016-12-23 20:49:11,168  New domain was found by AskPlugin: m.mp3.zing.vn
+[INFO] 2016-12-23 20:49:11,660  max_page down to 45
+[INFO] 2016-12-23 20:49:12,233  max_page down to 40
+[INFO] 2016-12-23 20:49:12,776  max_page down to 35
+[INFO] 2016-12-23 20:49:13,255  max_page down to 30
+[INFO] 2016-12-23 20:49:13,681  max_page down to 25
+[INFO] 2016-12-23 20:49:14,150  max_page down to 20
+[INFO] 2016-12-23 20:49:14,612  max_page down to 15
+[INFO] 2016-12-23 20:49:15,234  max_page down to 10
+[INFO] 2016-12-23 20:49:15,786  max_page down to 5
+[INFO] 2016-12-23 20:49:16,253  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=0
+[INFO] 2016-12-23 20:49:16,253  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=1
+[INFO] 2016-12-23 20:49:16,255  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=2
+[INFO] 2016-12-23 20:49:16,256  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=3
+[INFO] 2016-12-23 20:49:16,257  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=4
+[INFO] 2016-12-23 20:49:17,690  max_page down to 45
+[INFO] 2016-12-23 20:49:18,181  max_page down to 40
+[INFO] 2016-12-23 20:49:18,592  max_page down to 35
+[INFO] 2016-12-23 20:49:19,105  max_page down to 30
+[INFO] 2016-12-23 20:49:19,573  max_page down to 25
+[INFO] 2016-12-23 20:49:19,973  max_page down to 20
+[INFO] 2016-12-23 20:49:20,382  max_page down to 15
+[INFO] 2016-12-23 20:49:20,900  max_page down to 10
+[INFO] 2016-12-23 20:49:21,298  max_page down to 5
+[INFO] 2016-12-23 20:49:21,792  max_page down to 0
+[INFO] 2016-12-23 20:49:22,242  Requesting to http://www.search.ask.com/web?q=site:touch.me.zing.vn&page=0
+[INFO] 2016-12-23 20:49:23,210  max_page down to 45
+[INFO] 2016-12-23 20:49:23,779  max_page down to 40
+[INFO] 2016-12-23 20:49:24,210  max_page down to 35
+[INFO] 2016-12-23 20:49:24,680  max_page down to 30
+[INFO] 2016-12-23 20:49:25,101  max_page down to 25
+[INFO] 2016-12-23 20:49:25,529  max_page down to 20
+[INFO] 2016-12-23 20:49:26,029  max_page down to 15
+[INFO] 2016-12-23 20:49:26,578  max_page down to 10
+[INFO] 2016-12-23 20:49:27,009  max_page down to 5
+[INFO] 2016-12-23 20:49:27,447  max_page down to 0
+[INFO] 2016-12-23 20:49:27,986  Requesting to http://www.search.ask.com/web?q=site:login.me.zing.vn&page=0
+[INFO] 2016-12-23 20:49:27,987  Requesting to http://www.search.ask.com/web?q=site:login.me.zing.vn&page=1
+[INFO] 2016-12-23 20:49:29,091  max_page down to 45
+[INFO] 2016-12-23 20:49:29,526  max_page down to 40
+[INFO] 2016-12-23 20:49:29,921  max_page down to 35
+[INFO] 2016-12-23 20:49:30,426  max_page down to 30
+[INFO] 2016-12-23 20:49:30,821  max_page down to 25
+[INFO] 2016-12-23 20:49:31,224  max_page down to 20
+[INFO] 2016-12-23 20:49:31,793  max_page down to 15
+[INFO] 2016-12-23 20:49:32,200  max_page down to 10
+[INFO] 2016-12-23 20:49:32,611  max_page down to 5
+[INFO] 2016-12-23 20:49:33,032  max_page down to 0
+[INFO] 2016-12-23 20:49:33,565  Requesting to http://www.search.ask.com/web?q=site:m3.login.me.zing.vn&page=0
+[INFO] 2016-12-23 20:49:34,933  max_page down to 45
+[INFO] 2016-12-23 20:49:35,401  max_page down to 40
+[INFO] 2016-12-23 20:49:35,960  max_page down to 35
+[INFO] 2016-12-23 20:49:36,448  max_page down to 30
+[INFO] 2016-12-23 20:49:36,934  max_page down to 25
+[INFO] 2016-12-23 20:49:37,365  max_page down to 20
+[INFO] 2016-12-23 20:49:37,858  max_page down to 15
+[INFO] 2016-12-23 20:49:38,355  max_page down to 10
+[INFO] 2016-12-23 20:49:38,766  max_page down to 5
+[INFO] 2016-12-23 20:49:39,335  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=0
+[INFO] 2016-12-23 20:49:39,335  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=1
+[INFO] 2016-12-23 20:49:39,336  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=2
+[INFO] 2016-12-23 20:49:39,338  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=3
+[INFO] 2016-12-23 20:49:39,339  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=4
+[INFO] 2016-12-23 20:49:39,342  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=5
+[INFO] 2016-12-23 20:49:39,342  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=6
+[INFO] 2016-12-23 20:49:39,345  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=7
+[INFO] 2016-12-23 20:49:39,346  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=8
+[INFO] 2016-12-23 20:49:39,349  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=9
+[INFO] 2016-12-23 20:59:22,801  Start finding sub-domains of ['zing.vn']
+[ERROR] 2016-12-23 20:59:23,604  max() arg is an empty sequence
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\plugins\base\search_plugin.py", line 98, in discover
+    total_pages = self.get_total_page()
+  File "D:\Everping\Work\Projects\substack\substack\plugins\search\ask_plugin.py", line 34, in get_total_page
+    return max(list_no_page)
+ValueError: max() arg is an empty sequence
+[INFO] 2016-12-23 20:59:31,747  Start finding sub-domains of ['zing.vn']
+[ERROR] 2016-12-23 20:59:32,602  max() arg is an empty sequence
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\plugins\base\search_plugin.py", line 98, in discover
+    total_pages = self.get_total_page()
+  File "D:\Everping\Work\Projects\substack\substack\plugins\search\ask_plugin.py", line 34, in get_total_page
+    return max(list_no_page)
+ValueError: max() arg is an empty sequence
+[INFO] 2016-12-23 20:59:57,121  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 20:59:57,690  max_page down to 45
+[INFO] 2016-12-23 20:59:58,301  max_page down to 40
+[INFO] 2016-12-23 20:59:58,875  max_page down to 35
+[INFO] 2016-12-23 20:59:59,388  max_page down to 30
+[INFO] 2016-12-23 20:59:59,924  max_page down to 25
+[INFO] 2016-12-23 21:00:00,549  max_page down to 20
+[INFO] 2016-12-23 21:00:01,197  max_page down to 15
+[INFO] 2016-12-23 21:00:01,757  max_page down to 10
+[INFO] 2016-12-23 21:00:02,229  max_page down to 5
+[INFO] 2016-12-23 21:00:02,815  max_page down to 0
+[INFO] 2016-12-23 21:00:03,408  max_page down to -5
+[INFO] 2016-12-23 21:00:03,938  max_page down to -10
+[INFO] 2016-12-23 21:00:04,529  max_page down to -15
+[INFO] 2016-12-23 21:00:05,160  max_page down to -20
+[INFO] 2016-12-23 21:00:05,661  max_page down to -25
+[INFO] 2016-12-23 21:00:06,226  max_page down to -30
+[INFO] 2016-12-23 21:00:06,812  max_page down to -35
+[INFO] 2016-12-23 21:00:07,368  max_page down to -40
+[INFO] 2016-12-23 21:00:07,878  max_page down to -45
+[INFO] 2016-12-23 21:00:08,375  max_page down to -50
+[INFO] 2016-12-23 21:00:18,871  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 21:00:19,431  max_page down to 45
+[INFO] 2016-12-23 21:00:19,934  max_page down to 40
+[INFO] 2016-12-23 21:00:20,542  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=0
+[INFO] 2016-12-23 21:00:20,542  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=1
+[INFO] 2016-12-23 21:00:20,543  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=2
+[INFO] 2016-12-23 21:00:20,545  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=3
+[INFO] 2016-12-23 21:00:20,546  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=4
+[INFO] 2016-12-23 21:00:20,548  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=5
+[INFO] 2016-12-23 21:00:20,549  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=6
+[INFO] 2016-12-23 21:00:20,552  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=7
+[INFO] 2016-12-23 21:00:20,553  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=8
+[INFO] 2016-12-23 21:00:20,555  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=9
+[INFO] 2016-12-23 21:00:20,558  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=10
+[INFO] 2016-12-23 21:00:20,559  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=11
+[INFO] 2016-12-23 21:00:20,562  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=12
+[INFO] 2016-12-23 21:00:20,563  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=13
+[INFO] 2016-12-23 21:00:20,565  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=14
+[INFO] 2016-12-23 21:00:20,568  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=15
+[INFO] 2016-12-23 21:00:20,571  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=16
+[INFO] 2016-12-23 21:00:20,572  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=17
+[INFO] 2016-12-23 21:00:20,575  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=18
+[INFO] 2016-12-23 21:00:20,576  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=19
+[INFO] 2016-12-23 21:00:20,578  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=20
+[INFO] 2016-12-23 21:00:20,582  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=21
+[INFO] 2016-12-23 21:00:20,585  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=22
+[INFO] 2016-12-23 21:00:20,588  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=23
+[INFO] 2016-12-23 21:00:20,591  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=24
+[INFO] 2016-12-23 21:00:20,592  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=25
+[INFO] 2016-12-23 21:00:20,596  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=26
+[INFO] 2016-12-23 21:00:20,601  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=27
+[INFO] 2016-12-23 21:00:20,605  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=28
+[INFO] 2016-12-23 21:00:20,607  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=29
+[INFO] 2016-12-23 21:00:20,608  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=30
+[INFO] 2016-12-23 21:00:20,611  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=31
+[INFO] 2016-12-23 21:00:20,615  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=32
+[INFO] 2016-12-23 21:00:20,617  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=33
+[INFO] 2016-12-23 21:00:20,619  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=34
+[INFO] 2016-12-23 21:00:20,622  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=35
+[INFO] 2016-12-23 21:00:20,625  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=36
+[INFO] 2016-12-23 21:00:20,628  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=37
+[INFO] 2016-12-23 21:00:20,632  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=38
+[INFO] 2016-12-23 21:00:20,635  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=39
+[INFO] 2016-12-23 21:00:20,638  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=40
+[INFO] 2016-12-23 21:00:20,641  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=41
+[INFO] 2016-12-23 21:00:20,644  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=42
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: news.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: appstore.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: me.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: tv.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: volam3.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: volam.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: 2s.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: ads.zing.vn
+[INFO] 2016-12-23 21:00:25,917  New domain was found by AskPlugin: open.zing.vn
+[INFO] 2016-12-23 21:00:25,918  New domain was found by AskPlugin: link.apps.zing.vn
+[INFO] 2016-12-23 21:00:25,918  New domain was found by AskPlugin: id.zing.vn
+[INFO] 2016-12-23 21:00:25,918  New domain was found by AskPlugin: m.id.zing.vn
+[INFO] 2016-12-23 21:00:25,918  New domain was found by AskPlugin: mp3.zing.vn
+[INFO] 2016-12-23 21:00:26,674  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=0
+[INFO] 2016-12-23 21:00:26,674  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=1
+[INFO] 2016-12-23 21:00:26,676  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=2
+[INFO] 2016-12-23 21:00:26,677  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=3
+[INFO] 2016-12-23 21:00:26,678  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=4
+[INFO] 2016-12-23 21:00:26,680  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=5
+[INFO] 2016-12-23 21:00:26,681  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=6
+[INFO] 2016-12-23 21:00:26,684  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=7
+[INFO] 2016-12-23 21:00:26,687  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=8
+[INFO] 2016-12-23 21:00:26,688  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=9
+[INFO] 2016-12-23 21:00:26,690  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=10
+[INFO] 2016-12-23 21:00:26,693  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=11
+[INFO] 2016-12-23 21:00:26,694  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=12
+[INFO] 2016-12-23 21:00:26,696  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=13
+[INFO] 2016-12-23 21:00:26,697  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=14
+[INFO] 2016-12-23 21:00:26,700  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=15
+[INFO] 2016-12-23 21:00:26,703  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=16
+[INFO] 2016-12-23 21:00:26,704  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=17
+[INFO] 2016-12-23 21:00:26,710  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=18
+[INFO] 2016-12-23 21:00:26,713  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=19
+[INFO] 2016-12-23 21:00:26,714  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=20
+[INFO] 2016-12-23 21:00:26,789  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=21
+[INFO] 2016-12-23 21:00:26,792  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=22
+[INFO] 2016-12-23 21:00:26,795  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=23
+[INFO] 2016-12-23 21:00:26,796  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=24
+[INFO] 2016-12-23 21:00:26,799  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=25
+[INFO] 2016-12-23 21:00:26,801  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=26
+[INFO] 2016-12-23 21:00:26,802  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=27
+[INFO] 2016-12-23 21:00:26,805  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=28
+[INFO] 2016-12-23 21:00:26,806  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=29
+[INFO] 2016-12-23 21:00:26,809  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=30
+[INFO] 2016-12-23 21:00:26,811  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=31
+[INFO] 2016-12-23 21:00:26,812  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=32
+[INFO] 2016-12-23 21:00:26,815  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=33
+[INFO] 2016-12-23 21:00:26,816  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=34
+[INFO] 2016-12-23 21:00:26,821  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=35
+[INFO] 2016-12-23 21:00:26,823  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=36
+[INFO] 2016-12-23 21:00:26,825  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=37
+[INFO] 2016-12-23 21:00:26,828  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=38
+[INFO] 2016-12-23 21:00:26,832  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=39
+[INFO] 2016-12-23 21:00:26,834  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=40
+[INFO] 2016-12-23 21:00:26,835  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=41
+[INFO] 2016-12-23 21:00:26,838  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=42
+[INFO] 2016-12-23 21:00:26,841  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=43
+[INFO] 2016-12-23 21:00:26,842  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=44
+[INFO] 2016-12-23 21:00:26,845  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=45
+[INFO] 2016-12-23 21:00:26,848  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=46
+[INFO] 2016-12-23 21:00:26,851  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=47
+[INFO] 2016-12-23 21:00:26,854  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=48
+[INFO] 2016-12-23 21:00:26,855  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=49
+[INFO] 2016-12-23 21:00:26,858  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=50
+[INFO] 2016-12-23 21:00:26,861  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=51
+[INFO] 2016-12-23 21:00:26,862  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=52
+[INFO] 2016-12-23 21:00:26,865  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=53
+[INFO] 2016-12-23 21:00:26,868  Requesting to http://www.search.ask.com/web?q=site:news.zing.vn&page=54
+[INFO] 2016-12-23 21:00:34,510  max_page down to 45
+[INFO] 2016-12-23 21:00:35,065  max_page down to 40
+[INFO] 2016-12-23 21:00:35,573  max_page down to 35
+[INFO] 2016-12-23 21:00:36,270  max_page down to 30
+[INFO] 2016-12-23 21:00:36,717  max_page down to 25
+[INFO] 2016-12-23 21:00:37,256  max_page down to 20
+[INFO] 2016-12-23 21:00:37,737  max_page down to 15
+[INFO] 2016-12-23 21:00:38,299  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=0
+[INFO] 2016-12-23 21:00:38,299  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=1
+[INFO] 2016-12-23 21:00:38,302  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=2
+[INFO] 2016-12-23 21:00:38,303  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=3
+[INFO] 2016-12-23 21:00:38,305  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=4
+[INFO] 2016-12-23 21:00:38,306  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=5
+[INFO] 2016-12-23 21:00:38,309  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=6
+[INFO] 2016-12-23 21:00:38,311  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=7
+[INFO] 2016-12-23 21:00:38,312  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=8
+[INFO] 2016-12-23 21:00:38,315  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=9
+[INFO] 2016-12-23 21:00:38,316  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=10
+[INFO] 2016-12-23 21:00:38,319  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=11
+[INFO] 2016-12-23 21:00:38,322  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=12
+[INFO] 2016-12-23 21:00:38,322  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=13
+[INFO] 2016-12-23 21:00:38,325  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=14
+[INFO] 2016-12-23 21:00:38,328  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=15
+[INFO] 2016-12-23 21:00:38,329  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=16
+[INFO] 2016-12-23 21:00:38,332  Requesting to http://www.search.ask.com/web?q=site:appstore.zing.vn&page=17
+[INFO] 2016-12-23 21:00:41,484  max_page down to 45
+[INFO] 2016-12-23 21:00:42,052  max_page down to 40
+[INFO] 2016-12-23 21:00:42,642  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=0
+[INFO] 2016-12-23 21:00:42,644  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=1
+[INFO] 2016-12-23 21:00:42,644  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=2
+[INFO] 2016-12-23 21:00:42,645  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=3
+[INFO] 2016-12-23 21:00:42,647  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=4
+[INFO] 2016-12-23 21:00:42,648  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=5
+[INFO] 2016-12-23 21:00:42,651  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=6
+[INFO] 2016-12-23 21:00:42,653  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=7
+[INFO] 2016-12-23 21:00:42,655  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=8
+[INFO] 2016-12-23 21:00:42,657  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=9
+[INFO] 2016-12-23 21:00:42,660  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=10
+[INFO] 2016-12-23 21:00:42,661  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=11
+[INFO] 2016-12-23 21:00:42,664  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=12
+[INFO] 2016-12-23 21:00:42,665  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=13
+[INFO] 2016-12-23 21:00:42,667  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=14
+[INFO] 2016-12-23 21:00:42,670  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=15
+[INFO] 2016-12-23 21:00:42,671  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=16
+[INFO] 2016-12-23 21:00:42,674  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=17
+[INFO] 2016-12-23 21:00:42,676  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=18
+[INFO] 2016-12-23 21:00:42,678  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=19
+[INFO] 2016-12-23 21:00:42,680  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=20
+[INFO] 2016-12-23 21:00:42,684  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=21
+[INFO] 2016-12-23 21:00:42,691  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=22
+[INFO] 2016-12-23 21:00:42,694  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=23
+[INFO] 2016-12-23 21:00:42,697  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=24
+[INFO] 2016-12-23 21:00:42,698  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=25
+[INFO] 2016-12-23 21:00:42,701  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=26
+[INFO] 2016-12-23 21:00:42,704  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=27
+[INFO] 2016-12-23 21:00:42,707  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=28
+[INFO] 2016-12-23 21:00:42,709  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=29
+[INFO] 2016-12-23 21:00:42,710  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=30
+[INFO] 2016-12-23 21:00:42,713  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=31
+[INFO] 2016-12-23 21:00:42,717  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=32
+[INFO] 2016-12-23 21:00:42,719  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=33
+[INFO] 2016-12-23 21:00:42,721  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=34
+[INFO] 2016-12-23 21:00:42,723  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=35
+[INFO] 2016-12-23 21:00:42,726  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=36
+[INFO] 2016-12-23 21:00:42,729  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=37
+[INFO] 2016-12-23 21:00:42,730  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=38
+[INFO] 2016-12-23 21:00:42,733  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=39
+[INFO] 2016-12-23 21:00:42,734  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=40
+[INFO] 2016-12-23 21:00:42,736  Requesting to http://www.search.ask.com/web?q=site:me.zing.vn&page=41
+[INFO] 2016-12-23 21:00:48,750  max_page down to 45
+[INFO] 2016-12-23 21:00:49,401  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=0
+[INFO] 2016-12-23 21:00:49,403  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=1
+[INFO] 2016-12-23 21:00:49,404  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=2
+[INFO] 2016-12-23 21:00:49,405  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=3
+[INFO] 2016-12-23 21:00:49,407  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=4
+[INFO] 2016-12-23 21:00:49,410  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=5
+[INFO] 2016-12-23 21:00:49,411  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=6
+[INFO] 2016-12-23 21:00:49,414  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=7
+[INFO] 2016-12-23 21:00:49,415  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=8
+[INFO] 2016-12-23 21:00:49,417  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=9
+[INFO] 2016-12-23 21:00:49,420  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=10
+[INFO] 2016-12-23 21:00:49,421  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=11
+[INFO] 2016-12-23 21:00:49,424  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=12
+[INFO] 2016-12-23 21:00:49,426  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=13
+[INFO] 2016-12-23 21:00:49,427  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=14
+[INFO] 2016-12-23 21:00:49,430  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=15
+[INFO] 2016-12-23 21:00:49,433  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=16
+[INFO] 2016-12-23 21:00:49,434  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=17
+[INFO] 2016-12-23 21:00:49,436  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=18
+[INFO] 2016-12-23 21:00:49,437  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=19
+[INFO] 2016-12-23 21:00:49,440  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=20
+[INFO] 2016-12-23 21:00:49,443  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=21
+[INFO] 2016-12-23 21:00:49,446  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=22
+[INFO] 2016-12-23 21:00:49,447  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=23
+[INFO] 2016-12-23 21:00:49,450  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=24
+[INFO] 2016-12-23 21:00:49,454  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=25
+[INFO] 2016-12-23 21:00:49,457  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=26
+[INFO] 2016-12-23 21:00:49,460  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=27
+[INFO] 2016-12-23 21:00:49,461  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=28
+[INFO] 2016-12-23 21:00:49,464  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=29
+[INFO] 2016-12-23 21:00:49,466  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=30
+[INFO] 2016-12-23 21:00:49,467  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=31
+[INFO] 2016-12-23 21:00:49,470  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=32
+[INFO] 2016-12-23 21:00:49,473  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=33
+[INFO] 2016-12-23 21:00:49,474  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=34
+[INFO] 2016-12-23 21:00:49,476  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=35
+[INFO] 2016-12-23 21:00:49,479  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=36
+[INFO] 2016-12-23 21:00:49,482  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=37
+[INFO] 2016-12-23 21:00:49,483  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=38
+[INFO] 2016-12-23 21:00:49,486  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=39
+[INFO] 2016-12-23 21:00:49,487  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=40
+[INFO] 2016-12-23 21:00:49,490  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=41
+[INFO] 2016-12-23 21:00:49,492  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=42
+[INFO] 2016-12-23 21:00:49,493  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=43
+[INFO] 2016-12-23 21:00:49,496  Requesting to http://www.search.ask.com/web?q=site:tv.zing.vn&page=44
+[INFO] 2016-12-23 21:00:55,517  max_page down to 45
+[INFO] 2016-12-23 21:00:55,915  max_page down to 40
+[INFO] 2016-12-23 21:00:56,385  max_page down to 35
+[INFO] 2016-12-23 21:00:56,790  max_page down to 30
+[INFO] 2016-12-23 21:00:57,213  max_page down to 25
+[INFO] 2016-12-23 21:00:57,635  max_page down to 20
+[INFO] 2016-12-23 21:00:58,131  max_page down to 15
+[INFO] 2016-12-23 21:00:58,628  max_page down to 10
+[INFO] 2016-12-23 21:00:59,121  max_page down to 5
+[INFO] 2016-12-23 21:00:59,509  max_page down to 0
+[INFO] 2016-12-23 21:00:59,987  Requesting to http://www.search.ask.com/web?q=site:volam3.zing.vn&page=0
+[INFO] 2016-12-23 21:01:01,082  max_page down to 45
+[INFO] 2016-12-23 21:01:01,704  max_page down to 40
+[INFO] 2016-12-23 21:01:02,180  max_page down to 35
+[INFO] 2016-12-23 21:01:02,667  max_page down to 30
+[INFO] 2016-12-23 21:01:03,265  max_page down to 25
+[INFO] 2016-12-23 21:01:03,790  max_page down to 20
+[INFO] 2016-12-23 21:01:04,305  max_page down to 15
+[INFO] 2016-12-23 21:01:04,862  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=0
+[INFO] 2016-12-23 21:01:04,864  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=1
+[INFO] 2016-12-23 21:01:04,867  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=2
+[INFO] 2016-12-23 21:01:04,868  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=3
+[INFO] 2016-12-23 21:01:04,869  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=4
+[INFO] 2016-12-23 21:01:04,872  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=5
+[INFO] 2016-12-23 21:01:04,874  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=6
+[INFO] 2016-12-23 21:01:04,877  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=7
+[INFO] 2016-12-23 21:01:04,881  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=8
+[INFO] 2016-12-23 21:01:04,884  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=9
+[INFO] 2016-12-23 21:01:04,885  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=10
+[INFO] 2016-12-23 21:01:04,888  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=11
+[INFO] 2016-12-23 21:01:04,891  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=12
+[INFO] 2016-12-23 21:01:04,895  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=13
+[INFO] 2016-12-23 21:01:04,898  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=14
+[INFO] 2016-12-23 21:01:04,901  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=15
+[INFO] 2016-12-23 21:01:04,904  Requesting to http://www.search.ask.com/web?q=site:volam.zing.vn&page=16
+[INFO] 2016-12-23 21:01:07,849  max_page down to 45
+[INFO] 2016-12-23 21:01:08,263  max_page down to 40
+[INFO] 2016-12-23 21:01:08,732  max_page down to 35
+[INFO] 2016-12-23 21:01:09,157  max_page down to 30
+[INFO] 2016-12-23 21:01:09,719  max_page down to 25
+[INFO] 2016-12-23 21:01:10,174  max_page down to 20
+[INFO] 2016-12-23 21:01:10,634  max_page down to 15
+[INFO] 2016-12-23 21:01:11,032  max_page down to 10
+[INFO] 2016-12-23 21:01:11,483  max_page down to 5
+[INFO] 2016-12-23 21:01:11,934  max_page down to 0
+[INFO] 2016-12-23 21:01:12,428  Requesting to http://www.search.ask.com/web?q=site:2s.zing.vn&page=0
+[INFO] 2016-12-23 21:01:13,355  max_page down to 45
+[INFO] 2016-12-23 21:01:13,762  max_page down to 40
+[INFO] 2016-12-23 21:01:14,193  max_page down to 35
+[INFO] 2016-12-23 21:01:14,641  max_page down to 30
+[INFO] 2016-12-23 21:01:15,043  max_page down to 25
+[INFO] 2016-12-23 21:01:15,476  max_page down to 20
+[INFO] 2016-12-23 21:01:15,934  max_page down to 15
+[INFO] 2016-12-23 21:01:16,411  max_page down to 10
+[INFO] 2016-12-23 21:01:16,841  max_page down to 5
+[INFO] 2016-12-23 21:01:17,270  max_page down to 0
+[INFO] 2016-12-23 21:01:17,720  Requesting to http://www.search.ask.com/web?q=site:ads.zing.vn&page=0
+[INFO] 2016-12-23 21:01:18,719  max_page down to 45
+[INFO] 2016-12-23 21:01:19,161  max_page down to 40
+[INFO] 2016-12-23 21:01:19,638  max_page down to 35
+[INFO] 2016-12-23 21:01:20,068  max_page down to 30
+[INFO] 2016-12-23 21:01:20,466  max_page down to 25
+[INFO] 2016-12-23 21:01:20,904  max_page down to 20
+[INFO] 2016-12-23 21:01:21,423  max_page down to 15
+[INFO] 2016-12-23 21:01:21,967  max_page down to 10
+[INFO] 2016-12-23 21:01:22,408  max_page down to 5
+[INFO] 2016-12-23 21:01:22,861  max_page down to 0
+[INFO] 2016-12-23 21:01:23,374  Requesting to http://www.search.ask.com/web?q=site:open.zing.vn&page=0
+[INFO] 2016-12-23 21:01:24,704  max_page down to 45
+[INFO] 2016-12-23 21:01:25,259  max_page down to 40
+[INFO] 2016-12-23 21:01:25,930  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=0
+[INFO] 2016-12-23 21:01:25,931  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=1
+[INFO] 2016-12-23 21:01:25,931  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=2
+[INFO] 2016-12-23 21:01:25,934  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=3
+[INFO] 2016-12-23 21:01:25,934  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=4
+[INFO] 2016-12-23 21:01:25,937  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=5
+[INFO] 2016-12-23 21:01:25,940  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=6
+[INFO] 2016-12-23 21:01:25,941  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=7
+[INFO] 2016-12-23 21:01:25,944  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=8
+[INFO] 2016-12-23 21:01:25,946  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=9
+[INFO] 2016-12-23 21:01:25,947  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=10
+[INFO] 2016-12-23 21:01:25,950  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=11
+[INFO] 2016-12-23 21:01:25,951  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=12
+[INFO] 2016-12-23 21:01:25,954  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=13
+[INFO] 2016-12-23 21:01:25,957  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=14
+[INFO] 2016-12-23 21:01:25,957  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=15
+[INFO] 2016-12-23 21:01:25,960  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=16
+[INFO] 2016-12-23 21:01:25,961  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=17
+[INFO] 2016-12-23 21:01:25,964  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=18
+[INFO] 2016-12-23 21:01:25,967  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=19
+[INFO] 2016-12-23 21:01:25,969  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=20
+[INFO] 2016-12-23 21:01:25,970  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=21
+[INFO] 2016-12-23 21:01:25,973  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=22
+[INFO] 2016-12-23 21:01:25,976  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=23
+[INFO] 2016-12-23 21:01:25,977  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=24
+[INFO] 2016-12-23 21:01:25,980  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=25
+[INFO] 2016-12-23 21:01:25,982  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=26
+[INFO] 2016-12-23 21:01:25,984  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=27
+[INFO] 2016-12-23 21:01:25,986  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=28
+[INFO] 2016-12-23 21:01:25,989  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=29
+[INFO] 2016-12-23 21:01:25,992  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=30
+[INFO] 2016-12-23 21:01:25,993  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=31
+[INFO] 2016-12-23 21:01:26,002  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=32
+[INFO] 2016-12-23 21:01:26,007  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=33
+[INFO] 2016-12-23 21:01:26,012  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=34
+[INFO] 2016-12-23 21:01:26,015  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=35
+[INFO] 2016-12-23 21:01:26,017  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=36
+[INFO] 2016-12-23 21:01:26,022  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=37
+[INFO] 2016-12-23 21:01:26,028  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=38
+[INFO] 2016-12-23 21:01:26,032  Requesting to http://www.search.ask.com/web?q=site:link.apps.zing.vn&page=39
+[INFO] 2016-12-23 21:01:31,700  max_page down to 45
+[INFO] 2016-12-23 21:01:32,173  max_page down to 40
+[INFO] 2016-12-23 21:01:32,582  max_page down to 35
+[INFO] 2016-12-23 21:01:32,993  max_page down to 30
+[INFO] 2016-12-23 21:01:33,651  max_page down to 25
+[INFO] 2016-12-23 21:01:34,269  max_page down to 20
+[INFO] 2016-12-23 21:01:34,680  max_page down to 15
+[INFO] 2016-12-23 21:01:35,078  max_page down to 10
+[INFO] 2016-12-23 21:01:35,482  max_page down to 5
+[INFO] 2016-12-23 21:01:36,019  max_page down to 0
+[INFO] 2016-12-23 21:01:36,555  Requesting to http://www.search.ask.com/web?q=site:id.zing.vn&page=0
+[INFO] 2016-12-23 21:01:36,555  Requesting to http://www.search.ask.com/web?q=site:id.zing.vn&page=1
+[INFO] 2016-12-23 21:01:37,612  max_page down to 45
+[INFO] 2016-12-23 21:01:38,042  max_page down to 40
+[INFO] 2016-12-23 21:01:38,490  max_page down to 35
+[INFO] 2016-12-23 21:01:38,894  max_page down to 30
+[INFO] 2016-12-23 21:01:39,325  max_page down to 25
+[INFO] 2016-12-23 21:01:39,793  max_page down to 20
+[INFO] 2016-12-23 21:01:40,246  max_page down to 15
+[INFO] 2016-12-23 21:01:40,713  max_page down to 10
+[INFO] 2016-12-23 21:01:41,138  max_page down to 5
+[INFO] 2016-12-23 21:01:41,628  max_page down to 0
+[INFO] 2016-12-23 21:01:42,082  Requesting to http://www.search.ask.com/web?q=site:m.id.zing.vn&page=0
+[INFO] 2016-12-23 21:01:43,328  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=0
+[INFO] 2016-12-23 21:01:43,328  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=1
+[INFO] 2016-12-23 21:01:43,331  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=2
+[INFO] 2016-12-23 21:01:43,332  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=3
+[INFO] 2016-12-23 21:01:43,334  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=4
+[INFO] 2016-12-23 21:01:43,336  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=5
+[INFO] 2016-12-23 21:01:43,338  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=6
+[INFO] 2016-12-23 21:01:43,344  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=7
+[INFO] 2016-12-23 21:01:43,345  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=8
+[INFO] 2016-12-23 21:01:43,348  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=9
+[INFO] 2016-12-23 21:01:43,351  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=10
+[INFO] 2016-12-23 21:01:43,352  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=11
+[INFO] 2016-12-23 21:01:43,355  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=12
+[INFO] 2016-12-23 21:01:43,358  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=13
+[INFO] 2016-12-23 21:01:43,359  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=14
+[INFO] 2016-12-23 21:01:43,361  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=15
+[INFO] 2016-12-23 21:01:43,364  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=16
+[INFO] 2016-12-23 21:01:43,365  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=17
+[INFO] 2016-12-23 21:01:43,368  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=18
+[INFO] 2016-12-23 21:01:43,371  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=19
+[INFO] 2016-12-23 21:01:43,375  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=20
+[INFO] 2016-12-23 21:01:43,377  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=21
+[INFO] 2016-12-23 21:01:43,378  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=22
+[INFO] 2016-12-23 21:01:43,381  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=23
+[INFO] 2016-12-23 21:01:43,384  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=24
+[INFO] 2016-12-23 21:01:43,385  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=25
+[INFO] 2016-12-23 21:01:43,388  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=26
+[INFO] 2016-12-23 21:01:43,391  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=27
+[INFO] 2016-12-23 21:01:43,392  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=28
+[INFO] 2016-12-23 21:01:43,394  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=29
+[INFO] 2016-12-23 21:01:43,398  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=30
+[INFO] 2016-12-23 21:01:43,401  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=31
+[INFO] 2016-12-23 21:01:43,405  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=32
+[INFO] 2016-12-23 21:01:43,408  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=33
+[INFO] 2016-12-23 21:01:43,411  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=34
+[INFO] 2016-12-23 21:01:43,414  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=35
+[INFO] 2016-12-23 21:01:43,415  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=36
+[INFO] 2016-12-23 21:01:43,418  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=37
+[INFO] 2016-12-23 21:01:43,421  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=38
+[INFO] 2016-12-23 21:01:43,424  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=39
+[INFO] 2016-12-23 21:01:43,426  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=40
+[INFO] 2016-12-23 21:01:43,428  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=41
+[INFO] 2016-12-23 21:01:43,430  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=42
+[INFO] 2016-12-23 21:01:43,433  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=43
+[INFO] 2016-12-23 21:01:43,437  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=44
+[INFO] 2016-12-23 21:01:43,440  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=45
+[INFO] 2016-12-23 21:01:43,441  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=46
+[INFO] 2016-12-23 21:01:43,444  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=47
+[INFO] 2016-12-23 21:01:43,446  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=48
+[INFO] 2016-12-23 21:01:43,447  Requesting to http://www.search.ask.com/web?q=site:mp3.zing.vn&page=49
+[INFO] 2016-12-23 21:01:49,698  New domain was found by AskPlugin: m3.login.me.zing.vn
+[INFO] 2016-12-23 21:01:49,700  New domain was found by AskPlugin: touch.me.zing.vn
+[INFO] 2016-12-23 21:01:49,700  New domain was found by AskPlugin: static.me.zing.vn
+[INFO] 2016-12-23 21:01:49,700  New domain was found by AskPlugin: 10nam.volam.zing.vn
+[INFO] 2016-12-23 21:01:49,700  New domain was found by AskPlugin: m.mp3.zing.vn
+[INFO] 2016-12-23 21:01:50,493  max_page down to 45
+[INFO] 2016-12-23 21:01:51,053  max_page down to 40
+[INFO] 2016-12-23 21:01:51,496  max_page down to 35
+[INFO] 2016-12-23 21:01:51,989  max_page down to 30
+[INFO] 2016-12-23 21:01:52,403  max_page down to 25
+[INFO] 2016-12-23 21:01:52,842  max_page down to 20
+[INFO] 2016-12-23 21:01:53,273  max_page down to 15
+[INFO] 2016-12-23 21:01:53,894  max_page down to 10
+[INFO] 2016-12-23 21:01:54,345  max_page down to 5
+[INFO] 2016-12-23 21:01:54,750  max_page down to 0
+[INFO] 2016-12-23 21:01:55,289  Requesting to http://www.search.ask.com/web?q=site:m3.login.me.zing.vn&page=0
+[INFO] 2016-12-23 21:01:56,397  max_page down to 45
+[INFO] 2016-12-23 21:01:56,845  max_page down to 40
+[INFO] 2016-12-23 21:01:57,243  max_page down to 35
+[INFO] 2016-12-23 21:01:57,654  max_page down to 30
+[INFO] 2016-12-23 21:01:58,084  max_page down to 25
+[INFO] 2016-12-23 21:01:58,555  max_page down to 20
+[INFO] 2016-12-23 21:01:58,996  max_page down to 15
+[INFO] 2016-12-23 21:01:59,493  max_page down to 10
+[INFO] 2016-12-23 21:01:59,938  max_page down to 5
+[INFO] 2016-12-23 21:02:00,351  max_page down to 0
+[INFO] 2016-12-23 21:02:00,822  Requesting to http://www.search.ask.com/web?q=site:touch.me.zing.vn&page=0
+[INFO] 2016-12-23 21:02:01,844  max_page down to 45
+[INFO] 2016-12-23 21:02:02,273  max_page down to 40
+[INFO] 2016-12-23 21:02:02,688  max_page down to 35
+[INFO] 2016-12-23 21:02:03,082  max_page down to 30
+[INFO] 2016-12-23 21:02:03,473  max_page down to 25
+[INFO] 2016-12-23 21:02:03,947  max_page down to 20
+[INFO] 2016-12-23 21:02:04,375  max_page down to 15
+[INFO] 2016-12-23 21:02:04,846  max_page down to 10
+[INFO] 2016-12-23 21:02:05,381  max_page down to 5
+[INFO] 2016-12-23 21:02:05,779  max_page down to 0
+[INFO] 2016-12-23 21:02:06,223  Requesting to http://www.search.ask.com/web?q=site:static.me.zing.vn&page=0
+[INFO] 2016-12-23 21:02:07,246  max_page down to 45
+[INFO] 2016-12-23 21:02:07,693  max_page down to 40
+[INFO] 2016-12-23 21:02:08,278  max_page down to 35
+[INFO] 2016-12-23 21:02:08,684  max_page down to 30
+[INFO] 2016-12-23 21:02:09,147  max_page down to 25
+[INFO] 2016-12-23 21:02:09,598  max_page down to 20
+[INFO] 2016-12-23 21:02:10,026  max_page down to 15
+[INFO] 2016-12-23 21:02:10,630  max_page down to 10
+[INFO] 2016-12-23 21:02:11,075  max_page down to 5
+[INFO] 2016-12-23 21:02:11,565  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=0
+[INFO] 2016-12-23 21:02:11,566  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=1
+[INFO] 2016-12-23 21:02:11,568  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=2
+[INFO] 2016-12-23 21:02:11,569  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=3
+[INFO] 2016-12-23 21:02:11,572  Requesting to http://www.search.ask.com/web?q=site:10nam.volam.zing.vn&page=4
+[INFO] 2016-12-23 21:02:13,079  max_page down to 45
+[INFO] 2016-12-23 21:02:13,529  max_page down to 40
+[INFO] 2016-12-23 21:02:14,013  max_page down to 35
+[INFO] 2016-12-23 21:02:14,512  max_page down to 30
+[INFO] 2016-12-23 21:02:14,993  max_page down to 25
+[INFO] 2016-12-23 21:02:15,493  max_page down to 20
+[INFO] 2016-12-23 21:02:15,914  max_page down to 15
+[INFO] 2016-12-23 21:02:16,433  max_page down to 10
+[INFO] 2016-12-23 21:02:16,924  max_page down to 5
+[INFO] 2016-12-23 21:02:17,585  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=0
+[INFO] 2016-12-23 21:02:17,585  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=1
+[INFO] 2016-12-23 21:02:17,585  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=2
+[INFO] 2016-12-23 21:02:17,586  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=3
+[INFO] 2016-12-23 21:02:17,588  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=4
+[INFO] 2016-12-23 21:02:17,591  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=5
+[INFO] 2016-12-23 21:02:17,592  Requesting to http://www.search.ask.com/web?q=site:m.mp3.zing.vn&page=6
+[INFO] 2016-12-23 21:08:06,361  Start finding sub-domains of ['zing.vn']
+[ERROR] 2016-12-23 21:08:06,969  max() arg is an empty sequence
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\plugins\base\search_plugin.py", line 98, in discover
+    total_pages = self.get_total_page()
+  File "D:\Everping\Work\Projects\substack\substack\plugins\search\ask_plugin.py", line 34, in get_total_page
+    return max(list_no_page)
+ValueError: max() arg is an empty sequence
+[INFO] 2016-12-23 21:08:14,035  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 21:08:14,673  max_page down to 45
+[INFO] 2016-12-23 21:08:15,301  max_page down to 40
+[INFO] 2016-12-23 21:08:15,903  max_page down to 35
+[INFO] 2016-12-23 21:08:16,555  max_page down to 30
+[INFO] 2016-12-23 21:08:17,173  max_page down to 25
+[INFO] 2016-12-23 21:08:17,801  max_page down to 20
+[INFO] 2016-12-23 21:08:18,368  max_page down to 15
+[INFO] 2016-12-23 21:08:19,062  max_page down to 10
+[INFO] 2016-12-23 21:08:19,635  max_page down to 5
+[INFO] 2016-12-23 21:08:20,151  max_page down to 0
+[INFO] 2016-12-23 21:08:20,717  max_page down to -5
+[INFO] 2016-12-23 21:08:21,234  max_page down to -10
+[INFO] 2016-12-23 21:08:21,690  max_page down to -15
+[INFO] 2016-12-23 21:08:22,380  max_page down to -20
+[INFO] 2016-12-23 21:08:22,911  max_page down to -25
+[INFO] 2016-12-23 21:08:23,535  max_page down to -30
+[INFO] 2016-12-23 21:08:24,072  max_page down to -35
+[INFO] 2016-12-23 21:08:24,634  max_page down to -40
+[INFO] 2016-12-23 21:09:03,671  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-23 21:09:04,365  max_page down to 45
+[INFO] 2016-12-23 21:09:04,934  max_page down to 40
+[INFO] 2016-12-23 21:09:05,538  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=0
+[INFO] 2016-12-23 21:09:05,538  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=1
+[INFO] 2016-12-23 21:09:05,539  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=2
+[INFO] 2016-12-23 21:09:05,539  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=3
+[INFO] 2016-12-23 21:09:05,542  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=4
+[INFO] 2016-12-23 21:09:05,545  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=5
+[INFO] 2016-12-23 21:09:05,546  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=6
+[INFO] 2016-12-23 21:09:05,549  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=7
+[INFO] 2016-12-23 21:09:05,552  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=8
+[INFO] 2016-12-23 21:09:05,553  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=9
+[INFO] 2016-12-23 21:09:05,555  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=10
+[INFO] 2016-12-23 21:09:05,558  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=11
+[INFO] 2016-12-23 21:09:05,559  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=12
+[INFO] 2016-12-23 21:09:05,562  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=13
+[INFO] 2016-12-23 21:09:05,563  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=14
+[INFO] 2016-12-23 21:09:05,565  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=15
+[INFO] 2016-12-23 21:09:05,569  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=16
+[INFO] 2016-12-23 21:09:05,571  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=17
+[INFO] 2016-12-23 21:09:05,575  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=18
+[INFO] 2016-12-23 21:09:05,576  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=19
+[INFO] 2016-12-23 21:09:05,578  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=20
+[INFO] 2016-12-23 21:09:05,582  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=21
+[INFO] 2016-12-23 21:09:05,585  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=22
+[INFO] 2016-12-23 21:09:05,588  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=23
+[INFO] 2016-12-23 21:09:05,589  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=24
+[INFO] 2016-12-23 21:09:05,594  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=25
+[INFO] 2016-12-23 21:09:05,596  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=26
+[INFO] 2016-12-23 21:09:05,598  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=27
+[INFO] 2016-12-23 21:09:05,601  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=28
+[INFO] 2016-12-23 21:09:05,604  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=29
+[INFO] 2016-12-23 21:09:05,605  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=30
+[INFO] 2016-12-23 21:09:05,608  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=31
+[INFO] 2016-12-23 21:09:05,609  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=32
+[INFO] 2016-12-23 21:09:05,611  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=33
+[INFO] 2016-12-23 21:09:05,615  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=34
+[INFO] 2016-12-23 21:09:05,618  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=35
+[INFO] 2016-12-23 21:09:05,622  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=36
+[INFO] 2016-12-23 21:09:05,625  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=37
+[INFO] 2016-12-23 21:09:05,631  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=38
+[INFO] 2016-12-23 21:09:05,632  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=39
+[INFO] 2016-12-23 21:09:05,635  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=40
+[INFO] 2016-12-23 21:09:05,638  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=41
+[INFO] 2016-12-23 21:09:05,641  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=42
