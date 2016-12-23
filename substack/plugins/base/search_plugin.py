@@ -1,10 +1,10 @@
+import urllib
 import threading
 from urlparse import urlparse
 from substack.data.logger import logger
 from substack.data.domain import Domain
 from substack.data.exceptions import PluginException
 from substack.plugins.base.plugin import Plugin
-from urllib import urllib
 
 
 class SearchPlugin(Plugin):
@@ -82,13 +82,11 @@ class SearchPlugin(Plugin):
 
     @staticmethod
     def parse_domain_name(my_url):
+        my_url = urllib.unquote(my_url)
         if not my_url.startswith("http://") and not my_url.startswith("https://"):
             my_url = "http://" + my_url
 
         return urlparse(my_url).netloc
-
-    def urldecode(url):
-        return urllib.unquote(url)
 
     def discover(self, domain):
         """
