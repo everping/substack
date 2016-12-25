@@ -39,3 +39,13 @@ class Requester:
         except:
             msg = "I don't know why this error occurred, so I log it\nMy URL: %s"
         raise RequesterException(msg % url)
+
+
+    def custom_post(self, url, header, data):
+        try:
+            return requests.post(url, headers=header, proxies=self._proxies, data=data, timeout=60)
+        except requests.exceptions.Timeout:
+            raise RequesterException("It takes a request so long so I must kill it")
+        except:
+            msg = "I don't know why this error occurred, so I log it\nMy URL: %s"
+        raise RequesterException(msg % url)
