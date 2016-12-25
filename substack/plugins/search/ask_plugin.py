@@ -21,7 +21,11 @@ class AskPlugin(SearchPlugin):
         while True:
             url = self.base_url.format(query=self.get_query(), page=max_page_temp)
             content = self.requester.get(url).text
-            if "did not match with any results" not in content or "Try fewer keywords" not in content:
+
+            if "Your client does not have permission to get the requested" in content:
+                logger.error("Ask blocked the request")
+                return 0
+            if (self.has_error(content) != True):
                 soup = BeautifulSoup(content, "html5lib")
                 search_pages = soup.find_all("a", attrs={"ul-attr-accn": "pagination"})
                 list_no_page = []
@@ -31,13 +35,17 @@ class AskPlugin(SearchPlugin):
                         list_no_page.append(no_page)
                     except:
                         continue
-                return max(list_no_page)
+                if not list_no_page:
+                    logger.debug(soup)
+                    return 1
+                else:
+                    return max(list_no_page)
             else:
-                max_page_temp -= 5
-                logger.info("max_page down to %d" % max_page_temp)
+                max_page_temp = max_page_temp - 5
+                logger.info("max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
 
     def has_error(self, response):
-        messages = ['did not match with any results'
+        messages = ['did not match with any results',
                     'Try fewer keywords']
         if messages[0] not  in response or messages[1] not in response:
             return False
