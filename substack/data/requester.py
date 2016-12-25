@@ -24,7 +24,7 @@ class Requester:
 
     def get(self, url):
         try:
-            return requests.get(url, headers=self._headers, proxies=self._proxies)
+            return requests.get(url, headers=self._headers, proxies=self._proxies, timeout=60)
         except requests.exceptions.Timeout:
             raise RequesterException("It takes a request so long so I must kill it")
         except:
@@ -41,11 +41,20 @@ class Requester:
         raise RequesterException(msg % url)
 
 
-    def custom_post(self, url, header, data):
+    def custom_post(self, url, headers, data):
         try:
-            return requests.post(url, headers=header, proxies=self._proxies, data=data, timeout=60)
+            return requests.post(url, headers=headers, proxies=self._proxies, data=data, timeout=60)
         except requests.exceptions.Timeout:
             raise RequesterException("It takes a request so long so I must kill it")
         except:
             msg = "I don't know why this error occurred, so I log it\nMy URL: %s"
         raise RequesterException(msg % url)
+
+    def custom_get(self, url, headers, data=None):
+        try:
+            return requests.get(url, headers=headers, params=data, proxies=self._proxies, timeout=60)
+        except requests.exceptions.Timeout:
+            raise RequesterException("It takes a request so long so I must kill it")
+        except:
+            msg = "I don't know why this error occurred, so I log it\nMy URL: %s"
+            raise RequesterException(msg % url)
