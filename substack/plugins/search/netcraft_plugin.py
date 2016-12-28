@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from substack.plugins.base.search_plugin import SearchPlugin
 from substack.data.logger import logger
 
+
 class NetcraftPlugin(SearchPlugin):
     def __init__(self):
         SearchPlugin.__init__(self)
@@ -24,28 +25,33 @@ class NetcraftPlugin(SearchPlugin):
         return False
 
     def extract(self, url):
+        print url
         content = self.requester.get(url).text
         if self.has_error(content):
+            logger.error("Can not find any result for: %s" % self.base_domain.domain_name)
             return None
         _soup = BeautifulSoup(content, "html5lib")
         last = ""
         _from = ""
-        total = int(_soup.find_all("em")[0].string.split()[1])
-        logger.info("total of results: %d" % total)
+        if not _soup.find_all("em"):
+            logger.error("This site seem to blocked your requests")
+            return
+        else:
+            total = int(_soup.find_all("em")[0].string.split()[1])
+        logger.info("Total of results: %d for: %s " % (total,self.base_domain.domain_name))
         if total > 20:
             count = total / 20
-            print count
-            for tem in range(count+1):
-                r = self.requester.get(url+last +_from)
+            for tem in range(count + 1):
+                r = self.requester.get(url + last + _from)
                 soup = BeautifulSoup(r.text, "html5lib")
-                search_region = BeautifulSoup(str(soup.find_all("table", attrs={"class":"TBtable"})),"html5lib")
-                for item in search_region.find_all('a', attrs={"rel":True}):
+                search_region = BeautifulSoup(str(soup.find_all("table", attrs={"class": "TBtable"})))
+                for item in search_region.find_all('a', attrs={"rel": True}):
                     url_temp = self.parse_domain_name(item['href'])
                     self.add(url_temp)
-                last = "&last="+url_temp
-                _from = "&from="+str((tem+1)*20 +1)
+                last = "&last=" + url_temp
+                _from = "&from=" + str((tem + 1) * 20 + 1)
         else:
-            search_region = BeautifulSoup(str(_soup.find_all("table", attrs={"class":"TBtable"})), "html5lib")
-            for item in search_region.find_all('a', attrs={"rel":True}):
+            search_region = BeautifulSoup(str(_soup.find_all("table", attrs={"class": "TBtable"})), "html5lib")
+            for item in search_region.find_all('a', attrs={"rel": True}):
                 url_temp = self.parse_domain_name(item['href'])
                 self.add(url_temp)
