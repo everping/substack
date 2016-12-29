@@ -57,8 +57,8 @@ class YahooPlugin(SearchPlugin):
         search = soup.find_all("a", attrs={"class": " ac-algo ac-21th lh-24"})
 
         for line in search:
-            s = line['href'].split("/")[7].split("=")[1]
             try:
+                url = line['href'].split("/")[7].split("=")[1]
                 self.add(self.parse_domain_name(url))
             except:
                 logger.error("can not extract domain")
