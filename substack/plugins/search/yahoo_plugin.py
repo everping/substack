@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from substack.plugins.base.search_plugin import SearchPlugin
-
+from substack.data.logger import logger
 
 class YahooPlugin(SearchPlugin):
     def __init__(self):
@@ -61,4 +61,4 @@ class YahooPlugin(SearchPlugin):
             try:
                 self.add(self.parse_domain_name(url))
             except:
-                print "can not extract domain"
+                logger.error("can not extract domain")
