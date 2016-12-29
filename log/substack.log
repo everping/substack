@@ -15500,3 +15500,1409 @@ ValueError: max() arg is an empty sequence
 [INFO] 2016-12-23 21:09:05,635  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=40
 [INFO] 2016-12-23 21:09:05,638  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=41
 [INFO] 2016-12-23 21:09:05,641  Requesting to http://www.search.ask.com/web?q=site:zing.vn&page=42
+[INFO] 2016-12-30 04:10:56,164  Start finding sub-domains of ['zing.vn']
+[INFO] 2016-12-30 04:10:56,782  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=0
+[INFO] 2016-12-30 04:10:56,782  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=10
+[INFO] 2016-12-30 04:10:56,783  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=20
+[INFO] 2016-12-30 04:10:56,785  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=30
+[INFO] 2016-12-30 04:10:56,786  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=40
+[INFO] 2016-12-30 04:10:56,788  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=50
+[INFO] 2016-12-30 04:10:56,789  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=60
+[INFO] 2016-12-30 04:10:56,792  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=70
+[INFO] 2016-12-30 04:10:56,792  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=80
+[INFO] 2016-12-30 04:10:56,795  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=90
+[INFO] 2016-12-30 04:10:56,798  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=100
+[INFO] 2016-12-30 04:10:56,801  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=110
+[INFO] 2016-12-30 04:10:56,802  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=120
+[INFO] 2016-12-30 04:10:56,805  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=130
+[INFO] 2016-12-30 04:10:56,806  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=140
+[INFO] 2016-12-30 04:10:56,809  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=150
+[INFO] 2016-12-30 04:10:56,811  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=160
+[INFO] 2016-12-30 04:10:56,813  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=170
+[INFO] 2016-12-30 04:10:56,815  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=180
+[INFO] 2016-12-30 04:10:56,818  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=190
+[INFO] 2016-12-30 04:10:56,819  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=200
+[INFO] 2016-12-30 04:10:56,822  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=210
+[INFO] 2016-12-30 04:10:56,823  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=220
+[INFO] 2016-12-30 04:10:56,825  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=230
+[INFO] 2016-12-30 04:10:56,828  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=240
+[INFO] 2016-12-30 04:10:56,829  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=250
+[INFO] 2016-12-30 04:10:56,832  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=260
+[INFO] 2016-12-30 04:10:56,835  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=270
+[INFO] 2016-12-30 04:10:56,838  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=280
+[INFO] 2016-12-30 04:10:56,839  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=290
+[INFO] 2016-12-30 04:10:56,842  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=300
+[INFO] 2016-12-30 04:10:56,844  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=310
+[INFO] 2016-12-30 04:10:56,845  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=320
+[INFO] 2016-12-30 04:10:56,848  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=330
+[INFO] 2016-12-30 04:10:56,851  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=340
+[INFO] 2016-12-30 04:10:56,852  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=350
+[INFO] 2016-12-30 04:10:56,855  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=360
+[INFO] 2016-12-30 04:10:56,857  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=370
+[INFO] 2016-12-30 04:10:56,858  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=380
+[INFO] 2016-12-30 04:10:56,861  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=390
+[INFO] 2016-12-30 04:10:56,862  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=400
+[INFO] 2016-12-30 04:10:56,865  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=410
+[INFO] 2016-12-30 04:10:56,868  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=420
+[INFO] 2016-12-30 04:10:56,871  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=430
+[INFO] 2016-12-30 04:10:56,872  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=440
+[INFO] 2016-12-30 04:10:56,875  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=450
+[INFO] 2016-12-30 04:10:56,878  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=460
+[INFO] 2016-12-30 04:10:56,880  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=470
+[INFO] 2016-12-30 04:10:56,881  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=480
+[INFO] 2016-12-30 04:10:56,884  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=490
+[INFO] 2016-12-30 04:10:56,887  Requesting to http://www.baidu.com/s?wd=site:zing.vn&pn=500
+[INFO] 2016-12-30 04:11:06,246  Requesting to https://www.google.com/search?q=site:zing.vn&start=0
+[INFO] 2016-12-30 04:11:06,246  Requesting to https://www.google.com/search?q=site:zing.vn&start=10
+[INFO] 2016-12-30 04:11:06,249  Requesting to https://www.google.com/search?q=site:zing.vn&start=20
+[INFO] 2016-12-30 04:11:06,250  Requesting to https://www.google.com/search?q=site:zing.vn&start=30
+[INFO] 2016-12-30 04:11:06,250  Requesting to https://www.google.com/search?q=site:zing.vn&start=40
+[INFO] 2016-12-30 04:11:06,253  Requesting to https://www.google.com/search?q=site:zing.vn&start=50
+[INFO] 2016-12-30 04:11:06,255  Requesting to https://www.google.com/search?q=site:zing.vn&start=60
+[INFO] 2016-12-30 04:11:06,256  Requesting to https://www.google.com/search?q=site:zing.vn&start=70
+[INFO] 2016-12-30 04:11:06,259  Requesting to https://www.google.com/search?q=site:zing.vn&start=80
+[INFO] 2016-12-30 04:11:06,259  Requesting to https://www.google.com/search?q=site:zing.vn&start=90
+[INFO] 2016-12-30 04:11:06,262  Requesting to https://www.google.com/search?q=site:zing.vn&start=100
+[INFO] 2016-12-30 04:11:06,263  Requesting to https://www.google.com/search?q=site:zing.vn&start=110
+[INFO] 2016-12-30 04:11:06,266  Requesting to https://www.google.com/search?q=site:zing.vn&start=120
+[INFO] 2016-12-30 04:11:06,267  Requesting to https://www.google.com/search?q=site:zing.vn&start=130
+[INFO] 2016-12-30 04:11:06,269  Requesting to https://www.google.com/search?q=site:zing.vn&start=140
+[INFO] 2016-12-30 04:11:06,272  Requesting to https://www.google.com/search?q=site:zing.vn&start=150
+[INFO] 2016-12-30 04:11:06,273  Requesting to https://www.google.com/search?q=site:zing.vn&start=160
+[INFO] 2016-12-30 04:11:06,276  Requesting to https://www.google.com/search?q=site:zing.vn&start=170
+[INFO] 2016-12-30 04:11:06,279  Requesting to https://www.google.com/search?q=site:zing.vn&start=180
+[INFO] 2016-12-30 04:11:06,280  Requesting to https://www.google.com/search?q=site:zing.vn&start=190
+[INFO] 2016-12-30 04:11:06,283  Requesting to https://www.google.com/search?q=site:zing.vn&start=200
+[INFO] 2016-12-30 04:11:06,285  Requesting to https://www.google.com/search?q=site:zing.vn&start=210
+[INFO] 2016-12-30 04:11:06,286  Requesting to https://www.google.com/search?q=site:zing.vn&start=220
+[INFO] 2016-12-30 04:11:06,289  Requesting to https://www.google.com/search?q=site:zing.vn&start=230
+[INFO] 2016-12-30 04:11:06,290  Requesting to https://www.google.com/search?q=site:zing.vn&start=240
+[INFO] 2016-12-30 04:11:06,292  Requesting to https://www.google.com/search?q=site:zing.vn&start=250
+[INFO] 2016-12-30 04:11:06,293  Requesting to https://www.google.com/search?q=site:zing.vn&start=260
+[INFO] 2016-12-30 04:11:06,296  Requesting to https://www.google.com/search?q=site:zing.vn&start=270
+[INFO] 2016-12-30 04:11:06,299  Requesting to https://www.google.com/search?q=site:zing.vn&start=280
+[INFO] 2016-12-30 04:11:06,302  Requesting to https://www.google.com/search?q=site:zing.vn&start=290
+[INFO] 2016-12-30 04:11:06,303  Requesting to https://www.google.com/search?q=site:zing.vn&start=300
+[INFO] 2016-12-30 04:11:06,306  Requesting to https://www.google.com/search?q=site:zing.vn&start=310
+[INFO] 2016-12-30 04:11:06,384  Requesting to https://www.google.com/search?q=site:zing.vn&start=320
+[INFO] 2016-12-30 04:11:06,385  Requesting to https://www.google.com/search?q=site:zing.vn&start=330
+[INFO] 2016-12-30 04:11:06,387  Requesting to https://www.google.com/search?q=site:zing.vn&start=340
+[INFO] 2016-12-30 04:11:06,388  Requesting to https://www.google.com/search?q=site:zing.vn&start=350
+[INFO] 2016-12-30 04:11:06,390  Requesting to https://www.google.com/search?q=site:zing.vn&start=360
+[INFO] 2016-12-30 04:11:06,391  Requesting to https://www.google.com/search?q=site:zing.vn&start=370
+[INFO] 2016-12-30 04:11:06,395  Requesting to https://www.google.com/search?q=site:zing.vn&start=380
+[INFO] 2016-12-30 04:11:06,400  Requesting to https://www.google.com/search?q=site:zing.vn&start=390
+[INFO] 2016-12-30 04:11:06,401  Requesting to https://www.google.com/search?q=site:zing.vn&start=400
+[INFO] 2016-12-30 04:11:06,404  Requesting to https://www.google.com/search?q=site:zing.vn&start=410
+[INFO] 2016-12-30 04:11:06,405  Requesting to https://www.google.com/search?q=site:zing.vn&start=420
+[INFO] 2016-12-30 04:11:06,407  Requesting to https://www.google.com/search?q=site:zing.vn&start=430
+[INFO] 2016-12-30 04:11:06,408  Requesting to https://www.google.com/search?q=site:zing.vn&start=440
+[INFO] 2016-12-30 04:11:06,411  Requesting to https://www.google.com/search?q=site:zing.vn&start=450
+[INFO] 2016-12-30 04:11:06,413  Requesting to https://www.google.com/search?q=site:zing.vn&start=460
+[INFO] 2016-12-30 04:11:06,414  Requesting to https://www.google.com/search?q=site:zing.vn&start=470
+[INFO] 2016-12-30 04:11:06,417  Requesting to https://www.google.com/search?q=site:zing.vn&start=480
+[INFO] 2016-12-30 04:11:06,418  Requesting to https://www.google.com/search?q=site:zing.vn&start=490
+[INFO] 2016-12-30 04:11:06,421  Requesting to https://www.google.com/search?q=site:zing.vn&start=500
+[INFO] 2016-12-30 04:11:06,423  Requesting to https://www.google.com/search?q=site:zing.vn&start=510
+[INFO] 2016-12-30 04:11:06,424  Requesting to https://www.google.com/search?q=site:zing.vn&start=520
+[INFO] 2016-12-30 04:11:06,427  Requesting to https://www.google.com/search?q=site:zing.vn&start=530
+[INFO] 2016-12-30 04:11:06,428  Requesting to https://www.google.com/search?q=site:zing.vn&start=540
+[INFO] 2016-12-30 04:11:20,914  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=0
+[INFO] 2016-12-30 04:11:20,915  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=10
+[INFO] 2016-12-30 04:11:20,917  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=20
+[INFO] 2016-12-30 04:11:20,917  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=30
+[INFO] 2016-12-30 04:11:20,918  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=40
+[INFO] 2016-12-30 04:11:20,921  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=50
+[INFO] 2016-12-30 04:11:20,923  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=60
+[INFO] 2016-12-30 04:11:20,924  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=70
+[INFO] 2016-12-30 04:11:20,927  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=80
+[INFO] 2016-12-30 04:11:20,927  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=90
+[INFO] 2016-12-30 04:11:20,930  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=100
+[INFO] 2016-12-30 04:11:20,931  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=110
+[INFO] 2016-12-30 04:11:20,934  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=120
+[INFO] 2016-12-30 04:11:20,936  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=130
+[INFO] 2016-12-30 04:11:20,937  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=140
+[INFO] 2016-12-30 04:11:20,940  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=150
+[INFO] 2016-12-30 04:11:20,941  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=160
+[INFO] 2016-12-30 04:11:20,944  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=170
+[INFO] 2016-12-30 04:11:20,946  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=180
+[INFO] 2016-12-30 04:11:20,947  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=190
+[INFO] 2016-12-30 04:11:20,950  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=200
+[INFO] 2016-12-30 04:11:20,953  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=210
+[INFO] 2016-12-30 04:11:20,954  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=220
+[INFO] 2016-12-30 04:11:20,957  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=230
+[INFO] 2016-12-30 04:11:20,959  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=240
+[INFO] 2016-12-30 04:11:20,960  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=250
+[INFO] 2016-12-30 04:11:20,963  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=260
+[INFO] 2016-12-30 04:11:20,964  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=270
+[INFO] 2016-12-30 04:11:20,967  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=280
+[INFO] 2016-12-30 04:11:20,967  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=290
+[INFO] 2016-12-30 04:11:20,970  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=300
+[INFO] 2016-12-30 04:11:20,971  Requesting to https://search.yahoo.com/search?p=site:zing.vn&b=310
+[INFO] 2016-12-30 04:11:26,489  Requesting to https://www.virustotal.com/vi/domain/zing.vn/information/
+[INFO] 2016-12-30 04:11:31,805  Requesting to https://dnsdumpster.com/
+[INFO] 2016-12-30 04:11:37,204  New domain was found by BaiduPlugin: mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,206  New domain was found by BaiduPlugin: tv.zing.vn
+[INFO] 2016-12-30 04:11:37,206  New domain was found by BaiduPlugin: news.zing.vn
+[INFO] 2016-12-30 04:11:37,206  New domain was found by BaiduPlugin: phongmay.zing.vn
+[INFO] 2016-12-30 04:11:37,206  New domain was found by BaiduPlugin: vip.hotro.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: coca-cola.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: id.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: vip.speed.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: id.me.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: me.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: play.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: volam.zing.vn
+[INFO] 2016-12-30 04:11:37,207  New domain was found by BaiduPlugin: diendan.zing.vn
+[INFO] 2016-12-30 04:11:37,209  New domain was found by BaiduPlugin: boom.zing.vn
+[INFO] 2016-12-30 04:11:37,209  New domain was found by BaiduPlugin: photo.zing.vn
+[INFO] 2016-12-30 04:11:37,209  New domain was found by BaiduPlugin: 2s.zing.vn
+[INFO] 2016-12-30 04:11:37,209  New domain was found by BaiduPlugin: khuyenmai.zing.vn
+[INFO] 2016-12-30 04:11:37,209  New domain was found by BaiduPlugin: appstore.zing.vn
+[INFO] 2016-12-30 04:11:37,210  New domain was found by BaiduPlugin: csm.zing.vn
+[INFO] 2016-12-30 04:11:37,210  New domain was found by BaiduPlugin: m.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,210  New domain was found by BaiduPlugin: ads.zing.vn
+[INFO] 2016-12-30 04:11:37,210  New domain was found by BaiduPlugin: game.zing.vn
+[INFO] 2016-12-30 04:11:37,210  New domain was found by BaiduPlugin: esale.zing.vn
+[INFO] 2016-12-30 04:11:37,210  New domain was found by BaiduPlugin: volam2.zing.vn
+[INFO] 2016-12-30 04:11:37,210  New domain was found by BaiduPlugin: login.me.zing.vn
+[INFO] 2016-12-30 04:11:37,211  New domain was found by BaiduPlugin: new.pay.zing.vn
+[INFO] 2016-12-30 04:11:37,211  New domain was found by BaiduPlugin: awards.zing.vn
+[INFO] 2016-12-30 04:11:37,211  New domain was found by GooglePlugin: link.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: home.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: volam3.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: ngoalong.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: radio.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: m.id.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: kiemthe.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: ctc.zing.vn
+[INFO] 2016-12-30 04:11:37,213  New domain was found by GooglePlugin: phongthan.zing.vn
+[INFO] 2016-12-30 04:11:37,214  New domain was found by GooglePlugin: www.hotro.zing.vn
+[INFO] 2016-12-30 04:11:37,214  New domain was found by YahooPlugin: search.yahoo.com
+[INFO] 2016-12-30 04:11:37,214  New domain was found by VirustotalPlugin: cs.phongmay.zing.vn
+[INFO] 2016-12-30 04:11:37,214  New domain was found by VirustotalPlugin: hotro.zing.vn
+[INFO] 2016-12-30 04:11:37,216  New domain was found by VirustotalPlugin: s2.gn.zing.vn
+[INFO] 2016-12-30 04:11:37,216  New domain was found by VirustotalPlugin: chat.me.zing.vn
+[INFO] 2016-12-30 04:11:37,216  New domain was found by VirustotalPlugin: ttl3d.zing.vn
+[INFO] 2016-12-30 04:11:37,216  New domain was found by VirustotalPlugin: pre.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,217  New domain was found by VirustotalPlugin: home.csm.zing.vn
+[INFO] 2016-12-30 04:11:37,217  New domain was found by VirustotalPlugin: event.game.zing.vn
+[INFO] 2016-12-30 04:11:37,217  New domain was found by VirustotalPlugin: log.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,217  New domain was found by VirustotalPlugin: stc.support.brand.zing.vn
+[INFO] 2016-12-30 04:11:37,217  New domain was found by VirustotalPlugin: log.news.zing.vn
+[INFO] 2016-12-30 04:11:37,217  New domain was found by VirustotalPlugin: svrlist.gn.zing.vn
+[INFO] 2016-12-30 04:11:37,217  New domain was found by VirustotalPlugin: oauth-me.zing.vn
+[INFO] 2016-12-30 04:11:37,219  New domain was found by VirustotalPlugin: img.yobanbe.zing.vn
+[INFO] 2016-12-30 04:11:37,219  New domain was found by VirustotalPlugin: tracking.playzing.g6.zing.vn
+[INFO] 2016-12-30 04:11:37,219  New domain was found by VirustotalPlugin: stc.v3.news.zing.vn
+[INFO] 2016-12-30 04:11:37,219  New domain was found by VirustotalPlugin: m.tv.zing.vn
+[INFO] 2016-12-30 04:11:37,220  New domain was found by VirustotalPlugin: win.phongmay.zing.vn
+[INFO] 2016-12-30 04:11:37,220  New domain was found by VirustotalPlugin: api.tv.zing.vn
+[INFO] 2016-12-30 04:11:37,220  New domain was found by VirustotalPlugin: id2.zing.vn
+[INFO] 2016-12-30 04:11:37,220  New domain was found by VirustotalPlugin: stc.oazalo.brand.zing.vn
+[INFO] 2016-12-30 04:11:37,220  New domain was found by VirustotalPlugin: upload.video.zing.vn
+[INFO] 2016-12-30 04:11:37,220  New domain was found by VirustotalPlugin: srv.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,220  New domain was found by VirustotalPlugin: sapi.m.zing.vn
+[INFO] 2016-12-30 04:11:37,221  New domain was found by VirustotalPlugin: sso3.zing.vn
+[INFO] 2016-12-30 04:11:37,221  New domain was found by VirustotalPlugin: static.me.zing.vn
+[INFO] 2016-12-30 04:11:37,221  New domain was found by VirustotalPlugin: touch.news.zing.vn
+[INFO] 2016-12-30 04:11:37,221  New domain was found by VirustotalPlugin: support.brand.zing.vn
+[INFO] 2016-12-30 04:11:37,223  New domain was found by VirustotalPlugin: idck.zing.vn
+[INFO] 2016-12-30 04:11:37,223  New domain was found by VirustotalPlugin: zt1.me.zing.vn
+[INFO] 2016-12-30 04:11:37,223  New domain was found by VirustotalPlugin: 360game.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,223  New domain was found by VirustotalPlugin: mas.zing.vn
+[INFO] 2016-12-30 04:11:37,223  New domain was found by VirustotalPlugin: open.id.zing.vn
+[INFO] 2016-12-30 04:11:37,223  New domain was found by VirustotalPlugin: za.lab.zing.vn
+[INFO] 2016-12-30 04:11:37,223  New domain was found by VirustotalPlugin: apps.zing.vn
+[INFO] 2016-12-30 04:11:37,224  New domain was found by VirustotalPlugin: stc-id.zing.vn
+[INFO] 2016-12-30 04:11:37,224  New domain was found by VirustotalPlugin: img.news.zing.vn
+[INFO] 2016-12-30 04:11:37,224  New domain was found by VirustotalPlugin: www.coca-cola.zing.vn
+[INFO] 2016-12-30 04:11:37,224  New domain was found by VirustotalPlugin: sp.me.zing.vn
+[INFO] 2016-12-30 04:11:37,226  New domain was found by VirustotalPlugin: chungthuc.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,226  New domain was found by VirustotalPlugin: gameportal.static.game.zing.vn
+[INFO] 2016-12-30 04:11:37,226  New domain was found by VirustotalPlugin: img.zing.vn
+[INFO] 2016-12-30 04:11:37,226  New domain was found by VirustotalPlugin: imgs.khuyenmai.zing.vn
+[INFO] 2016-12-30 04:11:37,226  New domain was found by VirustotalPlugin: forum.appstore.zing.vn
+[INFO] 2016-12-30 04:11:37,226  New domain was found by VirustotalPlugin: mobi.pay.zing.vn
+[INFO] 2016-12-30 04:11:37,226  New domain was found by VirustotalPlugin: beta.live.zing.vn
+[INFO] 2016-12-30 04:11:37,227  New domain was found by VirustotalPlugin: hoathiencot.zing.vn
+[INFO] 2016-12-30 04:11:37,227  New domain was found by VirustotalPlugin: brand.zing.vn
+[INFO] 2016-12-30 04:11:37,227  New domain was found by VirustotalPlugin: imgfw.zing.vn
+[INFO] 2016-12-30 04:11:37,229  New domain was found by VirustotalPlugin: img-photo.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,229  New domain was found by VirustotalPlugin: staging.stc-tv.zing.vn
+[INFO] 2016-12-30 04:11:37,229  New domain was found by VirustotalPlugin: csmplay.zing.vn
+[INFO] 2016-12-30 04:11:37,229  New domain was found by VirustotalPlugin: new.zing.vn
+[INFO] 2016-12-30 04:11:37,230  New domain was found by VirustotalPlugin: img.photo.zing.vn
+[INFO] 2016-12-30 04:11:37,230  New domain was found by VirustotalPlugin: beta.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,230  New domain was found by VirustotalPlugin: dev.m.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,230  New domain was found by VirustotalPlugin: volammienphi.zing.vn
+[INFO] 2016-12-30 04:11:37,230  New domain was found by VirustotalPlugin: blog.zing.vn
+[INFO] 2016-12-30 04:11:37,230  New domain was found by VirustotalPlugin: dev.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,230  New domain was found by VirustotalPlugin: pay.play.zing.vn
+[INFO] 2016-12-30 04:11:37,232  New domain was found by VirustotalPlugin: forum.zing.vn
+[INFO] 2016-12-30 04:11:37,232  New domain was found by VirustotalPlugin: img.forum.zing.vn
+[INFO] 2016-12-30 04:11:37,232  New domain was found by VirustotalPlugin: group.me.zing.vn
+[INFO] 2016-12-30 04:11:37,233  New domain was found by VirustotalPlugin: widget.me.zing.vn
+[INFO] 2016-12-30 04:11:37,233  New domain was found by VirustotalPlugin: api.mp3.zing.vn
+[INFO] 2016-12-30 04:11:37,233  New domain was found by VirustotalPlugin: m.ngoalong.zing.vn
+[INFO] 2016-12-30 04:11:37,233  New domain was found by VirustotalPlugin: tfzfbs2.static.g6.zing.vn
+[INFO] 2016-12-30 04:11:37,233  New domain was found by VirustotalPlugin: launcher.game.zing.vn
+[INFO] 2016-12-30 04:11:37,233  New domain was found by VirustotalPlugin: idvlcm.zing.vn
+[INFO] 2016-12-30 04:11:37,233  New domain was found by VirustotalPlugin: static.game.zing.vn
+[INFO] 2016-12-30 04:11:37,234  New domain was found by VirustotalPlugin: open.zing.vn
+[INFO] 2016-12-30 04:11:37,234  New domain was found by VirustotalPlugin: emo.me.zing.vn
+[INFO] 2016-12-30 04:11:37,234  New domain was found by VirustotalPlugin: user.news.zing.vn
+[INFO] 2016-12-30 04:11:37,234  New domain was found by VirustotalPlugin: stc.pay.zing.vn
+[INFO] 2016-12-30 04:11:37,236  New domain was found by VirustotalPlugin: pp.mobi.pay.zing.vn
+[INFO] 2016-12-30 04:11:37,236  New domain was found by VirustotalPlugin: api.news.zing.vn
+[INFO] 2016-12-30 04:11:37,236  New domain was found by VirustotalPlugin: movie.zing.vn
+[INFO] 2016-12-30 04:11:37,236  New domain was found by VirustotalPlugin: mobile.idngoalong.zing.vn
+[INFO] 2016-12-30 04:11:37,236  New domain was found by VirustotalPlugin: dl.news.zing.vn
+[INFO] 2016-12-30 04:11:37,237  New domain was found by VirustotalPlugin: update.game.zing.vn
+[INFO] 2016-12-30 04:11:37,237  New domain was found by DnsdumpsterPlugin: adbroker.zing.vn
+[INFO] 2016-12-30 04:11:37,237  New domain was found by DnsdumpsterPlugin: da2.ad.zing.vn
+[INFO] 2016-12-30 04:11:37,239  New domain was found by DnsdumpsterPlugin: g6-static.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,239  New domain was found by DnsdumpsterPlugin: ga.zing.vn
+[INFO] 2016-12-30 04:11:37,239  New domain was found by DnsdumpsterPlugin: hungba.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: id.2u.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: idlongtuong.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: img.union.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: lview.adbroker.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: avimg.play.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: avimgw.play.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: chat.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: group.zing.vn
+[INFO] 2016-12-30 04:11:37,240  New domain was found by DnsdumpsterPlugin: d.mail.zing.vn
+[INFO] 2016-12-30 04:11:37,242  New domain was found by DnsdumpsterPlugin: data.mail.zing.vn
+[INFO] 2016-12-30 04:11:37,242  New domain was found by DnsdumpsterPlugin: 2u.zing.vn
+[INFO] 2016-12-30 04:11:37,242  New domain was found by DnsdumpsterPlugin: ani.zing.vn
+[INFO] 2016-12-30 04:11:37,242  New domain was found by DnsdumpsterPlugin: congdong.gunny.zing.vn
+[INFO] 2016-12-30 04:11:37,242  New domain was found by DnsdumpsterPlugin: cuhanh.zing.vn
+[INFO] 2016-12-30 04:11:37,242  New domain was found by DnsdumpsterPlugin: gn.zing.vn
+[INFO] 2016-12-30 04:11:37,242  New domain was found by DnsdumpsterPlugin: gunny.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: happyme.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: h.mail.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: login.gn.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: 3g.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: 123link.ad.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: adsbanner.game.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: ad.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: api.esale.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: appclick.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: connect.me.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: csmboot.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: cuulong.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: deal.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: dl.play.zing.vn
+[INFO] 2016-12-30 04:11:37,243  New domain was found by DnsdumpsterPlugin: fish.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,244  New domain was found by DnsdumpsterPlugin: gameapp.zing.vn
+[INFO] 2016-12-30 04:11:37,244  New domain was found by DnsdumpsterPlugin: g.phongmay.zing.vn
+[INFO] 2016-12-30 04:11:37,244  New domain was found by DnsdumpsterPlugin: hotro1.zing.vn
+[INFO] 2016-12-30 04:11:37,244  New domain was found by DnsdumpsterPlugin: idmoly.zing.vn
+[INFO] 2016-12-30 04:11:37,244  New domain was found by DnsdumpsterPlugin: idngoalong.zing.vn
+[INFO] 2016-12-30 04:11:37,244  New domain was found by DnsdumpsterPlugin: idthankhuc.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: idthathung.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: img1-photo.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: img2.news.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: img2-photo.apps.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: img.ad.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: img.hotro1.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: img.org.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: imgs.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: interaction.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: kpi.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: ld.me.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: l.news.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: mail.hotro.zing.vn
+[INFO] 2016-12-30 04:11:37,246  New domain was found by DnsdumpsterPlugin: mail.zing.vn
+[INFO] 2016-12-30 04:11:37,247  New domain was found by DnsdumpsterPlugin: click.chat.zing.vn
+[INFO] 2016-12-30 04:11:37,247  New domain was found by DnsdumpsterPlugin: i.news.zing.vn
+[INFO] 2016-12-30 04:11:37,247  New domain was found by DnsdumpsterPlugin: mail.ttl.zing.vn
+[INFO] 2016-12-30 04:11:37,838  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:37,838  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=10
+[INFO] 2016-12-30 04:11:37,838  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=20
+[INFO] 2016-12-30 04:11:37,839  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=30
+[INFO] 2016-12-30 04:11:37,842  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=40
+[INFO] 2016-12-30 04:11:37,842  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=50
+[INFO] 2016-12-30 04:11:37,845  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=60
+[INFO] 2016-12-30 04:11:37,846  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=70
+[INFO] 2016-12-30 04:11:37,848  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=80
+[INFO] 2016-12-30 04:11:37,851  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=90
+[INFO] 2016-12-30 04:11:37,852  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=100
+[INFO] 2016-12-30 04:11:37,855  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=110
+[INFO] 2016-12-30 04:11:37,857  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=120
+[INFO] 2016-12-30 04:11:37,858  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=130
+[INFO] 2016-12-30 04:11:37,861  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=140
+[INFO] 2016-12-30 04:11:37,862  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=150
+[INFO] 2016-12-30 04:11:37,865  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=160
+[INFO] 2016-12-30 04:11:37,865  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=170
+[INFO] 2016-12-30 04:11:37,868  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=180
+[INFO] 2016-12-30 04:11:37,869  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=190
+[INFO] 2016-12-30 04:11:37,871  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=200
+[INFO] 2016-12-30 04:11:37,874  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=210
+[INFO] 2016-12-30 04:11:37,875  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=220
+[INFO] 2016-12-30 04:11:37,878  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=230
+[INFO] 2016-12-30 04:11:37,880  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=240
+[INFO] 2016-12-30 04:11:37,884  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=250
+[INFO] 2016-12-30 04:11:37,885  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=260
+[INFO] 2016-12-30 04:11:37,888  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=270
+[INFO] 2016-12-30 04:11:37,890  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=280
+[INFO] 2016-12-30 04:11:37,891  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=290
+[INFO] 2016-12-30 04:11:37,892  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=300
+[INFO] 2016-12-30 04:11:37,894  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=310
+[INFO] 2016-12-30 04:11:37,897  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=320
+[INFO] 2016-12-30 04:11:37,900  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=330
+[INFO] 2016-12-30 04:11:37,901  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=340
+[INFO] 2016-12-30 04:11:37,904  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=350
+[INFO] 2016-12-30 04:11:37,905  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=360
+[INFO] 2016-12-30 04:11:37,907  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=370
+[INFO] 2016-12-30 04:11:37,910  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=380
+[INFO] 2016-12-30 04:11:37,911  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=390
+[INFO] 2016-12-30 04:11:37,914  Requesting to http://www.baidu.com/s?wd=site:mp3.zing.vn&pn=400
+[INFO] 2016-12-30 04:11:43,822  Requesting to http://www.baidu.com/s?wd=site:tv.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:43,822  Requesting to http://www.baidu.com/s?wd=site:tv.zing.vn&pn=10
+[INFO] 2016-12-30 04:11:43,826  Requesting to http://www.baidu.com/s?wd=site:tv.zing.vn&pn=20
+[INFO] 2016-12-30 04:11:43,828  Requesting to http://www.baidu.com/s?wd=site:tv.zing.vn&pn=30
+[INFO] 2016-12-30 04:11:45,142  Requesting to http://www.baidu.com/s?wd=site:news.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:45,142  Requesting to http://www.baidu.com/s?wd=site:news.zing.vn&pn=10
+[INFO] 2016-12-30 04:11:45,144  Requesting to http://www.baidu.com/s?wd=site:news.zing.vn&pn=20
+[INFO] 2016-12-30 04:11:45,144  Requesting to http://www.baidu.com/s?wd=site:news.zing.vn&pn=30
+[INFO] 2016-12-30 04:11:45,145  Requesting to http://www.baidu.com/s?wd=site:news.zing.vn&pn=40
+[INFO] 2016-12-30 04:11:46,601  Requesting to http://www.baidu.com/s?wd=site:phongmay.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:47,471  Requesting to http://www.baidu.com/s?wd=site:vip.hotro.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:48,278  Requesting to http://www.baidu.com/s?wd=site:coca-cola.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:49,130  Requesting to http://www.baidu.com/s?wd=site:id.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:49,987  Requesting to http://www.baidu.com/s?wd=site:vip.speed.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:50,934  Requesting to http://www.baidu.com/s?wd=site:id.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:51,875  Requesting to http://www.baidu.com/s?wd=site:me.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:52,855  Requesting to http://www.baidu.com/s?wd=site:play.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:53,750  Requesting to http://www.baidu.com/s?wd=site:volam.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:54,911  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:54,911  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=10
+[INFO] 2016-12-30 04:11:54,911  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=20
+[INFO] 2016-12-30 04:11:54,913  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=30
+[INFO] 2016-12-30 04:11:54,917  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=40
+[INFO] 2016-12-30 04:11:54,917  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=50
+[INFO] 2016-12-30 04:11:54,920  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=60
+[INFO] 2016-12-30 04:11:54,921  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=70
+[INFO] 2016-12-30 04:11:54,924  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=80
+[INFO] 2016-12-30 04:11:54,927  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=90
+[INFO] 2016-12-30 04:11:54,928  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=100
+[INFO] 2016-12-30 04:11:54,930  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=110
+[INFO] 2016-12-30 04:11:54,933  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=120
+[INFO] 2016-12-30 04:11:54,934  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=130
+[INFO] 2016-12-30 04:11:54,937  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=140
+[INFO] 2016-12-30 04:11:54,938  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=150
+[INFO] 2016-12-30 04:11:54,941  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=160
+[INFO] 2016-12-30 04:11:54,944  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=170
+[INFO] 2016-12-30 04:11:54,946  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=180
+[INFO] 2016-12-30 04:11:54,947  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=190
+[INFO] 2016-12-30 04:11:54,950  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=200
+[INFO] 2016-12-30 04:11:54,951  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=210
+[INFO] 2016-12-30 04:11:54,953  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=220
+[INFO] 2016-12-30 04:11:54,956  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=230
+[INFO] 2016-12-30 04:11:54,957  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=240
+[INFO] 2016-12-30 04:11:54,960  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=250
+[INFO] 2016-12-30 04:11:54,961  Requesting to http://www.baidu.com/s?wd=site:diendan.zing.vn&pn=260
+[INFO] 2016-12-30 04:11:58,956  Requesting to http://www.baidu.com/s?wd=site:boom.zing.vn&pn=0
+[INFO] 2016-12-30 04:11:59,832  Requesting to http://www.baidu.com/s?wd=site:photo.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:00,674  Requesting to http://www.baidu.com/s?wd=site:2s.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:01,578  Requesting to http://www.baidu.com/s?wd=site:khuyenmai.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:02,447  Requesting to http://www.baidu.com/s?wd=site:appstore.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:03,312  Requesting to http://www.baidu.com/s?wd=site:csm.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:04,165  Requesting to http://www.baidu.com/s?wd=site:m.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:05,079  Requesting to http://www.baidu.com/s?wd=site:ads.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:05,905  Requesting to http://www.baidu.com/s?wd=site:game.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:06,697  Requesting to http://www.baidu.com/s?wd=site:esale.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:07,578  Requesting to http://www.baidu.com/s?wd=site:volam2.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:08,437  Requesting to http://www.baidu.com/s?wd=site:login.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:09,303  Requesting to http://www.baidu.com/s?wd=site:new.pay.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:10,124  Requesting to http://www.baidu.com/s?wd=site:awards.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:11,144  Requesting to http://www.baidu.com/s?wd=site:link.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:11,941  Requesting to http://www.baidu.com/s?wd=site:home.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:12,903  Requesting to http://www.baidu.com/s?wd=site:volam3.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:13,907  Requesting to http://www.baidu.com/s?wd=site:ngoalong.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:14,769  Requesting to http://www.baidu.com/s?wd=site:radio.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:15,572  Requesting to http://www.baidu.com/s?wd=site:m.id.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:16,563  Requesting to http://www.baidu.com/s?wd=site:kiemthe.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:17,404  Requesting to http://www.baidu.com/s?wd=site:ctc.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:18,188  Requesting to http://www.baidu.com/s?wd=site:phongthan.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:19,065  Requesting to http://www.baidu.com/s?wd=site:www.hotro.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:20,233  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=0
+[INFO] 2016-12-30 04:12:20,234  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=10
+[INFO] 2016-12-30 04:12:20,236  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=20
+[INFO] 2016-12-30 04:12:20,236  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=30
+[INFO] 2016-12-30 04:12:20,239  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=40
+[INFO] 2016-12-30 04:12:20,240  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=50
+[INFO] 2016-12-30 04:12:20,242  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=60
+[INFO] 2016-12-30 04:12:20,243  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=70
+[INFO] 2016-12-30 04:12:20,246  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=80
+[INFO] 2016-12-30 04:12:20,249  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=90
+[INFO] 2016-12-30 04:12:20,250  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=100
+[INFO] 2016-12-30 04:12:20,253  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=110
+[INFO] 2016-12-30 04:12:20,255  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=120
+[INFO] 2016-12-30 04:12:20,256  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=130
+[INFO] 2016-12-30 04:12:20,259  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=140
+[INFO] 2016-12-30 04:12:20,260  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=150
+[INFO] 2016-12-30 04:12:20,263  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=160
+[INFO] 2016-12-30 04:12:20,265  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=170
+[INFO] 2016-12-30 04:12:20,266  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=180
+[INFO] 2016-12-30 04:12:20,269  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=190
+[INFO] 2016-12-30 04:12:20,270  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=200
+[INFO] 2016-12-30 04:12:20,272  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=210
+[INFO] 2016-12-30 04:12:20,273  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=220
+[INFO] 2016-12-30 04:12:20,276  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=230
+[INFO] 2016-12-30 04:12:20,278  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=240
+[INFO] 2016-12-30 04:12:20,279  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=250
+[INFO] 2016-12-30 04:12:20,282  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=260
+[INFO] 2016-12-30 04:12:20,283  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=270
+[INFO] 2016-12-30 04:12:20,286  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=280
+[INFO] 2016-12-30 04:12:20,288  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=290
+[INFO] 2016-12-30 04:12:20,289  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=300
+[INFO] 2016-12-30 04:12:20,292  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=310
+[INFO] 2016-12-30 04:12:20,293  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=320
+[INFO] 2016-12-30 04:12:20,296  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=330
+[INFO] 2016-12-30 04:12:20,296  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=340
+[INFO] 2016-12-30 04:12:20,299  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=350
+[INFO] 2016-12-30 04:12:20,302  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=360
+[INFO] 2016-12-30 04:12:20,303  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=370
+[INFO] 2016-12-30 04:12:20,305  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=380
+[INFO] 2016-12-30 04:12:20,308  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=390
+[INFO] 2016-12-30 04:12:20,309  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=400
+[INFO] 2016-12-30 04:12:20,312  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=410
+[INFO] 2016-12-30 04:12:20,313  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=420
+[INFO] 2016-12-30 04:12:20,315  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=430
+[INFO] 2016-12-30 04:12:20,318  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=440
+[INFO] 2016-12-30 04:12:20,322  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=450
+[INFO] 2016-12-30 04:12:20,323  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=460
+[INFO] 2016-12-30 04:12:20,325  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=470
+[INFO] 2016-12-30 04:12:20,328  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=480
+[INFO] 2016-12-30 04:12:20,331  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=490
+[INFO] 2016-12-30 04:12:20,332  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=500
+[INFO] 2016-12-30 04:12:54,697  Requesting to http://www.baidu.com/s?wd=site:cs.phongmay.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:55,446  Requesting to http://www.baidu.com/s?wd=site:hotro.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:56,223  Requesting to http://www.baidu.com/s?wd=site:s2.gn.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:57,029  Requesting to http://www.baidu.com/s?wd=site:chat.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:57,813  Requesting to http://www.baidu.com/s?wd=site:ttl3d.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:58,559  Requesting to http://www.baidu.com/s?wd=site:pre.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:12:59,381  Requesting to http://www.baidu.com/s?wd=site:home.csm.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:00,153  Requesting to http://www.baidu.com/s?wd=site:event.game.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:00,930  Requesting to http://www.baidu.com/s?wd=site:log.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:01,696  Requesting to http://www.baidu.com/s?wd=site:stc.support.brand.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:02,443  Requesting to http://www.baidu.com/s?wd=site:log.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:03,157  Requesting to http://www.baidu.com/s?wd=site:svrlist.gn.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:04,229  Requesting to http://www.baidu.com/s?wd=site:oauth-me.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:05,016  Requesting to http://www.baidu.com/s?wd=site:img.yobanbe.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:05,911  Requesting to http://www.baidu.com/s?wd=site:tracking.playzing.g6.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:07,111  Requesting to http://www.baidu.com/s?wd=site:stc.v3.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:07,921  Requesting to http://www.baidu.com/s?wd=site:m.tv.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:08,684  Requesting to http://www.baidu.com/s?wd=site:win.phongmay.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:09,482  Requesting to http://www.baidu.com/s?wd=site:api.tv.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:10,219  Requesting to http://www.baidu.com/s?wd=site:id2.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:11,164  Requesting to http://www.baidu.com/s?wd=site:stc.oazalo.brand.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:11,924  Requesting to http://www.baidu.com/s?wd=site:upload.video.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:12,688  Requesting to http://www.baidu.com/s?wd=site:srv.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:13,408  Requesting to http://www.baidu.com/s?wd=site:sapi.m.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:14,191  Requesting to http://www.baidu.com/s?wd=site:sso3.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:15,032  Requesting to http://www.baidu.com/s?wd=site:static.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:15,816  Requesting to http://www.baidu.com/s?wd=site:touch.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:16,566  Requesting to http://www.baidu.com/s?wd=site:support.brand.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:17,374  Requesting to http://www.baidu.com/s?wd=site:idck.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:18,177  Requesting to http://www.baidu.com/s?wd=site:zt1.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:19,154  Requesting to http://www.baidu.com/s?wd=site:360game.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:19,954  Requesting to http://www.baidu.com/s?wd=site:mas.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:20,795  Requesting to http://www.baidu.com/s?wd=site:open.id.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:21,510  Requesting to http://www.baidu.com/s?wd=site:za.lab.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:22,290  Requesting to http://www.baidu.com/s?wd=site:apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:23,117  Requesting to http://www.baidu.com/s?wd=site:stc-id.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:23,911  Requesting to http://www.baidu.com/s?wd=site:img.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:24,721  Requesting to http://www.baidu.com/s?wd=site:www.coca-cola.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:25,571  Requesting to http://www.baidu.com/s?wd=site:sp.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:26,385  Requesting to http://www.baidu.com/s?wd=site:chungthuc.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:27,243  Requesting to http://www.baidu.com/s?wd=site:gameportal.static.game.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:28,059  Requesting to http://www.baidu.com/s?wd=site:img.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:28,891  Requesting to http://www.baidu.com/s?wd=site:imgs.khuyenmai.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:29,776  Requesting to http://www.baidu.com/s?wd=site:forum.appstore.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:30,601  Requesting to http://www.baidu.com/s?wd=site:mobi.pay.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:31,358  Requesting to http://www.baidu.com/s?wd=site:beta.live.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:32,046  Requesting to http://www.baidu.com/s?wd=site:hoathiencot.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:32,779  Requesting to http://www.baidu.com/s?wd=site:brand.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:33,513  Requesting to http://www.baidu.com/s?wd=site:imgfw.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:34,259  Requesting to http://www.baidu.com/s?wd=site:img-photo.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:35,207  Requesting to http://www.baidu.com/s?wd=site:staging.stc-tv.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:35,974  Requesting to http://www.baidu.com/s?wd=site:csmplay.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:36,724  Requesting to http://www.baidu.com/s?wd=site:new.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:37,559  Requesting to http://www.baidu.com/s?wd=site:img.photo.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:38,388  Requesting to http://www.baidu.com/s?wd=site:beta.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:39,196  Requesting to http://www.baidu.com/s?wd=site:dev.m.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:39,983  Requesting to http://www.baidu.com/s?wd=site:volammienphi.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:40,930  Requesting to http://www.baidu.com/s?wd=site:blog.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:41,677  Requesting to http://www.baidu.com/s?wd=site:dev.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:42,480  Requesting to http://www.baidu.com/s?wd=site:pay.play.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:43,269  Requesting to http://www.baidu.com/s?wd=site:forum.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:44,108  Requesting to http://www.baidu.com/s?wd=site:img.forum.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:44,881  Requesting to http://www.baidu.com/s?wd=site:group.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:45,607  Requesting to http://www.baidu.com/s?wd=site:widget.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:46,394  Requesting to http://www.baidu.com/s?wd=site:api.mp3.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:47,177  Requesting to http://www.baidu.com/s?wd=site:m.ngoalong.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:47,898  Requesting to http://www.baidu.com/s?wd=site:tfzfbs2.static.g6.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:48,930  Requesting to http://www.baidu.com/s?wd=site:launcher.game.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:49,688  Requesting to http://www.baidu.com/s?wd=site:idvlcm.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:50,523  Requesting to http://www.baidu.com/s?wd=site:static.game.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:51,322  Requesting to http://www.baidu.com/s?wd=site:open.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:52,063  Requesting to http://www.baidu.com/s?wd=site:emo.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:52,806  Requesting to http://www.baidu.com/s?wd=site:user.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:53,584  Requesting to http://www.baidu.com/s?wd=site:stc.pay.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:54,335  Requesting to http://www.baidu.com/s?wd=site:pp.mobi.pay.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:55,101  Requesting to http://www.baidu.com/s?wd=site:api.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:55,956  Requesting to http://www.baidu.com/s?wd=site:movie.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:56,765  Requesting to http://www.baidu.com/s?wd=site:mobile.idngoalong.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:57,542  Requesting to http://www.baidu.com/s?wd=site:dl.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:58,296  Requesting to http://www.baidu.com/s?wd=site:update.game.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:59,048  Requesting to http://www.baidu.com/s?wd=site:adbroker.zing.vn&pn=0
+[INFO] 2016-12-30 04:13:59,826  Requesting to http://www.baidu.com/s?wd=site:da2.ad.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:00,543  Requesting to http://www.baidu.com/s?wd=site:g6-static.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:01,529  Requesting to http://www.baidu.com/s?wd=site:ga.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:02,263  Requesting to http://www.baidu.com/s?wd=site:hungba.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:03,042  Requesting to http://www.baidu.com/s?wd=site:id.2u.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:03,812  Requesting to http://www.baidu.com/s?wd=site:idlongtuong.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:04,630  Requesting to http://www.baidu.com/s?wd=site:img.union.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:05,398  Requesting to http://www.baidu.com/s?wd=site:lview.adbroker.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:06,190  Requesting to http://www.baidu.com/s?wd=site:avimg.play.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:06,943  Requesting to http://www.baidu.com/s?wd=site:avimgw.play.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:07,690  Requesting to http://www.baidu.com/s?wd=site:chat.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:08,500  Requesting to http://www.baidu.com/s?wd=site:group.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:09,249  Requesting to http://www.baidu.com/s?wd=site:d.mail.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:10,019  Requesting to http://www.baidu.com/s?wd=site:data.mail.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:11,053  Requesting to http://www.baidu.com/s?wd=site:2u.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:11,881  Requesting to http://www.baidu.com/s?wd=site:ani.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:12,642  Requesting to http://www.baidu.com/s?wd=site:congdong.gunny.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:13,411  Requesting to http://www.baidu.com/s?wd=site:cuhanh.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:14,247  Requesting to http://www.baidu.com/s?wd=site:gn.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:15,038  Requesting to http://www.baidu.com/s?wd=site:gunny.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:15,934  Requesting to http://www.baidu.com/s?wd=site:happyme.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:16,713  Requesting to http://www.baidu.com/s?wd=site:h.mail.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:17,471  Requesting to http://www.baidu.com/s?wd=site:login.gn.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:18,252  Requesting to http://www.baidu.com/s?wd=site:3g.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:19,020  Requesting to http://www.baidu.com/s?wd=site:123link.ad.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:19,792  Requesting to http://www.baidu.com/s?wd=site:adsbanner.game.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:20,573  Requesting to http://www.baidu.com/s?wd=site:ad.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:21,434  Requesting to http://www.baidu.com/s?wd=site:api.esale.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:22,234  Requesting to http://www.baidu.com/s?wd=site:appclick.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:23,078  Requesting to http://www.baidu.com/s?wd=site:connect.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:23,835  Requesting to http://www.baidu.com/s?wd=site:csmboot.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:24,612  Requesting to http://www.baidu.com/s?wd=site:cuulong.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:25,381  Requesting to http://www.baidu.com/s?wd=site:deal.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:26,190  Requesting to http://www.baidu.com/s?wd=site:dl.play.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:26,917  Requesting to http://www.baidu.com/s?wd=site:fish.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:27,661  Requesting to http://www.baidu.com/s?wd=site:gameapp.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:28,950  Requesting to http://www.baidu.com/s?wd=site:g.phongmay.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:29,713  Requesting to http://www.baidu.com/s?wd=site:hotro1.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:30,456  Requesting to http://www.baidu.com/s?wd=site:idmoly.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:31,420  Requesting to http://www.baidu.com/s?wd=site:idngoalong.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:32,209  Requesting to http://www.baidu.com/s?wd=site:idthankhuc.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:33,032  Requesting to http://www.baidu.com/s?wd=site:idthathung.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:33,818  Requesting to http://www.baidu.com/s?wd=site:img1-photo.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:34,862  Requesting to http://www.baidu.com/s?wd=site:img2.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:35,891  Requesting to http://www.baidu.com/s?wd=site:img2-photo.apps.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:36,917  Requesting to http://www.baidu.com/s?wd=site:img.ad.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:37,693  Requesting to http://www.baidu.com/s?wd=site:img.hotro1.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:38,549  Requesting to http://www.baidu.com/s?wd=site:img.org.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:39,388  Requesting to http://www.baidu.com/s?wd=site:imgs.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:40,124  Requesting to http://www.baidu.com/s?wd=site:interaction.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:40,953  Requesting to http://www.baidu.com/s?wd=site:kpi.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:42,029  Requesting to http://www.baidu.com/s?wd=site:ld.me.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:42,819  Requesting to http://www.baidu.com/s?wd=site:l.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:43,540  Requesting to http://www.baidu.com/s?wd=site:mail.hotro.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:44,342  Requesting to http://www.baidu.com/s?wd=site:mail.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:45,155  Requesting to http://www.baidu.com/s?wd=site:click.chat.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:45,970  Requesting to http://www.baidu.com/s?wd=site:i.news.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:46,742  Requesting to http://www.baidu.com/s?wd=site:mail.ttl.zing.vn&pn=0
+[INFO] 2016-12-30 04:14:47,905  Requesting to https://www.google.com/search?q=site:mp3.zing.vn&start=0
+[INFO] 2016-12-30 04:14:47,905  Requesting to https://www.google.com/search?q=site:mp3.zing.vn&start=10
+[INFO] 2016-12-30 04:14:47,907  Requesting to https://www.google.com/search?q=site:mp3.zing.vn&start=20
+[INFO] 2016-12-30 04:14:50,466  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=0
+[INFO] 2016-12-30 04:14:50,466  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=10
+[INFO] 2016-12-30 04:14:50,467  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=20
+[INFO] 2016-12-30 04:14:50,469  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=30
+[INFO] 2016-12-30 04:14:50,470  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=40
+[INFO] 2016-12-30 04:14:50,471  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=50
+[INFO] 2016-12-30 04:14:50,473  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=60
+[INFO] 2016-12-30 04:14:50,474  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=70
+[INFO] 2016-12-30 04:14:50,476  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=80
+[INFO] 2016-12-30 04:14:50,480  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=90
+[INFO] 2016-12-30 04:14:50,482  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=100
+[INFO] 2016-12-30 04:14:50,483  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=110
+[INFO] 2016-12-30 04:14:50,486  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=120
+[INFO] 2016-12-30 04:14:50,489  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=130
+[INFO] 2016-12-30 04:14:50,490  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=140
+[INFO] 2016-12-30 04:14:50,493  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=150
+[INFO] 2016-12-30 04:14:50,494  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=160
+[INFO] 2016-12-30 04:14:50,496  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=170
+[INFO] 2016-12-30 04:14:50,499  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=180
+[INFO] 2016-12-30 04:14:50,500  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=190
+[INFO] 2016-12-30 04:14:50,503  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=200
+[INFO] 2016-12-30 04:14:50,505  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=210
+[INFO] 2016-12-30 04:14:50,506  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=220
+[INFO] 2016-12-30 04:14:50,509  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=230
+[INFO] 2016-12-30 04:14:50,509  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=240
+[INFO] 2016-12-30 04:14:50,512  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=250
+[INFO] 2016-12-30 04:14:50,513  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=260
+[INFO] 2016-12-30 04:14:50,516  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=270
+[INFO] 2016-12-30 04:14:50,519  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=280
+[INFO] 2016-12-30 04:14:50,520  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=290
+[INFO] 2016-12-30 04:14:50,522  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=300
+[INFO] 2016-12-30 04:14:50,523  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=310
+[INFO] 2016-12-30 04:14:50,526  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=320
+[INFO] 2016-12-30 04:14:50,528  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=330
+[INFO] 2016-12-30 04:14:50,598  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=340
+[INFO] 2016-12-30 04:14:50,599  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=350
+[INFO] 2016-12-30 04:14:50,601  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=360
+[INFO] 2016-12-30 04:14:50,601  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=370
+[INFO] 2016-12-30 04:14:50,604  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=380
+[INFO] 2016-12-30 04:14:50,605  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=390
+[INFO] 2016-12-30 04:14:50,607  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=400
+[INFO] 2016-12-30 04:14:50,608  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=410
+[INFO] 2016-12-30 04:14:50,611  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=420
+[INFO] 2016-12-30 04:14:50,612  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=430
+[INFO] 2016-12-30 04:14:50,615  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=440
+[INFO] 2016-12-30 04:14:50,617  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=450
+[INFO] 2016-12-30 04:14:50,619  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=460
+[INFO] 2016-12-30 04:14:50,624  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=470
+[INFO] 2016-12-30 04:14:50,625  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=480
+[INFO] 2016-12-30 04:14:50,628  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=490
+[INFO] 2016-12-30 04:14:50,630  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=500
+[INFO] 2016-12-30 04:14:50,631  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=510
+[INFO] 2016-12-30 04:14:50,632  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=520
+[INFO] 2016-12-30 04:14:50,635  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=530
+[INFO] 2016-12-30 04:14:50,638  Requesting to https://www.google.com/search?q=site:tv.zing.vn&start=540
+[INFO] 2016-12-30 04:15:05,298  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=0
+[INFO] 2016-12-30 04:15:05,298  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=10
+[INFO] 2016-12-30 04:15:05,299  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=20
+[INFO] 2016-12-30 04:15:05,302  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=30
+[INFO] 2016-12-30 04:15:05,303  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=40
+[INFO] 2016-12-30 04:15:05,306  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=50
+[INFO] 2016-12-30 04:15:05,309  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=60
+[INFO] 2016-12-30 04:15:05,312  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=70
+[INFO] 2016-12-30 04:15:05,315  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=80
+[INFO] 2016-12-30 04:15:05,318  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=90
+[INFO] 2016-12-30 04:15:05,321  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=100
+[INFO] 2016-12-30 04:15:05,322  Requesting to https://www.google.com/search?q=site:news.zing.vn&start=110
+[INFO] 2016-12-30 04:15:09,617  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=0
+[INFO] 2016-12-30 04:15:09,618  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=10
+[INFO] 2016-12-30 04:15:09,618  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=20
+[INFO] 2016-12-30 04:15:09,619  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=30
+[INFO] 2016-12-30 04:15:09,621  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=40
+[INFO] 2016-12-30 04:15:09,622  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=50
+[INFO] 2016-12-30 04:15:09,625  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=60
+[INFO] 2016-12-30 04:15:09,625  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=70
+[INFO] 2016-12-30 04:15:09,628  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=80
+[INFO] 2016-12-30 04:15:09,631  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=90
+[INFO] 2016-12-30 04:15:09,632  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=100
+[INFO] 2016-12-30 04:15:09,637  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=110
+[INFO] 2016-12-30 04:15:09,638  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=120
+[INFO] 2016-12-30 04:15:09,641  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=130
+[INFO] 2016-12-30 04:15:09,642  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=140
+[INFO] 2016-12-30 04:15:09,644  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=150
+[INFO] 2016-12-30 04:15:09,645  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=160
+[INFO] 2016-12-30 04:15:09,648  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=170
+[INFO] 2016-12-30 04:15:09,650  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=180
+[INFO] 2016-12-30 04:15:09,651  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=190
+[INFO] 2016-12-30 04:15:09,654  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=200
+[INFO] 2016-12-30 04:15:09,655  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=210
+[INFO] 2016-12-30 04:15:09,657  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=220
+[INFO] 2016-12-30 04:15:09,660  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=230
+[INFO] 2016-12-30 04:15:09,661  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=240
+[INFO] 2016-12-30 04:15:09,664  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=250
+[INFO] 2016-12-30 04:15:09,665  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=260
+[INFO] 2016-12-30 04:15:09,667  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=270
+[INFO] 2016-12-30 04:15:09,670  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=280
+[INFO] 2016-12-30 04:15:09,671  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=290
+[INFO] 2016-12-30 04:15:09,674  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=300
+[INFO] 2016-12-30 04:15:09,676  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=310
+[INFO] 2016-12-30 04:15:09,690  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=320
+[INFO] 2016-12-30 04:15:09,756  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=330
+[INFO] 2016-12-30 04:15:09,756  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=340
+[INFO] 2016-12-30 04:15:09,757  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=350
+[INFO] 2016-12-30 04:15:09,760  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=360
+[INFO] 2016-12-30 04:15:09,763  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=370
+[INFO] 2016-12-30 04:15:09,769  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=380
+[INFO] 2016-12-30 04:15:09,769  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=390
+[INFO] 2016-12-30 04:15:09,772  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=400
+[INFO] 2016-12-30 04:15:09,773  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=410
+[INFO] 2016-12-30 04:15:09,775  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=420
+[INFO] 2016-12-30 04:15:09,776  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=430
+[INFO] 2016-12-30 04:15:09,779  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=440
+[INFO] 2016-12-30 04:15:09,780  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=450
+[INFO] 2016-12-30 04:15:09,785  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=460
+[INFO] 2016-12-30 04:15:09,786  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=470
+[INFO] 2016-12-30 04:15:09,788  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=480
+[INFO] 2016-12-30 04:15:09,789  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=490
+[INFO] 2016-12-30 04:15:09,792  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=500
+[INFO] 2016-12-30 04:15:09,793  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=510
+[INFO] 2016-12-30 04:15:09,798  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=520
+[INFO] 2016-12-30 04:15:09,801  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=530
+[INFO] 2016-12-30 04:15:09,803  Requesting to https://www.google.com/search?q=site:phongmay.zing.vn&start=540
+[ERROR] 2016-12-30 04:15:24,703  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:25,782  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:26,826  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:27,901  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:28,822  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:29,911  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:30,785  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:31,767  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:32,838  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:33,927  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:34,755  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:35,819  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:36,848  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:37,710  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:38,625  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:39,709  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:40,799  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:41,917  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:42,815  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:43,933  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:44,885  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:45,825  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:46,895  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:47,782  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:48,650  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:49,539  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:50,627  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:51,493  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:52,569  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:53,443  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:54,496  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:55,447  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:56,299  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:57,342  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:58,244  Google seems blocked my request
+[ERROR] 2016-12-30 04:15:59,411  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:00,411  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:01,448  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:02,454  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:03,391  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:04,403  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:05,384  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:06,348  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:07,457  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:08,410  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:09,305  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:10,392  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:11,253  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:12,253  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:13,265  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:14,272  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:15,404  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:16,290  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:17,154  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:18,092  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:19,094  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:20,069  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:21,013  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:22,104  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:22,964  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:23,971  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:24,811  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:25,895  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:26,963  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:27,852  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:28,907  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:29,956  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:30,809  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:31,923  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:33,016  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:34,029  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:35,006  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:35,913  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:36,828  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:37,808  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:38,845  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:39,806  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:40,783  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:41,888  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:42,903  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:43,732  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:44,832  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:45,756  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:46,727  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:47,651  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:48,697  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:49,723  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:50,634  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:51,634  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:52,507  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:53,420  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:54,533  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:55,579  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:56,548  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:57,635  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:58,506  Google seems blocked my request
+[ERROR] 2016-12-30 04:16:59,388  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:00,453  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:01,486  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:02,578  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:03,617  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:04,484  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:05,323  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:06,151  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:07,232  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:08,230  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:09,374  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:10,513  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:11,588  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:12,437  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:13,275  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:14,372  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:15,224  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:16,209  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:17,161  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:18,144  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:19,039  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:19,941  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:20,926  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:21,779  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:22,832  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:23,680  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:24,786  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:25,749  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:26,765  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:27,595  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:28,512  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:29,648  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:30,562  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:31,647  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:32,512  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:33,480  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:34,414  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:35,476  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:36,440  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:37,391  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:38,328  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:39,405  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:40,334  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:41,336  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:42,361  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:43,390  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:44,509  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:45,559  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:46,614  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:47,645  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:48,710  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:49,671  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:50,773  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:51,848  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:52,907  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:53,782  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:54,698  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:55,641  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:56,648  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:57,588  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:58,566  Google seems blocked my request
+[ERROR] 2016-12-30 04:17:59,542  Google seems blocked my request
+[ERROR] 2016-12-30 04:18:00,430  Google seems blocked my request
+[ERROR] 2016-12-30 04:18:01,358  Google seems blocked my request
+[ERROR] 2016-12-30 04:18:02,206  Google seems blocked my request
+[INFO] 2016-12-30 04:18:16,690  Start finding sub-domains of ['bkav.com']
+[INFO] 2016-12-30 04:18:28,305  Requesting to http://www.baidu.com/s?wd=site:bkav.com&pn=0
+[ERROR] 2016-12-30 04:18:30,125  Google seems blocked my request
+[INFO] 2016-12-30 04:18:31,421  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=0
+[INFO] 2016-12-30 04:18:31,423  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=10
+[INFO] 2016-12-30 04:18:31,424  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=20
+[INFO] 2016-12-30 04:18:31,426  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=30
+[INFO] 2016-12-30 04:18:31,427  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=40
+[INFO] 2016-12-30 04:18:31,428  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=50
+[INFO] 2016-12-30 04:18:31,430  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=60
+[INFO] 2016-12-30 04:18:31,431  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=70
+[INFO] 2016-12-30 04:18:31,434  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=80
+[INFO] 2016-12-30 04:18:31,436  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=90
+[INFO] 2016-12-30 04:18:31,437  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=100
+[INFO] 2016-12-30 04:18:31,440  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=110
+[INFO] 2016-12-30 04:18:31,441  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=120
+[INFO] 2016-12-30 04:18:31,444  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=130
+[INFO] 2016-12-30 04:18:31,444  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=140
+[INFO] 2016-12-30 04:18:31,447  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=150
+[INFO] 2016-12-30 04:18:31,448  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=160
+[INFO] 2016-12-30 04:18:31,450  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=170
+[INFO] 2016-12-30 04:18:31,453  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=180
+[INFO] 2016-12-30 04:18:31,454  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=190
+[INFO] 2016-12-30 04:18:31,457  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=200
+[INFO] 2016-12-30 04:18:31,459  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=210
+[INFO] 2016-12-30 04:18:31,460  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=220
+[INFO] 2016-12-30 04:18:31,461  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=230
+[INFO] 2016-12-30 04:18:31,463  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=240
+[INFO] 2016-12-30 04:18:31,466  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=250
+[INFO] 2016-12-30 04:18:31,467  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=260
+[INFO] 2016-12-30 04:18:31,470  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=270
+[INFO] 2016-12-30 04:18:31,471  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=280
+[INFO] 2016-12-30 04:18:31,473  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=290
+[INFO] 2016-12-30 04:18:31,474  Requesting to https://search.yahoo.com/search?p=site:bkav.com&b=300
+[INFO] 2016-12-30 04:18:36,164  Requesting to https://www.virustotal.com/vi/domain/bkav.com/information/
+[INFO] 2016-12-30 04:18:37,990  Requesting to https://dnsdumpster.com/
+[INFO] 2016-12-30 04:18:46,664  Requesting to https://www.threatcrowd.org/searchApi/v2/domain/report/?domain=bkav.com
+[INFO] 2016-12-30 04:18:47,842  Requesting to http://searchdns.netcraft.com/?restriction=site+ends+with&host=bkav.com
+[INFO] 2016-12-30 04:18:49,025  Total of results: 2 for: bkav.com 
+[INFO] 2016-12-30 04:18:49,368  Requesting to https://www.bing.com/search?q=domain:bkav.com&first=1
+[ERROR] 2016-12-30 04:18:50,457  Ask blocked the request
+[INFO] 2016-12-30 04:18:50,459  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2016-12-30 04:18:50,459  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2016-12-30 04:18:50,459  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by BaiduPlugin: ios.bkav.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by YahooPlugin: search.yahoo.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by VirustotalPlugin: sample.bkav.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by VirustotalPlugin: store.bkav.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by VirustotalPlugin: chatmanagement.bkav.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by VirustotalPlugin: mail2.bkav.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by VirustotalPlugin: files.btalk.bkav.com
+[INFO] 2016-12-30 04:18:50,460  New domain was found by VirustotalPlugin: mta1.bkav.com
+[INFO] 2016-12-30 04:18:50,461  New domain was found by VirustotalPlugin: smarthome.bkav.com
+[INFO] 2016-12-30 04:18:50,461  New domain was found by VirustotalPlugin: mail13.bkav.com
+[INFO] 2016-12-30 04:18:50,461  New domain was found by VirustotalPlugin: forum.bkav.com
+[INFO] 2016-12-30 04:18:50,461  New domain was found by VirustotalPlugin: btm.bkav.com
+[INFO] 2016-12-30 04:18:50,463  New domain was found by VirustotalPlugin: btalk.bkav.com
+[INFO] 2016-12-30 04:18:50,463  New domain was found by VirustotalPlugin: chat.bkav.com
+[INFO] 2016-12-30 04:18:50,463  New domain was found by VirustotalPlugin: cloudav.bkav.com
+[INFO] 2016-12-30 04:18:50,463  New domain was found by VirustotalPlugin: sdreport.bkav.com
+[INFO] 2016-12-30 04:18:50,463  New domain was found by VirustotalPlugin: bkavprobmail.bkav.com
+[INFO] 2016-12-30 04:18:50,463  New domain was found by VirustotalPlugin: clip.bkav.com
+[INFO] 2016-12-30 04:18:50,463  New domain was found by VirustotalPlugin: bcos.bkav.com
+[INFO] 2016-12-30 04:18:50,464  New domain was found by VirustotalPlugin: adboard.bkav.com
+[INFO] 2016-12-30 04:18:50,464  New domain was found by VirustotalPlugin: mobile2.bkav.com
+[INFO] 2016-12-30 04:18:50,464  New domain was found by VirustotalPlugin: mobile.bkav.com
+[INFO] 2016-12-30 04:18:50,464  New domain was found by VirustotalPlugin: setup.bkav.com
+[INFO] 2016-12-30 04:18:50,464  New domain was found by VirustotalPlugin: analytics.bkav.com
+[INFO] 2016-12-30 04:18:50,466  New domain was found by DnsdumpsterPlugin: bkis145.bkav.com.vn.
+[INFO] 2016-12-30 04:18:50,466  New domain was found by DnsdumpsterPlugin: bkis146.bkav.com.vn.
+[INFO] 2016-12-30 04:18:50,466  New domain was found by DnsdumpsterPlugin: apibdrive.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail130.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail148.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail149.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail206.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail207.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail208.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail209.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail210.bkav.com
+[INFO] 2016-12-30 04:18:50,467  New domain was found by DnsdumpsterPlugin: mail212.bkav.com
+[INFO] 2016-12-30 04:18:50,469  New domain was found by DnsdumpsterPlugin: mail213.bkav.com
+[INFO] 2016-12-30 04:18:50,469  New domain was found by DnsdumpsterPlugin: mail214.bkav.com
+[INFO] 2016-12-30 04:18:50,469  New domain was found by DnsdumpsterPlugin: mail215.bkav.com
+[INFO] 2016-12-30 04:18:50,469  New domain was found by DnsdumpsterPlugin: mail216.bkav.com
+[INFO] 2016-12-30 04:18:50,470  New domain was found by DnsdumpsterPlugin: mail217.bkav.com
+[INFO] 2016-12-30 04:18:50,470  New domain was found by DnsdumpsterPlugin: mail218.bkav.com
+[INFO] 2016-12-30 04:18:50,470  New domain was found by DnsdumpsterPlugin: mail219.bkav.com
+[INFO] 2016-12-30 04:18:50,470  New domain was found by DnsdumpsterPlugin: mail220.bkav.com
+[INFO] 2016-12-30 04:18:50,470  New domain was found by DnsdumpsterPlugin: mail221.bkav.com
+[INFO] 2016-12-30 04:18:50,470  New domain was found by DnsdumpsterPlugin: mail222.bkav.com
+[INFO] 2016-12-30 04:18:50,470  New domain was found by DnsdumpsterPlugin: mail223.bkav.com
+[INFO] 2016-12-30 04:18:50,471  New domain was found by DnsdumpsterPlugin: mail224.bkav.com
+[INFO] 2016-12-30 04:18:50,471  New domain was found by DnsdumpsterPlugin: mail225.bkav.com
+[INFO] 2016-12-30 04:18:50,471  New domain was found by DnsdumpsterPlugin: mail226.bkav.com
+[INFO] 2016-12-30 04:18:50,471  New domain was found by DnsdumpsterPlugin: mail227.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: mail228.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: mail229.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: qlts.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: mail4.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: mail18.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: mail.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: mail14.bkav.com
+[INFO] 2016-12-30 04:18:50,473  New domain was found by DnsdumpsterPlugin: mail10.bkav.com
+[INFO] 2016-12-30 04:18:50,474  New domain was found by DnsdumpsterPlugin: mail15.bkav.com
+[INFO] 2016-12-30 04:18:50,474  New domain was found by DnsdumpsterPlugin: mail17.bkav.com
+[INFO] 2016-12-30 04:18:50,474  New domain was found by DnsdumpsterPlugin: mail19.bkav.com
+[INFO] 2016-12-30 04:18:50,474  New domain was found by DnsdumpsterPlugin: mail9.bkav.com
+[INFO] 2016-12-30 04:18:50,476  New domain was found by DnsdumpsterPlugin: mail11.bkav.com
+[INFO] 2016-12-30 04:18:50,476  New domain was found by DnsdumpsterPlugin: mail16.bkav.com
+[INFO] 2016-12-30 04:18:50,476  New domain was found by DnsdumpsterPlugin: mail40.bkav.com
+[INFO] 2016-12-30 04:18:50,476  New domain was found by DnsdumpsterPlugin: mail42.bkav.com
+[INFO] 2016-12-30 04:18:50,476  New domain was found by DnsdumpsterPlugin: mail44.bkav.com
+[INFO] 2016-12-30 04:18:50,476  New domain was found by DnsdumpsterPlugin: mail45.bkav.com
+[INFO] 2016-12-30 04:18:50,476  New domain was found by DnsdumpsterPlugin: mail46.bkav.com
+[INFO] 2016-12-30 04:18:50,477  New domain was found by DnsdumpsterPlugin: mail47.bkav.com
+[INFO] 2016-12-30 04:18:50,477  New domain was found by DnsdumpsterPlugin: mail48.bkav.com
+[INFO] 2016-12-30 04:18:50,477  New domain was found by DnsdumpsterPlugin: mail49.bkav.com
+[INFO] 2016-12-30 04:18:50,479  New domain was found by DnsdumpsterPlugin: mail50.bkav.com
+[INFO] 2016-12-30 04:18:50,479  New domain was found by DnsdumpsterPlugin: mail60.bkav.com
+[INFO] 2016-12-30 04:18:50,479  New domain was found by DnsdumpsterPlugin: mail53.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail54.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail55.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail56.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail57.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail59.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail61.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail58.bkav.com
+[INFO] 2016-12-30 04:18:50,480  New domain was found by DnsdumpsterPlugin: mail62.bkav.com
+[INFO] 2016-12-30 04:18:50,482  New domain was found by DnsdumpsterPlugin: mail63.bkav.com
+[INFO] 2016-12-30 04:18:50,482  New domain was found by DnsdumpsterPlugin: mail8.bkav.com
+[INFO] 2016-12-30 04:18:50,482  New domain was found by DnsdumpsterPlugin: webscan.bkav.com
+[INFO] 2016-12-30 04:18:51,105  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=0
+[INFO] 2016-12-30 04:18:51,105  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=10
+[INFO] 2016-12-30 04:18:51,107  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=20
+[INFO] 2016-12-30 04:18:51,108  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=30
+[INFO] 2016-12-30 04:18:51,108  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=40
+[INFO] 2016-12-30 04:18:51,111  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=50
+[INFO] 2016-12-30 04:18:51,112  Requesting to http://www.baidu.com/s?wd=site:www.bkav.com&pn=60
+[INFO] 2016-12-30 04:18:52,861  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=0
+[INFO] 2016-12-30 04:18:52,861  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=10
+[INFO] 2016-12-30 04:18:52,862  Requesting to http://www.baidu.com/s?wd=site:security.bkav.com&pn=20
+[INFO] 2016-12-30 04:18:54,266  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=0
+[INFO] 2016-12-30 04:18:54,266  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=10
+[INFO] 2016-12-30 04:18:54,267  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=20
+[INFO] 2016-12-30 04:18:54,269  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=30
+[INFO] 2016-12-30 04:18:54,269  Requesting to http://www.baidu.com/s?wd=site:www.smarthome.bkav.com&pn=40
+[INFO] 2016-12-30 04:18:55,752  Requesting to http://www.baidu.com/s?wd=site:ios.bkav.com&pn=0
+[INFO] 2016-12-30 04:18:56,630  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=0
+[INFO] 2016-12-30 04:18:56,631  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=10
+[INFO] 2016-12-30 04:18:56,631  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=20
+[INFO] 2016-12-30 04:18:56,632  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=30
+[INFO] 2016-12-30 04:18:56,634  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=40
+[INFO] 2016-12-30 04:18:56,637  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=50
+[INFO] 2016-12-30 04:18:56,638  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=60
+[INFO] 2016-12-30 04:18:56,641  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=70
+[INFO] 2016-12-30 04:18:56,644  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=80
+[INFO] 2016-12-30 04:18:56,647  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=90
+[INFO] 2016-12-30 04:18:56,648  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=100
+[INFO] 2016-12-30 04:18:56,651  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=110
+[INFO] 2016-12-30 04:18:56,654  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=120
+[INFO] 2016-12-30 04:18:56,654  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=130
+[INFO] 2016-12-30 04:18:56,657  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=140
+[INFO] 2016-12-30 04:18:56,658  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=150
+[INFO] 2016-12-30 04:18:56,661  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=160
+[INFO] 2016-12-30 04:18:56,663  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=170
+[INFO] 2016-12-30 04:18:56,664  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=180
+[INFO] 2016-12-30 04:18:56,667  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=190
+[INFO] 2016-12-30 04:18:56,668  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=200
+[INFO] 2016-12-30 04:18:56,671  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=210
+[INFO] 2016-12-30 04:18:56,673  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=220
+[INFO] 2016-12-30 04:18:56,674  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=230
+[INFO] 2016-12-30 04:18:56,676  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=240
+[INFO] 2016-12-30 04:18:56,677  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=250
+[INFO] 2016-12-30 04:18:56,681  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=260
+[INFO] 2016-12-30 04:18:56,684  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=270
+[INFO] 2016-12-30 04:18:56,686  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=280
+[INFO] 2016-12-30 04:18:56,687  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=290
+[INFO] 2016-12-30 04:18:56,690  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=300
+[INFO] 2016-12-30 04:18:56,691  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=310
+[INFO] 2016-12-30 04:18:56,694  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=320
+[INFO] 2016-12-30 04:18:56,696  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=330
+[INFO] 2016-12-30 04:18:56,697  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=340
+[INFO] 2016-12-30 04:18:56,700  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=350
+[INFO] 2016-12-30 04:18:56,701  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=360
+[INFO] 2016-12-30 04:18:56,703  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=370
+[INFO] 2016-12-30 04:18:56,706  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=380
+[INFO] 2016-12-30 04:18:56,707  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=390
+[INFO] 2016-12-30 04:18:56,709  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=400
+[INFO] 2016-12-30 04:18:56,710  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=410
+[INFO] 2016-12-30 04:18:56,713  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=420
+[INFO] 2016-12-30 04:18:56,714  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=430
+[INFO] 2016-12-30 04:18:56,717  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=440
+[INFO] 2016-12-30 04:18:56,719  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=450
+[INFO] 2016-12-30 04:18:56,720  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=460
+[INFO] 2016-12-30 04:18:56,723  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=470
+[INFO] 2016-12-30 04:18:56,724  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=480
+[INFO] 2016-12-30 04:18:56,726  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=490
+[INFO] 2016-12-30 04:18:56,730  Requesting to http://www.baidu.com/s?wd=site:search.yahoo.com&pn=500
+[INFO] 2016-12-30 04:19:21,607  Requesting to http://www.baidu.com/s?wd=site:sample.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:22,450  Requesting to http://www.baidu.com/s?wd=site:store.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:23,267  Requesting to http://www.baidu.com/s?wd=site:chatmanagement.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:24,221  Requesting to http://www.baidu.com/s?wd=site:mail2.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:26,226  Requesting to http://www.baidu.com/s?wd=site:files.btalk.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:26,992  Requesting to http://www.baidu.com/s?wd=site:mta1.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:27,834  Requesting to http://www.baidu.com/s?wd=site:smarthome.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:27,835  Requesting to http://www.baidu.com/s?wd=site:smarthome.bkav.com&pn=10
+[INFO] 2016-12-30 04:19:27,835  Requesting to http://www.baidu.com/s?wd=site:smarthome.bkav.com&pn=20
+[INFO] 2016-12-30 04:19:27,836  Requesting to http://www.baidu.com/s?wd=site:smarthome.bkav.com&pn=30
+[INFO] 2016-12-30 04:19:27,838  Requesting to http://www.baidu.com/s?wd=site:smarthome.bkav.com&pn=40
+[INFO] 2016-12-30 04:19:29,313  Requesting to http://www.baidu.com/s?wd=site:mail13.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:30,062  Requesting to http://www.baidu.com/s?wd=site:forum.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:30,792  Requesting to http://www.baidu.com/s?wd=site:btm.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:31,611  Requesting to http://www.baidu.com/s?wd=site:btalk.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:32,381  Requesting to http://www.baidu.com/s?wd=site:chat.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:33,177  Requesting to http://www.baidu.com/s?wd=site:cloudav.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:33,930  Requesting to http://www.baidu.com/s?wd=site:sdreport.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:34,676  Requesting to http://www.baidu.com/s?wd=site:bkavprobmail.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:35,438  Requesting to http://www.baidu.com/s?wd=site:clip.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:36,115  Requesting to http://www.baidu.com/s?wd=site:bcos.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:36,944  Requesting to http://www.baidu.com/s?wd=site:adboard.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:37,719  Requesting to http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:38,480  Requesting to http://www.baidu.com/s?wd=site:mobile.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:39,226  Requesting to http://www.baidu.com/s?wd=site:setup.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:39,937  Requesting to http://www.baidu.com/s?wd=site:analytics.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:40,757  Requesting to http://www.baidu.com/s?wd=site:bkis145.bkav.com.vn.&pn=0
+[INFO] 2016-12-30 04:19:41,532  Requesting to http://www.baidu.com/s?wd=site:bkis146.bkav.com.vn.&pn=0
+[INFO] 2016-12-30 04:19:42,272  Requesting to http://www.baidu.com/s?wd=site:apibdrive.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:43,039  Requesting to http://www.baidu.com/s?wd=site:mail130.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:43,750  Requesting to http://www.baidu.com/s?wd=site:mail148.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:44,726  Requesting to http://www.baidu.com/s?wd=site:mail149.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:45,490  Requesting to http://www.baidu.com/s?wd=site:mail206.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:46,381  Requesting to http://www.baidu.com/s?wd=site:mail207.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:47,141  Requesting to http://www.baidu.com/s?wd=site:mail208.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:48,003  Requesting to http://www.baidu.com/s?wd=site:mail209.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:48,815  Requesting to http://www.baidu.com/s?wd=site:mail210.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:49,707  Requesting to http://www.baidu.com/s?wd=site:mail212.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:50,562  Requesting to http://www.baidu.com/s?wd=site:mail213.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:51,302  Requesting to http://www.baidu.com/s?wd=site:mail214.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:52,216  Requesting to http://www.baidu.com/s?wd=site:mail215.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:53,038  Requesting to http://www.baidu.com/s?wd=site:mail216.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:53,855  Requesting to http://www.baidu.com/s?wd=site:mail217.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:54,661  Requesting to http://www.baidu.com/s?wd=site:mail218.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:55,473  Requesting to http://www.baidu.com/s?wd=site:mail219.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:56,253  Requesting to http://www.baidu.com/s?wd=site:mail220.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:57,285  Requesting to http://www.baidu.com/s?wd=site:mail221.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:58,114  Requesting to http://www.baidu.com/s?wd=site:mail222.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:59,107  Requesting to http://www.baidu.com/s?wd=site:mail223.bkav.com&pn=0
+[INFO] 2016-12-30 04:19:59,882  Requesting to http://www.baidu.com/s?wd=site:mail224.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:00,663  Requesting to http://www.baidu.com/s?wd=site:mail225.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:01,417  Requesting to http://www.baidu.com/s?wd=site:mail226.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:02,197  Requesting to http://www.baidu.com/s?wd=site:mail227.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:03,371  Requesting to http://www.baidu.com/s?wd=site:mail228.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:04,196  Requesting to http://www.baidu.com/s?wd=site:mail229.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:04,961  Requesting to http://www.baidu.com/s?wd=site:qlts.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:05,799  Requesting to http://www.baidu.com/s?wd=site:mail4.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:06,634  Requesting to http://www.baidu.com/s?wd=site:mail18.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:07,473  Requesting to http://www.baidu.com/s?wd=site:mail.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:08,292  Requesting to http://www.baidu.com/s?wd=site:mail14.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:09,138  Requesting to http://www.baidu.com/s?wd=site:mail10.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:09,946  Requesting to http://www.baidu.com/s?wd=site:mail15.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:10,720  Requesting to http://www.baidu.com/s?wd=site:mail17.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:11,536  Requesting to http://www.baidu.com/s?wd=site:mail19.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:12,461  Requesting to http://www.baidu.com/s?wd=site:mail9.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:13,229  Requesting to http://www.baidu.com/s?wd=site:mail11.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:14,009  Requesting to http://www.baidu.com/s?wd=site:mail16.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:14,826  Requesting to http://www.baidu.com/s?wd=site:mail40.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:15,631  Requesting to http://www.baidu.com/s?wd=site:mail42.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:16,503  Requesting to http://www.baidu.com/s?wd=site:mail44.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:17,473  Requesting to http://www.baidu.com/s?wd=site:mail45.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:18,267  Requesting to http://www.baidu.com/s?wd=site:mail46.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:19,082  Requesting to http://www.baidu.com/s?wd=site:mail47.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:20,052  Requesting to http://www.baidu.com/s?wd=site:mail48.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:20,861  Requesting to http://www.baidu.com/s?wd=site:mail49.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:21,674  Requesting to http://www.baidu.com/s?wd=site:mail50.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:22,454  Requesting to http://www.baidu.com/s?wd=site:mail60.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:23,256  Requesting to http://www.baidu.com/s?wd=site:mail53.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:24,059  Requesting to http://www.baidu.com/s?wd=site:mail54.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:24,936  Requesting to http://www.baidu.com/s?wd=site:mail55.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:25,802  Requesting to http://www.baidu.com/s?wd=site:mail56.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:26,681  Requesting to http://www.baidu.com/s?wd=site:mail57.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:27,436  Requesting to http://www.baidu.com/s?wd=site:mail59.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:28,266  Requesting to http://www.baidu.com/s?wd=site:mail61.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:29,104  Requesting to http://www.baidu.com/s?wd=site:mail58.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:30,131  Requesting to http://www.baidu.com/s?wd=site:mail62.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:30,913  Requesting to http://www.baidu.com/s?wd=site:mail63.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:31,737  Requesting to http://www.baidu.com/s?wd=site:mail8.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:32,549  Requesting to http://www.baidu.com/s?wd=site:webscan.bkav.com&pn=0
+[INFO] 2016-12-30 04:20:33,752  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=0
+[INFO] 2016-12-30 04:20:33,753  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=10
+[INFO] 2016-12-30 04:20:33,753  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=20
+[INFO] 2016-12-30 04:20:33,755  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=30
+[INFO] 2016-12-30 04:20:33,756  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=40
+[INFO] 2016-12-30 04:20:33,757  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=50
+[INFO] 2016-12-30 04:20:33,759  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=60
+[INFO] 2016-12-30 04:20:33,762  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=70
+[INFO] 2016-12-30 04:20:33,765  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=80
+[INFO] 2016-12-30 04:20:33,766  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=90
+[INFO] 2016-12-30 04:20:33,778  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=100
+[INFO] 2016-12-30 04:20:33,789  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=110
+[INFO] 2016-12-30 04:20:33,792  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=120
+[INFO] 2016-12-30 04:20:33,792  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=130
+[INFO] 2016-12-30 04:20:33,796  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=140
+[INFO] 2016-12-30 04:20:33,799  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=150
+[INFO] 2016-12-30 04:20:33,802  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=160
+[INFO] 2016-12-30 04:20:33,805  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=170
+[INFO] 2016-12-30 04:20:33,809  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=180
+[INFO] 2016-12-30 04:20:33,812  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=190
+[INFO] 2016-12-30 04:20:33,815  Requesting to https://www.google.com/search?q=site:www.bkav.com&start=200
+[INFO] 2016-12-30 04:20:39,134  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=0
+[INFO] 2016-12-30 04:20:39,134  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=10
+[INFO] 2016-12-30 04:20:39,137  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=20
+[INFO] 2016-12-30 04:20:39,138  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=30
+[INFO] 2016-12-30 04:20:39,140  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=40
+[INFO] 2016-12-30 04:20:39,141  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=50
+[INFO] 2016-12-30 04:20:39,142  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=60
+[INFO] 2016-12-30 04:20:39,144  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=70
+[INFO] 2016-12-30 04:20:39,147  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=80
+[INFO] 2016-12-30 04:20:39,150  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=90
+[INFO] 2016-12-30 04:20:39,158  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=100
+[INFO] 2016-12-30 04:20:39,163  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=110
+[INFO] 2016-12-30 04:20:39,173  Requesting to https://www.google.com/search?q=site:security.bkav.com&start=120
+[INFO] 2016-12-30 04:20:42,989  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=0
+[INFO] 2016-12-30 04:20:42,990  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=10
+[INFO] 2016-12-30 04:20:42,990  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=20
+[INFO] 2016-12-30 04:20:42,992  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=30
+[INFO] 2016-12-30 04:20:42,993  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=40
+[INFO] 2016-12-30 04:20:42,994  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=50
+[INFO] 2016-12-30 04:20:42,996  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=60
+[INFO] 2016-12-30 04:20:43,000  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=70
+[INFO] 2016-12-30 04:20:43,002  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=80
+[INFO] 2016-12-30 04:20:43,005  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=90
+[INFO] 2016-12-30 04:20:43,012  Requesting to https://www.google.com/search?q=site:www.smarthome.bkav.com&start=100
+[INFO] 2016-12-30 04:20:46,099  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=0
+[INFO] 2016-12-30 04:20:46,101  Requesting to https://www.google.com/search?q=site:ios.bkav.com&start=10
+[INFO] 2016-12-30 04:20:47,339  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=0
+[INFO] 2016-12-30 04:20:47,341  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=10
+[INFO] 2016-12-30 04:20:47,342  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=20
+[INFO] 2016-12-30 04:20:47,342  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=30
+[INFO] 2016-12-30 04:20:47,344  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=40
+[INFO] 2016-12-30 04:20:47,345  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=50
+[INFO] 2016-12-30 04:20:47,348  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=60
+[INFO] 2016-12-30 04:20:47,349  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=70
+[INFO] 2016-12-30 04:20:47,351  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=80
+[INFO] 2016-12-30 04:20:47,355  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=90
+[INFO] 2016-12-30 04:20:47,365  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=100
+[INFO] 2016-12-30 04:20:47,378  Requesting to https://www.google.com/search?q=site:search.yahoo.com&start=110
+[ERROR] 2016-12-30 04:20:59,148  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:20:59,568  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:00,009  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:00,391  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:00,822  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:01,256  Can not get total_page so return 0
+[INFO] 2016-12-30 04:21:01,782  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=0
+[INFO] 2016-12-30 04:21:01,783  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=10
+[INFO] 2016-12-30 04:21:01,785  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=20
+[INFO] 2016-12-30 04:21:01,786  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=30
+[INFO] 2016-12-30 04:21:01,786  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=40
+[INFO] 2016-12-30 04:21:01,789  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=50
+[INFO] 2016-12-30 04:21:01,790  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=60
+[INFO] 2016-12-30 04:21:01,792  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=70
+[INFO] 2016-12-30 04:21:01,795  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=80
+[INFO] 2016-12-30 04:21:01,796  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=90
+[INFO] 2016-12-30 04:21:01,806  Requesting to https://www.google.com/search?q=site:smarthome.bkav.com&start=100
+[ERROR] 2016-12-30 04:21:04,801  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:05,181  Can not get total_page so return 0
+[INFO] 2016-12-30 04:21:05,759  Requesting to https://www.google.com/search?q=site:btm.bkav.com&start=0
+[ERROR] 2016-12-30 04:21:06,640  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:07,101  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:07,546  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:07,964  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:08,413  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:08,793  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:09,190  Can not get total_page so return 0
+[INFO] 2016-12-30 04:21:09,611  Requesting to https://www.google.com/search?q=site:adboard.bkav.com&start=0
+[INFO] 2016-12-30 04:21:10,398  Requesting to https://www.google.com/search?q=site:mobile2.bkav.com&start=0
+[INFO] 2016-12-30 04:21:11,276  Requesting to https://www.google.com/search?q=site:mobile.bkav.com&start=0
+[ERROR] 2016-12-30 04:21:12,111  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:12,506  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:12,884  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:13,309  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:13,690  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:14,121  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:14,486  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:14,888  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:15,306  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:15,697  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:16,095  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:16,467  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:16,940  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:17,375  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:17,767  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:18,157  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:18,536  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:18,934  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:19,354  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:19,755  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:20,118  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:20,519  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:20,921  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:21,295  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:21,667  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:22,022  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:22,365  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:22,766  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:23,121  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:23,598  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:24,003  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:24,397  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:24,792  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:25,206  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:25,651  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:26,071  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:26,424  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:26,851  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:27,255  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:27,611  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:28,061  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:28,483  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:28,915  Can not get total_page so return 0
+[INFO] 2016-12-30 04:21:29,312  Requesting to https://www.google.com/search?q=site:mail40.bkav.com&start=0
+[ERROR] 2016-12-30 04:21:30,079  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:30,451  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:30,812  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:31,184  Can not get total_page so return 0
+[INFO] 2016-12-30 04:21:31,618  Requesting to https://www.google.com/search?q=site:mail47.bkav.com&start=0
+[INFO] 2016-12-30 04:21:32,349  Requesting to https://www.google.com/search?q=site:mail48.bkav.com&start=0
+[INFO] 2016-12-30 04:21:33,078  Requesting to https://www.google.com/search?q=site:mail49.bkav.com&start=0
+[ERROR] 2016-12-30 04:21:33,885  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:34,269  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:34,661  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:35,068  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:35,503  Can not get total_page so return 0
+[INFO] 2016-12-30 04:21:35,921  Requesting to https://www.google.com/search?q=site:mail56.bkav.com&start=0
+[ERROR] 2016-12-30 04:21:36,704  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:37,094  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:37,509  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:37,895  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:38,303  Can not get total_page so return 0
+[ERROR] 2016-12-30 04:21:39,203  Google seems blocked my request
+[ERROR] 2016-12-30 04:21:40,141  Google seems blocked my request
+[ERROR] 2016-12-30 04:21:40,936  Google seems blocked my request
+[INFO] 2016-12-30 04:21:45,499  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=0
+[INFO] 2016-12-30 04:21:45,500  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=10
+[INFO] 2016-12-30 04:21:45,500  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=20
+[INFO] 2016-12-30 04:21:45,503  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=30
+[INFO] 2016-12-30 04:21:45,503  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=40
+[INFO] 2016-12-30 04:21:45,506  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=50
+[INFO] 2016-12-30 04:21:45,507  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=60
+[INFO] 2016-12-30 04:21:45,509  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=70
+[INFO] 2016-12-30 04:21:45,512  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=80
+[INFO] 2016-12-30 04:21:45,513  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=90
+[INFO] 2016-12-30 04:21:45,515  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=100
+[INFO] 2016-12-30 04:21:45,516  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=110
+[INFO] 2016-12-30 04:21:45,519  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=120
+[INFO] 2016-12-30 04:21:45,520  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=130
+[INFO] 2016-12-30 04:21:45,523  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=140
+[INFO] 2016-12-30 04:21:45,526  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=150
+[INFO] 2016-12-30 04:21:45,526  Requesting to https://search.yahoo.com/search?p=site:www.bkav.com&b=160
+[INFO] 2016-12-30 04:21:56,584  Requesting to https://search.yahoo.com/search?p=site:security.bkav.com&b=0
+[INFO] 2016-12-30 04:21:56,585  Requesting to https://search.yahoo.com/search?p=site:security.bkav.com&b=10
+[INFO] 2016-12-30 04:21:56,586  Requesting to https://search.yahoo.com/search?p=site:security.bkav.com&b=20
+[INFO] 2016-12-30 04:21:56,588  Requesting to https://search.yahoo.com/search?p=site:security.bkav.com&b=30
+[INFO] 2016-12-30 04:21:56,588  Requesting to https://search.yahoo.com/search?p=site:security.bkav.com&b=40
+[INFO] 2016-12-30 04:22:03,730  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=0
+[INFO] 2016-12-30 04:22:03,732  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=10
+[INFO] 2016-12-30 04:22:03,733  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=20
+[INFO] 2016-12-30 04:22:03,733  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=30
+[INFO] 2016-12-30 04:22:03,734  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=40
+[INFO] 2016-12-30 04:22:03,736  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=50
+[INFO] 2016-12-30 04:22:03,739  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=60
+[INFO] 2016-12-30 04:22:03,740  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=70
+[INFO] 2016-12-30 04:22:03,743  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=80
+[INFO] 2016-12-30 04:22:03,743  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=90
+[INFO] 2016-12-30 04:22:03,746  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=100
+[INFO] 2016-12-30 04:22:03,747  Requesting to https://search.yahoo.com/search?p=site:www.smarthome.bkav.com&b=110
+[INFO] 2016-12-30 04:22:16,200  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=0
+[INFO] 2016-12-30 04:22:16,201  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=10
+[INFO] 2016-12-30 04:22:16,201  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=20
+[INFO] 2016-12-30 04:22:16,203  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=30
+[INFO] 2016-12-30 04:22:16,204  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=40
+[INFO] 2016-12-30 04:22:16,207  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=50
+[INFO] 2016-12-30 04:22:16,209  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=60
+[INFO] 2016-12-30 04:22:16,210  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=70
+[INFO] 2016-12-30 04:22:16,213  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=80
+[INFO] 2016-12-30 04:22:16,214  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=90
+[INFO] 2016-12-30 04:22:16,217  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=100
+[INFO] 2016-12-30 04:22:16,219  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=110
+[INFO] 2016-12-30 04:22:16,223  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=120
+[INFO] 2016-12-30 04:22:16,224  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=130
+[INFO] 2016-12-30 04:22:16,226  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=140
+[INFO] 2016-12-30 04:22:16,229  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=150
+[INFO] 2016-12-30 04:22:16,230  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=160
+[INFO] 2016-12-30 04:22:16,233  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=170
+[INFO] 2016-12-30 04:22:16,234  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=180
+[INFO] 2016-12-30 04:22:16,237  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=190
+[INFO] 2016-12-30 04:22:16,239  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=200
+[INFO] 2016-12-30 04:22:16,242  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=210
+[INFO] 2016-12-30 04:22:16,243  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=220
+[INFO] 2016-12-30 04:22:16,246  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=230
+[INFO] 2016-12-30 04:22:16,246  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=240
+[INFO] 2016-12-30 04:22:16,249  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=250
+[INFO] 2016-12-30 04:22:16,250  Requesting to https://search.yahoo.com/search?p=site:search.yahoo.com&b=260
