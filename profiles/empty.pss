@@ -1,4 +1,13 @@
+[search.BaiduPlugin]
 [search.GooglePlugin]
+[search.YahooPlugin]
+[search.passivednsPlugin]
+[search.VirustotalPlugin]
+[search.DnsdumpsterPlugin]
+[search.ThreatcrowdPlugin]
+[search.NetcraftPlugin]
+[search.BingPlugin]
+[search.AskPlugin]
 
 [port.NmapPlugin]
 
