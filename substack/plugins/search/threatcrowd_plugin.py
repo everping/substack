@@ -26,5 +26,8 @@ class ThreatcrowdPlugin(SearchPlugin):
             logger.error("Can not import json lib")
         content = self.requester.get(url).text
         results = json.loads(content)['subdomains']
-        for domain in results:
-            self.add(domain)
+        if not results:
+            for domain in results:
+                self.add(domain)
+        else:
+            pass
