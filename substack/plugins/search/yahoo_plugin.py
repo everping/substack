@@ -17,7 +17,7 @@ class YahooPlugin(SearchPlugin):
     def get_total_page(self):
         max_page_temp = self.max_page
 
-        while True:
+        while (max_page_temp >= 0):
             url = self.base_url.format(query=self.get_query(), page=max_page_temp)
             content = self.requester.get(url).text
             if self.has_error(content):
