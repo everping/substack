@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="49262f2c-0eb1-4be0-8f81-c6a09bfa1c82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/substack.log" afterPath="$PROJECT_DIR$/log/substack.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/plugins/search/threatcrowd_plugin.py" afterPath="$PROJECT_DIR$/substack/plugins/search/threatcrowd_plugin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/plugins/search/yahoo_plugin.py" afterPath="$PROJECT_DIR$/substack/plugins/search/yahoo_plugin.py" />
     </list>
     <ignored path="substack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +19,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/substack$home.coverage" NAME="home Coverage Results" MODIFIED="1481525515631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/substack/tests" />
     <SUITE FILE_PATH="coverage/substack$google_plugin__1_.coverage" NAME="google_plugin (1) Coverage Results" MODIFIED="1481538349331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/substack/plugins/search" />
-    <SUITE FILE_PATH="coverage/substack$substack.coverage" NAME="substack Coverage Results" MODIFIED="1483061655143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/substack$substack.coverage" NAME="substack Coverage Results" MODIFIED="1483061956815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/substack$search_plugin.coverage" NAME="search_plugin Coverage Results" MODIFIED="1482500469651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/substack/plugins/base" />
     <SUITE FILE_PATH="coverage/substack$google_plugin.coverage" NAME="google_plugin Coverage Results" MODIFIED="1481536649457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/substack/tests/plugins" />
     <SUITE FILE_PATH="coverage/substack$profile.coverage" NAME="profile Coverage Results" MODIFIED="1482500151001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/substack/tests" />
@@ -75,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yahoo_plugin.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="yahoo_plugin.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/substack/plugins/search/yahoo_plugin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
+            <state relative-caret-position="34">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -99,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="threatcrowd_plugin.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="threatcrowd_plugin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/substack/plugins/search/threatcrowd_plugin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="-357">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -184,8 +184,8 @@
         <option value="$PROJECT_DIR$/profiles/empty.pss" />
         <option value="$PROJECT_DIR$/substack.py" />
         <option value="$PROJECT_DIR$/substack/plugins/search/google_plugin.py" />
-        <option value="$PROJECT_DIR$/substack/plugins/search/yahoo_plugin.py" />
         <option value="$PROJECT_DIR$/substack/plugins/search/threatcrowd_plugin.py" />
+        <option value="$PROJECT_DIR$/substack/plugins/search/yahoo_plugin.py" />
       </list>
     </option>
   </component>
@@ -1063,12 +1063,12 @@
       <workItem from="1481709047903" duration="11309000" />
       <workItem from="1482214235406" duration="2756000" />
       <workItem from="1482499942059" duration="2207000" />
-      <workItem from="1483045630918" duration="1844000" />
+      <workItem from="1483045630918" duration="2132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39967000" />
+    <option name="totallyTimeSpent" value="40255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1532,16 +1532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/substack/plugins/search/yahoo_plugin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/substack/plugins/search/virustotal_plugin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1554,10 +1544,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/substack/plugins/search/threatcrowd_plugin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="-357">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/substack/plugins/search/yahoo_plugin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
