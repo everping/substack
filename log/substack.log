@@ -76951,3 +76951,302 @@ ConnectionError: ('Connection aborted.', BadStatusLine("''",))
 [ INFO] 2017-01-04 17:07:05,793  Plugin AskPlugin has been activated
 [ERROR] 2017-01-04 17:07:06,142  Ask blocked the request
 [ INFO] 2017-01-04 17:07:06,253  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:06,588  Ask blocked the request
+[ INFO] 2017-01-04 17:07:06,697  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:07,203  Ask blocked the request
+[ INFO] 2017-01-04 17:07:07,312  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:07,845  Ask blocked the request
+[ INFO] 2017-01-04 17:07:07,956  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:08,328  Ask blocked the request
+[ INFO] 2017-01-04 17:07:08,437  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:08,822  Ask blocked the request
+[ INFO] 2017-01-04 17:07:08,930  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:09,269  Ask blocked the request
+[ INFO] 2017-01-04 17:07:09,378  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:09,756  Ask blocked the request
+[ INFO] 2017-01-04 17:07:09,865  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:10,220  Ask blocked the request
+[ INFO] 2017-01-04 17:07:10,329  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:10,891  Ask blocked the request
+[ INFO] 2017-01-04 17:07:11,002  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:11,663  Ask blocked the request
+[ INFO] 2017-01-04 17:07:11,773  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:12,151  Ask blocked the request
+[ INFO] 2017-01-04 17:07:12,260  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:12,625  Ask blocked the request
+[ INFO] 2017-01-04 17:07:12,734  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:13,273  Ask blocked the request
+[ INFO] 2017-01-04 17:07:13,384  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:13,756  Ask blocked the request
+[ INFO] 2017-01-04 17:07:13,865  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:14,232  Ask blocked the request
+[ INFO] 2017-01-04 17:07:14,338  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:14,694  Ask blocked the request
+[ INFO] 2017-01-04 17:07:14,803  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:15,282  Ask blocked the request
+[ INFO] 2017-01-04 17:07:15,391  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:15,730  Ask blocked the request
+[ INFO] 2017-01-04 17:07:15,841  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:16,187  Ask blocked the request
+[ INFO] 2017-01-04 17:07:16,296  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:16,683  Ask blocked the request
+[ INFO] 2017-01-04 17:07:16,792  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:17,180  Ask blocked the request
+[ INFO] 2017-01-04 17:07:17,289  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:17,635  Ask blocked the request
+[ INFO] 2017-01-04 17:07:17,743  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:18,095  Ask blocked the request
+[ INFO] 2017-01-04 17:07:18,203  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:18,539  Ask blocked the request
+[ INFO] 2017-01-04 17:07:18,648  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:19,158  Ask blocked the request
+[ INFO] 2017-01-04 17:07:19,269  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:19,605  Ask blocked the request
+[ INFO] 2017-01-04 17:07:19,713  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:20,045  Ask blocked the request
+[ INFO] 2017-01-04 17:07:20,154  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:20,486  Ask blocked the request
+[ INFO] 2017-01-04 17:07:20,598  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:20,976  Ask blocked the request
+[ INFO] 2017-01-04 17:07:21,085  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:21,497  Ask blocked the request
+[ INFO] 2017-01-04 17:07:21,607  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:21,973  Ask blocked the request
+[ INFO] 2017-01-04 17:07:22,084  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:22,467  Ask blocked the request
+[ INFO] 2017-01-04 17:07:22,576  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:22,914  Ask blocked the request
+[ INFO] 2017-01-04 17:07:23,025  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:23,473  Ask blocked the request
+[ INFO] 2017-01-04 17:07:23,584  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:23,963  Ask blocked the request
+[ INFO] 2017-01-04 17:07:24,073  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:24,466  Ask blocked the request
+[ INFO] 2017-01-04 17:07:24,575  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:24,908  Ask blocked the request
+[ INFO] 2017-01-04 17:07:25,019  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:25,496  Ask blocked the request
+[ INFO] 2017-01-04 17:07:25,605  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:25,970  Ask blocked the request
+[ INFO] 2017-01-04 17:07:26,078  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:26,461  Ask blocked the request
+[ INFO] 2017-01-04 17:07:26,569  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:26,954  Ask blocked the request
+[ INFO] 2017-01-04 17:07:27,065  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:27,510  Ask blocked the request
+[ INFO] 2017-01-04 17:07:27,621  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:27,996  Ask blocked the request
+[ INFO] 2017-01-04 17:07:28,105  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:28,444  Ask blocked the request
+[ INFO] 2017-01-04 17:07:28,555  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:28,898  Ask blocked the request
+[ INFO] 2017-01-04 17:07:29,006  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:29,555  Ask blocked the request
+[ INFO] 2017-01-04 17:07:29,664  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:30,242  Ask blocked the request
+[ INFO] 2017-01-04 17:07:30,351  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:30,720  Ask blocked the request
+[ INFO] 2017-01-04 17:07:30,831  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:31,255  Ask blocked the request
+[ INFO] 2017-01-04 17:07:31,365  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:31,711  Ask blocked the request
+[ INFO] 2017-01-04 17:07:31,821  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:32,200  Ask blocked the request
+[ INFO] 2017-01-04 17:07:32,309  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:32,720  Ask blocked the request
+[ INFO] 2017-01-04 17:07:32,829  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:33,276  Ask blocked the request
+[ INFO] 2017-01-04 17:07:33,388  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:33,724  Ask blocked the request
+[ INFO] 2017-01-04 17:07:33,834  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:34,163  Ask blocked the request
+[ INFO] 2017-01-04 17:07:34,273  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:34,647  Ask blocked the request
+[ INFO] 2017-01-04 17:07:34,756  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:35,105  Ask blocked the request
+[ INFO] 2017-01-04 17:07:35,214  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:35,552  Ask blocked the request
+[ INFO] 2017-01-04 17:07:35,663  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:35,997  Ask blocked the request
+[ INFO] 2017-01-04 17:07:36,107  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:36,467  Ask blocked the request
+[ INFO] 2017-01-04 17:07:36,576  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:36,934  Ask blocked the request
+[ INFO] 2017-01-04 17:07:37,042  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:37,617  Ask blocked the request
+[ INFO] 2017-01-04 17:07:37,726  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:38,099  Ask blocked the request
+[ INFO] 2017-01-04 17:07:38,207  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:38,545  Ask blocked the request
+[ INFO] 2017-01-04 17:07:38,655  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:39,019  Ask blocked the request
+[ INFO] 2017-01-04 17:07:39,127  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:39,641  Ask blocked the request
+[ INFO] 2017-01-04 17:07:39,752  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:40,138  Ask blocked the request
+[ INFO] 2017-01-04 17:07:40,250  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:40,594  Ask blocked the request
+[ INFO] 2017-01-04 17:07:40,703  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:41,115  Ask blocked the request
+[ INFO] 2017-01-04 17:07:41,223  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:41,565  Ask blocked the request
+[ INFO] 2017-01-04 17:07:41,676  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:42,135  Ask blocked the request
+[ INFO] 2017-01-04 17:07:42,244  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:42,740  Ask blocked the request
+[ INFO] 2017-01-04 17:07:42,849  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:43,234  Ask blocked the request
+[ INFO] 2017-01-04 17:07:43,344  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:43,710  Ask blocked the request
+[ INFO] 2017-01-04 17:07:43,819  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:44,190  Ask blocked the request
+[ INFO] 2017-01-04 17:07:44,299  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:44,634  Ask blocked the request
+[ INFO] 2017-01-04 17:07:44,743  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:45,118  Ask blocked the request
+[ INFO] 2017-01-04 17:07:45,226  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:45,586  Ask blocked the request
+[ INFO] 2017-01-04 17:07:45,697  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:46,134  Ask blocked the request
+[ INFO] 2017-01-04 17:07:46,243  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:46,789  Ask blocked the request
+[ INFO] 2017-01-04 17:07:46,897  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:47,417  Ask blocked the request
+[ INFO] 2017-01-04 17:07:47,528  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:47,880  Ask blocked the request
+[ INFO] 2017-01-04 17:07:47,989  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:48,355  Ask blocked the request
+[ INFO] 2017-01-04 17:07:48,473  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:48,858  Ask blocked the request
+[ INFO] 2017-01-04 17:07:48,967  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:49,453  Ask blocked the request
+[ INFO] 2017-01-04 17:07:49,563  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:49,923  Ask blocked the request
+[ INFO] 2017-01-04 17:07:50,033  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:50,368  Ask blocked the request
+[ INFO] 2017-01-04 17:07:50,477  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:50,836  Ask blocked the request
+[ INFO] 2017-01-04 17:07:50,946  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:51,450  Ask blocked the request
+[ INFO] 2017-01-04 17:07:51,559  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:51,898  Ask blocked the request
+[ INFO] 2017-01-04 17:07:52,009  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:52,328  Ask blocked the request
+[ INFO] 2017-01-04 17:07:52,437  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:52,809  Ask blocked the request
+[ INFO] 2017-01-04 17:07:52,917  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:53,283  Ask blocked the request
+[ INFO] 2017-01-04 17:07:53,392  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:53,762  Ask blocked the request
+[ INFO] 2017-01-04 17:07:53,871  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:54,207  Ask blocked the request
+[ INFO] 2017-01-04 17:07:54,313  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:54,658  Ask blocked the request
+[ INFO] 2017-01-04 17:07:54,769  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:55,211  Ask blocked the request
+[ INFO] 2017-01-04 17:07:55,321  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:55,671  Ask blocked the request
+[ INFO] 2017-01-04 17:07:55,782  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:56,296  Ask blocked the request
+[ INFO] 2017-01-04 17:07:56,404  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:56,749  Ask blocked the request
+[ INFO] 2017-01-04 17:07:56,855  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:57,239  Ask blocked the request
+[ INFO] 2017-01-04 17:07:57,346  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:57,862  Ask blocked the request
+[ INFO] 2017-01-04 17:07:57,971  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:58,319  Ask blocked the request
+[ INFO] 2017-01-04 17:07:58,430  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:58,799  Ask blocked the request
+[ INFO] 2017-01-04 17:07:58,908  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:59,290  Ask blocked the request
+[ INFO] 2017-01-04 17:07:59,400  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:59,779  Ask blocked the request
+[ INFO] 2017-01-04 17:07:59,888  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:00,286  Ask blocked the request
+[ INFO] 2017-01-04 17:08:00,394  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:00,773  Ask blocked the request
+[ INFO] 2017-01-04 17:08:00,881  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:01,266  Ask blocked the request
+[ INFO] 2017-01-04 17:08:01,378  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:01,726  Ask blocked the request
+[ INFO] 2017-01-04 17:08:01,836  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:02,184  Ask blocked the request
+[ INFO] 2017-01-04 17:08:02,293  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:02,668  Ask blocked the request
+[ INFO] 2017-01-04 17:08:02,776  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:03,203  Ask blocked the request
+[ INFO] 2017-01-04 17:08:03,312  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:03,645  Ask blocked the request
+[ INFO] 2017-01-04 17:08:03,756  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:04,111  Ask blocked the request
+[ INFO] 2017-01-04 17:08:04,220  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:04,552  Ask blocked the request
+[ INFO] 2017-01-04 17:08:04,663  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:05,062  Ask blocked the request
+[ INFO] 2017-01-04 17:08:05,173  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:05,530  Ask blocked the request
+[ INFO] 2017-01-04 17:08:05,640  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:06,065  Ask blocked the request
+[ INFO] 2017-01-04 17:08:06,174  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:06,604  Ask blocked the request
+[ INFO] 2017-01-04 17:08:06,713  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:07,105  Ask blocked the request
+[ INFO] 2017-01-04 17:08:07,216  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:07,569  Ask blocked the request
+[ INFO] 2017-01-04 17:08:07,678  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:08,104  Ask blocked the request
+[ INFO] 2017-01-04 17:08:08,213  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:08,548  Ask blocked the request
+[ INFO] 2017-01-04 17:08:08,657  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:08,994  Ask blocked the request
+[ INFO] 2017-01-04 17:08:09,104  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:09,701  Ask blocked the request
+[ INFO] 2017-01-04 17:08:09,811  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:10,191  Ask blocked the request
+[ INFO] 2017-01-04 17:08:10,301  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:10,641  Ask blocked the request
+[ INFO] 2017-01-04 17:08:10,750  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:11,237  Ask blocked the request
+[ INFO] 2017-01-04 17:08:11,346  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:11,683  Ask blocked the request
+[ INFO] 2017-01-04 17:08:11,792  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:12,150  Ask blocked the request
+[ INFO] 2017-01-04 17:08:12,259  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:12,690  Ask blocked the request
+[ INFO] 2017-01-04 17:08:12,799  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:13,263  Ask blocked the request
+[ INFO] 2017-01-04 17:08:13,372  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:13,732  Ask blocked the request
+[ INFO] 2017-01-04 17:08:13,841  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:14,256  Ask blocked the request
+[ INFO] 2017-01-04 17:08:14,364  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:14,713  Ask blocked the request
+[ INFO] 2017-01-04 17:08:14,822  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:15,197  Ask blocked the request
+[ INFO] 2017-01-04 17:08:15,306  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:15,660  Ask blocked the request
+[ INFO] 2017-01-04 17:08:15,769  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:16,118  Ask blocked the request
+[ INFO] 2017-01-04 17:08:16,227  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:16,644  Ask blocked the request
+[ INFO] 2017-01-04 17:08:16,753  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:17,088  Ask blocked the request
+[ INFO] 2017-01-04 17:08:17,197  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:17,536  Ask blocked the request
+[ INFO] 2017-01-04 17:08:17,647  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:17,997  Ask blocked the request
+[ INFO] 2017-01-04 17:08:18,108  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:18,460  Ask blocked the request
+[ INFO] 2017-01-04 17:08:18,569  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:18,910  Ask blocked the request
+[ INFO] 2017-01-04 17:08:19,019  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:08:19,398  Ask blocked the request
+[ INFO] 2017-01-04 17:08:19,509  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:08:24,115  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:08:28,203  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:08:32,444  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:08:36,023  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:08:39,714  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:08:43,296  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:08:47,029  Plugin BaiduPlugin has been activated

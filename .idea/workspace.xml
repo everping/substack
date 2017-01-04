@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49262f2c-0eb1-4be0-8f81-c6a09bfa1c82" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/plugins/search/ask_plugin.py" afterPath="$PROJECT_DIR$/extensions/plugins/search/ask_plugin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/plugins/search/baidu_plugin.py" afterPath="$PROJECT_DIR$/extensions/plugins/search/baidu_plugin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/plugins/search/bing_plugin.py" afterPath="$PROJECT_DIR$/extensions/plugins/search/bing_plugin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/plugins/search/google_plugin.py" afterPath="$PROJECT_DIR$/extensions/plugins/search/google_plugin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/plugins/search/yahoo_plugin.py" afterPath="$PROJECT_DIR$/extensions/plugins/search/yahoo_plugin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/profiles/empty.pss" afterPath="$PROJECT_DIR$/extensions/profiles/empty.pss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/substack.log" afterPath="$PROJECT_DIR$/log/substack.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/data/logger.py" afterPath="$PROJECT_DIR$/substack/data/logger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/data/requester.py" afterPath="$PROJECT_DIR$/substack/data/requester.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/substack/substack_core.py" afterPath="$PROJECT_DIR$/substack/substack_core.py" />
     </list>
     <ignored path="substack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1158,12 +1148,12 @@
       <workItem from="1482740351855" duration="25594000" />
       <workItem from="1482913699364" duration="9781000" />
       <workItem from="1483068132967" duration="18302000" />
-      <workItem from="1483502762438" duration="17679000" />
+      <workItem from="1483502762438" duration="17803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111779000" />
+    <option name="totallyTimeSpent" value="111903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1176,7 +1166,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.73255813" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.73255813" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
