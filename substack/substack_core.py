@@ -6,6 +6,11 @@ from substack.plugins.plugin_factory import PluginFactory
 
 
 class SubStack:
+    """
+    This is the core of the framework, it calls all plugins, handles exceptions,
+    coordinates all the work, creates threads, etc.
+    """
+
     def __init__(self):
         self.plugins = {'search': [], 'brute': []}
         self.profile = None
@@ -25,7 +30,11 @@ class SubStack:
 
         return requester
 
-    def init_plugin(self):
+    def init_plugins(self):
+        """
+        We create plugin instance from plugin list in the profile
+        """
+
         requester = self.init_requester()
 
         for plugin_type in self.plugins:
@@ -38,10 +47,15 @@ class SubStack:
         self.profile = profile
 
     def sub(self):
+        """
+        This method is used to find all the sub-domain from base-domain
+        """
+
         logger.info("Start finding sub-domains of %s" % self.profile.get_target())
         self.kb.set_sub_domains(self.targets)
         to_walk = self.targets
         sub_plugins = self.plugins["search"] + self.plugins["brute"]
+
         while len(to_walk):
             sub_domain_list = []
             new_domain = []
@@ -60,25 +74,24 @@ class SubStack:
 
         return self.kb.get_sub_domains()
 
-    def find_open_ports(self):
-        logger.info("Start finding open ports")
+    def port(self):
+        """
+        This method is used to find all open ports of a domain
+        """
 
+        logger.info("Start finding open ports")
         for plugin in self.plugins['port']:
             already_scanned = []
             for domain in self.kb.get_sub_domains():
                 if domain.ip not in already_scanned:
                     open_ports = plugin.scan(domain)
                     self.kb.add_open_ports(domain, open_ports)
-
                 logger.info(
                     "%s (%s) open ports: %s" % (
                         domain.domain_name, domain.ip, ", ".join([str(port) for port in domain.get_open_ports()])))
 
     def start(self):
-        import time
-        a = time.time()
-        self.init_plugin()
+        self.init_plugins()
         self.targets = [Domain(domain_name) for domain_name in self.profile.get_target()]
         self.sub()
-        print time.time() - a
-        # self.find_open_ports()
+        # self.port()

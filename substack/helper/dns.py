@@ -10,7 +10,7 @@ def query(host_name, query_type='ANY', name_server='8.8.8.8', tcp=True):
     This method override the query method of dnslib
     :return: a list of info that we got
     """
-    logger.info("Querying %s with type %s and name server %s" % (host_name, query_type, name_server))
+    # logger.info("Querying %s with type %s and name server %s" % (host_name, query_type, name_server))
     results = []
     try:
         _query = dnslib.DNSRecord.question(host_name, query_type.upper().strip())
@@ -31,7 +31,7 @@ def query(host_name, query_type='ANY', name_server='8.8.8.8', tcp=True):
             results.append(result)
 
     except socket.error:
-        logger.error("The query meet timeout, so i break it")
+        logger.error("The query meet timeout, so i broke it")
     except struct.error:
         logger.error("Could not decode the response of dns query")
     except:

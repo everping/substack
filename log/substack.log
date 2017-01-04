@@ -73550,3 +73550,2112 @@ ValueError: max() arg is an empty sequence
 [INFO] 2017-01-04 15:54:35,443  Querying bloggerblackhatseo.bkav.com with type A and name server 123.30.245.69
 [INFO] 2017-01-04 15:54:35,444  Querying _certificates._tcp.bkav.com with type A and name server 123.30.245.69
 [INFO] 2017-01-04 15:54:35,444  Querying lareinadelsurhq.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:28,865  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:21:28,865  Plugin BrutePlugin has been activated
+[INFO] 2017-01-04 16:21:28,875  Querying bkav.com with type NS and name server 8.8.8.8
+[INFO] 2017-01-04 16:21:29,095  Querying bkis146.bkav.com.vn with type A and name server 8.8.8.8
+[INFO] 2017-01-04 16:21:29,253  Querying bkis145.bkav.com.vn with type A and name server 8.8.8.8
+[INFO] 2017-01-04 16:21:29,506  Querying www.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,506  Querying csie.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,506  Querying blankinew.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,506  Querying viacredi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,507  Querying vmestevse.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,509  Querying cristianocasagrande.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,509  Querying dragonartz.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,510  Querying ann.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,510  Querying ssi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,512  Querying bisnisoktavia.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,512  Querying utildicas.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,512  Querying themedocs.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,513  Querying thedeadline.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,513  Querying freelancehomewriter.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,513  Querying fabulosityreads.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,513  Querying friendlyscrap.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,513  Querying grandprixgirlsf1-en.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,515  Querying taniasgossip.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,516  Querying tatto-arse.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,516  Querying goojalink.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,517  Querying erpmittelstand.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,517  Querying casacorpoecia.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,519  Querying disoleediazzurro.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,519  Querying mon-dart.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,519  Querying elbasem.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,520  Querying panagiotesotirakis.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,522  Querying cwebcorriere.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,522  Querying esquerdopata.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,522  Querying wwwfreddy49net.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,523  Querying designinternal.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,526  Querying dianepernet.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,526  Querying livelifedeeply-now.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,530  Querying liangfen1224.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,533  Querying blankinew.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,533  Querying coins2001.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,535  Querying vmestevse.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,535  Querying impresionesmias.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,533  Querying etudiant.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,536  Querying faq.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,539  Querying camilleroskelley.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,539  Querying lachevriotte.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,539  Querying dragonartz.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,542  Querying egyptjokes.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,542  Querying ssi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,542  Querying utildicas.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,542  Querying dissertationindia.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,543  Querying theswingingsixties.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,543  Querying grandprixgirlsf1-en.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,543  Querying fabulosityreads.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,543  Querying thedeadline.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,545  Querying notizieplaystation.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,545  Querying badtv1.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,545  Querying blogbagatela.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,545  Querying yarlmuslim.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,546  Querying en-car-wallpapers.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,546  Querying dwinugros.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,546  Querying erpmittelstand.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,546  Querying disoleediazzurro.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,546  Querying tatto-arse.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,546  Querying columbiaisa.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,546  Querying rungitom.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,546  Querying elbasem.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,546  Querying suwardi3035.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,548  Querying coolfunnyquotes.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,548  Querying textsfrommark.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,549  Querying ibukuro.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,549  Querying rando-vtt-vendee.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,549  Querying cwebcorriere.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,549  Querying thefirstgradeparade.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,551  Querying prasanthi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,552  Querying wwwfreddy49net.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,552  Querying theartofanimation.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,552  Querying hollywoodmoviehome.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,552  Querying mygeekopinions.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,553  Querying dianepernet.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,553  Querying malinafiltrosmaniac.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,553  Querying hackers001.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,555  Querying puteriamirillis.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,555  Querying fdmarriage.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,555  Querying vctryblogger.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,555  Querying jennysteffens.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,562  Querying liangfen1224.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,563  Querying coins2001.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,562  Querying laznya.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,565  Querying majax31isnotdead.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,566  Querying taksetareh135.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,569  Querying faq.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,571  Querying etudiant.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,572  Querying _tcp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,578  Querying phonetique.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,578  Querying visaodemercado.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,578  Querying camilleroskelley.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,578  Querying lachevriotte.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,581  Querying noby.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,582  Querying hotpositions.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,584  Querying rrajiv.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,585  Querying ichbinkeinrassistaber.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,586  Querying peppermintplum.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,586  Querying dissertationindia.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,586  Querying tokyodigigirl.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,586  Querying badtv1.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,586  Querying theswingingsixties.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,588  Querying babymakingbybecky.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,588  Querying notizieplaystation.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,588  Querying tearosehome.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,588  Querying blogbagatela.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,589  Querying en-car-wallpapers.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,589  Querying dwinugros.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,589  Querying ingenieria-civil2009.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,589  Querying uwmktg301.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,589  Querying rungitom.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,591  Querying columbiaisa.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,589  Querying ninachydenius.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,591  Querying suwardi3035.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,592  Querying textsfrommark.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,592  Querying ibukuro.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,592  Querying onlylibya.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,594  Querying atladasmedia.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,595  Querying rando-vtt-vendee.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,618  Querying msjennii.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,618  Querying prasanthi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,618  Querying miscah.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,621  Querying famous-celebrities-in-the-world.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,624  Querying rainnamail.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,625  Querying hollywoodmoviehome.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,625  Querying mobil-honda.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,628  Querying malinafiltrosmaniac.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,631  Querying ueepaanoticias.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,631  Querying azzaazman.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,631  Querying toneladas.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,631  Querying zooey.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,632  Querying sagisou.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,634  Querying hackers001.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,634  Querying fdmarriage.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,635  Querying yalav.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,635  Querying vctryblogger.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,635  Querying lutfibts.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,638  Querying klaproosweblog.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,638  Querying laznya.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,640  Querying thistimetomorrow-krystal.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,641  Querying majax31isnotdead.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,641  Querying _tcp.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,644  Querying taksetareh135.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,644  Querying phonetique.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,645  Querying mymediafirelinksfree.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,645  Querying hotethnicmen.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,645  Querying visaodemercado.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,645  Querying gacetagt.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,645  Querying sangreyplomo.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,650  Querying pinoygenerationexhibitionist.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,651  Querying ahl1.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,651  Querying noby.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,651  Querying hotpositions.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,651  Querying softkolom32.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,651  Querying lawandmore.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,651  Querying de-data.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,651  Querying ichbinkeinrassistaber.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,651  Querying nesreen.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,654  Querying p2psport.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,654  Querying tommytoy.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,654  Querying tokyodigigirl.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,654  Querying ingenieria-civil2009.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,655  Querying tearosehome.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,657  Querying babymakingbybecky.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,657  Querying uwmktg301.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,657  Querying ninachydenius.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,660  Querying onlylibya.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,661  Querying atladasmedia.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,661  Querying amina20.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,663  Querying famous-celebrities-in-the-world.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,664  Querying elsofista.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,673  Querying tuudia.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,674  Querying devar-toi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,674  Querying thecompletecookbook.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,674  Querying mobil-honda.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,677  Querying ueepaanoticias.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,677  Querying pb.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,678  Querying sagisou.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,678  Querying toneladas.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,678  Querying azzaazman.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,678  Querying mamulya.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,678  Querying _tls.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,678  Querying yalav.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,681  Querying zooey.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,684  Querying klaproosweblog.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,684  Querying thistimetomorrow-krystal.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,684  Querying lutfibts.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,687  Querying mymediafirelinksfree.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,687  Querying espacoeducar-liza.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,687  Querying whatsonmypc.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,687  Querying ehlibeyt-moize.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,687  Querying hotethnicmen.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,688  Querying gacetagt.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,688  Querying sangreyplomo.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,690  Querying redmastermind.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,693  Querying delzendeha.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,693  Querying ahl1.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,694  Querying pinoygenerationexhibitionist.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,697  Querying lawandmore.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,700  Querying de-data.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,700  Querying nesreen.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,701  Querying tommytoy.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,700  Querying p2psport.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,701  Querying softkolom32.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,701  Querying humblebronybundle.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,703  Querying dotnetguts.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,707  Querying gunathamizh.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,707  Querying cherylchanphotography.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,707  Querying lessonplansos.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,707  Querying finalfantasyxiii2.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,709  Querying amina20.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,707  Querying marcellinoagatha.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,707  Querying tanaceto.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,707  Querying china-mould.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,709  Querying ivorromeo.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,710  Querying elsofista.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,710  Querying tuudia.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,710  Querying cubaout.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,710  Querying thecompletecookbook.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,710  Querying devar-toi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,710  Querying ghirlanda-di-popcorn.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,711  Querying pb.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,711  Querying deals.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,717  Querying varuste1.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,726  Querying mamulya.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,727  Querying australia1025.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,729  Querying diaryofadomesticgoddess.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,729  Querying bollywoodapp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,729  Querying kartenlegen-veda.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,730  Querying ehlibeyt-moize.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,730  Querying espacoeducar-liza.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,730  Querying youthmakingchange.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,729  Querying whatsonmypc.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,730  Querying carezilla.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,730  Querying redmastermind.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,730  Querying sostenibile.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,729  Querying mesmipour.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,730  Querying journeyofasubstituteteacher.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,732  Querying dumaslife.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,730  Querying ldeo.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,730  Querying _tls.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,732  Querying info4thetruth.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,733  Querying delzendeha.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,734  Querying panjunlai.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,734  Querying largeassmovieblogs.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,736  Querying odda250.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,734  Querying gwebwt.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,736  Querying avfabulous.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,736  Querying humblebronybundle.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,736  Querying dotnetguts.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,736  Querying tournoisfoot.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,736  Querying gunathamizh.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,740  Querying cherylchanphotography.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,742  Querying lessonplansos.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,743  Querying cumfiesta.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,743  Querying finalfantasyxiii2.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,743  Querying marcellinoagatha.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,744  Querying tanaceto.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,744  Querying china-mould.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,746  Querying ivorromeo.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,747  Querying az-satelites.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,749  Querying prawfsblawg.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,750  Querying cubaout.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,752  Querying deviousguynyc.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,753  Querying pedalnaestrada.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,756  Querying ghirlanda-di-popcorn.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,757  Querying armory.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,757  Querying deals.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,757  Querying blackfaerr.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,759  Querying australia1025.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,759  Querying varuste1.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,762  Querying diaryofadomesticgoddess.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,762  Querying kartenlegen-veda.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,763  Querying adrasaka.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,762  Querying onkelseoserbes.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,763  Querying bollywoodapp.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,765  Querying huayra.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,765  Querying youthmakingchange.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,765  Querying whiteeyeishere.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,765  Querying carezilla.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,767  Querying mesmipour.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,767  Querying journeyofasubstituteteacher.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,769  Querying dumaslife.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,769  Querying sostenibile.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,769  Querying _udp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,769  Querying ldeo.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,769  Querying ecotretas.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,769  Querying info4thetruth.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,773  Querying largeassmovieblogs.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,773  Querying panjunlai.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,776  Querying odda250.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,776  Querying gwebwt.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,779  Querying avfabulous.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,780  Querying anastasiateodosie.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,782  Querying funfever.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,782  Querying zeekrew.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,783  Querying tournoisfoot.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,785  Querying romagnaviniesapori.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,788  Querying currentposts.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,793  Querying luchadores.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,793  Querying whatisyoctothinking.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,796  Querying sms-shayari-blog.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,796  Querying kearhklahge.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,796  Querying blogajef.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,798  Querying cumfiesta.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,802  Querying mytravelmap.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,802  Querying prawfsblawg.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,802  Querying az-satelites.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,802  Querying deviousguynyc.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,802  Querying pedalnaestrada.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,803  Querying funxpres.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,803  Querying armory.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,803  Querying template4ublog.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,803  Querying blackfaerr.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,803  Querying elgar.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,805  Querying mobello-server.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,805  Querying adrasaka.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,805  Querying lingeredupon.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,805  Querying onkelseoserbes.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,805  Querying healthylivingforyou.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,805  Querying findlifevalue.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,808  Querying huayra.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,808  Querying benimsevdamsarikirmizi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,811  Querying luckystarslan.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,811  Querying dailylenglui.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,811  Querying whiteeyeishere.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,811  Querying weeblyseo.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,865  Querying peppermintplum.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,865  Querying rrajiv.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,918  Querying myeee.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,938  Querying calciomalato.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,938  Querying ecotretas.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,938  Querying _udp.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying ueberallunirgendwo.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying behforosh.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying laurenbeautytips.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying zeekrew.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying sms-shayari-blog.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying kearhklahge.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying salty.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying whatisyoctothinking.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying mart.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying coinedformoney.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying honeyvig.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying cantinhodoshomens.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying mytravelmap.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying barbarieenalpargatas.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,938  Querying wolfdreamer-oth.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying funfever.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying romagnaviniesapori.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying everythingwooyoung.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying 2mail2.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying avonandsomerset.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying ourbananamoments.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying virtapayexchangerfree.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying zdik.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying luchadores.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying pl.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying tfreetcom.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying blogajef.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying currentposts.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying elgar.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying mobello-server.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying template4ublog.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying luckystarslan.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying weeblyseo.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying healthylivingforyou.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,940  Querying doucheblogcycling.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,940  Querying anastasiateodosie.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying greg69sheryl.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,941  Querying placements23.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:29,941  Querying lingeredupon.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying dailylenglui.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying benimsevdamsarikirmizi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying funxpres.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:29,941  Querying findlifevalue.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,010  Querying myeee.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,013  Querying _domainkey.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,013  Querying calciomalato.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,026  Querying clares.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,030  Querying granhermanola.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,030  Querying telishah.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,032  Querying codeghar.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,032  Querying publicijobs.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,032  Querying behforosh.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,032  Querying laurenbeautytips.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,032  Querying craftyandcookingmomma.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,032  Querying kimkardashiansex.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,032  Querying honeyvig.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,032  Querying coinedformoney.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,032  Querying cantinhodoshomens.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,032  Querying wolfdreamer-oth.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,032  Querying ueberallunirgendwo.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,032  Querying deluxepc.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,033  Querying virtapayexchangerfree.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,033  Querying avonandsomerset.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,033  Querying mart.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,033  Querying everythingwooyoung.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,033  Querying targi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,032  Querying scandle-zone.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,033  Querying emoticonvergence.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,033  Querying ruthilicious.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,032  Querying salty.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,035  Querying divinefully.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,033  Querying barbarieenalpargatas.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,033  Querying ourbananamoments.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,033  Querying rivercrackmrock.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying mikelnhaoresponde.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying justgeeks.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying tfreetcom.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,033  Querying arie.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,033  Querying 2mail2.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,035  Querying b1eberstabbedsobad.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying placements23.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,035  Querying mapetitependerie.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying agazetaalaranjada.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying dunyatv-hasbehaal.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying theopieandanthonyshow.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying thegristmill-hindi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,035  Querying zdik.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,035  Querying greg69sheryl.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,035  Querying doucheblogcycling.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,035  Querying pl.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,115  Querying theslap-la.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,128  Querying justindrewbieber.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,128  Querying octive.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,128  Querying gunnalag.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,128  Querying bd-photoshop-tutorial.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,128  Querying thespeechatimeforchoosing.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,128  Querying bollygally.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,127  Querying telishah.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,128  Querying _domainkey.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying garotoamarelo.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,132  Querying clares.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying craftyandcookingmomma.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying deluxepc.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying publicijobs.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying amenoworld.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,132  Querying ruthilicious.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying bluerank.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,132  Querying granhermanola.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying kimkardashiansex.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,132  Querying codeghar.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,134  Querying jdssun.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,134  Querying elizabethsedibleexperience.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,134  Querying mehdi-mehdy.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,134  Querying pinoy-text.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,134  Querying targi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,134  Querying divinefully.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying newlivecookies.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,135  Querying arie.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying scandle-zone.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying theopieandanthonyshow.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying doctor.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,134  Querying indonsia-stock-exchange.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,134  Querying bulles-et-onomatopees.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,135  Querying mapetitependerie.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying naoacredito.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,137  Querying host2.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,135  Querying justgeeks.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying chohmann.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,135  Querying megaporn.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,135  Querying rivercrackmrock.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying thegristmill-hindi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying dunyatv-hasbehaal.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying mikelnhaoresponde.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying agazetaalaranjada.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,135  Querying b1eberstabbedsobad.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,137  Querying furtherdispatches.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,137  Querying emoticonvergence.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,236  Querying theslap-la.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,236  Querying gunnalag.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,237  Querying thespeechatimeforchoosing.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,236  Querying justindrewbieber.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,236  Querying octive.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,237  Querying _pkixrep._tcp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,237  Querying bollygally.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,239  Querying garotoamarelo.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,240  Querying bd-photoshop-tutorial.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,240  Querying halfdozendaily.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,240  Querying curveappeal.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,240  Querying javandasianbabes.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,240  Querying mrugeshmodi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,242  Querying wwwjekinamekaliteromoschato.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying unmensajeparati.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying bulyr44.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying laurafiore.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying bluerank.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,243  Querying jdssun.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,243  Querying newlivecookies.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,243  Querying indonsia-stock-exchange.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,244  Querying dumasclassics.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying templateseacessorios.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying debtsettlementabout.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying amenoworld.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,243  Querying tamilvaasi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying pacquiao-vs-cotto-fight.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,243  Querying joliclic.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying pinoy-text.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,244  Querying magicalsnaps.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying brucewdw.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying dazedreflection.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying host2.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,243  Querying mehdi-mehdy.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,243  Querying elizabethsedibleexperience.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,243  Querying firsthandy2-net-webradio.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying bulles-et-onomatopees.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,244  Querying usenet.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying alfin2300.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying eroticimages.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying furtherdispatches.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,244  Querying megaporn.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,244  Querying naoacredito.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,246  Querying chohmann.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,244  Querying link-gh.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,244  Querying doctor.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,246  Querying autocarnet.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,319  Querying optimasiblogspot.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,321  Querying oafypnistis.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,328  Querying xooitcup.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,328  Querying 24works.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,328  Querying productiveblog.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,328  Querying arnoldzwicky.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,328  Querying freehackingtools4u.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying flyflying1987.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying javandasianbabes.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying halfdozendaily.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying unmensajeparati.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying ultr4.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying dumasclassics.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying wwwjekinamekaliteromoschato.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying bulyr44.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying host1.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying alirezakhosh.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying free2downloads-info.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying bardary.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying curveappeal.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying laurafiore.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying askuwant.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,362  Querying brucewdw.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying magicalsnaps.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying tamilvaasi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying joliclic.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying mrugeshmodi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,361  Querying dazedreflection.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying dublado720.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,361  Querying _pkixrep._tcp.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying jennasjourneyblog.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,362  Querying hendro-prayitno.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,362  Querying kryoninternational.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,362  Querying pam.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,362  Querying woork.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,364  Querying eroticimages.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,364  Querying templateseacessorios.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,364  Querying pacquiao-vs-cotto-fight.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying usenet.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying alfin2300.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying firsthandy2-net-webradio.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying abieventiblog.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,364  Querying novinha-safada.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,364  Querying autocarnet.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,364  Querying debtsettlementabout.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,364  Querying link-gh.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,362  Querying billard.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,430  Querying optimasiblogspot.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,430  Querying oafypnistis.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,447  Querying xooitcup.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,447  Querying freehackingtools4u.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,447  Querying productiveblog.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,447  Querying 24works.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,448  Querying arnoldzwicky.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,448  Querying riascollection.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,451  Querying fajar7siblings.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,451  Querying dinaralert.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,453  Querying fotosdepipa.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,454  Querying host1.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,454  Querying best-lah.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,454  Querying free2downloads-info.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,454  Querying danslacuisinedesophie.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,454  Querying modcloth.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,454  Querying meihaode0999.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,454  Querying yoli-www.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying jennasjourneyblog.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying dublado720.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying flyflying1987.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,454  Querying labs.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,454  Querying ultr4.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,454  Querying bardary.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,454  Querying icc-cricket-news.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying want.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying chingadanews.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying billard.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying novinha-safada.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying corzgalore.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying pam.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,454  Querying progbeat-vvche.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying zeidoron.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying abieventiblog.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying talentbricks.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying alirezakhosh.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying papaioannou.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying woork.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying coelasquid.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying hendro-prayitno.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,456  Querying _aix._tcp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,457  Querying kermani.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying kryoninternational.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,457  Querying jovieblog.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,456  Querying watchismo.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,457  Querying antisemitism.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,457  Querying askuwant.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,566  Querying etmoi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,568  Querying premiumplace.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,568  Querying pensamientocontrario.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,568  Querying mengyexue.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,566  Querying likeweshouldbe.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,568  Querying free-christian-wallpapers.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,572  Querying ishowba.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,572  Querying riascollection.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,572  Querying p4.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,572  Querying dinaralert.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,572  Querying fotosdepipa.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying labs.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying illinoisreview.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying worldbestlinks.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying allmobilephoneprices.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying modcloth.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying c09.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying meihaode0999.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying icc-cricket-news.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying chingadanews.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying orlandoparksnews.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying josemanviajero.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying doctorsheikh.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying fajar7siblings.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying zaluzje.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,578  Querying corzgalore.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying zeidoron.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,575  Querying downloadscompletos.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,576  Querying best-lah.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying yoli-www.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying want.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,576  Querying danslacuisinedesophie.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying coelasquid.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying progbeat-vvche.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying jovieblog.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying talentbricks.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying islamgreatreligion.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,578  Querying boondionline.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,578  Querying papaioannou.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying _aix._tcp.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying antisemitism.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying watchismo.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying teatrpolski.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,578  Querying kermani.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,578  Querying ayurvedichomeremedies.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,578  Querying thextrolls.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,578  Querying tunaynalalake.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,648  Querying ishowba.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,648  Querying pallow-wycliffe.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,648  Querying norskeinteriorblogger.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,648  Querying orangette.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,648  Querying videosadictosfb.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,648  Querying softsportv01.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,648  Querying premiumplace.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,648  Querying likeweshouldbe.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying allmobilephoneprices.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying free-christian-wallpapers.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying etmoi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying illinoisreview.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying worldbestlinks.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying mengyexue.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying orlandoparksnews.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying pensamientocontrario.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying islamgreatreligion.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying c09.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying boondionline.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying world4free2.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying downloadscompletos.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying sovs.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying malleshnaik.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying mamakembar3.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying bargains4mom.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying p4.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying lilylnx.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying doronisa.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying thextrolls.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying teatrpolski.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying inhuis.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying zaluzje.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying micasaessucasa.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying vishaljoshi.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying doctorsheikh.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying notainsolita.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying glooglereseller.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying invertebratenation.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying mutui.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying l90.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying _afpovertcp._tcp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying ayurvedichomeremedies.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying tunaynalalake.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying crave-to-save.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying africaunchained.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,651  Querying josemanviajero.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,651  Querying palmaddict.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,734  Querying haveachuckle.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,740  Querying norskeinteriorblogger.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,742  Querying orangette.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,743  Querying pallow-wycliffe.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,755  Querying videosadictosfb.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,755  Querying i-toyota.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying softsportv01.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,755  Querying daycaredaze.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying eddiee321.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying bikesnobnyc.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying world4free2.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,755  Querying treasuresfortots.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying backlinksofmike.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying tododora.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying revolucionesmx.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,755  Querying thefederationoflight.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying www-irctc.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying code18.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying unisexmusic.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying cfilt.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying perpetualthinkings.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying sv113.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying bargains4mom.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying razmankamarudin.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying doronisa.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying cafestrange.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying mutui.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying firmasprzatajaca.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,757  Querying notainsolita.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,757  Querying palmaddict.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,757  Querying africaunchained.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying lesyouzos.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying scrapsofcolor.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying vishaljoshi.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying malleshnaik.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying mamakembar3.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying inhuis.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying inteligenciajuridca.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying lilylnx.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying micasaessucasa.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying glooglereseller.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,757  Querying l90.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,757  Querying crave-to-save.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,756  Querying valejet.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,756  Querying sovs.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,757  Querying _afpovertcp._tcp.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,757  Querying invertebratenation.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,849  Querying hungerhunger.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,849  Querying google-earth-free.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,851  Querying emersonmerrick.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,851  Querying reasonstobreathe.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,851  Querying daycaredaze.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,851  Querying eddiee321.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,849  Querying affirmyourlife.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,855  Querying tododora.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying bikesnobnyc.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying heatherbullard.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,855  Querying treasuresfortots.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying tylertxchiro.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,855  Querying i-toyota.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying backlinksofmike.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying www-irctc.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying sv113.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying unisexmusic.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying cfilt.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying code18.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,857  Querying firmasprzatajaca.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,857  Querying cafestrange.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,857  Querying scrapsofcolor.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,857  Querying undergroundnewz.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying jovanecatharticmusings.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying hazaragiwallpapers.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying pspgamesmediafire.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying kingsleyyy.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying danielacapistrano.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,855  Querying perpetualthinkings.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying thefederationoflight.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying revolucionesmx.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying razmankamarudin.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,855  Querying lesyouzos.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,857  Querying diplomamillnews.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying businesscaya.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying inteligenciajuridca.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,857  Querying ghzl.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying aibob.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying download.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying ehackworld.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying japanesedaddies.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying westernrifleshooters.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying gubhugreyot.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying femaleboner.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,857  Querying valejet.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,858  Querying _autodiscover._tcp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,937  Querying emersonmerrick.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,937  Querying hungerhunger.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,948  Querying google-earth-free.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,951  Querying killingpinoccio.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,951  Querying affirmyourlife.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,951  Querying nod32llaves2011.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,951  Querying evoandproud.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,953  Querying heatherbullard.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,953  Querying reasonstobreathe.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,953  Querying tylertxchiro.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying burado.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying undergroundnewz.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying lakhimpurkheriup.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying gdr-samp.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying imilwelnes.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying kingsleyyy.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying coloradohomelessorg.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying borepatch.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying sugengsetyawan.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,953  Querying deswallpaper.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying hazaragiwallpapers.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying pspgamesmediafire.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying adriana1989.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying blackbox-repacks.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying haccfiles.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying ffeathers.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying danielacapistrano.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying plainfaceangel.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,956  Querying download.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying btvt.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying careers.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,956  Querying seeknomore.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying indiahousingbubble.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,954  Querying _autodiscover._tcp.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying partizan.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,956  Querying westernrifleshooters.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,956  Querying ehackworld.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,956  Querying femaleboner.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying jovanecatharticmusings.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,956  Querying businesscaya.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,956  Querying aibob.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,954  Querying mentorgis.bkav.com with type A and name server 113.190.241.209
+[INFO] 2017-01-04 16:21:30,956  Querying gubhugreyot.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,956  Querying diplomamillnews.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,956  Querying japanesedaddies.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:21:30,956  Querying ghzl.bkav.com with type A and name server 123.30.245.69
+[INFO] 2017-01-04 16:22:03,345  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:22:03,345  Plugin BrutePlugin has been activated
+[ERROR] 2017-01-04 16:22:05,864  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,882  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:06,881  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,506  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,644  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,677  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,687  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,687  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,690  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,691  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,691  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,691  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,691  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,691  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,693  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,693  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,694  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,694  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,694  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,694  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,697  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,697  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,700  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,700  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,700  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,701  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,701  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,701  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,701  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,704  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,704  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,704  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,704  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,704  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:09,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,519  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,655  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,690  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,698  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,707  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,709  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,726  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,726  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,726  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,727  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,732  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,740  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,740  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,742  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,742  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,742  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,742  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,742  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,743  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,743  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,743  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,744  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,750  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,750  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,750  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,750  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,750  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,753  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,755  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,755  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,755  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,755  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,757  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,760  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,760  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,763  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,763  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:11,763  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,533  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,667  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,701  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,710  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,721  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,721  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,721  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,740  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,744  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,753  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,757  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,757  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,759  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,773  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,776  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,776  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,776  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,778  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,778  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,779  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,779  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,780  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,782  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,782  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,783  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,783  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,783  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,786  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,786  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,786  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,786  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,788  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,788  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,789  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,792  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,793  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,795  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,795  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,796  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,796  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,798  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,801  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,801  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,802  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,802  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,802  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,802  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:13,802  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,548  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,723  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,733  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,760  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,760  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,766  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,766  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,767  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,773  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,775  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,775  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,786  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,805  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,806  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,806  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,808  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,808  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,811  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,812  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,812  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,813  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,813  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,813  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,813  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,815  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,815  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,815  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,818  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,819  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,821  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,822  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,823  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,831  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,834  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,835  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,835  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,836  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,836  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,836  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,838  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,838  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,838  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,839  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,841  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,842  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:15,842  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,565  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,694  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,736  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,763  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,765  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,765  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,776  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,776  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,782  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,782  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,782  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,786  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,789  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,790  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,796  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,822  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,825  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,828  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,831  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,831  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,832  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,834  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,835  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,835  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,835  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,838  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,838  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,838  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,839  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,839  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,842  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,842  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,846  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,849  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,855  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,858  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,859  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,861  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,861  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,864  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,864  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,864  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,864  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,865  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,865  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,868  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,868  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,871  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:17,874  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,576  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,707  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,753  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,759  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,776  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,779  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,779  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,792  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,792  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,798  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,799  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,799  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,799  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,802  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,803  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,811  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,848  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,848  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,849  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,854  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,854  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,855  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,855  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,858  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,858  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,861  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,868  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,868  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,869  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,871  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,871  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,872  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,874  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,875  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,877  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,878  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,885  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,894  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,894  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,894  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,894  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,895  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,895  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,897  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,901  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,903  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:19,903  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,588  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,720  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,763  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,773  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,792  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,795  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,796  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,812  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,812  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,813  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,813  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,813  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,815  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,815  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,819  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,822  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,864  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,864  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,865  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,867  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,868  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,868  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,869  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,875  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,877  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,877  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,891  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,894  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,894  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,898  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,901  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,904  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,911  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,913  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,913  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,913  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,918  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,918  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:21,918  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,742  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,842  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,888  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,890  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,890  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,890  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,890  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,890  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,890  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,911  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,915  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,917  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,917  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,917  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,917  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,917  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,920  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,921  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,921  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,921  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,924  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,924  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,924  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,924  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,924  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,928  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,928  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,934  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,934  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,936  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,938  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,938  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,938  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,941  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,944  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,944  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,944  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,947  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,947  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:23,950  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,753  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,854  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,908  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,910  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,911  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,911  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,911  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,913  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,913  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,914  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,915  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,915  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,915  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,915  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,928  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,928  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,938  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,938  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,938  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,941  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,944  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,944  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,944  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,946  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,946  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,951  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,959  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,963  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,964  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,966  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,966  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,967  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,967  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,967  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,970  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,969  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,969  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,969  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,973  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,973  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,973  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,973  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,974  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:25,974  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,766  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,865  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,927  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,927  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,937  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,937  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,943  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,943  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,943  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,944  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,953  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,953  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,954  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,960  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,961  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,964  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,964  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,964  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,969  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,970  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,970  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,970  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,970  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,971  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,971  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,977  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,983  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,986  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,989  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,993  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,993  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,993  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,993  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,994  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,994  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:27,996  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,000  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,002  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,002  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,002  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,002  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,005  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,006  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:28,006  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,779  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,878  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,940  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,953  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,953  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,957  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,957  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,963  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,963  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,964  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,966  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,966  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,967  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,967  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,967  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,980  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,980  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,982  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,983  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,983  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,987  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,987  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,993  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:29,994  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,000  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,000  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,000  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,000  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,000  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,002  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,002  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,015  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,017  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,017  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,020  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,022  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,030  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,029  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,030  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,036  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:30,036  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:32,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:32,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:32,746  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:33,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:33,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:33,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:33,756  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,148  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,148  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,148  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,151  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,151  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,155  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,157  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,157  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,157  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,158  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,161  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,161  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:34,163  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:35,165  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:36,092  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:36,092  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:36,094  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:36,094  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:36,095  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:36,095  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,167  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,196  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,197  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,197  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,197  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,197  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,198  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,200  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,201  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,201  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,201  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,203  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,203  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,209  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,213  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,214  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,220  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,220  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,226  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,226  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,229  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,232  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,232  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,234  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,236  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,236  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,237  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,237  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,237  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,237  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,240  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,240  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,240  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,243  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,243  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,244  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,244  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,247  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,249  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,249  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,250  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,250  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,252  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:37,252  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:38,111  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:38,111  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:38,112  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:38,114  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:38,114  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:38,115  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,180  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,211  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,217  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,217  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,220  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,220  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,220  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,220  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,221  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,221  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,221  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,221  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,221  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,226  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,232  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,233  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,234  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,236  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,243  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,243  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,249  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,250  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,250  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,255  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,256  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,256  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,256  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,259  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,262  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,262  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,262  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,263  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,265  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,267  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,269  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,269  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,270  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,272  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,272  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,273  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,273  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,273  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,273  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:39,275  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:40,130  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:40,134  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:40,134  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:40,134  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:40,134  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:40,134  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,193  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,232  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,233  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,233  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,236  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,242  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,242  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,243  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,244  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,246  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,246  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,246  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,246  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,247  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,247  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,247  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,253  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,253  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,256  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,257  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,263  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,265  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,265  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,273  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,273  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,273  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,276  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:41,286  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,289  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,303  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,303  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,303  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,303  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,303  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:42,303  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,292  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,319  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,319  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,323  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,325  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,325  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,325  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,325  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,325  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,326  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,326  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,326  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,328  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,328  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,328  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,329  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,342  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,344  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,345  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,348  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,349  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,351  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,351  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,351  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,351  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,351  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,354  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,355  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,362  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,364  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,364  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,368  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,368  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,369  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,372  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,374  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,372  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,374  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,884  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,885  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,885  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:44,887  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,309  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,339  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,341  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,342  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,358  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,359  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,362  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,362  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,364  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,365  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,365  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,365  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,372  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,372  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,372  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,372  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,374  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,374  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,375  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,375  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,375  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,377  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,377  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,380  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,381  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,381  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,381  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,382  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,384  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,387  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,387  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,392  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,392  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,394  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,394  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,394  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,398  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,398  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,398  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,398  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,400  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,400  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,401  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,401  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,401  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,401  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,905  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,905  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,905  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:46,907  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,322  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,351  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,358  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,358  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,380  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,380  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,382  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,388  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,390  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,394  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,394  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,395  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,400  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,410  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,410  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,411  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,411  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,414  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,414  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,414  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,418  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,424  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,424  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,424  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,427  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,427  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,427  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,427  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,428  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,428  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,428  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,428  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,428  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,438  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,443  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,444  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,921  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,924  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,924  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:48,926  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,335  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,365  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,371  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,372  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,395  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,398  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,400  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:50,401  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,408  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:51,407  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,509  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,509  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,509  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,509  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,509  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,509  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,510  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,615  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,615  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,615  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,615  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,615  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,615  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,617  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,617  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,617  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,617  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,618  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,619  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:53,621  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,525  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,525  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,529  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,529  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,529  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,530  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,532  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,634  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,644  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,647  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,650  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,670  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,670  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,671  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,671  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,671  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,671  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,671  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,673  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,673  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,674  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,674  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,676  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,676  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,676  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,677  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,677  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,677  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,678  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,680  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,680  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,680  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,680  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,681  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,683  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,683  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,683  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,684  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,686  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,686  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,686  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,686  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,687  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,691  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:55,693  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,543  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,543  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,546  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,546  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,549  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,549  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,549  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,653  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,660  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,661  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,665  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,703  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,706  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,717  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,717  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,719  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,719  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,719  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,723  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,724  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,724  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,727  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,727  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,729  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,730  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,732  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,732  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,733  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,734  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,736  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,736  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,736  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,736  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,736  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,736  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,737  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,737  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,737  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,739  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,739  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,740  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,742  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,743  The query meet timeout, so i break it
+[ERROR] 2017-01-04 16:22:57,744  The query meet timeout, so i break it
+[INFO] 2017-01-04 16:23:07,648  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:23:07,648  Plugin BrutePlugin has been activated
+[ERROR] 2017-01-04 16:23:10,255  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,256  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,256  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,256  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,259  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,259  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,259  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,260  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,262  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,262  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,263  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:10,263  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,266  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,270  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,272  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:11,269  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,279  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,285  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,285  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,286  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,286  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,289  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,289  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,290  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,290  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,292  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,293  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,293  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,299  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,302  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,303  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,312  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,313  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,313  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,313  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,315  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,315  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,316  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,316  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,318  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,318  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,319  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,321  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,322  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,322  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,323  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,323  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,323  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,325  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,325  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,326  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,326  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,326  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,328  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,328  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,328  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,329  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,329  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,329  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,332  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,332  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,332  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,332  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,335  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,335  The query meet timeout, so i broke it
+[ERROR] 2017-01-04 16:23:13,354  The query meet timeout, so i broke it

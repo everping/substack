@@ -1,9 +1,17 @@
 class Plugin:
+    """
+    This class represent for a Plugin. A plugin is a small program do a assigned work, such as finding sub-domain,
+    but it should be very specific
+    """
+
     def __init__(self):
         self.requester = None
         self.base_url = None
         self.base_domain = None
         self.kb = None
+
+    def get_name(self):
+        return self.__class__.__name__
 
     def add(self, *args):
         """
@@ -11,9 +19,6 @@ class Plugin:
         """
         msg = 'Plugin is not implementing required method add'
         raise NotImplementedError(msg)
-
-    def get_name(self):
-        return self.__class__.__name__
 
     def get_type(self):
         return 'plugin'

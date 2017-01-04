@@ -13,13 +13,15 @@ class BrutePlugin(BruteForcePlugin):
         content = f.readlines()
         f.close()
         results = []
-        authoritative_name_servers = get_authoritative(self.base_domain.domain_name)
+
+        name_servers = get_authoritative(self.base_domain.domain_name)
         for i in xrange(len(content)):
-            for j in xrange(len(authoritative_name_servers)):
+            for j in xrange(len(name_servers)):
                 result = dict()
                 result['pref'] = content[i]
-                result['ns'] = authoritative_name_servers[j]
+                result['ns'] = name_servers[j]
                 results.append(result)
+
         return results
 
     def worker(self, args):

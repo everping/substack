@@ -1,6 +1,5 @@
 import urllib
 from urlparse import urlparse
-from substack.data.exceptions import PluginException
 from substack.plugins.sub_domain_plugin import SubDomainPlugin
 
 
@@ -61,13 +60,13 @@ class SearchPlugin(SubDomainPlugin):
         return urlparse(my_url).netloc
 
     def dictionary(self):
+        """
+        We create a list of urls that based on this Search Engine
+        ;:return: a list instance
+        """
         urls = []
-        try:
-            total_pages = self.get_total_page()
-        except Exception as e:
-            raise PluginException(e)
+        total_pages = self.get_total_page()
         for i in xrange(total_pages):
             url = self.base_url.format(query=self.get_query(), page=self.get_page_no(i))
             urls.append(url)
-
         return urls
