@@ -46,6 +46,9 @@ class GooglePlugin(SearchPlugin):
         search_region = soup.find_all("div", attrs={"id": "search"})[0]
         search_cite = search_region.find_all("cite")
         for line in search_cite:
-            url = str(line.string.split()[0])
-            domain_name = self.parse_domain_name(url)
-            self.add(domain_name)
+            try:
+                url = str(line.string.split()[0])
+                domain_name = self.parse_domain_name(url)
+                self.add(domain_name)
+            except:
+                pass

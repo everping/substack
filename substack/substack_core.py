@@ -93,5 +93,7 @@ class SubStack:
     def start(self):
         self.init_plugins()
         self.targets = [Domain(domain_name) for domain_name in self.profile.get_target()]
-        self.sub()
+        subs = self.sub()
+        for sub in subs:
+            print sub.domain_name
         # self.port()

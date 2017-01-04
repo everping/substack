@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-
 from substack.plugins.search_plugin import SearchPlugin
 
 

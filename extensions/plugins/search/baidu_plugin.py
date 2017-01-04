@@ -1,3 +1,4 @@
+import time
 from bs4 import BeautifulSoup
 
 from substack.plugins.search_plugin import SearchPlugin
@@ -19,7 +20,7 @@ class BaiduPlugin(SearchPlugin):
         try:
             url = self.base_url.format(query=self.get_query(), page=self.max_page)
             content = self.requester.get(url).text
-
+            time.sleep(3)
             # http://stackoverflow.com/a/25661119/6805843
             soup = BeautifulSoup(content, "html5lib")
             div_page = soup.find('div', id="page")

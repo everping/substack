@@ -75659,3 +75659,1295 @@ ValueError: max() arg is an empty sequence
 [ERROR] 2017-01-04 16:23:13,335  The query meet timeout, so i broke it
 [ERROR] 2017-01-04 16:23:13,335  The query meet timeout, so i broke it
 [ERROR] 2017-01-04 16:23:13,354  The query meet timeout, so i broke it
+[INFO] 2017-01-04 16:36:04,769  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:36:04,769  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:36:05,681  Ask blocked the request
+[INFO] 2017-01-04 16:37:06,936  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:37:06,937  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:07,390  Ask blocked the request
+[INFO] 2017-01-04 16:37:07,500  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:09,273  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2017-01-04 16:37:09,273  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2017-01-04 16:37:09,273  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2017-01-04 16:37:09,273  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:09,634  Ask blocked the request
+[INFO] 2017-01-04 16:37:09,746  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:10,125  Ask blocked the request
+[INFO] 2017-01-04 16:37:10,236  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:10,630  Ask blocked the request
+[INFO] 2017-01-04 16:37:10,740  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:12,677  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:14,009  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:40,592  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:37:40,592  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:41,009  Ask blocked the request
+[INFO] 2017-01-04 16:37:41,119  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:42,400  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:37:44,269  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2017-01-04 16:37:44,269  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2017-01-04 16:37:44,269  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2017-01-04 16:37:44,269  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2017-01-04 16:37:44,269  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2017-01-04 16:37:44,269  New domain was found by BingPlugin: ios.bkav.com
+[INFO] 2017-01-04 16:37:44,269  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2017-01-04 16:37:44,269  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:44,611  Ask blocked the request
+[INFO] 2017-01-04 16:37:44,720  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:45,051  Ask blocked the request
+[INFO] 2017-01-04 16:37:45,161  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:45,509  Ask blocked the request
+[INFO] 2017-01-04 16:37:45,618  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:45,969  Ask blocked the request
+[INFO] 2017-01-04 16:37:46,078  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:46,430  Ask blocked the request
+[INFO] 2017-01-04 16:37:46,539  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:46,885  Ask blocked the request
+[INFO] 2017-01-04 16:37:46,996  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:37:47,349  Ask blocked the request
+[INFO] 2017-01-04 16:37:47,459  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:49,510  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:50,895  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:52,576  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:53,532  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:54,553  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:55,555  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:37:56,505  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:37:57,447  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:37:58,500  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:37:59,430  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:38:00,492  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:38:01,459  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:38:03,108  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:38:33,414  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:38:33,415  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:33,859  Ask blocked the request
+[INFO] 2017-01-04 16:38:33,970  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:38:35,569  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:38:37,059  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2017-01-04 16:38:37,059  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2017-01-04 16:38:37,059  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2017-01-04 16:38:37,059  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2017-01-04 16:38:37,059  New domain was found by BingPlugin: ios.bkav.com
+[INFO] 2017-01-04 16:38:37,059  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2017-01-04 16:38:37,061  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2017-01-04 16:38:37,061  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:37,430  Ask blocked the request
+[INFO] 2017-01-04 16:38:37,540  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:37,904  Ask blocked the request
+[INFO] 2017-01-04 16:38:38,015  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:38,368  Ask blocked the request
+[INFO] 2017-01-04 16:38:38,476  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:38,845  Ask blocked the request
+[INFO] 2017-01-04 16:38:38,954  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:39,329  Ask blocked the request
+[INFO] 2017-01-04 16:38:39,440  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:39,805  Ask blocked the request
+[INFO] 2017-01-04 16:38:39,914  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:38:40,397  Ask blocked the request
+[INFO] 2017-01-04 16:38:40,506  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:38:42,506  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:38:43,828  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:38:45,506  Plugin BaiduPlugin has been activated
+[ERROR] 2017-01-04 16:38:45,865  I don't know why this error occurred, so I log it
+My URL: http://www.baidu.com/s?wd=site:mobile2.bkav.com&pn=500
+Traceback (most recent call last):
+  File "D:\Everping\Work\Projects\substack\substack\data\requester.py", line 27, in get
+    return requests.get(url, headers=self._headers, proxies=self._proxies)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python27\lib\site-packages\requests-2.11.1-py2.7.egg\requests\adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+[INFO] 2017-01-04 16:43:38,766  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:43:38,766  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:39,210  Ask blocked the request
+[INFO] 2017-01-04 16:43:39,322  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:43:43,566  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:43:45,413  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2017-01-04 16:43:45,413  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2017-01-04 16:43:45,413  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2017-01-04 16:43:45,413  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2017-01-04 16:43:45,413  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2017-01-04 16:43:45,413  New domain was found by BingPlugin: ios.bkav.com
+[INFO] 2017-01-04 16:43:45,413  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2017-01-04 16:43:45,413  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:45,760  Ask blocked the request
+[INFO] 2017-01-04 16:43:45,871  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:46,240  Ask blocked the request
+[INFO] 2017-01-04 16:43:46,351  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:46,778  Ask blocked the request
+[INFO] 2017-01-04 16:43:46,887  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:47,239  Ask blocked the request
+[INFO] 2017-01-04 16:43:47,348  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:47,778  Ask blocked the request
+[INFO] 2017-01-04 16:43:47,887  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:48,329  Ask blocked the request
+[INFO] 2017-01-04 16:43:48,440  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:43:48,809  Ask blocked the request
+[INFO] 2017-01-04 16:43:48,917  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:43:53,588  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:43:57,667  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:44:01,984  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:44:05,618  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:44:09,301  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:44:12,917  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:44:16,589  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:44:17,509  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:44:18,473  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:44:19,401  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:44:20,348  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:44:21,440  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:44:22,381  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:45:29,142  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:45:29,142  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:29,566  Ask blocked the request
+[INFO] 2017-01-04 16:45:29,677  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:45:33,884  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:45:35,747  New domain was found by BaiduPlugin: www.bkav.com
+[INFO] 2017-01-04 16:45:35,747  New domain was found by BaiduPlugin: security.bkav.com
+[INFO] 2017-01-04 16:45:35,747  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[INFO] 2017-01-04 16:45:35,747  New domain was found by BingPlugin: mobile2.bkav.com
+[INFO] 2017-01-04 16:45:35,747  New domain was found by BingPlugin: btm.bkav.com
+[INFO] 2017-01-04 16:45:35,747  New domain was found by BingPlugin: ios.bkav.com
+[INFO] 2017-01-04 16:45:35,747  New domain was found by BingPlugin: ca.bkav.com
+[INFO] 2017-01-04 16:45:35,747  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:36,118  Ask blocked the request
+[INFO] 2017-01-04 16:45:36,226  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:36,611  Ask blocked the request
+[INFO] 2017-01-04 16:45:36,720  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:37,119  Ask blocked the request
+[INFO] 2017-01-04 16:45:37,227  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:37,572  Ask blocked the request
+[INFO] 2017-01-04 16:45:37,681  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:38,061  Ask blocked the request
+[INFO] 2017-01-04 16:45:38,171  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:38,552  Ask blocked the request
+[INFO] 2017-01-04 16:45:38,661  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:45:39,062  Ask blocked the request
+[INFO] 2017-01-04 16:45:39,173  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:45:44,381  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:45:48,451  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:45:52,825  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:45:56,565  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:46:00,151  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:46:03,775  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:46:07,451  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:46:08,394  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:46:09,325  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:46:10,312  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:46:11,358  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:46:12,321  Plugin BingPlugin has been activated
+[INFO] 2017-01-04 16:46:13,230  Plugin BingPlugin has been activated
+[    INFO] 2017-01-04 16:47:00,697  Start finding sub-domains of [u'bkav.com']
+[    INFO] 2017-01-04 16:47:00,697  Plugin AskPlugin has been activated
+[   ERROR] 2017-01-04 16:47:01,282  Ask blocked the request
+[    INFO] 2017-01-04 16:47:01,392  Plugin BaiduPlugin has been activated
+[INFO] 2017-01-04 16:47:15,227  Start finding sub-domains of [u'bkav.com']
+[INFO] 2017-01-04 16:47:15,227  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:47:16,187  Ask blocked the request
+[INFO] 2017-01-04 16:47:16,299  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 16:47:24,242  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:47:24,242  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:47:24,674  Ask blocked the request
+[ INFO] 2017-01-04 16:47:24,785  Plugin BaiduPlugin has been activated
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 13996, 'created': 1483523253.978, 'process': 8044, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 20, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 27, 'asctime': '2017-01-04 16:47:33,977', 'msg': "Start finding sub-domains of [u'bkav.com']", 'exc_info': None, 'message': "Start finding sub-domains of [u'bkav.com']", 'funcName': 'info', 'relativeCreated': 182.999849319458, 'levelname': 'INFO', 'msecs': 977.9999256134033}(levelname)5s] 2017-01-04 16:47:33,977  Start finding sub-domains of [u'bkav.com']
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 13996, 'created': 1483523253.978, 'process': 8044, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 20, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 27, 'asctime': '2017-01-04 16:47:33,977', 'msg': 'Plugin AskPlugin has been activated', 'exc_info': None, 'message': 'Plugin AskPlugin has been activated', 'funcName': 'info', 'relativeCreated': 182.999849319458, 'levelname': 'INFO', 'msecs': 977.9999256134033}(levelname)5s] 2017-01-04 16:47:33,977  Plugin AskPlugin has been activated
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 13996, 'created': 1483523254.369, 'process': 8044, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 40, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 36, 'asctime': '2017-01-04 16:47:34,368', 'msg': 'Ask blocked the request', 'exc_info': None, 'message': 'Ask blocked the request', 'funcName': 'error', 'relativeCreated': 573.9998817443848, 'levelname': 'ERROR', 'msecs': 368.9999580383301}(levelname)5s] 2017-01-04 16:47:34,368  Ask blocked the request
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 13996, 'created': 1483523254.479, 'process': 8044, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 20, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 27, 'asctime': '2017-01-04 16:47:34,479', 'msg': 'Plugin BaiduPlugin has been activated', 'exc_info': None, 'message': 'Plugin BaiduPlugin has been activated', 'funcName': 'info', 'relativeCreated': 684.0000152587891, 'levelname': 'INFO', 'msecs': 479.0000915527344}(levelname)5s] 2017-01-04 16:47:34,479  Plugin BaiduPlugin has been activated
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 15400, 'created': 1483523261.472, 'process': 2736, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 20, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 27, 'asctime': '2017-01-04 16:47:41,471', 'msg': "Start finding sub-domains of [u'bkav.com']", 'exc_info': None, 'message': "Start finding sub-domains of [u'bkav.com']", 'funcName': 'info', 'relativeCreated': 180.9999942779541, 'levelname': 'INFO', 'msecs': 471.9998836517334}(levelname)] 2017-01-04 16:47:41,471  Start finding sub-domains of [u'bkav.com']
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 15400, 'created': 1483523261.472, 'process': 2736, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 20, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 27, 'asctime': '2017-01-04 16:47:41,471', 'msg': 'Plugin AskPlugin has been activated', 'exc_info': None, 'message': 'Plugin AskPlugin has been activated', 'funcName': 'info', 'relativeCreated': 180.9999942779541, 'levelname': 'INFO', 'msecs': 471.9998836517334}(levelname)] 2017-01-04 16:47:41,471  Plugin AskPlugin has been activated
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 15400, 'created': 1483523261.83, 'process': 2736, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 40, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 36, 'asctime': '2017-01-04 16:47:41,829', 'msg': 'Ask blocked the request', 'exc_info': None, 'message': 'Ask blocked the request', 'funcName': 'error', 'relativeCreated': 539.0000343322754, 'levelname': 'ERROR', 'msecs': 829.9999237060547}(levelname)] 2017-01-04 16:47:41,829  Ask blocked the request
+[{'threadName': 'MainThread', 'name': 'SubStack', 'thread': 15400, 'created': 1483523261.94, 'process': 2736, 'processName': 'MainProcess', 'args': (), 'module': 'logger', 'filename': 'logger.py', 'levelno': 20, 'exc_text': None, 'pathname': 'D:\\Everping\\Work\\Projects\\substack\\substack\\data\\logger.py', 'lineno': 27, 'asctime': '2017-01-04 16:47:41,940', 'msg': 'Plugin BaiduPlugin has been activated', 'exc_info': None, 'message': 'Plugin BaiduPlugin has been activated', 'funcName': 'info', 'relativeCreated': 649.0001678466797, 'levelname': 'INFO', 'msecs': 940.000057220459}(levelname)] 2017-01-04 16:47:41,940  Plugin BaiduPlugin has been activated
+[(levelname)5s] 2017-01-04 16:48:52,072  Start finding sub-domains of [u'bkav.com']
+[(levelname)5s] 2017-01-04 16:48:52,072  Plugin AskPlugin has been activated
+[(levelname)5s] 2017-01-04 16:48:52,506  Ask blocked the request
+[(levelname)5s] 2017-01-04 16:48:52,615  Plugin BaiduPlugin has been activated
+[(levelname)5s] 2017-01-04 16:48:56,957  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:48:59,025  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:48:59,025  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:48:59,411  Ask blocked the request
+[ INFO] 2017-01-04 16:48:59,520  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 16:49:03,424  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:49:05,130  New domain was found by BaiduPlugin: www.bkav.com
+[ INFO] 2017-01-04 16:49:05,130  New domain was found by BaiduPlugin: security.bkav.com
+[ INFO] 2017-01-04 16:49:05,130  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[ INFO] 2017-01-04 16:49:05,130  New domain was found by BingPlugin: mobile2.bkav.com
+[ INFO] 2017-01-04 16:49:05,130  New domain was found by BingPlugin: ios.bkav.com
+[ INFO] 2017-01-04 16:49:05,130  New domain was found by BingPlugin: btm.bkav.com
+[ INFO] 2017-01-04 16:49:05,131  New domain was found by BingPlugin: ca.bkav.com
+[ INFO] 2017-01-04 16:49:05,131  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:49:05,520  Ask blocked the request
+[ INFO] 2017-01-04 16:49:05,630  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:49:06,013  Ask blocked the request
+[ INFO] 2017-01-04 16:49:06,122  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:49:06,473  Ask blocked the request
+[ INFO] 2017-01-04 16:49:06,585  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:49:06,971  Ask blocked the request
+[ INFO] 2017-01-04 16:49:07,082  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:49:07,440  Ask blocked the request
+[ INFO] 2017-01-04 16:49:07,551  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:49:07,901  Ask blocked the request
+[ INFO] 2017-01-04 16:49:08,010  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:49:08,355  Ask blocked the request
+[ INFO] 2017-01-04 16:49:08,464  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 16:49:13,154  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 16:50:08,565  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:50:08,565  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:50:08,983  Ask blocked the request
+[ INFO] 2017-01-04 16:50:09,094  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 16:50:13,355  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:50:15,207  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:51:31,395  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:51:31,395  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:51:31,799  Ask blocked the request
+[ INFO] 2017-01-04 16:51:31,908  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 16:51:41,710  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:51:41,710  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:51:42,065  Ask blocked the request
+[ INFO] 2017-01-04 16:51:42,177  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:51:44,967  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:53:04,822  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:53:04,822  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:05,255  Ask blocked the request
+[ INFO] 2017-01-04 16:53:05,365  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:53:07,528  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by BingPlugin: www.smarthome.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by BingPlugin: btm.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by BingPlugin: security.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by BingPlugin: www.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by BingPlugin: mobile2.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by BingPlugin: ios.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by BingPlugin: ca.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: bkis146.bkav.com.vn.
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: bkis145.bkav.com.vn.
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: analytics.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: apibdrive.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail130.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail148.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail149.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail206.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail207.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail208.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail209.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail210.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail212.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail213.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail214.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail215.bkav.com
+[ INFO] 2017-01-04 16:53:24,726  New domain was found by DnsDumpsterPlugin: mail216.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail217.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail218.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail219.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail220.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail221.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail222.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail223.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail224.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail225.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail226.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail227.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail228.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail229.bkav.com
+[ INFO] 2017-01-04 16:53:24,727  New domain was found by DnsDumpsterPlugin: mail2.bkav.com
+[ INFO] 2017-01-04 16:53:24,729  New domain was found by DnsDumpsterPlugin: qlts.bkav.com
+[ INFO] 2017-01-04 16:53:24,729  New domain was found by DnsDumpsterPlugin: smarthome.bkav.com
+[ INFO] 2017-01-04 16:53:24,729  New domain was found by DnsDumpsterPlugin: mail4.bkav.com
+[ INFO] 2017-01-04 16:53:24,729  New domain was found by DnsDumpsterPlugin: mail18.bkav.com
+[ INFO] 2017-01-04 16:53:24,729  New domain was found by DnsDumpsterPlugin: mail.bkav.com
+[ INFO] 2017-01-04 16:53:24,729  New domain was found by DnsDumpsterPlugin: mta1.bkav.com
+[ INFO] 2017-01-04 16:53:24,729  New domain was found by DnsDumpsterPlugin: store.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail14.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail13.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail10.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail15.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail17.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail19.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail9.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail11.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail16.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail40.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail42.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail44.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail45.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail46.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail47.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail48.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail49.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail50.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail60.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail53.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail54.bkav.com
+[ INFO] 2017-01-04 16:53:24,730  New domain was found by DnsDumpsterPlugin: mail55.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail56.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail57.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail59.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail61.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail58.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail62.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail63.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mail8.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: mobile.bkav.com
+[ INFO] 2017-01-04 16:53:24,732  New domain was found by DnsDumpsterPlugin: webscan.bkav.com
+[ INFO] 2017-01-04 16:53:24,733  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:25,158  Ask blocked the request
+[ INFO] 2017-01-04 16:53:25,272  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:25,726  Ask blocked the request
+[ INFO] 2017-01-04 16:53:25,836  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:26,193  Ask blocked the request
+[ INFO] 2017-01-04 16:53:26,303  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:26,727  Ask blocked the request
+[ INFO] 2017-01-04 16:53:26,836  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:27,223  Ask blocked the request
+[ INFO] 2017-01-04 16:53:27,334  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:27,687  Ask blocked the request
+[ INFO] 2017-01-04 16:53:27,799  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:28,201  Ask blocked the request
+[ INFO] 2017-01-04 16:53:28,312  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:28,671  Ask blocked the request
+[ INFO] 2017-01-04 16:53:28,779  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:29,131  Ask blocked the request
+[ INFO] 2017-01-04 16:53:29,242  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:29,628  Ask blocked the request
+[ INFO] 2017-01-04 16:53:29,736  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:30,141  Ask blocked the request
+[ INFO] 2017-01-04 16:53:30,249  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:30,608  Ask blocked the request
+[ INFO] 2017-01-04 16:53:30,717  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:31,101  Ask blocked the request
+[ INFO] 2017-01-04 16:53:31,210  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:31,566  Ask blocked the request
+[ INFO] 2017-01-04 16:53:31,677  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:32,388  Ask blocked the request
+[ INFO] 2017-01-04 16:53:32,499  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:32,855  Ask blocked the request
+[ INFO] 2017-01-04 16:53:32,966  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:33,318  Ask blocked the request
+[ INFO] 2017-01-04 16:53:33,427  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:33,786  Ask blocked the request
+[ INFO] 2017-01-04 16:53:33,895  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:34,285  Ask blocked the request
+[ INFO] 2017-01-04 16:53:34,395  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:34,769  Ask blocked the request
+[ INFO] 2017-01-04 16:53:34,880  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:35,255  Ask blocked the request
+[ INFO] 2017-01-04 16:53:35,365  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:35,737  Ask blocked the request
+[ INFO] 2017-01-04 16:53:35,848  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:36,247  Ask blocked the request
+[ INFO] 2017-01-04 16:53:36,357  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:36,713  Ask blocked the request
+[ INFO] 2017-01-04 16:53:36,823  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:37,203  Ask blocked the request
+[ INFO] 2017-01-04 16:53:37,315  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:37,651  Ask blocked the request
+[ INFO] 2017-01-04 16:53:37,760  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:38,122  Ask blocked the request
+[ INFO] 2017-01-04 16:53:38,232  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:38,585  Ask blocked the request
+[ INFO] 2017-01-04 16:53:38,694  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:39,052  Ask blocked the request
+[ INFO] 2017-01-04 16:53:39,161  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:39,532  Ask blocked the request
+[ INFO] 2017-01-04 16:53:39,642  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:39,997  Ask blocked the request
+[ INFO] 2017-01-04 16:53:40,107  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:40,457  Ask blocked the request
+[ INFO] 2017-01-04 16:53:40,566  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:40,927  Ask blocked the request
+[ INFO] 2017-01-04 16:53:41,039  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:41,391  Ask blocked the request
+[ INFO] 2017-01-04 16:53:41,500  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:41,944  Ask blocked the request
+[ INFO] 2017-01-04 16:53:42,055  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:42,448  Ask blocked the request
+[ INFO] 2017-01-04 16:53:42,559  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:42,910  Ask blocked the request
+[ INFO] 2017-01-04 16:53:43,019  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:43,369  Ask blocked the request
+[ INFO] 2017-01-04 16:53:43,479  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:43,881  Ask blocked the request
+[ INFO] 2017-01-04 16:53:43,990  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:44,352  Ask blocked the request
+[ INFO] 2017-01-04 16:53:44,463  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:44,802  Ask blocked the request
+[ INFO] 2017-01-04 16:53:44,913  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:45,267  Ask blocked the request
+[ INFO] 2017-01-04 16:53:45,378  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:45,746  Ask blocked the request
+[ INFO] 2017-01-04 16:53:45,855  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:46,210  Ask blocked the request
+[ INFO] 2017-01-04 16:53:46,319  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:46,719  Ask blocked the request
+[ INFO] 2017-01-04 16:53:46,829  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:47,262  Ask blocked the request
+[ INFO] 2017-01-04 16:53:47,371  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:47,724  Ask blocked the request
+[ INFO] 2017-01-04 16:53:47,835  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:48,183  Ask blocked the request
+[ INFO] 2017-01-04 16:53:48,292  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:48,684  Ask blocked the request
+[ INFO] 2017-01-04 16:53:48,796  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:49,144  Ask blocked the request
+[ INFO] 2017-01-04 16:53:49,253  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:49,759  Ask blocked the request
+[ INFO] 2017-01-04 16:53:49,869  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:50,229  Ask blocked the request
+[ INFO] 2017-01-04 16:53:50,338  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:50,855  Ask blocked the request
+[ INFO] 2017-01-04 16:53:50,964  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:51,338  Ask blocked the request
+[ INFO] 2017-01-04 16:53:51,446  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:51,808  Ask blocked the request
+[ INFO] 2017-01-04 16:53:51,917  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:52,375  Ask blocked the request
+[ INFO] 2017-01-04 16:53:52,486  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:53,038  Ask blocked the request
+[ INFO] 2017-01-04 16:53:53,147  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:53,494  Ask blocked the request
+[ INFO] 2017-01-04 16:53:53,605  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:53,944  Ask blocked the request
+[ INFO] 2017-01-04 16:53:54,053  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:54,384  Ask blocked the request
+[ INFO] 2017-01-04 16:53:54,493  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:54,854  Ask blocked the request
+[ INFO] 2017-01-04 16:53:54,963  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:55,332  Ask blocked the request
+[ INFO] 2017-01-04 16:53:55,443  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:55,802  Ask blocked the request
+[ INFO] 2017-01-04 16:53:55,911  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:56,269  Ask blocked the request
+[ INFO] 2017-01-04 16:53:56,380  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:56,921  Ask blocked the request
+[ INFO] 2017-01-04 16:53:57,030  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:57,367  Ask blocked the request
+[ INFO] 2017-01-04 16:53:57,477  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:57,859  Ask blocked the request
+[ INFO] 2017-01-04 16:53:57,970  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:58,312  Ask blocked the request
+[ INFO] 2017-01-04 16:53:58,421  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:58,772  Ask blocked the request
+[ INFO] 2017-01-04 16:53:58,881  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:59,394  Ask blocked the request
+[ INFO] 2017-01-04 16:53:59,503  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:53:59,862  Ask blocked the request
+[ INFO] 2017-01-04 16:53:59,971  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:54:00,312  Ask blocked the request
+[ INFO] 2017-01-04 16:54:00,421  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:54:00,766  Ask blocked the request
+[ INFO] 2017-01-04 16:54:00,875  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:54:01,217  Ask blocked the request
+[ INFO] 2017-01-04 16:54:01,328  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:54:01,677  Ask blocked the request
+[ INFO] 2017-01-04 16:54:01,785  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:54:02,177  Ask blocked the request
+[ INFO] 2017-01-04 16:54:02,286  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:54:02,630  Ask blocked the request
+[ INFO] 2017-01-04 16:54:02,740  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:03,674  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:04,671  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:05,701  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:06,625  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:07,588  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:08,523  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:09,530  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:10,454  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:11,407  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:12,357  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:13,523  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:14,953  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:16,186  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:17,115  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:18,572  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:19,497  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:20,480  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:21,436  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:22,559  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:23,486  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:24,519  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:25,440  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:26,407  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:27,710  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:29,066  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:29,986  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:30,934  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:32,403  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:33,326  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:34,279  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:35,630  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:36,555  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:37,476  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:38,739  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:39,923  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:40,944  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:41,898  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:42,821  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:43,749  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:44,895  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:45,825  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:46,806  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:47,819  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:48,851  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:49,838  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:50,756  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:51,815  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:52,832  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:53,763  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:54,696  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:55,688  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:57,023  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:58,121  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:54:59,043  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:00,210  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:01,168  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:02,160  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:03,181  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:04,140  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:05,121  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:06,046  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:06,983  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:07,969  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:08,904  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:09,891  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:10,846  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:11,805  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:12,773  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:14,184  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:15,107  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:16,078  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:17,028  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:20,799  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:22,025  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:23,042  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:24,104  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:55:25,121  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:55:29,861  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:55:34,391  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:55:38,618  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:55:43,052  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:55:46,977  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:55:50,907  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:55:57,546  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:00,970  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:03,390  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:07,717  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:12,049  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:17,078  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:21,206  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:25,132  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:29,861  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:34,193  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:38,736  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:42,762  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:46,690  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:56:50,085  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:56:50,085  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:56:50,517  Ask blocked the request
+[ INFO] 2017-01-04 16:56:50,627  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 16:56:52,694  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 16:57:05,628  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:57:05,628  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:57:06,016  Ask blocked the request
+[ INFO] 2017-01-04 16:57:06,128  Plugin GooglePlugin has been activated
+[ERROR] 2017-01-04 16:57:07,096  Google seems blocked my request
+[ INFO] 2017-01-04 16:57:52,075  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:57:52,075  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:57:52,505  Ask blocked the request
+[ INFO] 2017-01-04 16:57:52,615  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-01-04 16:57:53,430  Total of results: 2 for: bkav.com 
+[ INFO] 2017-01-04 16:57:53,526  New domain was found by NetcraftPlugin: www.bkav.com
+[ INFO] 2017-01-04 16:57:53,526  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:57:53,884  Ask blocked the request
+[ INFO] 2017-01-04 16:57:53,996  Plugin NetcraftPlugin has been activated
+[ERROR] 2017-01-04 16:57:58,841  Can not find any result for: www.bkav.com
+[ INFO] 2017-01-04 16:58:13,596  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:58:13,596  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:58:14,038  Ask blocked the request
+[ INFO] 2017-01-04 16:58:14,148  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-01-04 16:58:14,884  Total of results: 2 for: bkav.com 
+[ INFO] 2017-01-04 16:58:15,158  New domain was found by NetcraftPlugin: www.bkav.com
+[ INFO] 2017-01-04 16:58:15,160  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:58:15,686  Ask blocked the request
+[ INFO] 2017-01-04 16:58:15,796  Plugin NetcraftPlugin has been activated
+[ERROR] 2017-01-04 16:58:17,834  Can not find any result for: www.bkav.com
+[ INFO] 2017-01-04 16:59:22,808  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 16:59:22,809  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:23,230  Ask blocked the request
+[ INFO] 2017-01-04 16:59:23,342  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:29,881  New domain was found by PassiveDnsPlugin: qlts.bkav.com
+[ INFO] 2017-01-04 16:59:29,881  New domain was found by PassiveDnsPlugin: mail206.bkav.com
+[ INFO] 2017-01-04 16:59:29,881  New domain was found by PassiveDnsPlugin: mail207.bkav.com
+[ INFO] 2017-01-04 16:59:29,881  New domain was found by PassiveDnsPlugin: mail208.bkav.com
+[ INFO] 2017-01-04 16:59:29,881  New domain was found by PassiveDnsPlugin: mail229.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail16.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail.bkav.com.vn
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail58.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail63.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail49.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail51.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail8.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mktg.bkav.com.vn
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail140.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail144.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: mail149.bkav.com
+[ INFO] 2017-01-04 16:59:29,882  New domain was found by PassiveDnsPlugin: bkav.com.vn
+[ INFO] 2017-01-04 16:59:29,884  New domain was found by PassiveDnsPlugin: mta1.bkav.com
+[ INFO] 2017-01-04 16:59:29,884  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:30,253  Ask blocked the request
+[ INFO] 2017-01-04 16:59:30,364  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:30,766  Ask blocked the request
+[ INFO] 2017-01-04 16:59:30,875  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:31,226  Ask blocked the request
+[ INFO] 2017-01-04 16:59:31,334  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:31,747  Ask blocked the request
+[ INFO] 2017-01-04 16:59:31,857  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:32,390  Ask blocked the request
+[ INFO] 2017-01-04 16:59:32,500  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:32,892  Ask blocked the request
+[ INFO] 2017-01-04 16:59:33,003  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:33,369  Ask blocked the request
+[ INFO] 2017-01-04 16:59:33,480  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:33,907  Ask blocked the request
+[ INFO] 2017-01-04 16:59:34,017  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:34,388  Ask blocked the request
+[ INFO] 2017-01-04 16:59:34,497  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:34,855  Ask blocked the request
+[ INFO] 2017-01-04 16:59:34,964  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:35,322  Ask blocked the request
+[ INFO] 2017-01-04 16:59:35,431  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:35,779  Ask blocked the request
+[ INFO] 2017-01-04 16:59:35,888  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:36,308  Ask blocked the request
+[ INFO] 2017-01-04 16:59:36,417  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:36,888  Ask blocked the request
+[ INFO] 2017-01-04 16:59:36,997  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:37,361  Ask blocked the request
+[ INFO] 2017-01-04 16:59:37,470  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:37,812  Ask blocked the request
+[ INFO] 2017-01-04 16:59:37,921  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:38,289  Ask blocked the request
+[ INFO] 2017-01-04 16:59:38,398  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:38,805  Ask blocked the request
+[ INFO] 2017-01-04 16:59:38,914  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 16:59:39,259  Ask blocked the request
+[ INFO] 2017-01-04 16:59:39,371  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:40,081  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:41,494  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:42,407  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:43,217  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:44,230  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:48,760  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:51,078  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:52,592  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:54,005  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:55,019  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:56,132  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 16:59:57,450  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:03,890  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:05,102  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:06,114  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:06,825  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:07,737  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:08,650  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:35,763  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 17:00:35,763  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:36,193  Ask blocked the request
+[ INFO] 2017-01-04 17:00:36,303  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: qlts.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail206.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail207.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail208.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail229.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail16.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail.bkav.com.vn
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail58.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail63.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail49.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail51.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mail8.bkav.com
+[ INFO] 2017-01-04 17:00:39,424  New domain was found by PassiveDnsPlugin: mktg.bkav.com.vn
+[ INFO] 2017-01-04 17:00:39,426  New domain was found by PassiveDnsPlugin: mail140.bkav.com
+[ INFO] 2017-01-04 17:00:39,426  New domain was found by PassiveDnsPlugin: mail144.bkav.com
+[ INFO] 2017-01-04 17:00:39,426  New domain was found by PassiveDnsPlugin: mail149.bkav.com
+[ INFO] 2017-01-04 17:00:39,426  New domain was found by PassiveDnsPlugin: bkav.com.vn
+[ INFO] 2017-01-04 17:00:39,426  New domain was found by PassiveDnsPlugin: mta1.bkav.com
+[ INFO] 2017-01-04 17:00:39,426  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:39,776  Ask blocked the request
+[ INFO] 2017-01-04 17:00:39,885  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:40,253  Ask blocked the request
+[ INFO] 2017-01-04 17:00:40,361  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:40,724  Ask blocked the request
+[ INFO] 2017-01-04 17:00:40,835  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:41,201  Ask blocked the request
+[ INFO] 2017-01-04 17:00:41,312  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:41,651  Ask blocked the request
+[ INFO] 2017-01-04 17:00:41,759  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:42,131  Ask blocked the request
+[ INFO] 2017-01-04 17:00:42,240  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:42,599  Ask blocked the request
+[ INFO] 2017-01-04 17:00:42,710  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:43,055  Ask blocked the request
+[ INFO] 2017-01-04 17:00:43,164  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:43,500  Ask blocked the request
+[ INFO] 2017-01-04 17:00:43,609  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:43,967  Ask blocked the request
+[ INFO] 2017-01-04 17:00:44,075  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:44,470  Ask blocked the request
+[ INFO] 2017-01-04 17:00:44,579  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:44,983  Ask blocked the request
+[ INFO] 2017-01-04 17:00:45,092  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:45,529  Ask blocked the request
+[ INFO] 2017-01-04 17:00:45,637  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:46,085  Ask blocked the request
+[ INFO] 2017-01-04 17:00:46,194  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:46,526  Ask blocked the request
+[ INFO] 2017-01-04 17:00:46,637  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:47,022  Ask blocked the request
+[ INFO] 2017-01-04 17:00:47,131  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:47,473  Ask blocked the request
+[ INFO] 2017-01-04 17:00:47,582  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:47,950  Ask blocked the request
+[ INFO] 2017-01-04 17:00:48,059  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:00:48,451  Ask blocked the request
+[ INFO] 2017-01-04 17:00:48,559  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:49,168  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:49,779  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:50,492  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:51,203  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:51,917  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:52,630  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:54,454  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:55,970  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:56,582  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:57,292  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:58,000  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:58,711  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:00:59,622  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:01:00,332  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:01:01,141  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:01:01,852  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:01:02,565  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:01:03,476  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:02:42,683  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 17:02:42,683  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:43,158  Ask blocked the request
+[ INFO] 2017-01-04 17:02:43,267  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: sample.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: store.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: chatmanagement.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: mail2.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: files.btalk.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: mta1.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: smarthome.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: mail13.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: forum.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: btm.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: btalk.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: chat.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: www.smarthome.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: cloudav.bkav.com
+[ INFO] 2017-01-04 17:02:48,805  New domain was found by VirusTotalPlugin: sdreport.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: bkavprobmail.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: clip.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: bcos.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: adboard.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: mobile2.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: ios.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: mobile.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: setup.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: analytics.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: security.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  New domain was found by VirusTotalPlugin: www.bkav.com
+[ INFO] 2017-01-04 17:02:48,806  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:49,210  Ask blocked the request
+[ INFO] 2017-01-04 17:02:49,319  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:49,681  Ask blocked the request
+[ INFO] 2017-01-04 17:02:49,790  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:50,226  Ask blocked the request
+[ INFO] 2017-01-04 17:02:50,335  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:50,700  Ask blocked the request
+[ INFO] 2017-01-04 17:02:50,809  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:51,171  Ask blocked the request
+[ INFO] 2017-01-04 17:02:51,280  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:51,644  Ask blocked the request
+[ INFO] 2017-01-04 17:02:51,753  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:52,114  Ask blocked the request
+[ INFO] 2017-01-04 17:02:52,223  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:52,697  Ask blocked the request
+[ INFO] 2017-01-04 17:02:52,806  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:53,165  Ask blocked the request
+[ INFO] 2017-01-04 17:02:53,273  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:53,673  Ask blocked the request
+[ INFO] 2017-01-04 17:02:53,782  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:54,158  Ask blocked the request
+[ INFO] 2017-01-04 17:02:54,267  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:54,691  Ask blocked the request
+[ INFO] 2017-01-04 17:02:54,799  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:55,161  Ask blocked the request
+[ INFO] 2017-01-04 17:02:55,270  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:55,632  Ask blocked the request
+[ INFO] 2017-01-04 17:02:55,743  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:56,279  Ask blocked the request
+[ INFO] 2017-01-04 17:02:56,390  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:56,871  Ask blocked the request
+[ INFO] 2017-01-04 17:02:56,980  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:57,357  Ask blocked the request
+[ INFO] 2017-01-04 17:02:57,466  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:58,007  Ask blocked the request
+[ INFO] 2017-01-04 17:02:58,115  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:58,519  Ask blocked the request
+[ INFO] 2017-01-04 17:02:58,628  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:58,999  Ask blocked the request
+[ INFO] 2017-01-04 17:02:59,105  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:02:59,466  Ask blocked the request
+[ INFO] 2017-01-04 17:02:59,575  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:03:00,059  Ask blocked the request
+[ INFO] 2017-01-04 17:03:00,167  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:03:00,526  Ask blocked the request
+[ INFO] 2017-01-04 17:03:00,635  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:03:01,059  Ask blocked the request
+[ INFO] 2017-01-04 17:03:01,170  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:03:01,614  Ask blocked the request
+[ INFO] 2017-01-04 17:03:01,723  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:03:02,266  Ask blocked the request
+[ INFO] 2017-01-04 17:03:02,375  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-01-04 17:03:04,191  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-01-04 17:03:05,607  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-01-04 17:03:06,920  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-01-04 17:03:08,233  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:09,305  Captcha_detected
+[ INFO] 2017-01-04 17:03:09,346  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:10,411  Captcha_detected
+[ INFO] 2017-01-04 17:03:10,460  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:11,381  Captcha_detected
+[ INFO] 2017-01-04 17:03:11,474  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:12,624  Captcha_detected
+[ INFO] 2017-01-04 17:03:12,687  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:14,078  Captcha_detected
+[ INFO] 2017-01-04 17:03:14,101  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:15,000  Captcha_detected
+[ INFO] 2017-01-04 17:03:15,012  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:16,073  Captcha_detected
+[ INFO] 2017-01-04 17:03:16,125  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:17,069  Captcha_detected
+[ INFO] 2017-01-04 17:03:17,140  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:18,331  Captcha_detected
+[ INFO] 2017-01-04 17:03:18,352  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:19,332  Captcha_detected
+[ INFO] 2017-01-04 17:03:19,365  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:20,323  Captcha_detected
+[ INFO] 2017-01-04 17:03:20,378  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:21,292  Captcha_detected
+[ INFO] 2017-01-04 17:03:21,390  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:22,473  Captcha_detected
+[ INFO] 2017-01-04 17:03:22,506  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:23,476  Captcha_detected
+[ INFO] 2017-01-04 17:03:23,520  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:24,665  Captcha_detected
+[ INFO] 2017-01-04 17:03:24,736  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:25,717  Captcha_detected
+[ INFO] 2017-01-04 17:03:25,746  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:26,707  Captcha_detected
+[ INFO] 2017-01-04 17:03:26,759  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:27,743  Captcha_detected
+[ INFO] 2017-01-04 17:03:27,772  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:28,776  Captcha_detected
+[ INFO] 2017-01-04 17:03:28,785  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:29,697  Captcha_detected
+[ INFO] 2017-01-04 17:03:29,796  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:30,815  Captcha_detected
+[ INFO] 2017-01-04 17:03:30,910  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:03:31,808  Captcha_detected
+[ INFO] 2017-01-04 17:04:03,178  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 17:04:03,178  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:04:03,690  Ask blocked the request
+[ INFO] 2017-01-04 17:04:03,799  Plugin ThreatCrowdPlugin has been activated
+[ INFO] 2017-01-04 17:04:48,638  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 17:04:48,638  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:04:49,131  Ask blocked the request
+[ INFO] 2017-01-04 17:04:49,240  Plugin YahooPlugin has been activated
+[ INFO] 2017-01-04 17:04:50,900  max_page down to 250 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:04:52,173  max_page down to 200 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:04:53,408  max_page down to 150 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:04:54,733  max_page down to 100 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:04:56,148  max_page down to 50 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:04:57,461  max_page down to 0 since bot can not get any infor about total_page
+[ERROR] 2017-01-04 17:04:58,924  Failed to get current seed but that means there are no more subdomain for this base_domain
+[ INFO] 2017-01-04 17:05:32,371  Start finding sub-domains of [u'bkav.com']
+[ INFO] 2017-01-04 17:05:32,371  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:05:32,773  Ask blocked the request
+[ INFO] 2017-01-04 17:05:32,884  Plugin BaiduPlugin has been activated
+[ INFO] 2017-01-04 17:05:37,338  Plugin BingPlugin has been activated
+[ INFO] 2017-01-04 17:05:39,331  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-01-04 17:05:57,427  Plugin GooglePlugin has been activated
+[ERROR] 2017-01-04 17:05:58,032  Google seems blocked my request
+[ INFO] 2017-01-04 17:05:58,141  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-01-04 17:05:58,934  Total of results: 2 for: bkav.com 
+[ INFO] 2017-01-04 17:05:58,951  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-01-04 17:06:00,466  Plugin VirusTotalPlugin has been activated
+[ERROR] 2017-01-04 17:06:01,447  Captcha_detected
+[ INFO] 2017-01-04 17:06:01,479  Plugin ThreatCrowdPlugin has been activated
+[ INFO] 2017-01-04 17:06:02,691  Plugin YahooPlugin has been activated
+[ INFO] 2017-01-04 17:06:03,937  max_page down to 250 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:06:05,240  max_page down to 200 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:06:07,137  max_page down to 150 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:06:08,368  max_page down to 100 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:06:09,640  max_page down to 50 since bot can not get any infor about total_page
+[ INFO] 2017-01-04 17:06:10,940  max_page down to 0 since bot can not get any infor about total_page
+[ERROR] 2017-01-04 17:06:12,651  Failed to get current seed but that means there are no more subdomain for this base_domain
+[ INFO] 2017-01-04 17:06:12,759  Plugin DNSPlugin has been activated
+[ INFO] 2017-01-04 17:06:32,473  New domain was found by BaiduPlugin: www.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by BaiduPlugin: security.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by BaiduPlugin: www.smarthome.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by BingPlugin: mobile2.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by BingPlugin: btm.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by BingPlugin: ios.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by BingPlugin: ca.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by DnsDumpsterPlugin: bkis145.bkav.com.vn.
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by DnsDumpsterPlugin: bkis146.bkav.com.vn.
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by DnsDumpsterPlugin: analytics.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by DnsDumpsterPlugin: apibdrive.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by DnsDumpsterPlugin: mail130.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by DnsDumpsterPlugin: mail148.bkav.com
+[ INFO] 2017-01-04 17:06:32,474  New domain was found by DnsDumpsterPlugin: mail149.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail206.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail207.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail208.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail209.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail210.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail212.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail213.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail214.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail215.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail216.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail217.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail218.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail219.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail220.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail221.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail222.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail223.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail224.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail225.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail226.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail227.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail228.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail229.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: mail2.bkav.com
+[ INFO] 2017-01-04 17:06:32,476  New domain was found by DnsDumpsterPlugin: qlts.bkav.com
+[ INFO] 2017-01-04 17:06:32,477  New domain was found by DnsDumpsterPlugin: smarthome.bkav.com
+[ INFO] 2017-01-04 17:06:32,477  New domain was found by DnsDumpsterPlugin: mail4.bkav.com
+[ INFO] 2017-01-04 17:06:32,477  New domain was found by DnsDumpsterPlugin: mail18.bkav.com
+[ INFO] 2017-01-04 17:06:32,477  New domain was found by DnsDumpsterPlugin: mail.bkav.com
+[ INFO] 2017-01-04 17:06:32,477  New domain was found by DnsDumpsterPlugin: mta1.bkav.com
+[ INFO] 2017-01-04 17:06:32,477  New domain was found by DnsDumpsterPlugin: store.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail14.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail13.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail10.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail15.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail17.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail19.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail9.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail11.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail16.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail40.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail42.bkav.com
+[ INFO] 2017-01-04 17:06:32,479  New domain was found by DnsDumpsterPlugin: mail44.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail45.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail46.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail47.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail48.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail49.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail50.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail60.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail53.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail54.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail55.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail56.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail57.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail59.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail61.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail58.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail62.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail63.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mail8.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: mobile.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by DnsDumpsterPlugin: webscan.bkav.com
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by PassiveDnsPlugin: mail.bkav.com.vn
+[ INFO] 2017-01-04 17:06:32,480  New domain was found by PassiveDnsPlugin: mail51.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by PassiveDnsPlugin: mktg.bkav.com.vn
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by PassiveDnsPlugin: mail140.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by PassiveDnsPlugin: mail144.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by PassiveDnsPlugin: bkav.com.vn
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: bkis146.bkav.com.vn
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: adboard.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: agent.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: auth.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: backupvpn.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: bbm.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: bcall.bkav.com
+[ INFO] 2017-01-04 17:06:32,482  New domain was found by DNSPlugin: bcalltest.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bcg.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bcos.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bct.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: beta.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bkavbmail.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bkavegov.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bkavegovonline.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bkaventerprise.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bkavprobmail.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bke.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bkis145.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bmail.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bmailbrvt.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: bni.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: info.bphone.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: ota.bphone.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: radio.bphone.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: btalk.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: dkupfile.btalk.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: files.btalk.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: test.btalk.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: calendar.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: chat.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: chatmanagement.bkav.com
+[ INFO] 2017-01-04 17:06:32,483  New domain was found by DNSPlugin: chongbanphagia.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: clip.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: cloud.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: cloudav.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: vpns2s.bkav.com.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: daily.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: demoehrm.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: dns.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: egovbrvt.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: egovdemo.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: egovmaildemo.bkav.com
+[ INFO] 2017-01-04 17:06:32,484  New domain was found by DNSPlugin: egovonline.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: egovonlinebrvt.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: eofficeplus.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: epchome.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: event.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: fapps.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: fileservicedemo.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: forum.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ftk.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ftp.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ftpbu.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ftplocal.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ftppublic.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: hcota.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ivan.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ldapchat.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ldappublic.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ldapslave.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: ldapspublic.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: licenseeoffice.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: mail101.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: mail102.bkav.com
+[ INFO] 2017-01-04 17:06:32,486  New domain was found by DNSPlugin: mail103.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail104.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail105.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail106.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail109.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail110.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail12.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail141.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail156.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail157.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail158.bkav.com
+[ INFO] 2017-01-04 17:06:32,487  New domain was found by DNSPlugin: mail161.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail162.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail163.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail164.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail168.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail172.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail173.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail181.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail184.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail20.bkav.com
+[ INFO] 2017-01-04 17:06:32,489  New domain was found by DNSPlugin: mail200.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail201.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail202.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail203.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail211.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail252.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail43.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail64.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail66.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail67.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail68.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail69.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail70.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail71.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail72.bkav.com
+[ INFO] 2017-01-04 17:06:32,490  New domain was found by DNSPlugin: mail73.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: www.mobile.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: ns1.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: ns2.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: ping.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: pushnotify.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: safezone.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: sample.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: sdreport.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: setup.bkav.com
+[ INFO] 2017-01-04 17:06:32,492  New domain was found by DNSPlugin: smtp.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: sslscan.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: sso-brvt.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: tftp.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: tools.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: update.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: van.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: vi.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: vpn.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: vpnbld.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: vpnbld2.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: vpnmobile.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: vpns2s.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: vpnwhitehat.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: www.webscan.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: wifi.bkav.com
+[ INFO] 2017-01-04 17:06:32,493  New domain was found by DNSPlugin: wifitest.bkav.com
+[ INFO] 2017-01-04 17:06:32,494  New domain was found by DNSPlugin: ws.bkav.com
+[ INFO] 2017-01-04 17:06:32,494  New domain was found by DNSPlugin: wsbphoneinfo.bkav.com
+[ INFO] 2017-01-04 17:06:32,494  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:32,954  Ask blocked the request
+[ INFO] 2017-01-04 17:06:33,063  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:33,407  Ask blocked the request
+[ INFO] 2017-01-04 17:06:33,516  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:33,900  Ask blocked the request
+[ INFO] 2017-01-04 17:06:34,009  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:34,342  Ask blocked the request
+[ INFO] 2017-01-04 17:06:34,454  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:34,796  Ask blocked the request
+[ INFO] 2017-01-04 17:06:34,904  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:35,328  Ask blocked the request
+[ INFO] 2017-01-04 17:06:35,437  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:35,788  Ask blocked the request
+[ INFO] 2017-01-04 17:06:35,898  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:36,226  Ask blocked the request
+[ INFO] 2017-01-04 17:06:36,335  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:36,855  Ask blocked the request
+[ INFO] 2017-01-04 17:06:36,967  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:37,322  Ask blocked the request
+[ INFO] 2017-01-04 17:06:37,434  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:38,124  Ask blocked the request
+[ INFO] 2017-01-04 17:06:38,234  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:38,598  Ask blocked the request
+[ INFO] 2017-01-04 17:06:38,707  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:39,045  Ask blocked the request
+[ INFO] 2017-01-04 17:06:39,154  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:39,503  Ask blocked the request
+[ INFO] 2017-01-04 17:06:39,612  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:39,947  Ask blocked the request
+[ INFO] 2017-01-04 17:06:40,056  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:40,411  Ask blocked the request
+[ INFO] 2017-01-04 17:06:40,520  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:41,032  Ask blocked the request
+[ INFO] 2017-01-04 17:06:41,142  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:41,565  Ask blocked the request
+[ INFO] 2017-01-04 17:06:41,673  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:42,025  Ask blocked the request
+[ INFO] 2017-01-04 17:06:42,137  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:42,515  Ask blocked the request
+[ INFO] 2017-01-04 17:06:42,622  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:42,957  Ask blocked the request
+[ INFO] 2017-01-04 17:06:43,065  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:43,420  Ask blocked the request
+[ INFO] 2017-01-04 17:06:43,529  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:43,897  Ask blocked the request
+[ INFO] 2017-01-04 17:06:44,006  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:44,378  Ask blocked the request
+[ INFO] 2017-01-04 17:06:44,487  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:44,834  Ask blocked the request
+[ INFO] 2017-01-04 17:06:44,944  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:45,288  Ask blocked the request
+[ INFO] 2017-01-04 17:06:45,398  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:45,769  Ask blocked the request
+[ INFO] 2017-01-04 17:06:45,877  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:46,224  Ask blocked the request
+[ INFO] 2017-01-04 17:06:46,335  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:46,806  Ask blocked the request
+[ INFO] 2017-01-04 17:06:46,917  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:47,266  Ask blocked the request
+[ INFO] 2017-01-04 17:06:47,377  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:47,726  Ask blocked the request
+[ INFO] 2017-01-04 17:06:47,835  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:48,170  Ask blocked the request
+[ INFO] 2017-01-04 17:06:48,279  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:48,644  Ask blocked the request
+[ INFO] 2017-01-04 17:06:48,753  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:49,109  Ask blocked the request
+[ INFO] 2017-01-04 17:06:49,219  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:49,582  Ask blocked the request
+[ INFO] 2017-01-04 17:06:49,690  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:50,148  Ask blocked the request
+[ INFO] 2017-01-04 17:06:50,259  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:50,602  Ask blocked the request
+[ INFO] 2017-01-04 17:06:50,713  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:51,197  Ask blocked the request
+[ INFO] 2017-01-04 17:06:51,305  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:51,756  Ask blocked the request
+[ INFO] 2017-01-04 17:06:51,865  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:52,237  Ask blocked the request
+[ INFO] 2017-01-04 17:06:52,348  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:52,766  Ask blocked the request
+[ INFO] 2017-01-04 17:06:52,877  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:53,249  Ask blocked the request
+[ INFO] 2017-01-04 17:06:53,358  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:53,697  Ask blocked the request
+[ INFO] 2017-01-04 17:06:53,805  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:54,190  Ask blocked the request
+[ INFO] 2017-01-04 17:06:54,302  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:54,670  Ask blocked the request
+[ INFO] 2017-01-04 17:06:54,780  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:55,298  Ask blocked the request
+[ INFO] 2017-01-04 17:06:55,407  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:55,782  Ask blocked the request
+[ INFO] 2017-01-04 17:06:55,892  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:56,588  Ask blocked the request
+[ INFO] 2017-01-04 17:06:56,700  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:57,283  Ask blocked the request
+[ INFO] 2017-01-04 17:06:57,391  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:57,769  Ask blocked the request
+[ INFO] 2017-01-04 17:06:57,878  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:58,236  Ask blocked the request
+[ INFO] 2017-01-04 17:06:58,345  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:58,700  Ask blocked the request
+[ INFO] 2017-01-04 17:06:58,809  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:59,163  Ask blocked the request
+[ INFO] 2017-01-04 17:06:59,272  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:06:59,644  Ask blocked the request
+[ INFO] 2017-01-04 17:06:59,752  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:00,211  Ask blocked the request
+[ INFO] 2017-01-04 17:07:00,322  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:00,688  Ask blocked the request
+[ INFO] 2017-01-04 17:07:00,799  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:01,176  Ask blocked the request
+[ INFO] 2017-01-04 17:07:01,286  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:01,653  Ask blocked the request
+[ INFO] 2017-01-04 17:07:01,763  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:02,105  Ask blocked the request
+[ INFO] 2017-01-04 17:07:02,214  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:02,578  Ask blocked the request
+[ INFO] 2017-01-04 17:07:02,687  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:03,204  Ask blocked the request
+[ INFO] 2017-01-04 17:07:03,313  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:03,684  Ask blocked the request
+[ INFO] 2017-01-04 17:07:03,795  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:04,141  Ask blocked the request
+[ INFO] 2017-01-04 17:07:04,250  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:04,601  Ask blocked the request
+[ INFO] 2017-01-04 17:07:04,710  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:05,243  Ask blocked the request
+[ INFO] 2017-01-04 17:07:05,351  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:05,683  Ask blocked the request
+[ INFO] 2017-01-04 17:07:05,793  Plugin AskPlugin has been activated
+[ERROR] 2017-01-04 17:07:06,142  Ask blocked the request
+[ INFO] 2017-01-04 17:07:06,253  Plugin AskPlugin has been activated

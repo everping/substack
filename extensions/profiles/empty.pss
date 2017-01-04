@@ -1,7 +1,28 @@
 [target]
 target = bkav.com
 
-[brute.BrutePlugin]
+[search.AskPlugin]
+
+[search.BaiduPlugin]
+
+[search.BingPlugin]
+
+[search.DnsDumpsterPlugin]
+
+[search.GooglePlugin]
+
+[search.NetcraftPlugin]
+
+[search.PassiveDnsPlugin]
+
+[search.VirusTotalPlugin]
+
+[search.ThreatCrowdPlugin]
+
+[search.YahooPlugin]
+
+[brute.DNSPlugin]
+
 
 [http-settings]
 proxy = 
