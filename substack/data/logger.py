@@ -15,7 +15,7 @@ class Logger:
         file_handler = logging.FileHandler(LOG_PATH)
         stream_handler = logging.StreamHandler()
         handlers = [file_handler, stream_handler]
-        formatter = logging.Formatter('[%(levelname)s] %(asctime)s  %(message)s')
+        formatter = logging.Formatter('[%(levelname)5s] %(asctime)s  %(message)s')
 
         self.logger.setLevel(logging.INFO)
 

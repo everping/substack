@@ -15,6 +15,10 @@ class SubStackException(Exception):
         return self.value
 
 
+class DnsQueryException(SubStackException):
+    pass
+
+
 class PluginException(SubStackException):
     pass
 

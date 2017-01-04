@@ -1,6 +1,16 @@
+from substack.data.logger import logger
+
+
 class KnowledgeBase:
     def __init__(self):
         self._sub_domains = []
+        self._requester = None
+
+    def set_requester(self, requester):
+        self._requester = requester
+
+    def get_requester(self):
+        return self._requester
 
     def add_open_ports(self, domain, ports):
         """
@@ -34,6 +44,8 @@ class KnowledgeBase:
         """
 
         if not self._is_existed_domain(sub_domain):
+            logger.info('New domain was found by %s: %s' %
+                        (sub_domain.meta_data['domain_found_by'], sub_domain.domain_name))
             self._sub_domains.append(sub_domain)
             return True
         return False
