@@ -3,10 +3,11 @@ from substack.helper.utils import LOG_PATH
 
 profile = Profile()
 
-# profile.set_target("bkav.com, garena.com")
+profile.set_target("bkav.com")
 
 # profile.set_enabled_plugins('search', ['BaiduPlugin', 'BingPlugin', 'GooglePlugin'])
-profile.set_enabled_plugins('search', ['AskPlugin'])
+profile.set_enabled_plugins('search', ['AskPlugin', 'YahooPlugin', 'BaiduPlugin', 'GooglePlugin'])
+profile.set_enabled_plugins('dns', ['DNSPlugin'])
 profile.set_enabled_plugins('port', ['NmapPlugin'])
 
 http_settings = {
