@@ -16,38 +16,40 @@ class YahooPlugin(SearchPlugin):
         return seed * 10
 
     def get_total_page(self):
-        try:
-            max_page_temp = self.max_page
+        max_page_temp = self.max_page
 
-            while (max_page_temp >= 0):
-                url = self.base_url.format(query=self.get_query(), page=max_page_temp)
-                content = self.requester.get(url).text
-                if self.has_error(content):
-                    logger.error("To much requests and Yahoo knew")
+        while max_page_temp >= 0:
+            url = self.base_url.format(query=self.get_query(), page=max_page_temp)
+
+            content = self.requester.get(url).text
+
+            if self.has_error(content):
+                logger.error("To much requests and Yahoo knew")
+                return 0
+
+            if (("We did not find results for" not in content) or (
+                        "Check spelling or type a new query" not in content)):
+                list_seed = []
+                soup = BeautifulSoup(content, "html5lib")
+                search_page = soup.find_all("a", href=True, title=True, attrs={'class': None})
+                for i in search_page:
+                    list_seed.append(int(i.string))
+                current = soup.find("strong")
+                try:
+                    list_seed.append(int(current.string))
+                except:
+                    logger.error(
+                        "Failed to get current seed but that means there are "
+                        "no more sub-domain for this base_domain")
+                if not list_seed:
                     return 0
-                if (("We did not find results for" not in content) or (
-                            "Check spelling or type a new query" not in content)):
-                    list_seed = []
-                    soup = BeautifulSoup(content, "html5lib")
-                    search_page = soup.find_all("a", href=True, title=True, attrs={'class': None})
-                    for i in search_page:
-                        list_seed.append(int(i.string))
-                    current = soup.find("strong")
-                    try:
-                        list_seed.append(int(current.string))
-                    except:
-                        logger.error(
-                            "Failed to get current seed but that means there are no more subdomain for this base_domain")
-                    if not list_seed:
-                        return 0
-                    else:
-                        return max(list_seed)
                 else:
-                    max_page_temp -= 50
-                    logger.info(
-                        "max_page down to %d since bot can not get any infor about total_page" % (max_page_temp))
-        except:
-            return 1
+                    return max(list_seed)
+            else:
+                logger.info(
+                    "max_page down to %d since bot can not get any info about total_page" % max_page_temp)
+                max_page_temp -= 50
+        return 0
 
     def has_error(self, content):
         list_sig = ["Yahoo! - 999 Unable to process request at this time -- error 999",

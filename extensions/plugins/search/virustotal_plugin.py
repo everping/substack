@@ -26,10 +26,15 @@ class VirusTotalPlugin(SearchPlugin):
 
     def extract(self, url):
         headers = {
-            "Cookie": "VT_PREFERRED_LANGUAGE=en; __utma=194538546.1669411933.1482685628.1482685628.1482685628.1; __utmb=194538546.1.10.1482685628; __utmc=194538546; __utmz=194538546.1482685628.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __utmt=1",
+            "Cookie": "VT_PREFERRED_LANGUAGE=en; __utma=194538546.1669411933.1482685628.1482685628.1482685628.1;"
+                      " __utmb=194538546.1.10.1482685628; __utmc=194538546;"
+                      " __utmz=194538546.1482685628.1.1."
+                      "utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided);"
+                      " __utmt=1",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
-            "Host": "www.virustotal.com"}
-        content = self.requester.custom_get(url, headers).text
+            "Host": "www.virustotal.com"
+        }
+        content = self.requester.get(url, headers=headers).text
         if not self.has_error(content):
             soup = BeautifulSoup(content, "html5lib")
             search_tags = soup.find_all("a", attrs={"target": "_blank", "class": None}, href=True)
@@ -41,4 +46,4 @@ class VirusTotalPlugin(SearchPlugin):
                 else:
                     break
         else:
-            logger.error("Captcha_detected")
+            logger.error("Captcha detected during running VirusTotal Plugin")

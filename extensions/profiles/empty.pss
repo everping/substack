@@ -1,5 +1,5 @@
 [target]
-target = bkav.com
+target = starbucks.com
 
 [search.AskPlugin]
 
@@ -23,6 +23,9 @@ target = bkav.com
 
 [brute.DNSPlugin]
 
+[port.NmapPlugin]
+
+# [brute.BrutePlugin]
 
 [http-settings]
 proxy = 
