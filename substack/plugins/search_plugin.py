@@ -1,6 +1,7 @@
 import urllib
 from urlparse import urlparse
 from substack.plugins.sub_domain_plugin import SubDomainPlugin
+from substack.helper.utils import STATE_BLOCKED, STATE_NOT_FOUND, STATE_OK
 
 
 class SearchPlugin(SubDomainPlugin):
@@ -8,6 +9,10 @@ class SearchPlugin(SubDomainPlugin):
         SubDomainPlugin.__init__(self)
         self.max_page = None
         self.max_worker = 20
+        self.messages = {
+            STATE_NOT_FOUND: [],
+            STATE_BLOCKED: []
+        }
 
     def get_type(self):
         return "search"
@@ -51,6 +56,27 @@ class SearchPlugin(SubDomainPlugin):
         """
         return False
 
+    def state(self, response):
+        for msg in self.messages[STATE_NOT_FOUND]:
+            if msg in response:
+                return STATE_NOT_FOUND
+
+        for msg in self.messages[STATE_BLOCKED]:
+            if msg in response:
+                return STATE_BLOCKED
+
+        return STATE_OK
+
+    def was_blocked(self, response):
+        if self.state(response) == STATE_BLOCKED:
+            return True
+        return False
+
+    def was_not_found(self, response):
+        if self.state(response) == STATE_NOT_FOUND:
+            return True
+        return False
+
     @staticmethod
     def parse_domain_name(my_url):
         my_url = urllib.unquote(my_url)
@@ -64,9 +90,13 @@ class SearchPlugin(SubDomainPlugin):
         We create a list of urls that based on this Search Engine
         ;:return: a list instance
         """
-        urls = []
-        total_pages = self.get_total_page()
-        for i in xrange(total_pages):
-            url = self.base_url.format(query=self.get_query(), page=self.get_page_no(i))
-            urls.append(url)
-        return urls
+        try:
+            urls = []
+            total_pages = self.get_total_page()
+            for i in xrange(total_pages):
+                url = self.base_url.format(query=self.get_query(), page=self.get_page_no(i))
+                urls.append(url)
+            return urls
+        except:
+            print self.get_name()
+            raise

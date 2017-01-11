@@ -12,7 +12,7 @@ class SubStack:
     """
 
     def __init__(self):
-        self.plugins = {'search': [], 'brute': []}
+        self.plugins = {'search': [], 'brute': [], 'port': []}
         self.profile = None
         self.targets = []
         self.kb = KnowledgeBase()
@@ -79,7 +79,7 @@ class SubStack:
         This method is used to find all open ports of a domain
         """
 
-        logger.info("Start finding open ports")
+        logger.info("Start finding opened ports")
         for plugin in self.plugins['port']:
             already_scanned = []
             for domain in self.kb.get_sub_domains():
@@ -94,6 +94,7 @@ class SubStack:
         self.init_plugins()
         self.targets = [Domain(domain_name) for domain_name in self.profile.get_target()]
         subs = self.sub()
+        self.port()
+
         for sub in subs:
             print sub.domain_name
-        # self.port()
