@@ -1,5 +1,7 @@
+import json
 from substack.data.logger import logger
 from substack.plugins.search_plugin import SearchPlugin
+from substack.data.exceptions import PluginException
 
 
 class ThreatCrowdPlugin(SearchPlugin):
@@ -21,13 +23,11 @@ class ThreatCrowdPlugin(SearchPlugin):
 
     def extract(self, url):
         try:
-            import json
+            content = self.requester.get(url).text
+            results = json.loads(content)
+            if 'subdomains' in results:
+                subs = results['subdomains']
+                for sub in subs:
+                    self.add(sub)
         except:
-            logger.error("Can not import json lib")
-        content = self.requester.get(url).text
-        results = json.loads(content)['subdomains']
-        if not results:
-            for domain in results:
-                self.add(domain)
-        else:
-            pass
+            raise PluginException

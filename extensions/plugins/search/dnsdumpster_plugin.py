@@ -21,13 +21,21 @@ class DnsDumpsterPlugin(SearchPlugin):
 
     def extract(self, url):
         site = self.base_domain.domain_name
-        data = {"csrfmiddlewaretoken": "xW6DIMrTX9qge6cQuCE1OmZgmGunVinw", "targetip": site}
-        header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
-                  "Cookie": "csrftoken=xW6DIMrTX9qge6cQuCE1OmZgmGunVinw", "Referer": "https://dnsdumpster.com/"}
-        content = self.requester.custom_post(url, header, data).text
+        data = {
+            "csrfmiddlewaretoken": "xW6DIMrTX9qge6cQuCE1OmZgmGunVinw",
+            "targetip": site
+        }
+
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
+            "Cookie": "csrftoken=xW6DIMrTX9qge6cQuCE1OmZgmGunVinw",
+            "Referer": "https://dnsdumpster.com/"
+        }
+
+        content = self.requester.post(url, headers=headers, data=data).text
         soup = BeautifulSoup(content, "html5lib")
         search_tags = soup.find_all('td', attrs={"class": "col-md-4"})
         for tag in search_tags:
-            domain = tag.contents[0]
+            domain = tag.contents[0].strip('.')
             if site in domain:
                 self.add(domain)

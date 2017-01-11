@@ -8,6 +8,11 @@ class AskPlugin(SearchPlugin):
         SearchPlugin.__init__(self)
         self.base_url = "http://www.search.ask.com/web?q={query}&page={page}"
         self.max_page = 50
+        self.messages = {
+            'not_found': ['did not match with any results',
+                          'Try fewer keywords'],
+            'blocked': ['Your client does not have permission to get the requested']
+        }
 
     def get_query(self):
         return "site:%s" % self.base_domain.domain_name
@@ -18,14 +23,24 @@ class AskPlugin(SearchPlugin):
     def get_total_page(self):
         max_page_temp = self.max_page
 
-        while True:
+        while max_page_temp >= 0:
             url = self.base_url.format(query=self.get_query(), page=max_page_temp)
-            content = self.requester.get(url).text
+            r = self.requester.get(url)
 
-            if "Your client does not have permission to get the requested" in content:
+            if r is None:
+                return 0
+
+            content = r.text
+
+            if self.was_blocked(content):
                 logger.error("Ask blocked the request")
                 return 0
-            if self.has_error(content) is not True:
+
+            elif self.was_not_found(content):
+                logger.info("max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
+                max_page_temp -= 5
+
+            else:
                 soup = BeautifulSoup(content, "html5lib")
                 search_pages = soup.find_all("a", attrs={"ul-attr-accn": "pagination"})
                 list_no_page = []
@@ -40,16 +55,7 @@ class AskPlugin(SearchPlugin):
                     return 1
                 else:
                     return max(list_no_page)
-            else:
-                max_page_temp -= 5
-                logger.info("max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
-
-    def has_error(self, response):
-        messages = ['did not match with any results',
-                    'Try fewer keywords']
-        if messages[0] not in response or messages[1] not in response:
-            return False
-        return True
+        return 0
 
     def extract(self, url):
         content = self.requester.get(url).text

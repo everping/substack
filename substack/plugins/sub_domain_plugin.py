@@ -2,6 +2,7 @@ import threading
 from substack.data.domain import Domain
 from substack.plugins.plugin import Plugin
 from substack.data.logger import logger
+from substack.data.exceptions import PluginException
 from multiprocessing.dummy import Pool as ThreadPool
 
 
@@ -47,16 +48,20 @@ class SubDomainPlugin(Plugin):
         This is the main method, it pass domain_name parameter
         and returns a list of the sub-domain found by the search engine
         """
-        logger.info("Plugin %s has been activated" % self.get_name())
-        self.base_domain = domain
+        try:
+            logger.info("Plugin %s has been activated" % self.get_name())
+            self.base_domain = domain
 
-        _dict = self.dictionary()
-        pool = ThreadPool(self.max_worker)
-        pool.map(self.worker, _dict)
-        pool.close()
-        pool.join()
+            _dict = self.dictionary()
+            pool = ThreadPool(self.max_worker)
+            pool.map(self.worker, _dict)
+            pool.close()
+            pool.join()
 
-        return self.sub_domains
+            return self.sub_domains
+        except:
+            msg = "Error occurred with plugin %s " % self.get_name()
+            raise PluginException(msg)
 
     def dictionary(self):
         """
