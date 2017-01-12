@@ -49,7 +49,7 @@ class NetcraftPlugin(SearchPlugin):
                     url_temp = ""
                     r = self.requester.get(url + _last + _from)
                     soup = BeautifulSoup(r.text, "html5lib")
-                    search_region = soup.find_all("table", attrs={"class": "TBtable"})
+                    search_region = BeautifulSoup(str(soup.find_all("table", attrs={"class":"TBtable"})), "lxml")
 
                     for item in search_region.find_all('a', attrs={"rel": True}):
                         url_temp = self.parse_domain_name(item['href'])
