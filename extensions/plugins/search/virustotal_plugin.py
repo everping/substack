@@ -34,16 +34,19 @@ class VirusTotalPlugin(SearchPlugin):
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
             "Host": "www.virustotal.com"
         }
-        content = self.requester.get(url, headers=headers).text
+        content = self.requester.get(url,headers).text
         if not self.has_error(content):
-            soup = BeautifulSoup(content, "html5lib")
-            search_tags = soup.find_all("a", attrs={"target": "_blank", "class": None}, href=True)
-            for tag in search_tags:
-                domain = tag.string
-                if domain is not None:
-                    domain = domain.strip()
-                    self.add(domain)
-                else:
-                    break
+            try:
+                soup = BeautifulSoup(content, "html5lib")
+                search_tags = soup.find_all("a", attrs={"target": "_blank", "class": None}, href=True)
+                for tag in search_tags:
+                    domain = tag.string
+                    if domain is not None:
+                        domain = domain.strip()
+                        self.add(domain)
+                    else:
+                        break
+            except:
+                pass
         else:
             logger.error("Captcha detected during running VirusTotal Plugin")

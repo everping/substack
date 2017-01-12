@@ -24,7 +24,7 @@ class PassiveDnsPlugin(SearchPlugin):
         soup = BeautifulSoup(content, "html5lib")
         for item in soup.find_all("tr"):
             try:
-                temp= item.contents[2].string.split()[0]
+                temp = item.contents[2].string.split()[0]
                 self.add(temp)
             except:
                 pass
