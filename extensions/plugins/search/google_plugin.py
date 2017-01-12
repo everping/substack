@@ -33,7 +33,8 @@ class GooglePlugin(SearchPlugin):
 
     def has_error(self, response):
         error_messages = ['Your client does not have permission to get URL',
-                          'Our systems have detected unusual traffic from your computer network']
+                          'Our systems have detected unusual traffic from your computer network',
+                          'To continue, please type the characters below:']
         for message in error_messages:
             if message in response:
                 return True
