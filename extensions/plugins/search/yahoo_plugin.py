@@ -7,7 +7,7 @@ class YahooPlugin(SearchPlugin):
     def __init__(self):
         SearchPlugin.__init__(self)
         self.base_url = "https://search.yahoo.com/search?p={query}&b={page}"
-        self.max_page = 300
+        self.max_page = 201
 
     def get_query(self):
         return "site:%s" % self.base_domain.domain_name
@@ -20,8 +20,8 @@ class YahooPlugin(SearchPlugin):
 
         while max_page_temp >= 0:
             url = self.base_url.format(query=self.get_query(), page=max_page_temp)
-
-            content = self.requester.get(url).text
+            header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
+            content = self.requester.get(url,header).text
             if self.has_error(content):
                 logger.error("To much requests and Yahoo knew")
                 return 0
@@ -47,7 +47,7 @@ class YahooPlugin(SearchPlugin):
             else:
                 logger.info(
                     "Yahoo Plug-in: max_page down to %d since bot can not get any info about total_page" % max_page_temp)
-                max_page_temp -= 30
+                max_page_temp -= 10
         return 0
 
     def has_error(self, content):
@@ -60,7 +60,8 @@ class YahooPlugin(SearchPlugin):
 
     def extract(self, url):
         try:
-            content = self.requester.get(url).text
+            header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
+            content = self.requester.get(url,header).text
             soup = BeautifulSoup(content, "html5lib")
             search = soup.find_all("a", attrs={"class": " ac-algo ac-21th lh-24"})
 
