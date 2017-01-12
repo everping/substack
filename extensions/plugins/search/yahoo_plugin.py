@@ -47,7 +47,7 @@ class YahooPlugin(SearchPlugin):
             else:
                 logger.info(
                     "Yahoo Plug-in: max_page down to %d since bot can not get any info about total_page" % max_page_temp)
-                max_page_temp -= 50
+                max_page_temp -= 30
         return 0
 
     def has_error(self, content):
