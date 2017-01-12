@@ -57,7 +57,8 @@ class NetcraftPlugin(SearchPlugin):
                     _last = "&last=" + url_temp
                     _from = "&from=" + str((tem + 1) * 20 + 1)
             else:
-                search_region = _soup.find_all("table", attrs={"class": "TBtable"})
+                search_region = BeautifulSoup(str(_soup.find_all("table", attrs={"class":"TBtable"})),"lxml")
+                print search_region
                 for item in search_region.find_all('a', attrs={"rel": True}):
                     url_temp = self.parse_domain_name(item['href'])
                     self.add(url_temp)
