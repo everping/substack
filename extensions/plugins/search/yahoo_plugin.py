@@ -22,7 +22,6 @@ class YahooPlugin(SearchPlugin):
             url = self.base_url.format(query=self.get_query(), page=max_page_temp)
 
             content = self.requester.get(url).text
-
             if self.has_error(content):
                 logger.error("To much requests and Yahoo knew")
                 return 0
@@ -39,15 +38,15 @@ class YahooPlugin(SearchPlugin):
                     list_seed.append(int(current.string))
                 except:
                     logger.error(
-                        "Failed to get current seed but that means there are "
-                        "no more sub-domain for this base_domain")
+                        "Yahoo Plug-in: Failed to get current seed but that means there are "
+                        "no more sub-domain for this base_domain but Yahoo could block your requests also")
                 if not list_seed:
                     return 0
                 else:
                     return max(list_seed)
             else:
                 logger.info(
-                    "max_page down to %d since bot can not get any info about total_page" % max_page_temp)
+                    "Yahoo Plug-in: max_page down to %d since bot can not get any info about total_page" % max_page_temp)
                 max_page_temp -= 50
         return 0
 
@@ -60,13 +59,16 @@ class YahooPlugin(SearchPlugin):
         return False
 
     def extract(self, url):
-        content = self.requester.get(url).text
-        soup = BeautifulSoup(content, "html5lib")
-        search = soup.find_all("a", attrs={"class": " ac-algo ac-21th lh-24"})
+        try:
+            content = self.requester.get(url).text
+            soup = BeautifulSoup(content, "html5lib")
+            search = soup.find_all("a", attrs={"class": " ac-algo ac-21th lh-24"})
 
-        for line in search:
-            try:
-                url = line['href'].split("/")[7].split("=")[1]
-                self.add(self.parse_domain_name(url))
-            except:
-                logger.error("can not extract domain")
+            for line in search:
+                try:
+                    url = line['href'].split("/")[7].split("=")[1]
+                    self.add(self.parse_domain_name(url))
+                except:
+                    logger.error("Yahoo- Plugin: can not extract domain")
+        except:
+            pass
