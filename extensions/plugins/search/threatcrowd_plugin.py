@@ -1,5 +1,4 @@
 import json
-from substack.data.logger import logger
 from substack.plugins.search_plugin import SearchPlugin
 from substack.data.exceptions import PluginException
 
