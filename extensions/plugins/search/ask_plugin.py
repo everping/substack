@@ -37,7 +37,7 @@ class AskPlugin(SearchPlugin):
                 return 0
 
             elif self.was_not_found(content):
-                logger.info("max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
+                logger.info("Ask Plug-in: max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
                 max_page_temp -= 5
 
             else:
