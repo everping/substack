@@ -1,31 +1,33 @@
 [target]
-target = starbucks.com
+target = zing.vn
 
-[search.AskPlugin]
+#[search.CrtsearchPlugin]
 
-[search.BaiduPlugin]
+#[search.AskPlugin]
 
-[search.BingPlugin]
+#[search.BaiduPlugin]
 
-[search.DnsDumpsterPlugin]
+#[search.BingPlugin]
+
+#[search.DnsDumpsterPlugin]
 
 [search.GooglePlugin]
 
-[search.NetcraftPlugin]
+#[search.NetcraftPlugin]
 
-[search.PassiveDnsPlugin]
+#[search.PassiveDnsPlugin]
 
-[search.VirusTotalPlugin]
+#[search.VirusTotalPlugin]
 
-[search.ThreatCrowdPlugin]
+#[search.ThreatCrowdPlugin]
 
-[search.YahooPlugin]
+#[search.YahooPlugin]
 
-[brute.DNSPlugin]
+#[brute.DNSPlugin]
 
-[port.NmapPlugin]
+#[port.NmapPlugin]
 
-# [brute.BrutePlugin]
+#[brute.BrutePlugin]
 
 [http-settings]
 proxy = 
