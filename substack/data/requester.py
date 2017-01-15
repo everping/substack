@@ -46,7 +46,7 @@ class Requester:
         for i in range(3):
             while True:
                 try:
-                    return requests.get(url, headers=headers, proxies=self._proxies, data=data, timeout=60)
+                    return requests.post(url, headers=headers, proxies=self._proxies, data=data, timeout=60)
                 except requests.exceptions.Timeout:
                     logger.error("It takes a request so long so I must kill it.")
                     logger.info("Trying to reconnect...")
