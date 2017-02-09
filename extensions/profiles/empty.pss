@@ -1,0 +1,42 @@
+[target]
+target = zing.vn
+
+#[search.CrtsearchPlugin]
+
+#[search.AskPlugin]
+
+#[search.BaiduPlugin]
+
+#[search.BingPlugin]
+
+#[search.DnsDumpsterPlugin]
+
+[search.GooglePlugin]
+
+#[search.NetcraftPlugin]
+
+#[search.PassiveDnsPlugin]
+
+#[search.VirusTotalPlugin]
+
+#[search.ThreatCrowdPlugin]
+
+#[search.YahooPlugin]
+
+#[brute.DNSPlugin]
+
+#[port.NmapPlugin]
+
+#[brute.BrutePlugin]
+
+[http-settings]
+proxy = 
+agent = Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+
+[misc-settings]
+silent = False
+
+[profile]
+name = empty_profile
+description = This is an empty profile that you can use to start a new configuration from.
+

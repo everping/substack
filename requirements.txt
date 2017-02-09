@@ -1,3 +1,6 @@
 beautifulsoup4
 lxml
 requests
+html5lib
+python-nmap
+dnslib
