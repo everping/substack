@@ -104902,3 +104902,65 @@ IndexError: list index out of range
 [ INFO] 2017-01-14 22:07:30,700  Plugin GooglePlugin has been activated
 [ERROR] 2017-01-14 22:07:33,352  Google seems blocked my request
 [ INFO] 2017-01-14 22:07:33,470  Start finding opened ports
+[ INFO] 2017-02-09 16:37:56,188  Start finding sub-domains of [u'quora.com']
+[ INFO] 2017-02-09 16:37:56,190  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-02-09 16:38:02,687  Plugin AskPlugin has been activated
+[ INFO] 2017-02-09 16:38:12,401  Plugin BaiduPlugin has been activated
+[ INFO] 2017-02-09 16:40:23,519  Plugin BingPlugin has been activated
+[ INFO] 2017-02-09 16:40:37,868  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-02-09 16:40:57,426  Plugin GooglePlugin has been activated
+[ INFO] 2017-02-09 16:41:13,953  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-02-09 16:41:16,101  Total of results: 2 for: quora.com 
+[ INFO] 2017-02-09 16:41:16,170  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-02-09 16:41:18,183  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-02-09 16:41:36,329  Plugin ThreatCrowdPlugin has been activated
+[ INFO] 2017-02-09 16:41:37,658  Start finding sub-domains of [u'quora.com']
+[ INFO] 2017-02-09 16:41:37,658  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-02-09 16:41:40,941  Plugin AskPlugin has been activated
+[ INFO] 2017-02-09 16:41:48,545  Plugin BaiduPlugin has been activated
+[ERROR] 2017-02-09 16:43:18,789  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:18,789  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:18,793  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:18,793  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:18,796  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:18,796  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:19,019  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:19,019  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:19,177  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:19,177  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:21,770  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:21,772  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:21,790  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:21,790  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:22,023  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:22,023  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:22,454  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:22,456  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:25,309  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:25,309  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:25,651  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:25,651  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:25,829  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:25,831  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:27,779  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:27,779  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:27,805  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:27,805  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:35,704  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:35,706  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:37,282  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:37,282  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:38,436  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:38,436  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:41,190  I don't know why this error occurred
+[ INFO] 2017-02-09 16:43:41,190  Trying to reconnect...
+[ERROR] 2017-02-09 16:43:48,796  It takes a request so long so I must kill it.
+[ INFO] 2017-02-09 16:43:48,796  Trying to reconnect...
+[ INFO] 2017-02-09 16:43:49,562  Plugin BingPlugin has been activated
+[ INFO] 2017-02-09 16:43:50,746  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-02-09 16:43:54,470  Plugin GooglePlugin has been activated
+[ INFO] 2017-02-09 16:44:10,165  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-02-09 16:44:10,892  Total of results: 2 for: quora.com 
+[ INFO] 2017-02-09 16:44:10,977  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-02-09 16:44:12,089  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-02-09 16:44:27,378  Plugin ThreatCrowdPlugin has been activated

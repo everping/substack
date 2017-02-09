@@ -20,7 +20,7 @@ class Domain:
 
     def add_open_port(self, port):
         self.open_ports.append(port)
-    
+
     def get_domain_name(self):
         return self.domain_name
 
