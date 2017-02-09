@@ -6,6 +6,7 @@ class NmapPlugin(PortPlugin):
     """
     This class call to nmap library
     """
+
     def __init__(self):
         PortPlugin.__init__(self)
 
