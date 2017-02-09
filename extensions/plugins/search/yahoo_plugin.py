@@ -20,8 +20,8 @@ class YahooPlugin(SearchPlugin):
 
         while max_page_temp >= 0:
             url = self.base_url.format(query=self.get_query(), page=max_page_temp)
-            header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
-            content = self.requester.get(url,header).text
+            header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
+            content = self.requester.get(url, header).text
             if self.has_error(content):
                 logger.error("To much requests and Yahoo knew")
                 return 0
@@ -60,8 +60,8 @@ class YahooPlugin(SearchPlugin):
 
     def extract(self, url):
         try:
-            header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
-            content = self.requester.get(url,header).text
+            header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0"}
+            content = self.requester.get(url, header).text
             soup = BeautifulSoup(content, "html5lib")
             search = soup.find_all("a", attrs={"class": " ac-algo ac-21th lh-24"})
 

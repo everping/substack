@@ -34,7 +34,7 @@ class VirusTotalPlugin(SearchPlugin):
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0",
             "Host": "www.virustotal.com"
         }
-        content = self.requester.get(url,headers).text
+        content = self.requester.get(url, headers).text
         if not self.has_error(content):
             try:
                 soup = BeautifulSoup(content, "html5lib")
