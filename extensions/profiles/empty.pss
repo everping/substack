@@ -1,31 +1,31 @@
 [target]
-target = zing.vn
+target = quora.com
 
-#[search.CrtsearchPlugin]
+[search.CrtsearchPlugin]
 
-#[search.AskPlugin]
+[search.AskPlugin]
 
-#[search.BaiduPlugin]
+[search.BaiduPlugin]
 
-#[search.BingPlugin]
+[search.BingPlugin]
 
-#[search.DnsDumpsterPlugin]
+[search.DnsDumpsterPlugin]
 
 [search.GooglePlugin]
 
-#[search.NetcraftPlugin]
+[search.NetcraftPlugin]
 
-#[search.PassiveDnsPlugin]
+[search.PassiveDnsPlugin]
 
-#[search.VirusTotalPlugin]
+[search.VirusTotalPlugin]
 
-#[search.ThreatCrowdPlugin]
+[search.ThreatCrowdPlugin]
 
-#[search.YahooPlugin]
+[search.YahooPlugin]
 
-#[brute.DNSPlugin]
+[brute.DNSPlugin]
 
-#[port.NmapPlugin]
+[port.NmapPlugin]
 
 #[brute.BrutePlugin]
 
