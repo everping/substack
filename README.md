@@ -9,3 +9,7 @@ Usage
 ```
 substack -d google.com
 ```
+
+Credits
+----
+[Sublist3r](https://github.com/aboul3la/Sublist3r)
