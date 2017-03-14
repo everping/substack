@@ -12,4 +12,5 @@ substack -d google.com
 
 Credits
 ----
-[Sublist3r](https://github.com/aboul3la/Sublist3r)
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - An anwesome tool, it inspires us to build substack
+
