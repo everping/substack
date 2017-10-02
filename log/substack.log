@@ -857,3 +857,401 @@ KeyboardInterrupt
 [ INFO] 2017-03-14 17:05:51,539  Ask Plug-in: max_page down to 45 for domain: mail219.bkav.com
 [ INFO] 2017-03-14 17:05:52,227  Ask Plug-in: max_page down to 40 for domain: mail219.bkav.com
 [ INFO] 2017-03-14 17:05:52,858  Ask Plug-in: max_page down to 35 for domain: mail219.bkav.com
+[ERROR] 2017-10-02 12:12:15,641  Could not load plugin brute.dns_plugin
+[ERROR] 2017-10-02 12:12:15,643  Could not load plugin port.nmap_plugin
+[ INFO] 2017-10-02 12:12:15,678  Start finding sub-domains of ['google.com']
+[ INFO] 2017-10-02 12:12:15,679  Plugin CrtsearchPlugin has been activated
+[ERROR] 2017-10-02 12:12:42,970  Could not load plugin brute.dns_plugin
+[ERROR] 2017-10-02 12:12:42,971  Could not load plugin port.nmap_plugin
+[ INFO] 2017-10-02 12:12:42,984  Start finding sub-domains of ['example.com']
+[ INFO] 2017-10-02 12:12:42,985  Plugin CrtsearchPlugin has been activated
+[ERROR] 2017-10-02 12:12:44,409  Error occurred with plugin CrtsearchPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 57, in discover
+    pool.map(self.worker, _dict)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 251, in map
+    return self.map_async(func, iterable, chunksize).get()
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 567, in get
+    raise self._value
+FeatureNotFound: Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ INFO] 2017-10-02 16:28:25,748  Start finding sub-domains of [u'adasodkoaskdo.com']
+[ INFO] 2017-10-02 16:28:25,749  Plugin CrtsearchPlugin has been activated
+[ERROR] 2017-10-02 16:28:27,289  Error occurred with plugin CrtsearchPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 57, in discover
+    pool.map(self.worker, _dict)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 251, in map
+    return self.map_async(func, iterable, chunksize).get()
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 567, in get
+    raise self._value
+FeatureNotFound: Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ INFO] 2017-10-02 16:29:53,255  Start finding sub-domains of [u'example.com']
+[ INFO] 2017-10-02 16:29:53,255  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:29:54,849  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:29:55,401  Ask Plug-in: max_page down to 50 for domain: example.com
+[ INFO] 2017-10-02 16:29:55,771  Ask Plug-in: max_page down to 45 for domain: example.com
+[ INFO] 2017-10-02 16:29:56,149  Ask Plug-in: max_page down to 40 for domain: example.com
+[ INFO] 2017-10-02 16:29:56,507  Ask Plug-in: max_page down to 35 for domain: example.com
+[ INFO] 2017-10-02 16:29:56,887  Ask Plug-in: max_page down to 30 for domain: example.com
+[ INFO] 2017-10-02 16:29:57,255  Ask Plug-in: max_page down to 25 for domain: example.com
+[ INFO] 2017-10-02 16:29:57,608  Ask Plug-in: max_page down to 20 for domain: example.com
+[ INFO] 2017-10-02 16:29:57,956  Ask Plug-in: max_page down to 15 for domain: example.com
+[ INFO] 2017-10-02 16:29:58,347  Ask Plug-in: max_page down to 10 for domain: example.com
+[ INFO] 2017-10-02 16:29:58,740  Ask Plug-in: max_page down to 5 for domain: example.com
+[ INFO] 2017-10-02 16:29:59,815  Plugin BaiduPlugin has been activated
+[ INFO] 2017-10-02 16:30:06,539  Plugin BingPlugin has been activated
+[ INFO] 2017-10-02 16:30:07,287  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-10-02 16:30:09,378  Plugin GooglePlugin has been activated
+[ INFO] 2017-10-02 16:30:10,773  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-10-02 16:30:11,476  Total of results: 1 for: example.com 
+[ INFO] 2017-10-02 16:30:11,504  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-10-02 16:30:43,847  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-10-02 16:30:51,906  Plugin ThreatCrowdPlugin has been activated
+[ INFO] 2017-10-02 16:31:01,123  Plugin YahooPlugin has been activated
+[ INFO] 2017-10-02 16:31:02,027  Yahoo Plug-in: max_page down to 201 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:02,945  Yahoo Plug-in: max_page down to 191 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:03,803  Yahoo Plug-in: max_page down to 181 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:04,649  Yahoo Plug-in: max_page down to 171 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:05,486  Yahoo Plug-in: max_page down to 161 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:06,524  Yahoo Plug-in: max_page down to 151 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:07,505  Yahoo Plug-in: max_page down to 141 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:08,569  Yahoo Plug-in: max_page down to 131 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:09,371  Yahoo Plug-in: max_page down to 121 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:10,184  Yahoo Plug-in: max_page down to 111 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:11,089  Yahoo Plug-in: max_page down to 101 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:11,907  Yahoo Plug-in: max_page down to 91 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:12,752  Yahoo Plug-in: max_page down to 81 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:13,584  Yahoo Plug-in: max_page down to 71 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:14,354  Yahoo Plug-in: max_page down to 61 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:15,180  Yahoo Plug-in: max_page down to 51 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:15,999  Yahoo Plug-in: max_page down to 41 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:16,844  Yahoo Plug-in: max_page down to 31 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:17,643  Yahoo Plug-in: max_page down to 21 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:18,465  Yahoo Plug-in: max_page down to 11 since bot can not get any info about total_page
+[ERROR] 2017-10-02 16:31:19,360  Yahoo Plug-in: Failed to get current seed but that means there are no more sub-domain for this base_domain but Yahoo could block your requests also
+[ INFO] 2017-10-02 16:31:19,470  Plugin DNSPlugin has been activated
+[ INFO] 2017-10-02 16:31:30,786  New domain was found by CrtsearchPlugin: www.example.com
+[ INFO] 2017-10-02 16:31:30,787  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:31:32,456  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:31:33,034  Ask Plug-in: max_page down to 50 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:33,395  Ask Plug-in: max_page down to 45 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:33,747  Ask Plug-in: max_page down to 40 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:34,110  Ask Plug-in: max_page down to 35 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:34,465  Ask Plug-in: max_page down to 30 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:34,829  Ask Plug-in: max_page down to 25 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:35,212  Ask Plug-in: max_page down to 20 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:35,618  Ask Plug-in: max_page down to 15 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:36,077  Ask Plug-in: max_page down to 10 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:36,458  Ask Plug-in: max_page down to 5 for domain: www.example.com
+[ INFO] 2017-10-02 16:31:37,606  Plugin BaiduPlugin has been activated
+[ INFO] 2017-10-02 16:31:41,589  Plugin BingPlugin has been activated
+[ INFO] 2017-10-02 16:31:42,385  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-10-02 16:31:44,266  Plugin GooglePlugin has been activated
+[ INFO] 2017-10-02 16:31:45,439  Plugin NetcraftPlugin has been activated
+[ERROR] 2017-10-02 16:31:47,970  This site seem to blocked your requests
+[ INFO] 2017-10-02 16:31:48,048  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-10-02 16:31:49,519  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-10-02 16:31:52,479  Plugin ThreatCrowdPlugin has been activated
+[ INFO] 2017-10-02 16:31:53,529  Plugin YahooPlugin has been activated
+[ INFO] 2017-10-02 16:31:54,369  Yahoo Plug-in: max_page down to 201 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:55,352  Yahoo Plug-in: max_page down to 191 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:56,329  Yahoo Plug-in: max_page down to 181 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:57,330  Yahoo Plug-in: max_page down to 171 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:58,177  Yahoo Plug-in: max_page down to 161 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:59,036  Yahoo Plug-in: max_page down to 151 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:31:59,828  Yahoo Plug-in: max_page down to 141 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:00,890  Yahoo Plug-in: max_page down to 131 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:01,759  Yahoo Plug-in: max_page down to 121 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:02,591  Yahoo Plug-in: max_page down to 111 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:03,455  Yahoo Plug-in: max_page down to 101 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:04,281  Yahoo Plug-in: max_page down to 91 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:05,290  Yahoo Plug-in: max_page down to 81 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:06,129  Yahoo Plug-in: max_page down to 71 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:07,060  Yahoo Plug-in: max_page down to 61 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:08,452  Yahoo Plug-in: max_page down to 51 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:14,576  Yahoo Plug-in: max_page down to 41 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:15,406  Yahoo Plug-in: max_page down to 31 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:16,235  Yahoo Plug-in: max_page down to 21 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:32:17,050  Yahoo Plug-in: max_page down to 11 since bot can not get any info about total_page
+[ERROR] 2017-10-02 16:32:17,916  Yahoo Plug-in: Failed to get current seed but that means there are no more sub-domain for this base_domain but Yahoo could block your requests also
+[ INFO] 2017-10-02 16:32:18,026  Plugin DNSPlugin has been activated
+[ INFO] 2017-10-02 16:32:18,354  Start finding opened ports
+[ INFO] 2017-10-02 16:33:03,220  example.com (93.184.216.34) open ports: 80, 443
+[ INFO] 2017-10-02 16:33:33,526  www.example.com (93.184.216.34) open ports: 80, 443
+[ INFO] 2017-10-02 16:36:58,470  Start finding sub-domains of [u'aexample.com']
+[ INFO] 2017-10-02 16:36:58,470  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:37:00,252  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:37:00,934  Ask Plug-in: max_page down to 50 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:01,356  Ask Plug-in: max_page down to 45 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:01,709  Ask Plug-in: max_page down to 40 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:02,070  Ask Plug-in: max_page down to 35 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:02,545  Ask Plug-in: max_page down to 30 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:02,937  Ask Plug-in: max_page down to 25 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:03,290  Ask Plug-in: max_page down to 20 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:03,648  Ask Plug-in: max_page down to 15 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:04,044  Ask Plug-in: max_page down to 10 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:04,378  Ask Plug-in: max_page down to 5 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:04,779  Ask Plug-in: max_page down to 0 for domain: aexample.com
+[ INFO] 2017-10-02 16:37:04,897  Plugin BaiduPlugin has been activated
+[ INFO] 2017-10-02 16:37:09,473  Plugin BingPlugin has been activated
+[ INFO] 2017-10-02 16:37:11,236  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-10-02 16:37:13,955  Plugin GooglePlugin has been activated
+[ERROR] 2017-10-02 16:37:15,100  Can not get total_page so return 0
+[ INFO] 2017-10-02 16:37:15,209  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-10-02 16:37:15,980  Total of results: 0 for: aexample.com 
+[ INFO] 2017-10-02 16:37:16,063  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-10-02 16:37:16,702  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-10-02 16:37:18,071  Plugin ThreatCrowdPlugin has been activated
+[ INFO] 2017-10-02 16:37:20,166  Plugin YahooPlugin has been activated
+[ INFO] 2017-10-02 16:37:21,190  Yahoo Plug-in: max_page down to 201 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:22,218  Yahoo Plug-in: max_page down to 191 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:23,079  Yahoo Plug-in: max_page down to 181 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:23,962  Yahoo Plug-in: max_page down to 171 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:24,807  Yahoo Plug-in: max_page down to 161 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:25,682  Yahoo Plug-in: max_page down to 151 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:26,449  Yahoo Plug-in: max_page down to 141 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:27,269  Yahoo Plug-in: max_page down to 131 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:28,107  Yahoo Plug-in: max_page down to 121 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:28,931  Yahoo Plug-in: max_page down to 111 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:29,784  Yahoo Plug-in: max_page down to 101 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:30,636  Yahoo Plug-in: max_page down to 91 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:31,459  Yahoo Plug-in: max_page down to 81 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:32,326  Yahoo Plug-in: max_page down to 71 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:33,151  Yahoo Plug-in: max_page down to 61 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:34,240  Yahoo Plug-in: max_page down to 51 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:35,128  Yahoo Plug-in: max_page down to 41 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:36,313  Yahoo Plug-in: max_page down to 31 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:37,311  Yahoo Plug-in: max_page down to 21 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:38,190  Yahoo Plug-in: max_page down to 11 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:39,002  Yahoo Plug-in: max_page down to 1 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:37:39,114  Plugin DNSPlugin has been activated
+[ INFO] 2017-10-02 16:37:39,941  New domain was found by BaiduPlugin: www.aexample.com
+[ INFO] 2017-10-02 16:37:39,941  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:37:41,200  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:37:41,927  Ask Plug-in: max_page down to 50 for domain: www.aexample.com
+[ INFO] 2017-10-02 16:37:42,298  Ask Plug-in: max_page down to 45 for domain: www.aexample.com
+[ INFO] 2017-10-02 16:37:42,643  Ask Plug-in: max_page down to 40 for domain: www.aexample.com
+[ INFO] 2017-10-02 16:37:43,507  Plugin BaiduPlugin has been activated
+[ INFO] 2017-10-02 16:37:47,723  Plugin BingPlugin has been activated
+[ INFO] 2017-10-02 16:37:48,408  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-10-02 16:37:50,288  Plugin GooglePlugin has been activated
+[ERROR] 2017-10-02 16:37:51,223  Can not get total_page so return 0
+[ INFO] 2017-10-02 16:37:51,334  Plugin NetcraftPlugin has been activated
+[ERROR] 2017-10-02 16:37:52,377  This site seem to blocked your requests
+[ INFO] 2017-10-02 16:37:52,382  Plugin PassiveDnsPlugin has been activated
+[ INFO] 2017-10-02 16:37:53,537  Plugin VirusTotalPlugin has been activated
+[ INFO] 2017-10-02 16:37:55,213  Plugin ThreatCrowdPlugin has been activated
+[ INFO] 2017-10-02 16:37:56,673  Plugin YahooPlugin has been activated
+[ INFO] 2017-10-02 16:37:58,448  Yahoo Plug-in: max_page down to 201 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:00,093  Yahoo Plug-in: max_page down to 191 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:01,537  Yahoo Plug-in: max_page down to 181 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:03,123  Yahoo Plug-in: max_page down to 171 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:04,897  Yahoo Plug-in: max_page down to 161 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:06,425  Yahoo Plug-in: max_page down to 151 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:08,013  Yahoo Plug-in: max_page down to 141 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:09,597  Yahoo Plug-in: max_page down to 131 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:11,164  Yahoo Plug-in: max_page down to 121 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:12,791  Yahoo Plug-in: max_page down to 111 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:14,398  Yahoo Plug-in: max_page down to 101 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:16,190  Yahoo Plug-in: max_page down to 91 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:18,085  Yahoo Plug-in: max_page down to 81 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:19,839  Yahoo Plug-in: max_page down to 71 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:20,671  Yahoo Plug-in: max_page down to 61 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:21,658  Yahoo Plug-in: max_page down to 51 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:22,514  Yahoo Plug-in: max_page down to 41 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:23,389  Yahoo Plug-in: max_page down to 31 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:24,419  Yahoo Plug-in: max_page down to 21 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:25,243  Yahoo Plug-in: max_page down to 11 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:26,058  Yahoo Plug-in: max_page down to 1 since bot can not get any info about total_page
+[ INFO] 2017-10-02 16:38:26,171  Plugin DNSPlugin has been activated
+[ INFO] 2017-10-02 16:38:26,659  Start finding opened ports
+[ INFO] 2017-10-02 16:38:47,420  Start finding sub-domains of [u'assad.com']
+[ INFO] 2017-10-02 16:38:48,182  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:38:51,166  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:38:52,530  Ask Plug-in: max_page down to 50 for domain: assad.com
+[ INFO] 2017-10-02 16:38:53,671  Ask Plug-in: max_page down to 45 for domain: assad.com
+[ INFO] 2017-10-02 16:38:54,872  Ask Plug-in: max_page down to 40 for domain: assad.com
+[ INFO] 2017-10-02 16:38:55,931  Ask Plug-in: max_page down to 35 for domain: assad.com
+[ INFO] 2017-10-02 16:38:57,122  Ask Plug-in: max_page down to 30 for domain: assad.com
+[ INFO] 2017-10-02 16:38:58,684  Ask Plug-in: max_page down to 25 for domain: assad.com
+[ INFO] 2017-10-02 16:39:00,252  Ask Plug-in: max_page down to 20 for domain: assad.com
+[ERROR] 2017-10-02 16:39:00,952  Error occurred with plugin AskPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 55, in discover
+    _dict = self.dictionary()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/search_plugin.py", line 95, in dictionary
+    total_pages = self.get_total_page()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/extensions/plugins/search/ask_plugin.py", line 41, in get_total_page
+    "Ask Plug-in: max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/logger.py", line 29, in info
+    notifier.send_slack(msg)
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/notifier.py", line 31, in send_slack
+    time.sleep(2)
+NameError: global name 'time' is not defined
+[ INFO] 2017-10-02 16:39:25,398  Start finding sub-domains of [u'dsadsdasd.com']
+[ERROR] 2017-10-02 16:39:25,918  Error occurred with plugin CrtsearchPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 52, in discover
+    logger.info("Plugin %s has been activated" % self.get_name())
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/logger.py", line 29, in info
+    notifier.send_slack("```{}```".format(msg))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/notifier.py", line 31, in send_slack
+    time.sleep(2)
+NameError: global name 'time' is not defined
+[ INFO] 2017-10-02 16:40:12,286  Start finding sub-domains of [u'sdasdsa.com']
+[ INFO] 2017-10-02 16:40:13,079  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:40:15,979  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:40:22,709  Ask Plug-in: max_page down to 50 for domain: sdasdsa.com
+[ INFO] 2017-10-02 16:40:33,114  Ask Plug-in: max_page down to 45 for domain: sdasdsa.com
+[ INFO] 2017-10-02 16:40:45,328  Ask Plug-in: max_page down to 40 for domain: sdasdsa.com
+[ERROR] 2017-10-02 16:40:54,828  Error occurred with plugin AskPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 55, in discover
+    _dict = self.dictionary()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/search_plugin.py", line 95, in dictionary
+    total_pages = self.get_total_page()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/extensions/plugins/search/ask_plugin.py", line 41, in get_total_page
+    "Ask Plug-in: max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/logger.py", line 29, in info
+    notifier.send_slack("`{}`".format(msg))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/notifier.py", line 32, in send_slack
+    time.sleep(2)
+KeyboardInterrupt
+[ INFO] 2017-10-02 16:41:29,688  Start finding sub-domains of [u'asdsadsad.com']
+[ INFO] 2017-10-02 16:41:30,371  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:41:32,642  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:41:39,758  Ask Plug-in: max_page down to 50 for domain: asdsadsad.com
+[ERROR] 2017-10-02 16:41:42,372  Error occurred with plugin AskPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 55, in discover
+    _dict = self.dictionary()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/search_plugin.py", line 95, in dictionary
+    total_pages = self.get_total_page()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/extensions/plugins/search/ask_plugin.py", line 41, in get_total_page
+    "Ask Plug-in: max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/logger.py", line 29, in info
+    notifier.send_slack("`{}`".format(msg))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/notifier.py", line 32, in send_slack
+    time.sleep(2)
+KeyboardInterrupt
+[ INFO] 2017-10-02 16:42:46,285  Start finding sub-domains of ['asdasd.com']
+[ INFO] 2017-10-02 16:42:47,012  Plugin CrtsearchPlugin has been activated
+[ERROR] 2017-10-02 16:42:48,470  Error occurred with plugin CrtsearchPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 57, in discover
+    pool.map(self.worker, _dict)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 251, in map
+    return self.map_async(func, iterable, chunksize).get()
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 561, in get
+    self.wait(timeout)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 556, in wait
+    self._cond.wait(timeout)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 340, in wait
+    waiter.acquire()
+KeyboardInterrupt
+[ INFO] 2017-10-02 16:43:14,061  Start finding sub-domains of [u'example.com']
+[ INFO] 2017-10-02 16:43:14,791  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:43:17,058  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:43:18,237  Ask Plug-in: max_page down to 50 for domain: example.com
+[ INFO] 2017-10-02 16:43:24,562  Ask Plug-in: max_page down to 45 for domain: example.com
+[ INFO] 2017-10-02 16:43:35,891  Ask Plug-in: max_page down to 40 for domain: example.com
+[ INFO] 2017-10-02 16:43:46,816  Ask Plug-in: max_page down to 35 for domain: example.com
+[ INFO] 2017-10-02 16:43:58,069  Ask Plug-in: max_page down to 30 for domain: example.com
+[ INFO] 2017-10-02 16:44:08,490  Ask Plug-in: max_page down to 25 for domain: example.com
+[ INFO] 2017-10-02 16:44:19,474  Ask Plug-in: max_page down to 20 for domain: example.com
+[ INFO] 2017-10-02 16:44:30,864  Ask Plug-in: max_page down to 15 for domain: example.com
+[ INFO] 2017-10-02 16:44:41,904  Ask Plug-in: max_page down to 10 for domain: example.com
+[ INFO] 2017-10-02 16:44:52,559  Ask Plug-in: max_page down to 5 for domain: example.com
+[ INFO] 2017-10-02 16:45:04,493  Plugin BaiduPlugin has been activated
+[ INFO] 2017-10-02 16:45:16,682  Plugin BingPlugin has been activated
+[ INFO] 2017-10-02 16:45:28,111  Plugin DnsDumpsterPlugin has been activated
+[ INFO] 2017-10-02 16:45:40,324  Plugin GooglePlugin has been activated
+[ INFO] 2017-10-02 16:45:51,471  Plugin NetcraftPlugin has been activated
+[ INFO] 2017-10-02 16:46:00,985  Total of results: 1 for: example.com 
+[ INFO] 2017-10-02 16:46:11,934  Plugin PassiveDnsPlugin has been activated
+[ERROR] 2017-10-02 16:46:56,324  Error occurred with plugin PassiveDnsPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 57, in discover
+    pool.map(self.worker, _dict)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 251, in map
+    return self.map_async(func, iterable, chunksize).get()
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 561, in get
+    self.wait(timeout)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/pool.py", line 556, in wait
+    self._cond.wait(timeout)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 340, in wait
+    waiter.acquire()
+KeyboardInterrupt
+[ INFO] 2017-10-02 16:47:21,183  Start finding sub-domains of [u'asdasd.com']
+[ INFO] 2017-10-02 16:47:22,333  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:47:24,320  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:47:26,352  Plugin BaiduPlugin has been activated
+[ INFO] 2017-10-02 16:47:31,638  Plugin BingPlugin has been activated
+[ INFO] 2017-10-02 16:47:34,075  Plugin DnsDumpsterPlugin has been activated
+[ERROR] 2017-10-02 16:48:35,286  It takes a request so long so I must kill it.
+[ INFO] 2017-10-02 16:48:36,584  Trying to reconnect...
+[ERROR] 2017-10-02 16:49:37,802  It takes a request so long so I must kill it.
+[ INFO] 2017-10-02 16:49:38,623  Trying to reconnect...
+[ INFO] 2017-10-02 16:57:54,042  Start finding sub-domains of [u'asdadasdsadsad.com']
+[ INFO] 2017-10-02 16:57:54,918  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 16:57:57,988  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 16:57:59,311  Ask Plug-in: max_page down to 50 for domain: asdadasdsadsad.com
+[ INFO] 2017-10-02 16:58:00,879  Ask Plug-in: max_page down to 45 for domain: asdadasdsadsad.com
+[ INFO] 2017-10-02 16:58:02,709  Ask Plug-in: max_page down to 40 for domain: asdadasdsadsad.com
+[ INFO] 2017-10-02 16:58:03,852  Ask Plug-in: max_page down to 35 for domain: asdadasdsadsad.com
+[ INFO] 2017-10-02 16:58:05,006  Ask Plug-in: max_page down to 30 for domain: asdadasdsadsad.com
+[ INFO] 2017-10-02 16:58:06,105  Ask Plug-in: max_page down to 25 for domain: asdadasdsadsad.com
+[ INFO] 2017-10-02 16:58:14,716  Ask Plug-in: max_page down to 20 for domain: asdadasdsadsad.com
+[ INFO] 2017-10-02 16:58:26,655  Ask Plug-in: max_page down to 15 for domain: asdadasdsadsad.com
+[ERROR] 2017-10-02 16:58:37,551  Error occurred with plugin AskPlugin 
+Traceback (most recent call last):
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/sub_domain_plugin.py", line 55, in discover
+    _dict = self.dictionary()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/plugins/search_plugin.py", line 95, in dictionary
+    total_pages = self.get_total_page()
+  File "/Users/nguyenhuutung/Desktop/repos/substack/extensions/plugins/search/ask_plugin.py", line 41, in get_total_page
+    "Ask Plug-in: max_page down to %d for domain: %s" % (max_page_temp, self.base_domain.domain_name))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/logger.py", line 30, in info
+    notifier.send_slack("`{}`".format(msg))
+  File "/Users/nguyenhuutung/Desktop/repos/substack/substack/data/notifier.py", line 20, in send_slack
+    api_call = slack_client.api_call("users.list")
+  File "/usr/local/lib/python2.7/site-packages/slackclient/_client.py", line 83, in api_call
+    result = json.loads(self.server.api_call(method, timeout=timeout, **kwargs))
+  File "/usr/local/lib/python2.7/site-packages/slackclient/_server.py", line 220, in api_call
+    return self.api_requester.do(self.token, method, kwargs, timeout=timeout).text
+  File "/usr/local/lib/python2.7/site-packages/slackclient/_slackrequest.py", line 85, in do
+    proxies=self.proxies)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 110, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 379, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 1121, in getresponse
+    response.begin()
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 438, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 394, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 766, in recv
+    return self.read(buflen)
+  File "/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 653, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+[ INFO] 2017-10-02 17:01:21,855  Start finding sub-domains of [u'example.com']
+[ INFO] 2017-10-02 17:01:23,293  Plugin CrtsearchPlugin has been activated
+[ INFO] 2017-10-02 17:01:27,885  Plugin AskPlugin has been activated
+[ INFO] 2017-10-02 17:01:31,229  Ask Plug-in: max_page down to 50 for domain: example.com
+[ INFO] 2017-10-02 17:01:32,456  Ask Plug-in: max_page down to 45 for domain: example.com
+[ INFO] 2017-10-02 17:01:33,943  Ask Plug-in: max_page down to 40 for domain: example.com
+[ INFO] 2017-10-02 17:01:35,794  Ask Plug-in: max_page down to 35 for domain: example.com
