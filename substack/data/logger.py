@@ -1,5 +1,6 @@
 import logging
 from substack.helper.utils import LOG_PATH
+from substack.data.notifier import Notifier
 
 
 class Logger:
@@ -24,6 +25,12 @@ class Logger:
             self.logger.addHandler(handler)
 
     def info(self, msg):
+        try:
+            notifier = Notifier()
+            notifier.send_slack("`{}`".format(msg))
+        except Exception:
+            pass
+
         self.logger.info(msg)
 
     def warning(self, msg):
