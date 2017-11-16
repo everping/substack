@@ -1,7 +1,9 @@
+from time import time
 from substack.data.domain import Domain
 from substack.data.logger import logger
 from substack.data.requester import Requester
 from substack.data.knowledge_base import KnowledgeBase
+from substack.helper.utils import OUT_PATH, join
 from substack.plugins.plugin_factory import PluginFactory
 
 
@@ -16,6 +18,7 @@ class SubStack:
         self.profile = None
         self.targets = []
         self.kb = KnowledgeBase()
+        self.start_time = int(time())
 
     def init_requester(self):
         requester = Requester()
@@ -86,9 +89,18 @@ class SubStack:
                 if domain.ip not in already_scanned:
                     open_ports = plugin.scan(domain)
                     self.kb.add_open_ports(domain, open_ports)
-                logger.info(
-                    "%s (%s) open ports: %s" % (
-                        domain.domain_name, domain.ip, ", ".join([str(port) for port in domain.get_open_ports()])))
+                logger.info("%s (%s) open ports: %s" % (
+                    domain.domain_name, domain.ip, ", ".join([str(port) for port in domain.get_open_ports()])))
+
+    def out(self):
+        out_file = join(OUT_PATH, "%s-%s.csv" % (str(self.start_time), self.targets[0].domain_name))
+        count = 0
+        with open(out_file, "wb") as f:
+            f.write("#, Domain, IP, Ports\n")
+            for domain in self.kb.get_sub_domains():
+                count += 1
+                f.write("%d,%s,%s,%s\n" % (
+                    count, domain.domain_name, domain.ip, ' '.join(str(x) for x in domain.open_ports)))
 
     def start(self):
         self.init_plugins()
@@ -98,3 +110,6 @@ class SubStack:
 
         for sub in subs:
             print sub.domain_name
+
+        self.out()
+

@@ -1,0 +1,11 @@
+# Python
+*.pyc
+
+# IDE
+.idea/
+
+# Log
+*.log
+
+# Out
+*.csv

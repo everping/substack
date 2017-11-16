@@ -4,4 +4,3 @@ requests
 html5lib
 python-nmap
 dnslib
-slackclient
