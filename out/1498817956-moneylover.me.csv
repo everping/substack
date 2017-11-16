@@ -1,0 +1,23 @@
+#, Domain, IP, Ports
+1,moneylover.me,104.28.13.126,80 8080 443 8443
+2,bank.moneylover.me,151.101.1.195,80 443
+3,u.moneylover.me,67.199.248.13,80 443
+4,www.moneylover.me,104.28.12.126,80 8080 443 8443
+5,note.moneylover.me,104.28.12.126,80 8080 443 8443
+6,web.moneylover.me,104.28.12.126,80 8080 443 8443
+7,paper.moneylover.me,104.28.12.126,80 8080 443 8443
+8,helpdesk.moneylover.me,104.28.13.126,80 8080 443 8443
+9,happy.moneylover.me,104.28.13.126,80 8080 443 8443
+10,biz.moneylover.me,104.28.13.126,80 8080 443 8443
+11,geek.moneylover.me,104.28.13.126,80 8080 443 8443
+12,oapi.moneylover.me,104.28.12.126,80 8080 443 8443
+13,widget.moneylover.me,104.28.12.126,80 8080 443 8443
+14,revoapi.moneylover.me,35.185.167.39,80 443
+15,nsfw.moneylover.me,107.167.176.20,80 443
+16,oauth.moneylover.me,104.28.12.126,80 8080 443 8443
+17,statictest.moneylover.me,107.167.176.20,80 443
+18,socket.moneylover.me,107.167.176.20,80 443
+19,tapi.moneylover.me,104.28.12.126,80 8080 443 8443
+20,api.moneylover.me,104.28.13.126,80 8080 443 8443
+21,app.moneylover.me,104.28.12.126,80 8080 443 8443
+22,static.moneylover.me,104.28.12.126,80 8080 443 8443

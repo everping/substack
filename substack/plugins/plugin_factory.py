@@ -28,7 +28,8 @@ class PluginFactory:
             instance = plugin_class()
             instance.set_requester(self.requester)
             return instance
-        except ImportError:
+        except ImportError, e:
+            logger.exception(str(e))
             logger.error("Could not load plugin %s.%s" % (self.plugin_type, self._get_plugin_file_name()))
             return None
         except:

@@ -1,0 +1,23 @@
+#, Domain, IP, Ports
+1,coinbase.com,104.16.54.36,80 8080 443 8443
+2,community.coinbase.com,64.71.168.222,80 443
+3,staging.community.coinbase.com,64.71.168.222,80 443
+4,engineering.coinbase.com,52.5.181.79,80 443
+5,blog.coinbase.com,52.1.147.205,80 443
+6,www.coinbase.com,104.16.9.251,80 8080 443 8443
+7,exchange.coinbase.com,104.16.54.36,80 8080 443 8443
+8,api.exchange.coinbase.com,104.31.84.67,80 8080 443 8443
+9,docs.exchange.coinbase.com,104.31.85.67,80 8080 443 8443
+10,eio-feed.exchange.coinbase.com,104.31.84.67,80 8080 443 8443
+11,ws-feed.exchange.coinbase.com,104.31.85.67,80 8080 443 8443
+12,support.coinbase.com,50.18.249.184,80 443
+13,developers.coinbase.co,69.39.236.56,80 22
+14,status.coinbase.com,104.16.53.36,80 8080 443 8443
+15,developers.coinbase.com,104.16.53.36,80 8080 443 8443
+16,buy.coinbase.com,104.16.53.36,80 8080 443 8443
+17,assets.coinbase.com,104.16.53.36,80 8080 443 8443
+18,beta.coinbase.com,104.16.54.36,80 8080 443 8443
+19,ws.coinbase.com,104.16.54.36,80 8080 443 8443
+20,api.coinbase.com,104.16.54.36,80 8080 443 8443
+21,images.coinbase.com,104.16.54.36,80 8080 443 8443
+22,exceptions.coinbase.com,104.16.54.36,80 8080 443 8443
