@@ -15,8 +15,6 @@ def parse_args():
     parser = argparse.ArgumentParser(epilog='\tExample: \r\npython ' + sys.argv[0] + " -d google.com")
     parser.add_argument('-d', '--domain',
                         help="The domain that we want to search its sub")
-    parser.add_argument('-d', '--domain',
-                        help="The domain that we want to search its sub")
     parser.add_argument('-v', '--version', help='Check version of Substack', nargs='?', default=False)
     return parser.parse_args()
 
