@@ -1,5 +1,6 @@
 import logging
-from substack.helper.utils import LOG_PATH
+import os
+from substack.helper.utils import LOG_DIR, LOG_PATH
 
 
 class Logger:
@@ -12,6 +13,8 @@ class Logger:
         self.set_up()
 
     def set_up(self):
+        if not os.path.exists(LOG_DIR):
+            os.makedirs(LOG_DIR)
         file_handler = logging.FileHandler(LOG_PATH)
         stream_handler = logging.StreamHandler()
         handlers = [file_handler, stream_handler]

@@ -6,7 +6,8 @@ PROFILE_EXTENSION = '.pss'
 ROOT_DIRECTORY = abspath(join(dirname(realpath(__file__)), pardir, pardir))
 PROFILE_DIRECTORY = join(ROOT_DIRECTORY, 'extensions', 'profiles')
 PLUGIN_DIRECTORY = join(ROOT_DIRECTORY, 'extensions', 'plugins')
-LOG_PATH = join(ROOT_DIRECTORY, 'log', 'substack.log')
+LOG_DIR = join(ROOT_DIRECTORY, 'log')
+LOG_PATH = join(LOG_DIR, 'substack.log')
 OUT_PATH = join(ROOT_DIRECTORY, 'out')
 
 STATE_NOT_FOUND = 'not_found'
