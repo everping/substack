@@ -15,6 +15,8 @@ def parse_args():
     parser = argparse.ArgumentParser(epilog='\tExample: \r\npython ' + sys.argv[0] + " -d google.com")
     parser.add_argument('-d', '--domain',
                         help="The domain that we want to search its sub")
+    parser.add_argument('-p', '--profile',
+                        help="The profile that we want to use")
     parser.add_argument('-v', '--version', help='Check version of Substack', nargs='?', default=False)
     return parser.parse_args()
 
@@ -27,6 +29,7 @@ def main():
     args = parse_args()
     domain = args.domain
     _version = args.version
+    _profile = args.profile
 
     if _version is not False:
         version()
@@ -34,7 +37,10 @@ def main():
     if domain is None:
         parser_error()
 
-    profile = Profile("empty")
+    if _profile is None:
+        profile = Profile("empty")
+    else:
+        profile = Profile(_profile)
     profile.set_target(domain)
 
     sub_stack = SubStack()
