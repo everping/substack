@@ -26,4 +26,4 @@ class NmapPlugin(PortPlugin):
                                 open_ports.append(port)
             return open_ports
         except:
-            return None
+            return []
