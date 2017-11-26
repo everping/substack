@@ -1,3 +1,4 @@
+import os
 from time import time
 from substack.data.domain import Domain
 from substack.data.logger import logger
@@ -93,6 +94,8 @@ class SubStack:
                     domain.domain_name, domain.ip, ", ".join([str(port) for port in domain.get_open_ports()])))
 
     def out(self):
+        if not os.path.exists(OUT_PATH):
+            os.makedirs(OUT_PATH)
         out_file = join(OUT_PATH, "%s-%s.csv" % (str(self.start_time), self.targets[0].domain_name))
         count = 0
         with open(out_file, "wb") as f:
@@ -112,4 +115,3 @@ class SubStack:
             print sub.domain_name
 
         self.out()
-
